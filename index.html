@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="site-title">
+    <div class="site-title-text">
+        <h1 class="title">Dairy ready for another big shake up?</h1>
+        <p class="tagline"><a href="#">READ MORE</a></p>
+    </div>    
+</div> 
+
+<div class="container">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
