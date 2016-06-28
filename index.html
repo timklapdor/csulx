@@ -1,29 +1,86 @@
 ---
 layout: default
 ---
-<div class="site-title">
-    <div class="site-title-text">
-        <h1 class="title">Dairy ready for another big shake up?</h1>
-        <p class="tagline"><a href="#">READ MORE</a></p>
-    </div>    
-</div> 
 
-<div class="container">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="hero u-release">
+        <h1>Connect | Share | Adopt</h1>
+        <img src="images/PB190148.jpg" class="u-max-full-width">
 </div>
+
+<section class="home">
+    
+    <div class="row">
+            <h3>Online Learning Model</h3>
+            <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
+    
+            <div class="tile-icons">
+            
+            
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/learning-communities.html">
+                    <img src="images/learning-communities.png" class="u-full-width">
+                    <h4>Learning Communities</h4></a>
+                </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/interaction-students.html">
+                <img src="images/student-interaction.png" class="u-full-width">
+                    <h4>Interaction between Students</h4></a>
+            </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/teacher-presence.html">
+                <img src="images/teacher.png" class="u-full-width">
+                <h4>Teacher Presence</h4></a>
+            </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/interaction-professions.html">
+                <img src="images/professions.png" class="u-full-width">
+                    <h4>Interaction with the Professions</h4></a>
+            </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/flexible-adaptive.html">
+                <img src="images/adaptive.png" class="u-full-width">
+                    <h4>Flexible &amp; Adaptive Learning</h4></a>
+            </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/interactive-resources.html">
+                <img src="images/resources.png" class="u-full-width">
+                <h4>Interactive Resources</h4></a>
+            </div>
+
+            <div class="tiles orange-bg">
+                <a href="{{ site.baseurl }}/elements/e-assessment.html">
+                <img src="images/eassessment.png" class="u-full-width">
+                <h4>eAssessment</h4></a>
+            </div>
+
+            </div>
+    </div>    
+    
+    <div class="row u-release">
+            <div class="container">
+            <h3>Collections</h3>
+            <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
+        
+        
+    
+            <div class="tile-icons">
+            <div class="tiles pink-bg">
+                <img src="images/graduate.png" class="u-full-width">
+                <h4>Graduate Learning Outcomes</h4>
+            </div>
+
+            <div class="tiles pink-bg">
+                <img src="images/activity.png" class="u-full-width">
+                <h4>QLT Standards</h4>
+            </div>
+
+            </div>
+        </div>
+    </div>    
+    
+</section> 

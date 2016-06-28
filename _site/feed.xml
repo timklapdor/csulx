@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CSU Learning Exchange</title>
+    <title>CSU Online Learning Exchange</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Dec 2015 16:14:10 +1100</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2015 16:14:10 +1100</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 14:25:26 +1000</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 14:25:26 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,9 +27,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 16 Dec 2015 02:42:24 +1100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/16/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
+        <link>http://yourdomain.com/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

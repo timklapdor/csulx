@@ -1,0 +1,75 @@
+// Navigation 
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+
+nav {
+  text-align: center;
+  margin-top: -6px;
+}
+
+
+nav ul {
+  list-style: none;
+  margin: 0px 0px;
+  padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0px 0px;
+    border-right: 1px solid rgba(255,255,255,.5);
+    box-sizing: border-box;
+    background: $lx-dark-grey;
+    background: -moz-linear-gradient(top,  #444 0%, #333333 39%, #333333 39%);
+    background: -webkit-linear-gradient(top,  #444 0%,#333333 39%,#333333 39%);
+    background: linear-gradient(to bottom,  #444 0%,#333333 39%,#333333 39%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444', endColorstr='#333333',GradientType=0 );
+
+
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform:uppercase;
+  display: block;
+  padding: 1em 0px;
+
+}
+
+nav a:hover {
+    background-color: rgba(215,31,133,0.8);
+    color: #fff;
+}
+
+nav li:nth-child(even) {
+  width: 50%;
+  float: right; 
+  border-bottom: 1px solid rgba(255,255,255,.5);
+}
+nav li:nth-child(odd) {
+  width: 50%;
+  float: left;
+  border-bottom: 1px solid rgba(255,255,255,.5);
+
+}
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 600px) {
+
+nav li:nth-child(n) {
+  width: 25%;
+  float: left; 
+}
+
+nav a {
+    padding: .8em 0px
+}   
+    
+}
+.navclass:before,
+.navclass:after {
+    content: " "; /* 1 */
+    display: table; /* 1 */
+}
+.navclass:after {
+    clear: both;
+}

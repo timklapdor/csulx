@@ -1,0 +1,200 @@
+#thing {
+  margin-left: calc(-45vw + 50%);
+  margin-right: calc(-45vw + 50%);
+}
+
+.mixer {
+    width: 100hw; 
+    height: 100vh; 
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    overflow: hidden;
+}
+    
+.level {
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-transition: 1s 0.25s;
+    -moz-transition: 1s 0.25s;
+    -ms-transition: 1s 0.25s;
+    -o-transition: 1s 0.25s;
+    transition: 1s 0.25s;
+}
+    
+.col {
+    /*border-right: 1px solid rgba(255,255,255,0.3);*/
+    -webkit-flex: 1 ;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-transition: 1s 0.25s;
+    -moz-transition: 1s 0.25s;
+    -ms-transition: 1s 0.25s;
+    -o-transition: 1s 0.25s;
+    transition: 1s 0.25s;
+    background-color: #333;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+    font-size: .8em;
+    color: rgba(255,255,255,0.3);
+}
+
+.hcol {
+    -webkit-flex: 0.5 ;
+    -moz-flex: 0.5;
+    -ms-flex: 0.5;
+    flex: 0.5; 
+    text-align: center;
+    writing-mode: sideways-lr;
+    font-weight: 600;
+    color: #fff;
+    align-items: center;
+}    
+    
+.level:hover {
+    -webkit-flex: 8;
+    -moz-flex: 8;
+    -ms-flex: 8;
+    flex: 8;
+    border: 0px 2px solid rgba(255,255,255,1);
+    transition: 1s 0.25s;
+    word-break: break-all;
+}
+
+.img-container {
+    text-align: center;
+    width: 100%;
+    transition: all .2s ease-in-out;
+}
+
+
+.col img {
+    }    
+
+.col h4 {
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: -0.5;
+    color: rgba(255,255,255,0.5);
+    transition: 1s 0.25s;
+    }   
+
+.col h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+    color: #fff;
+}  
+
+
+.col p {
+    visibility: hidden;
+    transition: 1s 0.25s;
+    color: rgba(255,255,255,0.5);
+}  
+
+.col span {
+    visibility: hidden;
+    transition: 1s 0.25s;   
+    }    
+
+.col:hover {
+    -webkit-flex: 8;
+    -moz-flex: 8;
+    -ms-flex: 8;
+    flex: 8;
+    background-color: transparent;
+    padding: 2%;
+    word-break: normal;
+    color: rgba(255,255,255,1);
+}
+
+.col:hover span {
+    visibility: visible;
+    transition: 1s 0.25s;
+}        
+
+.col:hover p {
+    visibility: visible;
+    transition: 0.25s;
+    color: rgba(255,255,255,1);
+    font-size: 1.2em;
+}
+
+.col:hover h4 {
+    font-weight: bold;
+    color: rgba(255,255,255,1);
+}   
+    
+.col:hover .img-container {
+    width: 30%;
+    float: right;
+    margin-top: 1.7em;
+    transition: all .2s ease-in-out;
+}
+
+.col:hover img {
+}    
+    
+.header {
+    background-color: #333;
+}    
+
+.practices a {
+    color: $lx-white;
+}
+
+.practices a:hover {
+    color: $lx-dark-grey;
+}
+
+.tools a {
+    color: $lx-white;
+}
+
+.tools a:hover {
+    color: $lx-dark-grey;
+}
+
+/* this is a hack for IE10 and IE11 to animate the mixer */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+.level {
+    min-height: 20px;
+    max-height: 320px;
+}
+    
+.col {
+    min-width: 20px;
+    max-width: 480px;
+}
+    
+.level:hover {
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    min-height: 320px;
+    max-height: 320px;
+}
+    
+.col:hover {
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    min-width: 480px;
+    max-width: 480px;
+}
+}
