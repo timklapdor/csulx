@@ -970,7 +970,8 @@ nav li:nth-child(odd) {
   -o-transition: 1s 0.25s;
   transition: 1s 0.25s;
   align-content: center;
-  justify-content: center; }
+  justify-content: center;
+  min-height: 0; }
 
 .level:hover, .level:active {
   -webkit-flex: 8;
@@ -998,7 +999,8 @@ nav li:nth-child(odd) {
   padding: .5em;
   font-size: .8em;
   color: rgba(255, 255, 255, 0.3);
-  padding: 1em; }
+  padding: 1em;
+  min-height: 0; }
 
 .col:hover, .col:active {
   -webkit-flex: 6;
