@@ -593,6 +593,27 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
   box-shadow: none;
   box-sizing: border-box; }
 
+.mixer-button {
+  display: flex;
+  justify-content: center;
+  height: 3.5em;
+  padding: 0 1em;
+  color: white;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #333333;
+  border-radius: 4px; }
+
+.mixer-button:hover {
+  color: white;
+  background-color: #888888;
+  outline: 0; }
+
 textarea,
 select {
   height: 38px;
@@ -922,7 +943,7 @@ nav li:nth-child(odd) {
 
 .mixer {
   width: 100hw;
-  height: 100vh;
+  height: 90vh;
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
@@ -931,7 +952,8 @@ nav li:nth-child(odd) {
   -moz-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  overflow: hidden; }
+  overflow: hidden;
+  border-radius: 5px; }
 
 .level {
   -webkit-flex: 1;
@@ -946,7 +968,18 @@ nav li:nth-child(odd) {
   -moz-transition: 1s 0.25s;
   -ms-transition: 1s 0.25s;
   -o-transition: 1s 0.25s;
-  transition: 1s 0.25s; }
+  transition: 1s 0.25s;
+  align-content: center;
+  justify-content: center; }
+
+.level:hover, .level:active {
+  -webkit-flex: 8;
+  -moz-flex: 8;
+  -ms-flex: 8;
+  flex: 8;
+  border: 0px 2px solid white;
+  transition: 1s 0.25s;
+  word-break: break-all; }
 
 .col {
   /*border-right: 1px solid rgba(255,255,255,0.3);*/
@@ -962,9 +995,19 @@ nav li:nth-child(odd) {
   background-color: #333;
   align-items: center;
   justify-content: center;
-  padding: 2%;
+  padding: .5em;
   font-size: .8em;
-  color: rgba(255, 255, 255, 0.3); }
+  color: rgba(255, 255, 255, 0.3);
+  padding: 1em; }
+
+.col:hover, .col:active {
+  -webkit-flex: 6;
+  -moz-flex: 6;
+  -ms-flex: 6;
+  flex: 6;
+  background-color: transparent;
+  padding: 2em;
+  color: white; }
 
 .hcol {
   -webkit-flex: 0.5;
@@ -972,78 +1015,41 @@ nav li:nth-child(odd) {
   -ms-flex: 0.5;
   flex: 0.5;
   text-align: center;
-  writing-mode: sideways-lr;
   font-weight: 600;
   color: #fff;
   align-items: center; }
-
-.level:hover, .level:active {
-  -webkit-flex: 8;
-  -moz-flex: 8;
-  -ms-flex: 8;
-  flex: 8;
-  border: 0px 2px solid white;
-  transition: 1s 0.25s;
-  word-break: break-all; }
-
-.img-container {
-  text-align: center;
-  width: 100%;
-  transition: all .2s ease-in-out; }
-
-.col h4 {
-  font-size: 1em;
-  text-transform: uppercase;
-  letter-spacing: -0.5;
-  color: rgba(255, 255, 255, 0.5);
-  transition: 1s 0.25s; }
-
-.col h3 {
-  font-size: 1em;
-  text-transform: uppercase;
-  color: #fff; }
 
 .col p {
   visibility: hidden;
   transition: 1s 0.25s;
   color: rgba(255, 255, 255, 0.5); }
 
-.col span {
-  visibility: hidden;
-  transition: 1s 0.25s; }
-
-.col:hover, .col:active {
-  -webkit-flex: 8;
-  -moz-flex: 8;
-  -ms-flex: 8;
-  flex: 8;
-  background-color: transparent;
-  padding: 2%;
-  word-break: normal;
-  color: white; }
-
-.col:hover span, .col:active span {
-  visibility: visible;
-  transition: 1s 0.25s; }
-
 .col:hover p, .col:active p {
   visibility: visible;
   transition: 0.25s;
-  color: white;
-  font-size: 1.2em; }
+  color: white; }
+
+.col h4 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.5);
+  transition: 1s 0.25s;
+  line-height: 1em; }
 
 .col:hover h4, .col:active h4 {
   font-weight: bold;
   color: white; }
 
-.col:hover .img-container, .col:active .img-container {
-  width: 30%;
-  float: right;
-  margin-top: 1.7em;
-  transition: all .2s ease-in-out; }
+.col h3 {
+  font-size: 1em;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: -0.01em;
+  padding-top: 3px; }
 
-.header {
-  background-color: #333; }
+.col:hover h3, .col:active h3 {
+  word-break: break-all; }
 
 .practices a {
   color: white; }
@@ -1057,28 +1063,33 @@ nav li:nth-child(odd) {
 .tools a:hover {
   color: #333333; }
 
-/* this is a hack for IE10 and IE11 to animate the mixer */
+/* this is a hack for IE10 and IE11 to animate the mixer 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .level {
+.level {
     min-height: 20px;
-    max-height: 320px; }
-
-  .col {
+    max-height: 320px;
+}
+    
+.col {
     min-width: 20px;
-    max-width: 480px; }
-
-  .level:hover {
+    max-width: 480px;
+}
+    
+.level:hover {
     -webkit-flex: 1;
     -moz-flex: 1;
     -ms-flex: 1;
     flex: 1;
     min-height: 320px;
-    max-height: 320px; }
-
-  .col:hover {
+    max-height: 320px;
+}
+    
+.col:hover {
     -webkit-flex: 1;
     -moz-flex: 1;
     -ms-flex: 1;
     flex: 1;
     min-width: 480px;
-    max-width: 480px; } }
+    max-width: 480px;
+}
+}*/

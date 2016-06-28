@@ -5,7 +5,7 @@
 
 .mixer {
     width: 100hw; 
-    height: 100vh; 
+    height: 90vh; 
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
@@ -15,6 +15,7 @@
     -ms-flex-direction: column;
     flex-direction: column;
     overflow: hidden;
+    border-radius: 5px;
 }
     
 .level {
@@ -31,7 +32,19 @@
     -ms-transition: 1s 0.25s;
     -o-transition: 1s 0.25s;
     transition: 1s 0.25s;
+    align-content:center;
+    justify-content: center;
 }
+
+.level:hover, .level:active {
+    -webkit-flex: 8;
+    -moz-flex: 8;
+    -ms-flex: 8;
+    flex: 8;
+    border: 0px 2px solid rgba(255,255,255,1);
+    transition: 1s 0.25s;
+    word-break: break-all;
+} 
     
 .col {
     /*border-right: 1px solid rgba(255,255,255,0.3);*/
@@ -47,9 +60,20 @@
     background-color: #333;
     align-items: center;
     justify-content: center;
-    padding: 2%;
+    padding: .5em;
     font-size: .8em;
     color: rgba(255,255,255,0.3);
+    padding: 1em;
+}
+
+.col:hover, .col:active {
+    -webkit-flex: 6;
+    -moz-flex: 6;
+    -ms-flex: 6;
+    flex: 6;
+    background-color: transparent;
+    padding: 2em;
+    color: rgba(255,255,255,1);
 }
 
 .hcol {
@@ -58,46 +82,10 @@
     -ms-flex: 0.5;
     flex: 0.5; 
     text-align: center;
-    writing-mode: sideways-lr;
     font-weight: 600;
     color: #fff;
     align-items: center;
-}    
-    
-.level:hover, .level:active {
-    -webkit-flex: 8;
-    -moz-flex: 8;
-    -ms-flex: 8;
-    flex: 8;
-    border: 0px 2px solid rgba(255,255,255,1);
-    transition: 1s 0.25s;
-    word-break: break-all;
-}
-
-.img-container {
-    text-align: center;
-    width: 100%;
-    transition: all .2s ease-in-out;
-}
-
-
-.col img {
-    }    
-
-.col h4 {
-    font-size: 1em;
-    text-transform: uppercase;
-    letter-spacing: -0.5;
-    color: rgba(255,255,255,0.5);
-    transition: 1s 0.25s;
-    }   
-
-.col h3 {
-    font-size: 1em;
-    text-transform: uppercase;
-    color: #fff;
-}  
-
+}     
 
 .col p {
     visibility: hidden;
@@ -105,52 +93,37 @@
     color: rgba(255,255,255,0.5);
 }  
 
-.col span {
-    visibility: hidden;
-    transition: 1s 0.25s;   
-    }    
-
-.col:hover, .col:active {
-    -webkit-flex: 8;
-    -moz-flex: 8;
-    -ms-flex: 8;
-    flex: 8;
-    background-color: transparent;
-    padding: 2%;
-    word-break: normal;
-    color: rgba(255,255,255,1);
-}
-
-.col:hover span, .col:active span {
-    visibility: visible;
-    transition: 1s 0.25s;
-}        
-
 .col:hover p, .col:active p {
     visibility: visible;
     transition: 0.25s;
     color: rgba(255,255,255,1);
-    font-size: 1.2em;
 }
+
+.col h4 {
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+    color: rgba(255,255,255,0.5);
+    transition: 1s 0.25s;
+    line-height: 1em;
+}   
 
 .col:hover h4, .col:active h4 {
     font-weight: bold;
     color: rgba(255,255,255,1);
 }   
-    
-.col:hover .img-container, .col:active .img-container {
-    width: 30%;
-    float: right;
-    margin-top: 1.7em;
-    transition: all .2s ease-in-out;
-}
 
-.col:hover img {
-}    
-    
-.header {
-    background-color: #333;
-}    
+.col h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: -0.01em;
+    padding-top: 3px;
+}  
+
+.col:hover h3, .col:active h3 {
+    word-break: break-all;
+} 
 
 .practices a {
     color: $lx-white;
@@ -168,7 +141,7 @@
     color: $lx-dark-grey;
 }
 
-/* this is a hack for IE10 and IE11 to animate the mixer */
+/* this is a hack for IE10 and IE11 to animate the mixer 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 .level {
     min-height: 20px;
@@ -197,4 +170,4 @@
     min-width: 480px;
     max-width: 480px;
 }
-}
+}*/

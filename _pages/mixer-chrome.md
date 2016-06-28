@@ -2,7 +2,7 @@
 
 layout: page
 title: OLM Mixer
-permalink: "/mixer/"
+permalink: "/mixer-chrome/"
 
 ---
 
@@ -239,38 +239,39 @@ permalink: "/mixer/"
 	   <div class="col" title="Learning Communities">
         <h3>Learning Communities</h3>
         <p>Feeling part of a learning community and actively contributing to it is directly linked to student motivation and resilience. Studying within learning groups can be an important foundation for effective interaction between students, their peers and teachers in support of deeper learning. Proactive support from teachers for learning within smaller groups, provided synchronously or asynchronously, is important if the benefits of intellectual rigour and deep engagement are to be achieved. This element supports enhanced learner-teacher and learner-learner engagement.</p>
-        <p class=""><a href="{{ site.baseurl }}/elements/learning-communities.html" class="mixer-button">Find Out More</a></p>
+        <p><a href="{{ site.baseurl }}/elements/learning-communities.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Interaction between Students">
-        <h3>Interaction between Students</h3>
+         <h3>Interaction between Students</h3>
         <p>Student learning is enhanced through  online peer-to-peer interaction in online learning activities designed in alignment with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/interaction-students.html" class="mixer-button">Find Out More</a></p>
+        <p><a href="{{ site.baseurl }}/elements/interaction-students.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Interactions with the Professions">
-        <h3>Interaction between Students</h3>
-        <p>Student learning is enhanced through  online peer-to-peer interaction in online learning activities designed in alignment with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/interaction-students.html" class="mixer-button">Find Out More</a></p>
+         <h3>Interaction between Students</h3>
+         <p>Student learning is enhanced through  online peer-to-peer interaction in online learning activities designed in alignment with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.</p>
+        <p><a href="{{ site.baseurl }}/elements/interaction-students.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Teacher Presence">
         <h3>Teacher Presence</h3>
         <p>Awareness of the presence of a passionate, knowledgeable and skilled online teacher improves student confidence supporting independent learning and socialisation of the learning experience. Effective and regular online communication can bolster student awareness of the support and availability of the teacher and humanise the expectations around learning activities and assessment. It also facilitate the development of learning communities capable of purposeful interaction between students. This element supports enhanced learner-teacher and learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/teacher-presence.html" class="mixer-button">Find Out More</a></p>
+        <p><a href="{{ site.baseurl }}/elements/teacher-presence.html" class="mixer-button">Find Out More</a></p>
         </div>
       <div class="col" title="Flexible &amp; Adaptive Learning">
         <h3>Flexible &amp; Adaptive Learning</h3>
-        <p>Learning experiences that are designed for high engagement also need to provide adequate flexibility to meet the needs of autonomous learners. Adaptivity in learning design, online teaching and student support can be improved through the provision of timely data on learners’ knowledge, perceptions and study behaviour. Alongside this, flexibility in the timing and mode of engagement with teachers, peers, learning content and feedback can promote agile and personalised learning experiences. This element supports enhanced learner-content, learner-learner, learner-teacher and learner-institution engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/flexible-adaptive.html" class="mixer-button">Find Out More</a></p>
+         <p>Learning experiences that are designed for high engagement also need to provide adequate flexibility to meet the needs of autonomous learners. Adaptivity in learning design, online teaching and student support can be improved through the provision of timely data on learners’ knowledge, perceptions and study behaviour. Alongside this, flexibility in the timing and mode of engagement with teachers, peers, learning content and feedback can promote agile and personalised learning experiences. This element supports enhanced learner-content, learner-learner, learner-teacher and learner-institution engagement.</p>
+        <p><a href="{{ site.baseurl }}/elements/flexible-adaptive.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Interactive Resources">
         <h3>Interactive Resources</h3>
         <p>High quality rich media learning resources support understanding of conceptual material,provide visual examples of practice and contextualise information within the broader learning experience. Interactive learning resources can provide a place for experiential engagement and experimentation with content and with peers and teachers as part of authentic learning activities. Resources can be curated from those available commercially, within Open Educational Resource libraries or MOOCs, or developed and quality assured by our teaching and educational design staff, students or media specialists. This element supports enhanced learner-content engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/interactive-resources.html" class="mixer-button">Find Out More</a></p>
+        <p><a href="{{ site.baseurl }}/elements/interactive-resources.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="e-Assessment">
         <h3>e-Assessment</h3>
         <p>Digital technologies present new possibilities for the ways in which students undertake and submit assessment tasks, the way in which feedback is provided and the kinds of learner activities that can be assessed. Authentic assessment tasks which require students to demonstrate practices of the target profession can be provisioned in ways that scaffold students and ensure professional and practice-based learning outcomes. This element supports enhanced learner-content and learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/elements/e-assessment.html" class="mixer-button">Find Out More</a></p>
+        <p><a href="{{ site.baseurl }}/elements/e-assessment.html" class="mixer-button">Find Out More</a></p>
 	</div>
     </div>
+    <div class="pink-bg">&nbsp;</div>
 </div>	
 </section> 
