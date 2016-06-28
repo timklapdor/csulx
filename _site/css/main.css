@@ -977,7 +977,7 @@ nav li:nth-child(odd) {
   color: #fff;
   align-items: center; }
 
-.level:hover {
+.level:hover, .level:focus {
   -webkit-flex: 8;
   -moz-flex: 8;
   -ms-flex: 8;
@@ -1012,7 +1012,7 @@ nav li:nth-child(odd) {
   visibility: hidden;
   transition: 1s 0.25s; }
 
-.col:hover {
+.col:hover, .col:focus {
   -webkit-flex: 8;
   -moz-flex: 8;
   -ms-flex: 8;
@@ -1022,21 +1022,21 @@ nav li:nth-child(odd) {
   word-break: normal;
   color: white; }
 
-.col:hover span {
+.col:hover span, .col:focus span {
   visibility: visible;
   transition: 1s 0.25s; }
 
-.col:hover p {
+.col:hover p, .col:focus p {
   visibility: visible;
   transition: 0.25s;
   color: white;
   font-size: 1.2em; }
 
-.col:hover h4 {
+.col:hover h4, .col:focus h4 {
   font-weight: bold;
   color: white; }
 
-.col:hover .img-container {
+.col:hover .img-container, .col:focus .img-container {
   width: 30%;
   float: right;
   margin-top: 1.7em;
