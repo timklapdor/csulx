@@ -8,7 +8,7 @@ permalink: "/mixer/"
 
 <section id="thing">
 
-<div class="mixer">
+<div class="mixer" onclick="">
 	<div class="level gradient-red">
 	  <div class="hcol">&nbsp;</div>
       <div class="col" title="Learning Communities">
