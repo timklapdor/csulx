@@ -1041,7 +1041,8 @@ nav li:nth-child(odd) {
 
 .col:hover h4, .col:active h4 {
   font-weight: bold;
-  color: white; }
+  color: white;
+  word-break: normal; }
 
 .col h3 {
   font-size: 1em;
@@ -1051,7 +1052,7 @@ nav li:nth-child(odd) {
   padding-top: 3px; }
 
 .col:hover h3, .col:active h3 {
-  word-break: break-all; }
+  word-break: normal; }
 
 .practices a {
   color: white; }

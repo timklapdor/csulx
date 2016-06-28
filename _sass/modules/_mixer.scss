@@ -113,6 +113,7 @@
 .col:hover h4, .col:active h4 {
     font-weight: bold;
     color: rgba(255,255,255,1);
+    word-break: normal;
 }   
 
 .col h3 {
@@ -124,7 +125,7 @@
 }  
 
 .col:hover h3, .col:active h3 {
-    word-break: break-all;
+    word-break: normal;
 } 
 
 .practices a {
