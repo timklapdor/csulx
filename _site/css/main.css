@@ -1003,10 +1003,10 @@ nav li:nth-child(odd) {
   min-height: 0; }
 
 .col:hover, .col:active {
-  -webkit-flex: 6;
-  -moz-flex: 6;
-  -ms-flex: 6;
-  flex: 6;
+  -webkit-flex: 8;
+  -moz-flex: 8;
+  -ms-flex: 8;
+  flex: 8;
   background-color: transparent;
   padding: 2em;
   color: white; }
