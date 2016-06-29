@@ -8,7 +8,7 @@ nav {
 
 
 nav ul {
-  list-style: none;
+  list-style: none !important;
   margin: 0px 0px;
   padding: 0;
 }
@@ -23,8 +23,6 @@ nav li{
     background: -webkit-linear-gradient(top,  #444 0%,#333333 39%,#333333 39%);
     background: linear-gradient(to bottom,  #444 0%,#333333 39%,#333333 39%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444', endColorstr='#333333',GradientType=0 );
-
-
 }
 
 nav a {

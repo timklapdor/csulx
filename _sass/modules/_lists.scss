@@ -2,7 +2,18 @@
 //––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ul {
-  list-style: circle inside;
+  list-style: none inside;
+}
+
+nav ul li:before {
+    content: "";
+    padding-right: 0px;
+}
+
+ul li:before {
+    content: "»"; /* Insert content that looks like bullets */ 
+    padding-right: 8px;
+    color: $lx-orange;
 }
 
 ol {
@@ -14,7 +25,7 @@ ol {
 ul {
   padding-left: 0;
   margin-top: 0;
-  ul, ol {
+ul, ol {
     margin: 1.5rem 0 1.5rem 3rem;
     font-size: 90%;
   }

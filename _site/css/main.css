@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* Base files. */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
@@ -665,7 +666,17 @@ label > .label-body {
   font-weight: normal; }
 
 ul {
-  list-style: circle inside; }
+  list-style: none inside; }
+
+nav ul li:before {
+  content: "";
+  padding-right: 0px; }
+
+ul li:before {
+  content: "»";
+  /* Insert content that looks like bullets */
+  padding-right: 8px;
+  color: #ff5800; }
 
 ol {
   list-style: decimal inside;
@@ -744,7 +755,7 @@ nav {
   margin-top: -6px; }
 
 nav ul {
-  list-style: none;
+  list-style: none !important;
   margin: 0px 0px;
   padding: 0; }
 
@@ -890,7 +901,8 @@ nav li:nth-child(odd) {
 
 .hero img {
   padding-top: 0;
-  display: block; }
+  display: block;
+  width: 100vw; }
 
 .tile-icons {
   display: -webkit-box;
@@ -911,7 +923,7 @@ nav li:nth-child(odd) {
   width: 22%;
   border-radius: 5px;
   padding: 0.5%;
-  margin: 0.5%; }
+  margin: 0.5em; }
 
 .tiles a {
   display: block;
