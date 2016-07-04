@@ -74,7 +74,7 @@
     -ms-flex: 8;
     flex: 8;
     background-color: transparent;
-    padding: 2em;
+    padding: 1.2em;
     color: rgba(255,255,255,1);
 }
 
@@ -92,7 +92,7 @@
 .hcol h4 {
     transform: rotate(90deg);
     word-break: keep-all !important;
-    padding: 1.5em;
+    padding: 1em 0em;
     font-size: 1em;
     text-transform: uppercase;
     letter-spacing: -0.01em;
@@ -131,7 +131,7 @@
     text-transform: uppercase;
     color: #fff;
     letter-spacing: -0.01em;
-    padding-top: 3px;
+    padding-top: 0.25em;
 }  
 
 .col:hover h3, .col:active h3 {
@@ -143,6 +143,7 @@
     transition: 1s 0.25s;
     float: left;
     visibility: hidden;
+    margin-bottom: 5em;
 }
 
 .col:hover .img-mix {

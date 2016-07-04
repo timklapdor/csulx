@@ -976,7 +976,7 @@ li {
   -ms-flex: 8;
   flex: 8;
   background-color: transparent;
-  padding: 2em;
+  padding: 1.2em;
   color: white; }
 
 .hcol {
@@ -992,7 +992,7 @@ li {
 .hcol h4 {
   transform: rotate(90deg);
   word-break: keep-all !important;
-  padding: 1.5em;
+  padding: 1em 0em;
   font-size: 1em;
   text-transform: uppercase;
   letter-spacing: -0.01em;
@@ -1026,7 +1026,7 @@ li {
   text-transform: uppercase;
   color: #fff;
   letter-spacing: -0.01em;
-  padding-top: 3px; }
+  padding-top: 0.25em; }
 
 .col:hover h3, .col:active h3 {
   word-break: normal; }
@@ -1035,7 +1035,8 @@ li {
   transform: scale(1);
   transition: 1s 0.25s;
   float: left;
-  visibility: hidden; }
+  visibility: hidden;
+  margin-bottom: 5em; }
 
 .col:hover .img-mix {
   transform: scale(1);
