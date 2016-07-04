@@ -22,12 +22,32 @@ This then leads to five categories of student engagement:
 
 Each of the seven elements of the Online Learning Model are designed to increase one or more types of engagement. The elements, which are outlined in the following sections, are designed to be combined together in varying degrees of intensity within the subjects making up a course. The intention is that a specific subject might implement about three or four elements rather than the entire model.
 
-The Seven Elements are:
+The seven Elements are:
 
-- [Learning Communities]({{ site.baseurl }}/elements/learning-communities.html)
-- [Interaction Between Students]({{ site.baseurl }}/elements/interaction-students.html)
-- [Teacher Presence]({{ site.baseurl }}/elements/teacher-presence.html)
-- [Interaction With The Professions]({{ site.baseurl }}/elements/interaction-professions.html)
-- [Flexible & Adaptive Learning]({{ site.baseurl }}/elements/flexible-adaptive.html)
-- [Interactive Resources]({{ site.baseurl }}/elements/interactive-resources.html)
-- [E-Assessment]({{ site.baseurl }}/elements/e-assessment.html)
+<div>
+
+<ol class="nice-ol"> 
+<li>Learning Communities</li>
+<li>Interaction Between Students</li>
+<li>Teacher Presence</li>
+<li>Interaction With The Professions</li>
+<li>Flexible & Adaptive Learning</li>
+<li>Interactive Resources</li>
+<li>E-Assessment</li>
+</ol>
+
+</div>
+
+**Explore the Elements in more detail**
+
+<div class="u-release trans">
+<div class="row tile-icons gradient-pink" align="center">
+<div class="tiles"><a href="{{ site.baseurl }}/model/learning-communities.html"><img src="../images/lc-rev.png" class="u-full-width"><h4>Learning Communities</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/interaction-students.html"><img src="../images/ibs-rev.png" class="u-full-width"><h4>Interaction Between Students</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/teacher-presence.html"><img src="../images/tp-rev.png" class="u-full-width"><h4>Teacher Presence</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/interaction-professions.html"><img src="../images/iwp-rev.png" class="u-full-width"><h4>Interaction With The Professions</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/flexible-adaptive.html"><img src="../images/fal-rev.png" class="u-full-width"><h4>Flexible & Adaptive Learning</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/interactive-resources.html"><img src="../images/ir-rev.png" class="u-full-width"><h4>Interactive Resources</h4></a></div>
+<div class="tiles"><a href="{{ site.baseurl }}/model/e-assessment.html"><img src="../images/ea-rev.png" class="u-full-width"><h4>E-Assessment</h4></a></div>
+</div>
+</div>

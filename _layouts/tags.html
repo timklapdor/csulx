@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<p>Exemplary strategies for {{ page.title }} include:</p>
+
+{% assign listed_posts_urls = page.url | split: ' ' %}
+{% for tag in page.tags %}
+  {% for mypost in site.tags[tag] %}
+    {% if listed_posts_urls contains mypost.url %}
+    {% else %}
+      <ul>
+        <li><a href="{{ site/baseurl }}/{{ mypost.url }}">{{ mypost.title }}</a></li>
+      </ul>
+      {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

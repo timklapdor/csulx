@@ -14,17 +14,21 @@ body {
   font-weight: 400;
   font-family: $font-family;
   color: $font-color;
+  overflow-x: hidden;
 }
 
 // Links
 //––––––––––––––––––––––––––––––––––––––––––––––––––
 
 a {
-  color: $link-color;
-  &:hover {
-    color: darken($link-color, 5%);
-  }
+    color: $lx-blue;
+    transition: all 0.2s ease;
 }
+
+a:hover {
+    color: $lx-pink;
+}
+
 
 // Misc
 //––––––––––––––––––––––––––––––––––––––––––––––––––

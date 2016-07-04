@@ -2,22 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSU Online Learning Exchange</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <description></description>
     <link>/csulx/</link>
     <atom:link href="/csulx/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 11:50:01 +1000</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 11:50:01 +1000</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2016 16:40:14 +1000</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 16:40:14 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Sample Strategy 1</title>
-        <description>
+        <title>Sample Strategy 4</title>
+        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
-        <link>/csulx/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/csulx/welcome-to-jekyll/</guid>
+        <link>/csulx/strategy/Sample-4.html</link>
+        <guid isPermaLink="true">/csulx/strategy/Sample-4.html</guid>
         
+        <category>Learning Communities</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Strategy 3</title>
+        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
+        <link>/csulx/strategy/Sample-3.html</link>
+        <guid isPermaLink="true">/csulx/strategy/Sample-3.html</guid>
+        
+        <category>Flexible &amp; Adaptive Learning</category>
+        
+        <category>Interaction Between Students</category>
+        
+        <category>Learning Communities</category>
+        
+        <category>QLT11</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Strategy 2</title>
+        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
+        <link>/csulx/strategy/Sample-2.html</link>
+        <guid isPermaLink="true">/csulx/strategy/Sample-2.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        <category>Interaction with the Professions</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Strategy 1</title>
+        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
+        <link>/csulx/strategy/Sample-1.html</link>
+        <guid isPermaLink="true">/csulx/strategy/Sample-1.html</guid>
+        
+        <category>Teacher Presence</category>
+        
+        <category>E-Assessment</category>
+        
+        <category>Learning Communities</category>
+        
+        <category>QLT9</category>
+        
+        
+        <category>strategy</category>
         
       </item>
     

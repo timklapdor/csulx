@@ -43,3 +43,9 @@ $global-radius: 4px !default;
 // Gradients
 $long-gradient: linear-gradient(180deg, #ff5800, #ff5800, #d71f85, #00afd8,  #cb0044, #ff5800, #ff5800);
 $dark-gradient: linear-gradient(to bottom,#444444 0%,#333333 39%,#333333 39%);
+$gradent-palette: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+$gradient-blue: linear-gradient(0deg, #333333, #00afd8);
+$gradient-pink: linear-gradient(0deg, #00afd8, #d71f85);
+$gradient-purple: linear-gradient(0deg, #d71f85, #cb0044);
+$gradient-orange: linear-gradient(0deg, #cb0044, #ff5800);
+$gradient-red: linear-gradient(0deg, #ff5800, #E31B23);

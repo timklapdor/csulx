@@ -1,21 +1,26 @@
 // Lists
 //––––––––––––––––––––––––––––––––––––––––––––––––––
 
+
 ul {
+  list-style: circle inside;
+}
+
+.post-content ul {
   list-style: none inside;
 }
 
-nav ul li:before {
+.post-content nav ul li:before {
     content: "";
     padding-right: 0px;
 }
 
-ul li:before {
-    content: "»"; /* Insert content that looks like bullets */ 
+.post-content ul li:before {
+    content: "»"; // Insert content that looks like bullets 
     padding-right: 8px;
     color: $lx-orange;
 }
-
+ 
 ol {
   list-style: decimal inside;
   padding-left: 0;
@@ -40,4 +45,28 @@ ol {
 
 li {
   margin-bottom: 1rem;
+}
+
+.nice-ol {
+	position: relative;
+	padding-left: 32px;
+	list-style-type: none;
+}
+.nice-ol li {
+	counter-increment: step-counter;
+	margin-bottom: 8px;
+}
+.nice-ol li:last-child {
+	margin-bottom: 0;
+}
+.nice-ol li::before {
+	content: counter(step-counter);
+	position: absolute;
+	left: 0;
+	padding: 3px 8px;
+	font-size: 0.8em;
+	color: white;
+	font-weight: bold;
+	background-color: $lx-orange   ;
+	border-radius: 3px;
 }

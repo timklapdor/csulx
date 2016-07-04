@@ -1,27 +1,19 @@
 .tile-icons {
-    display: -webkit-box;  
-    display: -webkit-flex;
-    display: -ms-flexbox;
-
     display: flex;
-    -webkit-box-align: stretch;
-    -webkit-align-items: stretch;
-    -ms-flex-align: stretch;
-    align-items: stretch;
-
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    
+    flex-flow: row wrap;
     justify-content: center;
+    align-items: stretch;
+    width: 100%;
 }
 
 .tiles {
     text-align: center;
-    width: 22%;
+    flex: 1 0 auto;
     border-radius: 5px;
     padding: 0.5%;
     margin:0.5em;
+    min-width: 170px;
+    max-width: 200px
 }
 
 .tiles a {
@@ -31,6 +23,10 @@
 
 .tiles:hover {
     background-color: $lx-purple;
+}
+
+.trans .tiles:hover {
+    background-color: rgba(255,255,255,0.3);
 }
 
 .tiles h4 {

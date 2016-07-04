@@ -38,23 +38,17 @@
     color: $lx-dark-grey;    
     } 
 
-.white  {
-    color: $lx-white;    
-    } 
+.white {color: $lx-white;} 
 
 .gradient-blue {
-    background: linear-gradient(0deg, #333333, #00afd8);
+    background: $gradient-blue;
     } 
 .gradient-pink {
-    background: linear-gradient(0deg, #00afd8, #d71f85);
+    background: $gradient-pink;
     }    
 .gradient-purple {
-    background: linear-gradient(0deg, #d71f85, #cb0044);
+    background: $gradient-purple;
     }
-.gradient-orange {
-    background: linear-gradient(0deg, #cb0044, #ff5800);
-    } 
-.gradient-red {
-    background: linear-gradient(0deg, #ff5800, #E31B23);
-    }
+.gradient-orange {background: $gradient-orange;} 
+.gradient-red {background: $gradient-red;}
     

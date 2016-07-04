@@ -1,9 +1,10 @@
 ---
-
-layout: page
+layout: element
 title: Teacher Presence
 permalink: "/model/teacher-presence.html"
-
+olm-num: 3
+category: element
+header: tp-image
 ---
 
 Awareness of the presence of a passionate, knowledgeable and skilled online teacher improves student confidence supporting independent learning and socialisation of the learning experience. Regular online communication can bolster student awareness of the support and availability of the teacher and humanise the expectations around learning activities and assessment. Teacher presence can also support the development of learning communities for purposeful interaction between students. This element supports enhanced learner-teacher and learner-learner engagement.
@@ -16,3 +17,5 @@ The Teacher Presence element is exemplified by:
 - Explicit acknowledgement and naming of all staff involved in the subject delivery.
 - Timely responses to student online questions and comments.
 - New resources, including voice or video commentary, during the session in response to emergent ideas.
+
+[Browse example strategies]({{ site.baseurl }}/tags/TP.html)
