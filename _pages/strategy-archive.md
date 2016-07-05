@@ -33,8 +33,7 @@ The full list of strategies are included below:
 {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
 <h4 id="{{ this_word | cgi_escape }}">{{ this_word }}</h4>
     <ul>
-{% assign cats = site.tags[this_word] | sort:"title"  %}    
-{% for post in cats %}{% if post.title != null %}
+{% for post in site.tags[this_word] %}{% if post.title != null %}
 <li>
 <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> - {{ post.description }}
 </li>
