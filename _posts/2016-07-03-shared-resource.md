@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Strategy Template"
-date: 2016-07-05 15:34:00
+title: "Creating a Shared Resource"
+date: 2016-07-03 15:32:00
 category: strategy
-tags: [Learning Communities, Interaction Between Students, Teacher Presence, Interaction with the Professions, Flexible & Adaptive Learning, Interactive Resources, E-Assessment,] 
+tags: [Learning Communities,] 
 description: "A short description goes here"
 ---
 

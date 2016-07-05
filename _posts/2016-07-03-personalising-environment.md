@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Creating a Shared Resource"
-date: 2016-07-05 15:32:00
-category: strategy
-tags: [Learning Communities,] 
+title: "Personalisation of the Environment"
+date: 2016-07-03 15:31:00
+categories: strategy
+tags: ["Learning Communities"] 
 description: "A short description goes here"
 ---
 

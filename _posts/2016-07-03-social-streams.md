@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Orientation to the Environment"
-date: 2016-07-05 15:30:00
+title: "Social Media Streams"
+date: 2016-07-03 15:33:00
 category: strategy
 tags: [Learning Communities,] 
 description: "A short description goes here"

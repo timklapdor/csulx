@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collaborative Study Groups"
-date: 2016-07-05 14:02:00
+date: 2016-07-03 14:02:00
 category: strategy
 tags: [Interaction Between Students,] 
 description: "Utilise groups of students to work and learn collaboratively"

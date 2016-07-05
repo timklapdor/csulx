@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Team Teaching"
-date: 2016-07-05 14:03:00
-category: strategy
+date:   2016-07-03 14:03:00
+categories: strategy
 tags: ["Teacher Presence"] 
-description: "a short description of the strategy goes here"
+description: "A short description of the strategy goes here"
+permalink: /:categories/:title.html
 ---
 
 ### Overview

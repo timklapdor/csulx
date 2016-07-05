@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dividing Large Cohorts"
-date: 2016-07-05 14:01:00
+date: 2016-07-03 14:01:00
 category: strategy
 tags: ["Learning Communities"] 
 description: "a short description of the strategy goes here"
