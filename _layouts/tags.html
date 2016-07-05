@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+<a onclick="window.history.back()"><button class="back-button">Back</button></a>
+
 <p>Exemplary strategies for {{ page.title }} include:</p>
 
 {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -9,7 +12,7 @@ layout: page
     {% if listed_posts_urls contains mypost.url %}
     {% else %}
       <ul>
-        <li><a href="{{ site/baseurl }}/{{ mypost.url }}">{{ mypost.title }}</a></li>
+        <li><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></li>
       </ul>
       {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
     {% endif %}

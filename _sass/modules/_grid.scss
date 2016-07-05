@@ -160,3 +160,7 @@
 .linking:hover {
     background: $lx-orange;
 }
+
+.post-content, .page-content {
+    min-height: 80vh;
+}

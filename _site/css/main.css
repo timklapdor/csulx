@@ -446,6 +446,12 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
   background-color: #00afd8;
   outline: 0; }
 
+.back-button {
+  float: right;
+  border: none;
+  background-color: #f1f1f1;
+  color: #333333; }
+
 .apa, .apa ul, .apa ol, .apa dl, .ref-apa, .ref-apa ul, .ref-apa ol, .ref-apa dl, .apa-ref, .apa-ref ul, .apa-ref ol, .apa-ref dl, .refapa, .refapa ul, .refapa ol, .refapa dl, .aparef, .aparef ul, .aparef ol, .aparef dl {
   padding-left: 0;
   margin-left: 0; }
@@ -791,6 +797,9 @@ label > .label-body {
 .linking:hover {
   background: #ff5800; }
 
+.post-content, .page-content {
+  min-height: 80vh; }
+
 .hero {
   max-height: 400px;
   overflow: hidden;
@@ -879,16 +888,18 @@ label > .label-body {
   width: 100vw; }
 
 ul {
-  list-style: circle inside; }
+  list-style: disc inside; }
 
-.post-content ul {
-  list-style: none inside; }
+.post-content ul, .page-content ul {
+  list-style: none inside;
+  text-indent: -1em;
+  padding-left: 1em; }
 
-.post-content nav ul li:before {
+.post-content nav ul li:before, .page-content nav ul li:before {
   content: "";
   padding-right: 0px; }
 
-.post-content ul li:before {
+.post-content ul li:before, .page-content ul li:before {
   content: "»";
   padding-right: 8px;
   color: #ff5800; }
@@ -1183,6 +1194,25 @@ nav li:nth-child(odd) {
 
 .navclass:after {
   clear: both; }
+
+.post-content h3 {
+  font-size: 1em;
+  background: #f1f1f1;
+  color: #ff5800;
+  padding: 1em; }
+
+.post-content h4 {
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 2em; }
+
+.post-content p {
+  margin-left: 2em; }
+
+.post-content ul {
+  margin-left: 2em;
+  text-indent: -1em;
+  padding-left: 1em; }
 
 button,
 .button {

@@ -2,81 +2,358 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSU Online Learning Exchange</title>
-    <description></description>
+    <description>Developed and Maintained by Charles Sturt University&#39;s u!magine</description>
     <link>/csulx/</link>
     <atom:link href="/csulx/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jul 2016 11:56:36 +1000</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2016 11:56:36 +1000</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2016 16:44:31 +1000</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 16:44:31 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Sample Strategy 4</title>
-        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
+        <title>Strategy Template</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 </description>
-        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
-        <link>/csulx/strategy/Sample-4.html</link>
-        <guid isPermaLink="true">/csulx/strategy/Sample-4.html</guid>
+        <pubDate>Wed, 06 Jul 2016 01:34:00 +1000</pubDate>
+        <link>/csulx/strategy/template.html</link>
+        <guid isPermaLink="true">/csulx/strategy/template.html</guid>
         
         <category>Learning Communities</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Sample Strategy 3</title>
-        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
-        <link>/csulx/strategy/Sample-3.html</link>
-        <guid isPermaLink="true">/csulx/strategy/Sample-3.html</guid>
-        
-        <category>Flexible &amp; Adaptive Learning</category>
         
         <category>Interaction Between Students</category>
         
-        <category>Learning Communities</category>
-        
-        <category>QLT11</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Sample Strategy 2</title>
-        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
-        <link>/csulx/strategy/Sample-2.html</link>
-        <guid isPermaLink="true">/csulx/strategy/Sample-2.html</guid>
-        
-        <category>Learning Communities</category>
+        <category>Teacher Presence</category>
         
         <category>Interaction with the Professions</category>
         
+        <category>Flexible &amp; Adaptive Learning</category>
+        
+        <category>Interactive Resources</category>
+        
+        <category>E-Assessment</category>
+        
         
         <category>strategy</category>
         
       </item>
     
       <item>
-        <title>Sample Strategy 1</title>
-        <description>&lt;p&gt;Testing out this page for archive purposes.&lt;/p&gt;
+        <title>Social Media Streams</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 </description>
-        <pubDate>Sun, 26 Jun 2016 03:33:06 +1000</pubDate>
-        <link>/csulx/strategy/Sample-1.html</link>
-        <guid isPermaLink="true">/csulx/strategy/Sample-1.html</guid>
-        
-        <category>Teacher Presence</category>
-        
-        <category>E-Assessment</category>
+        <pubDate>Wed, 06 Jul 2016 01:33:00 +1000</pubDate>
+        <link>/csulx/strategy/social-streams.html</link>
+        <guid isPermaLink="true">/csulx/strategy/social-streams.html</guid>
         
         <category>Learning Communities</category>
         
-        <category>QLT9</category>
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Creating a Shared Resource</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 01:32:00 +1000</pubDate>
+        <link>/csulx/strategy/shared-resource.html</link>
+        <guid isPermaLink="true">/csulx/strategy/shared-resource.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Personalisation of the Environment</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 01:31:00 +1000</pubDate>
+        <link>/csulx/strategy/personalising-environment.html</link>
+        <guid isPermaLink="true">/csulx/strategy/personalising-environment.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Orientation to the Environment</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 01:30:00 +1000</pubDate>
+        <link>/csulx/strategy/orienting-environment.html</link>
+        <guid isPermaLink="true">/csulx/strategy/orienting-environment.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Team Teaching</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;A Team Approach to teaching can include a number of staff teaching the subject at the same time but may also include looking beyond the immediate teaching staff to include relevant staff members from across CSU in the online space, in a students focused manner, e.g. making sure that library staff are included in the online teaching space for this subject. An example of this is the library staff hosting their own thread within the discussion forum of this subject.&lt;/p&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+&lt;p&gt;MGT100&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching Staff&lt;/h4&gt;
+&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+&lt;p&gt;This motivated the development of a team approach, whereby various members of staff were present in the online teaching space to provide support for students in both a proactive and reactive manner.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+&lt;p&gt;A key area of focus in MGT100 was the development of a ‘team’ approach to staffing within the online environment. The subject coordinator was complemented by an array of support staff who had a permanent presence within the Interact2 space-library staff, members of the ALLaN team, educational designers and of particular note, the inclusion of a ‘Student Mentor.’&lt;/p&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+&lt;p&gt;An increase in threads generated by staff members (approx. 16% year on year increase), arguably a sign of increased and varied ‘teacher presence’&lt;/p&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 00:03:00 +1000</pubDate>
+        <link>/csulx/strategy/team-teaching.html</link>
+        <guid isPermaLink="true">/csulx/strategy/team-teaching.html</guid>
+        
+        <category>Teacher Presence</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Collaborative Study Groups</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+&lt;p&gt;MGT100&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;MGT 100 Organisations and Management&lt;/em&gt; is one of the foundational management subjects within the Faculty of Business at CSU. The Study Buddy groups were established first and foremost to address the sense of isolation that many students can feel despite  being part of a cohort that numbers in the hundreds. This subject is undertaken by students from a very diverse range of courses both within CSU and our partner institutions, meaning that it can be harder for students to easily find connections to students studying in similar courses or even similar geographical locations.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+&lt;p&gt;Students were grouped in ‘Study Buddy’ Groups which required them to engage with their fellow group members early in the session (prior to the first assessment) to increase their familiarity with the online learning environment and build some level of rapport with fellow students, as many students within MGT100 are entering higher education for the first time. As MGT100 has several hundred students each session, creating a sense of connectedness is an important consideration in the planning for this subject. Students were asked to complete the following tasks within their 15 person ‘Study Buddy’ small peer group, early in the session in order to successfully complete the first assessment task.&lt;/p&gt;
+
+&lt;p&gt;Students were able to enrol in any one of the 20 Buddy Groups, each of which contained a group discussion board where the Student Mentor was also present in conversations and responses. By engaging students in interactions in groups of no more than 20 students in the critical early phase of session, it was aimed to lessen potential anxiety and maximise opportunity for interaction rather than feel swamped by being one of many hundreds of students.&lt;/p&gt;
+
+&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+&lt;p&gt;Providing a clear structure for students to engage was key to ensuring that students had  opportunities to  collaborate and improve the overall chances of success.&lt;/p&gt;
+
+&lt;p&gt;Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads.&lt;/p&gt;
+
+&lt;p&gt;Significant rises in overall student activity-10% increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year&lt;/p&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+&lt;p&gt;Don’t create small groups without a clear understanding of how it will improve the student experience. Certain subjects and topics lend themselves to working in groups, as do certain student cohorts. Link with your structure with your teaching and learning and, ideally, your assessment practices. By creating a grouping experience and structure that incorporates assessment in some way you are more likely to garner the attention and participation of students, giving you the best chance of giving students the benefit of small group participation.&lt;/p&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 00:02:00 +1000</pubDate>
+        <link>/csulx/strategy/collaborative-study-groups.html</link>
+        <guid isPermaLink="true">/csulx/strategy/collaborative-study-groups.html</guid>
+        
+        <category>Interaction Between Students</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dividing Large Cohorts</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This strategy entails dividing up a large cohort of student in a subject into smaller groups. These groups can then function in a variety of different ways:&lt;/p&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;Small groups are beneficial to online students in large cohorts because they have the potential to provide an increased sense of connectedness and belonging and increases the chances that students will interact repeatedly with students and therefore form bonds with these students.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice:&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+&lt;p&gt;MGT100&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation:&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;MGT 100 Organisations and Management&lt;/em&gt; is one of the foundational management subjects within the Faculty of Business at CSU. The motivations for running a small grouping pilot were (and remain) multifaceted.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation:&lt;/h4&gt;
+&lt;p&gt;A key lesson from this pilot would be that ‘compulsory’ group membership and engagement up to the first assessment supported the aims of the project, which was to make students comfortable and engaged in the online learning space.&lt;/p&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+&lt;p&gt;Consider why you want students to engage in a grouping strategy. Is it to collaborate in an authentic manner? Engage students early to help familiarise with the online learning space? Develop some peer connections?&lt;/p&gt;
+
+&lt;p&gt;There are many reasons why you would choose a grouping strategy within a large online cohort, but keeping one or two of the most key reasons in mind helps to clarify both what you expect of students and what the students can expect of you.&lt;/p&gt;
+
+&lt;p&gt;Consider the practical implications-in large cohorts of hundreds of students, what strategies will you implement to ensure that the grouping process is a positive for both you and students? For example, how likely is it that you will be able to communicate in a nuanced way with students in (potentially) 20+ small groups without considering workload and logistical aspects? Having a timely discussion with your Head of School and Course Director about the grouping strategy you’d like to trial can provide the impetus to explore how workload of casual teaching and marking staff can be used to support the objectives of your planned changes. Having an active student mentor to support the academic in fielding questions and providing responses in a large first year cohort such as this seemed to provide some alleviation to the communication demands inherent in a grouping strategy.&lt;/p&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Blackboard&lt;/strong&gt; provides a basic grouping tool that allows each group to be provisioned with their own set of tools for collaboration and communication.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 00:01:00 +1000</pubDate>
+        <link>/csulx/strategy/dividing-large-cohorts.html</link>
+        <guid isPermaLink="true">/csulx/strategy/dividing-large-cohorts.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Student Mentoring</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice:&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+&lt;p&gt;MGT100&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+&lt;p&gt;In a large cohort of first time students, it was also felt that providing an alternate voice besides the academic would provide students with further role modelling and an additional points of contact.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+&lt;p&gt;MGT100 inclusion of a ‘Student Mentor.’ This student mentor was a former student of MGT100 who was subsequently employed to provide both proactive and ‘just in-time’ engagement with students in the form of discussion board interaction and pre-emptive posts which acted as ‘sign posts’ for students-pointing them in the right direction for resources, tips on study and managing workload and assignment preparation, amongst other aspects.&lt;/p&gt;
+
+&lt;p&gt;This Student Mentor was a critical component in planning the staff team approach within MGT100. As a former student of the subject the mentor was able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Provide regular updates to students in a ‘student friendly’ manner-informal tone.&lt;/li&gt;
+  &lt;li&gt;Give snippets of the mentor’s life alongside her study routines  which demonstrated the need to plan for study amongst outside commitments, a skill not always prevalent in new students.&lt;/li&gt;
+  &lt;li&gt;Provide timely reminders about accessing resources and planning ahead for assignment preparation and submission&lt;/li&gt;
+  &lt;li&gt;Position themselves within the Interact2 site as a ‘safe’ person for students to ask questions of via the discussion forums within each study buddy group.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The student mentor posed a series of pre-agreed ‘pre-emptive’ posts ahead of key points in the subject i.e. providing students with the direct link to the referencing page in the days before an essay or exam tips ahead of the exam period. The student mentor was also given license to respond to student questions on a regular ad-hoc basis and was particularly effective in redirecting students to existing information.&lt;/p&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 00:00:00 +1000</pubDate>
+        <link>/csulx/strategy/student-mentoring.html</link>
+        <guid isPermaLink="true">/csulx/strategy/student-mentoring.html</guid>
+        
+        <category>Interaction Between Students</category>
         
         
         <category>strategy</category>

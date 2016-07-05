@@ -12,9 +12,9 @@ Feeling part of and actively contributing to a learning community is directly li
 
 The Learning Communities element is exemplified by: 
 
-- Smaller sub cohorts within large cohorts facilitated by a tutor who guides community building, provides formative feedback and marks summative assessment tasks.
-- Orientation, socialisation and personalisation of the online environment prior to curriculum focused learning activities.
-- Contribution to a shared resource such as a gallery of photos from professional placement.
-- Social media streams using tools such as Twitter, Instagram or shared bookmarking.
+- [Smaller sub cohorts within large cohorts]({{ site.baseurl}}/strategy/dividing-large-cohorts.html) facilitated by a tutor who guides community building, provides formative feedback and marks summative assessment tasks.
+- [Orientation]({{ site.baseurl}}/strategy/orienting-environment.html), socialisation and [personalisation]({{ site.baseurl }}/strategy/personalising-environment.html) of the online environment prior to curriculum focused learning activities.
+- [Contribution to a shared resource]({{ site.baseurl }}/strategy/shared-resource.html) such as a gallery of photos from professional placement.
+- [Social media streams]({{ site.baseurl }}/strategy/social-streams.html) using tools such as Twitter, Instagram or shared bookmarking.
 
 [Browse example strategies]({{ site.baseurl }}/tags/LC.html)

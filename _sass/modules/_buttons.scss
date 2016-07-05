@@ -166,3 +166,10 @@ input {
   background-color: $lx-blue;
   outline: 0;
 }
+
+.back-button {
+    float: right;
+    border: none;
+    background-color: $lx-light-grey;
+    color: $lx-dark-grey;
+}

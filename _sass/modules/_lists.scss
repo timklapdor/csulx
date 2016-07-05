@@ -3,19 +3,21 @@
 
 
 ul {
-  list-style: circle inside;
+  list-style: disc inside;
 }
 
-.post-content ul {
+.post-content ul, .page-content ul {
   list-style: none inside;
+        text-indent: -1em;
+    padding-left: 1em;
 }
 
-.post-content nav ul li:before {
+.post-content nav ul li:before, .page-content nav ul li:before {
     content: "";
     padding-right: 0px;
 }
 
-.post-content ul li:before {
+.post-content ul li:before, .page-content ul li:before {
     content: "»"; // Insert content that looks like bullets 
     padding-right: 8px;
     color: $lx-orange;

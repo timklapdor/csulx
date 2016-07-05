@@ -1,6 +1,6 @@
 ---
 layout: element
-title: Interaction with Professions
+title: Interaction with the Professions
 permalink: "/model/interaction-professions.html"
 olm-num: 4
 category: element
