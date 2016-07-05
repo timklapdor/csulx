@@ -27,18 +27,18 @@ The seven Elements are:
 <div>
 
 <ol class="nice-ol"> 
-<li>Learning Communities</li>
-<li>Interaction Between Students</li>
-<li>Teacher Presence</li>
-<li>Interaction With The Professions</li>
-<li>Flexible & Adaptive Learning</li>
-<li>Interactive Resources</li>
-<li>E-Assessment</li>
+<li><strong>Learning Communities</strong></li>
+<li><strong>Interaction Between Students</strong></li>
+<li><strong>Teacher Presence</strong></li>
+<li><strong>Interaction With The Professions</strong></li>
+<li><strong>Flexible &amp; Adaptive Learning</strong></li>
+<li><strong>Interactive Resources</strong></li>
+<li><strong>E-Assessment</strong></li>
 </ol>
 
 </div>
 
-**Explore the Elements in more detail**
+#### Explore the Elements in more detail
 
 <div class="u-release trans">
 <div class="row tile-icons gradient-pink" align="center">

@@ -5,6 +5,7 @@ permalink: "/model/interaction-students.html"
 olm-num: 2
 category: element
 header: ibs-image
+short: ibs
 ---
 
 ### Summary

@@ -365,23 +365,23 @@ input[type="submit"], input[type="reset"], input[type="button"] {
 .button:hover,
 button:hover {
   color: white;
-  background-color: #888888;
+  background-color: #00afd8;
   outline: 0; }
 
 input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {
   color: white;
-  background-color: #888888;
+  background-color: #00afd8;
   outline: 0; }
 
 .button:focus,
 button:focus {
   color: white;
-  background-color: #888888;
+  background-color: #00afd8;
   outline: 0; }
 
 input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focus {
   color: white;
-  background-color: #888888;
+  background-color: #00afd8;
   outline: 0; }
 
 .button.button-primary,
@@ -443,7 +443,7 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
 
 .mixer-button:hover {
   color: white;
-  background-color: #888888;
+  background-color: #00afd8;
   outline: 0; }
 
 .apa, .apa ul, .apa ol, .apa dl, .ref-apa, .ref-apa ul, .ref-apa ol, .ref-apa dl, .apa-ref, .apa-ref ul, .apa-ref ol, .apa-ref dl, .refapa, .refapa ul, .refapa ol, .refapa dl, .aparef, .aparef ul, .aparef ol, .aparef dl {
@@ -520,6 +520,45 @@ pre > code {
 
 .gradient-red {
   background: linear-gradient(0deg, #ff5800, #E31B23); }
+
+.element-heading {
+  color: #333333;
+  margin: -1.5em 0em 1em 0em;
+  padding: 0.5em;
+  line-height: 0.8em; }
+
+.element-heading img {
+  vertical-align: middle; }
+
+.element-sub {
+  background: linear-gradient(to bottom, #F1F1F1, #fff);
+  color: #333333;
+  padding: 1em 0em 9em 1em;
+  font-size: .9em;
+  margin: -.5em 0em 1em 0em; }
+
+.element-sub ul {
+  list-style: none !important;
+  margin: 0px 0px;
+  padding: 0; }
+
+.element-sub li {
+  margin: 0px 0px;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  display: block;
+  padding: 0.5em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+.element-sub a {
+  color: #ff5800;
+  text-decoration: none; }
+
+.element-sub a:hover {
+  color: #d71f85; }
+
+.active-item {
+  font-weight: bold; }
 
 textarea,
 select {
@@ -1144,41 +1183,6 @@ nav li:nth-child(odd) {
 
 .navclass:after {
   clear: both; }
-
-.element-sub {
-  background: #f1f1f1;
-  color: #333333;
-  padding: 1em 0em 30em 1em;
-  font-size: .9em;
-  margin: -1em 0em 10em 2em; }
-
-.element-sub ul {
-  list-style: none !important;
-  margin: 0px 0px;
-  padding: 0; }
-
-.element-sub li {
-  margin: 0px 0px;
-  box-sizing: border-box;
-  text-transform: uppercase;
-  display: block;
-  padding: 0.5em;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
-
-.element-sub a {
-  color: #ff5800;
-  text-decoration: none; }
-
-.element-sub a:hover {
-  color: #d71f85; }
-
-.active-item {
-  font-weight: bold; }
-
-.active-item li:before {
-  content: "»";
-  padding-right: 8px;
-  color: #ff5800; }
 
 button,
 .button {

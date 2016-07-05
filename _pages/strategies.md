@@ -56,9 +56,11 @@ In essence what is the exemplar & how does it work? What did you ask the learner
 </div>    
 
 <div class="row u-release">
-    <div class="container"><div class="offset-by-four four columns">
-    <h4>Browse All Strategies</h4>
-    <a href="{{ site.baseurl }}/strategy/archive.html" class="mixer-button">See All Strategies</a></div>
+    <div class="container">
+    <h3>Browse All Strategies</h3>
+    <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
+    <div class="offset-by-four four columns">
+    <a href="{{ site.baseurl }}/strategy/archive.html" class="mixer-button">View All Strategies</a></div>
     </div>
 </div>
 

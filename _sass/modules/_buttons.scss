@@ -47,7 +47,7 @@ input {
 .button:hover,
 button:hover {
   color: $lx-white;
-  background-color: lighten($lx-dark-grey, 33.3%);
+  background-color: $lx-blue;
   outline: 0;
 }
 
@@ -56,7 +56,7 @@ input {
   &[type="reset"]:hover,
   &[type="button"]:hover {
   color: $lx-white;
-  background-color: lighten($lx-dark-grey, 33.3%);
+  background-color: $lx-blue;
   outline: 0;
   }
 }
@@ -64,7 +64,7 @@ input {
 .button:focus,
 button:focus {
   color: $lx-white;
-  background-color: lighten($lx-dark-grey, 33.3%);
+  background-color: $lx-blue;
   outline: 0;
 }
 
@@ -73,7 +73,7 @@ input {
   &[type="reset"]:focus,
   &[type="button"]:focus {
   color: $lx-white;
-  background-color: lighten($lx-dark-grey, 33.3%);
+  background-color: $lx-blue;
   outline: 0;
   }
 }
@@ -163,6 +163,6 @@ input {
 
 .mixer-button:hover {
   color: $lx-white;
-  background-color: lighten($lx-dark-grey, 33.3%);
+  background-color: $lx-blue;
   outline: 0;
 }
