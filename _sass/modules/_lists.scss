@@ -3,12 +3,12 @@
 
 
 ul {
-  list-style: disc inside;
+  list-style: disc outside;
 }
 
 .post-content ul, .page-content ul {
-  list-style: none inside;
-        text-indent: -1em;
+    list-style: none inside;
+    text-indent: -1em;
     padding-left: 1em;
 }
 

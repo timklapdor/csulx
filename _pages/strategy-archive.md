@@ -25,12 +25,11 @@ The full list of strategies are included below:
   {% endunless %}{% endfor %}
 </ul>
 
-<div class="post-content">
-
 <!-- Posts by Tag -->
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
+<div class="post-content">
 <h4 id="{{ this_word | cgi_escape }}">{{ this_word }}</h4>
     <ul>
 {% assign cats = site.tags[this_word] | sort:"title"  %}    

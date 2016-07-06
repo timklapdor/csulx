@@ -4,6 +4,13 @@
   margin: 0;
   overflow: hidden; 
   padding: 0;
+  text-indent: 0.5em !important;
+}
+
+.tags ul li:before {
+    list-style: none;
+    content: "" !important;
+    padding-right: 0px;
 }
 
 .tags li {

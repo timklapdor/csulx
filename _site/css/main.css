@@ -206,6 +206,11 @@ a {
 a:hover {
   color: #d71f85; }
 
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white; }
+
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
@@ -887,8 +892,15 @@ label > .label-body {
   max-height: 500px;
   width: 100vw; }
 
+.qlt9-image {
+  background: url(../images/tp-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background-size: contain;
+  min-height: 300px;
+  max-height: 500px;
+  width: 100vw; }
+
 ul {
-  list-style: disc inside; }
+  list-style: disc outside; }
 
 .post-content ul, .page-content ul {
   list-style: none inside;
@@ -1214,6 +1226,36 @@ nav li:nth-child(odd) {
   text-indent: -1em;
   padding-left: 1em; }
 
+@media print {
+  /** Setting margins */
+  @page {
+    margin: 2cm; }
+  @page :first {
+    margin: 1cm 2cm; }
+  a:link, a:visited, a {
+    background: transparent;
+    color: #520;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left; }
+
+  a {
+    page-break-inside: avoid; }
+
+  a[href^=http]:after {
+    content: " &lt; " attr(href) "&gt; "; }
+
+  img {
+    content: ""; }
+
+  article a[href^="#"]:after {
+    content: ""; }
+
+  a:not(:local-link):after {
+    content: " &lt; " attr(href) "&gt; "; }
+
+  header, nav, .hero, .element-sub {
+    display: none; } }
 button,
 .button {
   margin-bottom: 1rem; }
@@ -1257,7 +1299,13 @@ td:last-child {
   list-style: none;
   margin: 0;
   overflow: hidden;
-  padding: 0; }
+  padding: 0;
+  text-indent: 0.5em !important; }
+
+.tags ul li:before {
+  list-style: none;
+  content: "" !important;
+  padding-right: 0px; }
 
 .tags li {
   float: left; }

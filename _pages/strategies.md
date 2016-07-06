@@ -71,17 +71,17 @@ In essence what is the exemplar & how does it work? What did you ask the learner
     <div class="tile-icons">
         <div class="tiles pink-bg">
             <a href="{{ site.baseurl }}/tags/QLT9.html">
-            <img src="{{ site.baseurl }}/images/landing-page.png" class="u-full-width">
+            <img src="{{ site.baseurl }}/images/qlt9-rev.png" class="u-full-width">
             <h4>QLT KPI 9</h4></a>
         </div>
         <div class="tiles pink-bg">
             <a href="{{ site.baseurl }}/tags/QLT11.html">
-            <img src="{{ site.baseurl }}/images/peer2peer.png" class="u-full-width">
+            <img src="{{ site.baseurl }}/images/qlt11-rev.png" class="u-full-width">
             <h4>QLT KPI 11</h4></a>
         </div>
             <div class="tiles pink-bg">
             <a href="{{ site.baseurl }}/tags/QLT12.html">
-            <img src="{{ site.baseurl }}/images/teacher-student.png" class="u-full-width">
+            <img src="{{ site.baseurl }}/images/qlt12-rev.png" class="u-full-width">
             <h4>QLT KPI 12</h4></a>
         </div>
     </div>
