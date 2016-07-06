@@ -20,3 +20,13 @@
     text-indent: -1em;
     padding-left: 1em;
 }
+
+blockquote {
+    border-left: 4px solid $lx-orange;
+}
+
+blockquote p {
+    font-style: italic;
+    color: $lx-dark-grey;
+    font-size: 1.1em;
+}

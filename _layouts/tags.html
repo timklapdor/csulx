@@ -11,17 +11,18 @@ layout: default
 <a onclick="window.history.back()"><button class="back-button">Back</button></a>
 
 <p>Exemplary strategies for <strong>{{ page.title }}</strong> include:</p>
-
+<ul>
 {% assign listed_posts_urls = page.url | split: ' ' %}
 {% for tag in page.tags %}
   {% for mypost in site.tags[tag] %}
     {% if listed_posts_urls contains mypost.url %}
     {% else %}
-      <ul>
-        <li><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></li>
-      </ul>
-      {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
+      {% assign listed_posts_urls = listed_posts_urls | push: mypost.url  %}
+        
+            <li><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></li>
+        
     {% endif %}
   {% endfor %}
 {% endfor %}
+</ul>
 </div>

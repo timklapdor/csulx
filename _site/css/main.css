@@ -1226,6 +1226,14 @@ nav li:nth-child(odd) {
   text-indent: -1em;
   padding-left: 1em; }
 
+blockquote {
+  border-left: 4px solid #ff5800; }
+
+blockquote p {
+  font-style: italic;
+  color: #333333;
+  font-size: 1.1em; }
+
 @media print {
   /** Setting margins */
   @page {
