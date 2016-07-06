@@ -893,7 +893,21 @@ label > .label-body {
   width: 100vw; }
 
 .qlt9-image {
-  background: url(../images/tp-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/qlt9-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background-size: contain;
+  min-height: 300px;
+  max-height: 500px;
+  width: 100vw; }
+
+.qlt11-image {
+  background: url(../images/qlt11-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background-size: contain;
+  min-height: 300px;
+  max-height: 500px;
+  width: 100vw; }
+
+.qlt12-image {
+  background: url(../images/qlt12-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
