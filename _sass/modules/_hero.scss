@@ -42,3 +42,102 @@
     display: block;
     width: 100vw;
 }
+
+// Hero Images on Pages
+//-------------------------------------------------
+
+
+.ea-image {
+    background: url(../images/ea-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.fal-image {
+    background: url(../images/fal-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+.ibs-image {
+    background: url(../images/ibs-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.ir-image {
+    background: url(../images/ir-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.iwp-image {
+    background: url(../images/iwp-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.lc-image {
+    background: url(../images/lc-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.tp-image {
+    background: url(../images/tp-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.qlt9-image {
+    background: url(../images/qlt9-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.qlt11-image {
+    background: url(../images/qlt11-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.qlt12-image {
+    background: url(../images/qlt12-rev.png) center center no-repeat, $gradient-red;
+    background-size: contain;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.mixer-image {
+    background: url(../images/mixer-header.jpg) center center no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}
+
+.group-image {
+    background: url(../images/index-image.jpg) center top no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    max-height: 500px;
+    width: 100vw;
+}

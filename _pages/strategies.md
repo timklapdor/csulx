@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Explore Strategies
+title: Explore the Strategies
 permalink: "/strategy/"
 ---    
     
-In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?
+Each element in the Online Learning Model is supported by a number of Strategies to aimed at increasing student interaction and engagement. These strategies can be applied in different ways to match and suit individual subjects, student cohorts and disciplines. These strategies are able to be combined together to engage with the different elements of the Online Learning Model and create a unique and improved learning experience for students. 
     
 <div class="row">
-    <h3>Online Learning Model</h3>
-    <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
-
     <div class="tile-icons">
         <div class="tiles orange-bg">
         <a href="{{ site.baseurl }}/tags/LC.html">
@@ -55,35 +52,12 @@ In essence what is the exemplar & how does it work? What did you ask the learner
     </div>
 </div>    
 
-<div class="row u-release">
+<div class="row u-release extra-bottom-padding">
     <div class="container">
     <h3>Browse All Strategies</h3>
-    <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
+    <p>You can also browse the complete set of strategies. </p>
     <div class="offset-by-four four columns">
     <a href="{{ site.baseurl }}/strategy/archive.html" class="mixer-button">View All Strategies</a></div>
     </div>
 </div>
 
-<div class="row u-release">
-<div class="container">
-    <h3>Collections</h3>
-        <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
-    <div class="tile-icons">
-        <div class="tiles pink-bg">
-            <a href="{{ site.baseurl }}/tags/QLT9.html">
-            <img src="{{ site.baseurl }}/images/qlt9-rev.png" class="u-full-width">
-            <h4>QLT KPI 9</h4></a>
-        </div>
-        <div class="tiles pink-bg">
-            <a href="{{ site.baseurl }}/tags/QLT11.html">
-            <img src="{{ site.baseurl }}/images/qlt11-rev.png" class="u-full-width">
-            <h4>QLT KPI 11</h4></a>
-        </div>
-            <div class="tiles pink-bg">
-            <a href="{{ site.baseurl }}/tags/QLT12.html">
-            <img src="{{ site.baseurl }}/images/qlt12-rev.png" class="u-full-width">
-            <h4>QLT KPI 12</h4></a>
-        </div>
-    </div>
-</div>
-</div>    

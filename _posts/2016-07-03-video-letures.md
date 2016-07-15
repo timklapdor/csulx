@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: "Video Lectures"
 date: 2016-07-03 15:35:00
 category: strategy
 tags: [Teacher Presence,] 
 description: "Recording video lectures specifically for online students"
+
 ---
 
 ### Overview

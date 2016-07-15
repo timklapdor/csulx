@@ -1,4 +1,4 @@
-#thing {
+#clicker {
   margin-left: calc(-45vw + 50%);
   margin-right: calc(-45vw + 50%);
 }
@@ -16,28 +16,33 @@
     flex-direction: column;
     overflow: hidden;
     border-radius: 5px;
+    flex-flow: row;
+    flex-wrap: wrap;
 }
     
-.level {
-    -webkit-flex: 1;
+.col {
+    border-right: 1px solid rgba(255,255,255,0.3);
+    -webkit-flex: 1 ;
     -moz-flex: 1;
     -ms-flex: 1;
-    flex: 1;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: flex;
+    flex: 1 0 10%;
     -webkit-transition: 1s 0.25s;
     -moz-transition: 1s 0.25s;
     -ms-transition: 1s 0.25s;
     -o-transition: 1s 0.25s;
     transition: 1s 0.25s;
-    align-content:center;
+    background-color: #333;
+    align-items: center;
     justify-content: center;
+    padding: .5em;
+    font-size: .8em;
+    color: rgba(255,255,255,0.3);
+    padding: 1em;
     min-height: 0;
+    cursor:pointer;
 }
 
-.level:hover, .level:active {
+.level-hover {
     -webkit-flex: 8;
     -moz-flex: 8;
     -ms-flex: 8;
@@ -47,29 +52,8 @@
     word-break: break-all;
 } 
     
-.col {
-    //border-right: 1px solid rgba(255,255,255,0.3);
-    -webkit-flex: 1 ;
-    -moz-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-    -webkit-transition: 1s 0.25s;
-    -moz-transition: 1s 0.25s;
-    -ms-transition: 1s 0.25s;
-    -o-transition: 1s 0.25s;
-    transition: 1s 0.25s;
-    background-color: #333;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    padding: .5em;
-    font-size: .8em;
-    color: rgba(255,255,255,0.3);
-    padding: 1em;
-    min-height: 0;
-}
 
-.col:hover, .col:active {
+.col-hover {
     -webkit-flex: 8;
     -moz-flex: 8;
     -ms-flex: 8;
@@ -83,7 +67,7 @@
     -webkit-flex: 0.5 ;
     -moz-flex: 0.5;
     -ms-flex: 0.5;
-    flex: 0.5; 
+    flex: 0.5 0 4%; 
     text-align: center;
     font-weight: 600;
     color: #fff;
@@ -104,10 +88,9 @@
     visibility: hidden;
     transition: 1s 0.25s;
     color: rgba(255,255,255,0.5);
-    text-align: left;
 }  
 
-.col:hover p, .col:active p {
+.col-hover p, {
     visibility: visible;
     transition: 0.25s;
     color: rgba(255,255,255,1);
@@ -123,13 +106,11 @@
     line-height: 1em;
 }   
 
-.col:hover h4, .col:active h4 {
+.col:hover h4, {
     font-weight: bold;
     color: rgba(255,255,255,1);
     word-break: normal;
-    padding-bottom: 1em;
-    border-bottom: 1px solid;
-    text-align: left;
+    transition: 1s 0.25s;
 }   
 
 .col h3 {
@@ -138,12 +119,10 @@
     color: #fff;
     letter-spacing: -0.01em;
     padding-top: 0.25em;
-    border: 0;
 }  
 
-.col:hover h3, .col:active h3 {
+.col-hover h3,  {
     word-break: normal;
-    border-bottom: 1px solid;
 } 
 
 .img-mix {
@@ -154,7 +133,7 @@
     margin-bottom: 5em;
 }
 
-.col:hover .img-mix {
+.col-hover .img-mix {
     transform: scale(1);
     max-width: 200px;
     visibility:visible;

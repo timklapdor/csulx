@@ -249,6 +249,10 @@ hr {
   width: 100%;
   box-sizing: border-box; }
 
+.u-full-height {
+  height: 100%;
+  box-sizing: border-box; }
+
 .u-max-full-width {
   max-width: 100%;
   box-sizing: border-box; }
@@ -328,6 +332,9 @@ h4 {
   text-transform: uppercase;
   font-size: 2rem;
   letter-spacing: 2px; }
+
+.center {
+  text-align: center; }
 
 /* Modules */
 .button,
@@ -518,19 +525,19 @@ pre > code {
   color: white; }
 
 .gradient-blue {
-  background: linear-gradient(0deg, #333333, #00afd8); }
+  background: linear-gradient(180deg, #333333, #00afd8); }
 
 .gradient-pink {
-  background: linear-gradient(0deg, #00afd8, #d71f85); }
+  background: linear-gradient(180deg, #00afd8, #d71f85); }
 
 .gradient-purple {
-  background: linear-gradient(0deg, #d71f85, #cb0044); }
+  background: linear-gradient(180deg, #d71f85, #cb0044); }
 
 .gradient-orange {
-  background: linear-gradient(0deg, #cb0044, #ff5800); }
+  background: linear-gradient(180deg, #cb0044, #ff5800); }
 
 .gradient-red {
-  background: linear-gradient(0deg, #ff5800, #E31B23); }
+  background: linear-gradient(180deg, #ff5800, #E31B23); }
 
 .element-heading {
   color: #333333;
@@ -844,71 +851,85 @@ label > .label-body {
   width: 100vw; }
 
 .ea-image {
-  background: url(../images/ea-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/ea-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .fal-image {
-  background: url(../images/fal-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/fal-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .ibs-image {
-  background: url(../images/ibs-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/ibs-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .ir-image {
-  background: url(../images/ir-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/ir-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .iwp-image {
-  background: url(../images/iwp-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/iwp-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .lc-image {
-  background: url(../images/lc-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/lc-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .tp-image {
-  background: url(../images/tp-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/tp-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .qlt9-image {
-  background: url(../images/qlt9-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/qlt9-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .qlt11-image {
-  background: url(../images/qlt11-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/qlt11-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
 
 .qlt12-image {
-  background: url(../images/qlt12-rev.png) center center no-repeat, linear-gradient(0deg, #ff5800, #E31B23);
+  background: url(../images/qlt12-rev.png) center center no-repeat, linear-gradient(180deg, #ff5800, #E31B23);
   background-size: contain;
+  min-height: 300px;
+  max-height: 500px;
+  width: 100vw; }
+
+.mixer-image {
+  background: url(../images/mixer-header.jpg) center center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+  max-height: 500px;
+  width: 100vw; }
+
+.group-image {
+  background: url(../images/index-image.jpg) center top no-repeat;
+  background-size: cover;
   min-height: 300px;
   max-height: 500px;
   width: 100vw; }
@@ -1027,7 +1048,6 @@ li {
   word-break: break-all; }
 
 .col {
-  /*border-right: 1px solid rgba(255,255,255,0.3);*/
   -webkit-flex: 1;
   -moz-flex: 1;
   -ms-flex: 1;
@@ -1038,6 +1058,7 @@ li {
   -o-transition: 1s 0.25s;
   transition: 1s 0.25s;
   background-color: #333;
+  text-align: center;
   align-items: center;
   justify-content: center;
   padding: .5em;
@@ -1077,12 +1098,14 @@ li {
 .col p {
   visibility: hidden;
   transition: 1s 0.25s;
-  color: rgba(255, 255, 255, 0.5); }
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left; }
 
 .col:hover p, .col:active p {
   visibility: visible;
   transition: 0.25s;
-  color: white; }
+  color: white;
+  word-break: normal; }
 
 .col h4 {
   font-size: 1em;
@@ -1095,17 +1118,22 @@ li {
 .col:hover h4, .col:active h4 {
   font-weight: bold;
   color: white;
-  word-break: normal; }
+  word-break: normal;
+  padding-bottom: 1em;
+  border-bottom: 1px solid;
+  text-align: left; }
 
 .col h3 {
   font-size: 1em;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: -0.01em;
-  padding-top: 0.25em; }
+  padding-top: 0.25em;
+  border: 0; }
 
 .col:hover h3, .col:active h3 {
-  word-break: normal; }
+  word-break: normal;
+  border-bottom: 1px solid; }
 
 .img-mix {
   transform: scale(1);
@@ -1302,6 +1330,12 @@ form {
 .post {
   margin-top: 2rem;
   min-height: 90vh; }
+
+.extra-top-padding {
+  padding-top: 2em; }
+
+.extra-bottom-padding {
+  padding-bottom: 3em; }
 
 th,
 td {

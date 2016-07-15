@@ -2,6 +2,42 @@
 
 This site was built to accomodate Version 2 of the CSU Online Learning Model and it's associacted resources. These include the OLM Mixer and a growing collection of Strategies & Practice examples that ilustrate how they can be utilised to increase student engagement. 
 
+
+### Updates
+
+**15 July 2016**
+
+- Replaced placeholder text on homepage
+- Updated Mixer - inverted layout, added feedback button, added hero image, 
+- Remove QLT section in Strategies - can add back again later
+
+```html
+<div class="row u-release">
+<div class="container">
+    <h3>Collections</h3>
+        <p>In essence what is the exemplar & how does it work? What did you ask the learners to do? How did they interact? What are the key points and critical factors? Explain it simply and clearly. ?</p>
+    <div class="tile-icons">
+        <div class="tiles pink-bg">
+            <a href="{{ site.baseurl }}/tags/QLT9.html">
+            <img src="{{ site.baseurl }}/images/qlt9-rev.png" class="u-full-width">
+            <h4>QLT KPI 9</h4></a>
+        </div>
+        <div class="tiles pink-bg">
+            <a href="{{ site.baseurl }}/tags/QLT11.html">
+            <img src="{{ site.baseurl }}/images/qlt11-rev.png" class="u-full-width">
+            <h4>QLT KPI 11</h4></a>
+        </div>
+            <div class="tiles pink-bg">
+            <a href="{{ site.baseurl }}/tags/QLT12.html">
+            <img src="{{ site.baseurl }}/images/qlt12-rev.png" class="u-full-width">
+            <h4>QLT KPI 12</h4></a>
+            </div>
+    </div>
+</div>
+</div>    
+```
+
+
 ### Tag Archive Pages
 
 Archive pages have been created using the following code:
