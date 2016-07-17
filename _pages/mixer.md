@@ -19,7 +19,7 @@ The sound mixer separates out elements of a piece, allowing particular features 
 
 The OLM  Mixer is a tool for illustrating the levels of potential engagement with a range of teaching strategies. It provides a range of descriptors to diagnose existing practice and a visual map of the relationships between the features in a learning cycle for future planning. 
 
-*Have a go at the tool below and let us know what you think!*
+*Use the tool below and let us know what you think!*
 
 
 
@@ -71,228 +71,161 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         <p class="element"><a href="{{ site.baseurl }}/model/e-assessment.html" class="mixer-button">Find Out More</a></p>
 	</div>
     </div>
-      <div class="level gradient-blue">
+    <div class="level gradient-blue">
         <div class="hcol"><h4>light</h4></div> 
-	   <div class="col" title="Learning Communities">
-        <h4>Activity based small groups</h4>
-        <p>The cohort is divided into smaller groups by the teacher for a defined purpose or need for a set length of time. These groups often focus on collaborative work that require students to work together and contribute to produce a single output or body of work. The task provides students with a structure and toolset to use.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interaction between Students">
+        <div class="col" title="Learning Communities">
+        <h4>Establishing community</h4>
+        <p>Proactive work by the teacher to orient students to the environment and have them introduce themselves to each other and share their location, interests, or subject goals. Designed activities where students respond to each other’s shared photos, videos, or written reflections. Forums structured and named to invite participation.</p>
+        </div>     
+        <div class="col" title="Interaction between Students">
         <h4>Active scaffolded discussion</h4>
         <p>An active Discussion Board with clear communication protocols is established. Specific forums are created for assessments and topic areas for students to use and prompts are provided to student throughout learning content to encourage student contributions. These focus questions provide opportunities for students to share their experiences, knowledge and perspectives in an open dialogue.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
         
         </div>
-	  <div class="col" title="Teacher Presence">
-        <h4>Establishing teacher Identity</h4>
-        <p>Students are made aware of the teacher by clearly establishing their identity. The subject landing page introduces both the teacher and the subject in text, photos or video and includes clear information on channels of communication and contact. Throughout the sessions the teacher is responsive to forum postings, email and other contacts from students. Announcements throughout the session ensure students are aware of ongoing engagement and provide a simple way for responding to the class. Providing ample feedback on assessment Practices and timely responses to students’ online questions and comments ensure students know they are engaged with an active teacher.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Teacher Presence">
+        <h4>Established teacher Identity</h4>
+        <p>Students are made aware of the teacher by clearly establishing their identity. The subject landing page introduces both the teacher and the subject in text, photos or video and includes clear information on channels of communication and contact. Throughout the sessions the teacher is responsive to forum postings, email and other contacts from students. Announcements throughout the session ensure students are aware of ongoing engagement and provide a simple way for responding to the class. Providing ample feedback on assessment items and timely responses to students’ online questions and comments ensure students know they are engaged with an active teacher.</p>
         </div>
-      <div class="col" title="interaction with the Professions">
-        <h4>Professional contexts and linkages</h4>
-        <p>Examples of professional contexts are highlighted in the subject. Assessment tasks are linked to the development of professional knowledge and skills using case study examples, practical and tutorial classes and video resources. These tasks require students to draw on and reflect upon their experiences.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="interaction with the Professions">
+        <h4>Professional contexts &amp; linkages</h4>
+        <p>Examples of professional contexts are highlighted in the subject. Learning tasks and  assessments are linked to the development of professional knowledge and skills using case study examples, practical and tutorial classes and video resources. These tasks require students to draw on and reflect upon their experiences.</p>
         </div>
-      <div class="col" title="Flexible &amp; Adaptive Learning">
+        <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Reflective Design</h4>
-        <p>Student and peer feedback along with data and analytics are used to evaluate learning and teaching designs, strategies and resources between teaching sessions. This leads to a continual improvement process to align the learning delivered experiences with students’ learning needs.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <p>Between teaching sessions, student and peer feedback, along with evidence of student learning behaviours through analytics, are used to evaluate learning and teaching designs, strategies and resources. This leads to a continual improvement process to align the learning delivered experiences with students’ learning needs. To allow students to progress at their own pace if they wish to, all materials are available at the beginning of the session and synchronous meetings are recording  to allow asynchronous access.</p>
         </div>
-	  <div class="col" title="Interactive Resources">
-        <h4>Rich media resources</h4>
-        <p>Rich media resources are used throughout the subject in ways that complement the text and provide different perspectives, explanations, authentic experiences and examples of practice. Video resources can be used to contextualise information and be generated at the time of need to capture online discussion, respond to questions, provide feedback and comment contemporary issues.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Interactive Resources">
+        <h4>Curating &amp; repurposing media resources</h4>
+        <p>High quality existing rich media resources are carefully incorporated and integrated throughout the subject materials in ways that complement the text and provide different perspectives, explanations and examples of practice. Using a range of media types within subject content can provide flexibility in the ways in which students consume and interact with content and can support different learning styles and preferences.</p>
         </div>
-	  <div class="col" title="e-Assessment">
-        <h4>Tests and quizzes</h4>
-        <p>The use of online tests and quizzing tools for formative and summative assessment. These tools provide an easy way for student to gauge their own learning and understanding of content. They also provide a way of guiding students through key concepts and topics. The addition of online invigilation provides new opportunities for eExams to be conducted to improve flexibility for students and marking turn around.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="e-Assessment">
+        <h4>Tests &amp; quizzes</h4>
+        <p>The use of online tests, quizzing tools and interactive technologies for formative and summative assessment. Students can use these tools to gauge their emerging understanding of content and conceptual ideas. The addition of online invigilation provides new opportunities for eExams to be conducted. These online exams can provide improved flexibility, marking turn around and opportunities for more authentic examination tasks.</p>
         </div>
 	</div>
-      <div class="level gradient-pink">
+    <div class="level gradient-pink">
         <div class="hcol">&nbsp;</div> 
-	  <div class="col" title="Learning Communities">
-        <h4>Small group teaching</h4>
-        <p>A large cohort is divided into smaller sub cohorts and each group is facilitated by a tutor who guides the community building, provides formative feedback, moderates the discussion forums and is responsible for the marking of summative assessment tasks.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interaction between Students">
-        <h4>Asynchronous opportunities</h4>
-        <p>In addition to the discussion boards additional asynchronous engagement opportunities are created that encourage students to engage in sharing. These learning activities are designed to facilitate shared practice and learning experiences and provide ways for students to have a professional dialogue with their peers. This could include peer teaching activities where students support the learning of their fellow students.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Teacher Presence">
-        <h4>Establishing Communication</h4>
-        <p>Clear communication channels are established between teacher and students that allow for ongoing dialogue throughout the session. The tone of communication shows an interest in students’ success and conveys that the teacher is approachable. Video and audio introductions to the subject and key areas of focus, like each assessment task, provide a way to engage with students, discuss issues and give feedback to the class as a whole. Synchronous sessions provide a way for students to discuss their learning experiences. Regular (weekly or fortnightly) contact and updates encourage students and help establish a rhythm to the subject.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-      <div class="col" title="interaction with the Professions">
-        <h4>Authentic professional learning experiences</h4>
-        <p>Professional contexts are integrated into the subject so that assessment tasks and learning activities are authentically linked to the development of professional knowledge and skills. Students are developing a professional approach to their practice as well as developing their professional identity within the safe environment of the class. Students are producing work and demonstrating skills that are comparable to that expected within the profession.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-      <div class="col" title="Flexible &amp; Adaptive Learning">
-        <h4>Resource orientated</h4>
-        <p>Alignment of learning resources with the identified needs of a student cohort includes the provision of resources to fill learning gaps. The adaptive release of materials based on student performance can fill gaps in students knowledge and understanding or offer students with extension opportunities. Personalised support processes can be developed using data that helps connect students with university support services.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interactive Resources">
-        <h4>Interactive experiences online</h4>
-        <p>Resources are developed that allow students to respond and interact with the information to enhance their learning and improve their understanding. Students can also collaboratively engage in discussion around the resources to consolidate their learning and provide feedback. Assessment tasks could be linked and require critical reflection upon an example case illustrated through photographic, audio or video resources.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="e-Assessment">
-        <h4>Cooperative assessment</h4>
-        <p>Cooperative assessment tasks make use of peer-to-peer feedback and commenting to engage students beyond the single artifact or body of work. This kind of assessment taps into the social layer of learning and encourages student interaction and the development of reflective practices. These tasks can extend beyond text with responses and interaction utlising rich media like video and audio.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	</div>
-    	<div class="level gradient-purple">
-        <div class="hcol">&nbsp;</div> 
-	  <div class="col" title="Learning Communities">
-        <h4>Group based learning design</h4>
-        <p>A cohort is divided into smaller groupings with the learning designed and structured to make use of these groups. Initial learning activities are created to support students through orientation to the online environment, socialisation and personalisation prior to undertaking curriculum focused community activities. Content and activities can be structured around the groups throughout the session.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interaction between Students">
-        <h4>Synchronous opportunities</h4>
-        <p>Synchronous opportunities provide students with the opportunity to work with each other in real-time. They provide a way for students to connect with each other and establish social and professional connections. Combining a range of a range of synchronous and asynchronous engagement opportunities throughout the session can be achieved through both summative and formative assessment tasks, like collaborative small group projects and activities.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Teacher Presence">
-        <h4>Support for shared experiences</h4>
-        <p>Creating an ongoing narrative throughout the subject and a clear online teacher persona helps establishes an environment that reassures and supports students. Sharing relevant experiences through video and interactions throughout the subject help to humanise the content. This process reduces the ‘psychological distance’ and develops a sense of community. </p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-      <div class="col" title="interaction with the Professions">
-        <h4>Evidence based professional learning </h4>
-        <p>Evidence based activities focus on developing the skills, knowledge and attitudes necessary for the profession. They are aligned and scaffolded to enable students to complete authentic assessment tasks in workplace contexts. Students are developing a professional identity, critical reflective practices, applying theory to practice and developing interprofessional skills.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-      <div class="col" title="Flexible &amp; Adaptive Learning">
-        <h4>Learner orientated</h4>
-        <p>Active use of analytics to support student learning in real-time and in targeted ways. Evidence-based interventions and feedback is provided and designed to increase the likelihood of learner success. Personalised learning opportunities can be presented through assessment tasks that allow students to draw on personal and professional interests or expertise.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interactive Resources">
-        <h4>Immersive authentic contexts</h4>
-        <p>Students engage within interactive media choosing from multiple options or actions within the resource to tailor the learning experience to their needs. Cooperative learning activities can be developed to explore issues and problems raised to extend their use beyond the resources themselves. Students could also engage in the co-creation of their own interactive resources.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="e-Assessment">
-        <h4>Collaborative assessment</h4>
-        <p>Collaborative assessments require students to work together and contribute to produce a single output or body of work. This kind of group activity is enhanced significantly with online tools as students can access real-time communication and collaborative authoring tools. Collaborative tasks can extend to the co-construction of authentic rich media artefacts and learning resources that can be shared and reused.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	</div>
-    	<div class="level gradient-orange">
-      <div class="hcol">&nbsp;</div>    
-	  <div class="col" title="Learning Communities">
-        <h4>Independent student communities</h4>
-        <p>Self-organised groups are created based on automated triggers or in response to the students own needs. Groups make use of available tools chosen by the lecture and/or students to support the needs of effective community learning and to share ideas and resources.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
-        </div>
-	  <div class="col" title="Interaction between Students">
-        <h4>Reflective Dialogue</h4>
+        <div class="col" title="Learning Communities">
+        <h4>Online Study Groups</h4>
+        <p>Formation of supported online study groups allowing students to regularly engage with each other around subject content and assessment. Tailoring of the online environment to help study groups to meet and discuss ideas synchronously or asynchronously. Content and activities can be structured for group engagement throughout the session.</p>        
+        </div>        
+        <div class="col" title="Interaction between Students">
+        <h4>Shared Reflective Dialogue</h4>
         <p>Students actively create content to reflect and share their practices through a variety of digital mediums and online tools, with the specific aim to develop ongoing dialogue. Online journals and blogs allow students to comment on each other's work and provide feedback. Reflective practice could also extend to rich media and include video or audio recordings.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
+        </div>     
+        <div class="col" title="Teacher Presence">
+        <h4>Establish Effective Communication</h4>
+        <p>Clear communication channels are established between teacher and students that allow for ongoing dialogue throughout the session. The tone of communication shows an interest in students’ success and conveys that the teacher is approachable. Video and audio introductions to the subject and key areas of focus, like each assessment task, provide a way to engage with students, discuss issues and give feedback to the class as a whole. Synchronous sessions provide a way for students to discuss their learning experiences. Regular (weekly or fortnightly) contact and updates encourage students and help establish a rhythm to the subject.</p>
+        </div>   
+        <div class="col" title="interaction with the Professions">
+        <h4>Professional practices &amp; cultural contexts</h4>
+        <p>Professional contexts are integrated into the subject so that learning activities , including assessment tasks are linked to the development of professional knowledge and skills. Students are developing a professional approach to their practice as well as developing their professional identity within low risk learning environments. Students increasingly produce work and demonstrate skills that are at a professional level.  Professionals are invited to synchronous meetings and provide guest lectures shared asynchronously.</p>
+        </div>
+        <div class="col" title="Flexible &amp; Adaptive Learning">
+        <h4>Design for flexibility</h4>
+        <p>Learning resources may be provided in response to the identified needs of a student cohort. Personalised support processes can be developed using data that helps connect students with university support services. To enable students to study offline, all core materials is enabled to be downloaded to a device. Accessible design strategies are available to cater for special needs students.</p>
+        </div>
+        <div class="col" title="Interactive Resources">
+        <h4>Commissioning &amp; creating media resources</h4>
+        <p>Video, audio, diagrammatic, photographic and multimedia resources are developed by academic staff in collaboration with media specialists for the specific needs of the subject and used to contextualise information and complement textual content. These resources can be generated at the time of need in response to online discussions, student questions, and contemporary events. Authentic learning products created by students as part of learning activities can also be a source of resources for future sessions.</p>
+        </div>
+        <div class="col" title="e-Assessment">
+        <h4>Creating rich media artefacts</h4>
+        <p>Students take advantage of digital technologies to create rich media artefacts for their assessment that go beyond text and are sharable using online platforms. Tasks can be structured around authentic professional tasks that go beyond the traditional academic essay and require students to produce videos and presentations, communicate research, or synthesize and explain complex theories in forms they’ll utilise as professionals. Using online marking tools, feedback can also be provided as rich media elements.</p>
+        </div>
+	</div>
+    <div class="level gradient-purple">
+        <div class="hcol">&nbsp;</div> 
+        <div class="col" title="Learning Communities">
+        <h4>Sub cohort teaching</h4>
+        <p>A large cohort is divided into smaller sub cohorts and each group is facilitated by a staff member who guides the community building, provides formative feedback, moderates the discussion forums and is responsible for the marking of summative assessment tasks.</p>
         
         </div>
-	  <div class="col" title="Teacher Presence">
-        <h4>Model online practice</h4>
-        <p>The actions, communications and persona of the teacher can encourage students to develop their own online persona and social presence in interactions with their fellow learners. Ensuring responsiveness to enquiries, assistance to difficulties and sharing pertinent information models the kinds of practices that students should reflect in their own online practices.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Interaction between Students">
+        <h4>Collaborative learning tasks</h4>
+        <p>Collaborative learning tasks require students to work together towards the creation of learning products and authentic professional artefacts. Within this collaborative practice students engage in deep conceptual and professional dialogue with their peers.</p>
         </div>
-      <div class="col" title="Interaction with the Professions">
+        <div class="col" title="Teacher Presence">
+        <h4>Support for shared experiencess</h4>
+        <p>An ongoing narrative is developed throughout the subject and a clear online teacher persona helps to establish an environment that reassures and supports students. Relevant experiences are shared through video and interactions throughout the subject to help humanise the content. This process reduces the ‘psychological distance’ and develops a sense of community.</p>
+        </div>
+        <div class="col" title="interaction with the Professions">
+        <h4>Authentic professional learning</h4>
+        <p>Authentic activities focus on developing the skills, knowledge and attitudes necessary for the profession. They are aligned and scaffolded to enable student learning and to complete assessment tasks in workplace and/or professional contexts. Students are developing a professional identity, critical reflective practices, applying theory to practice. Students may visit workplaces (in person or virtually) or shadow professionals in the workplace.</p>
+        </div>
+        <div class="col" title="Flexible &amp; Adaptive Learning">
+        <h4>Learner orientated </h4>
+        <p>Active use of analytics, communication, discussions and student feedback to support student learning in real-time and in targeted ways. Evidence-based interventions and feedback is provided and designed to increase the likelihood of learner success. Personalised learning opportunities can be presented through assessment tasks that allow students to draw on personal and professional interests or expertise. The adaptive release of materials based on student performance can fill gaps in students knowledge and understanding or offer students extension opportunities.</p>
+        </div>
+        <div class="col" title="Interactive Resources">
+        <h4>Resources as a platform for engagement</h4>
+        <p>Resources representing realistic contexts and professional practices are used to provide a context for engagement within authentic learning activities or assessment tasks. These activities could include role-play, problem-based learning or critical reflection drawing upon example cases illustrated through photographic, audio or video resources. Such tasks can be enhanced through peer feedback, discussion or online collaboration.</p>
+        </div>
+        <div class="col" title="e-Assessment">
+        <h4>Peer feedback</h4>
+        <p>Peer feedback on online journals, portfolios and digital objects can support student interaction and foster learning communities as well as the development of critical reflective practices. These tasks can also extend beyond text with responses and interaction utilising rich media like video and audio.</p>
+        </div>
+	</div>
+    <div class="level gradient-orange">
+        <div class="hcol">&nbsp;</div>    
+        <div class="col" title="Learning Communities">
+        <h4>Project based learning design</h4>
+        <p>Project based learning where students work together throughout the subject as a collaborative group. Groups meet autonomously and share responsibilities as they work towards the co-creation of authentic real world artefacts. Group members can take on complementary professional roles.</p>        
+        </div>
+        <div class="col" title="Interaction between Students">
+        <h4>Learning cooperatively</h4>
+        <p>Cooperative learning provides a structure through which students are required to undertake complementary learning activities which collectively lead to the achievement of shared learning goals. Students take responsibility for engaging with specific ideas and content and then share their developing understandings with the group.</p>
+        </div>       
+        <div class="col" title="Teacher Presence">
+        <h4>Responsive teaching</h4>
+        <p>Ongoing evaluation of student learning needs. New content or new facilitation strategies are introduced when needed in response to student learning activities recorded in analytics, and/or student perspectives provided through quick surveys or forum postings. Students have a sense of being in a learning community with the teacher and that their learning is being enhanced by the group.</p>
+        </div>
+        <div class="col" title="Interaction with the Professions">
         <h4>Engagement with the professions</h4>
-        <p>Students are provided with direct access to engage with the professions through workplace learning or mentoring arrangements. Assignments are aligned to the workplace context to ensure purposeful implementation of knowledge, skills and practice in the workplace. A supportive connection between CSU, the student and workplace is established before the placement and maintained during and after its conclusion. Student are integrated into the complex and holistic aspects of the profession to develop personal ownership of their professional identity and critically reflect on their own practice.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <p>Students engage with the professions through workplace learning experiences or mentoring arrangements. Learning experiences and assignments are aligned to the workplace and/or professional contexts to ensure purposeful implementation of knowledge, skills and practice. A supportive connection between CSU, the student and partner is established before the placement (or other WPL experience) and maintained during and after its conclusion. Student are integrated into the complex and holistic aspects of the profession, developing inter-professional skills, personal ownership of their professional identity and critically reflecting on their own practice.</p>
         </div>
-      <div class="col" title="Flexible &amp; Adaptive Learning">
+        <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Responsive by design</h4>
-        <p>Teaching approaches and activities are designed to be responsive to student behaviour and demonstrated knowledge. This flexible approach acknowledges that some cohorts of students can be quite diverse and that a one size fits all approach will not work. Utilising early data and adaptive learning systems or resources the teacher can adjust content and experiences dynamically in order to meet the needs of a range of students. </p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <p>Teaching approaches and activities are designed to be responsive to student behaviour and demonstrated knowledge. This flexible approach acknowledges that some cohorts of students can be quite diverse and that a one size fits all approach will not work. Utilising early data and adaptive learning systems or resources the teacher can adjust content and experiences dynamically in order to meet the needs of a range of students.</p>
         </div>
-	  <div class="col" title="Interactive Resources">
-        <h4>Interactive learning experiences</h4>
-        <p>Interactive resources can be developed as immersive environments where students explore and interact within a simulated context. These resources expose students to new professional experiences and skill acquisition opportunities in a controlled environment. Combining these resources with reflective practices students justify their decisions and are engaged in making professional decisions and articulating the rationale for the decisions.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Interactive Resources">
+        <h4>Interactive &amp; adaptive resources</h4>
+        <p>Adaptive learning resources allow students to interactively engage with conceptual content using personalised pathways that suit their learning needs. As students engage with simulated or rich media material, they undertake formative assessment activities which lead to adaptive presentation of content chosen to help consolidate learning or address emergent misconceptions. These learning activities can also be enhanced by the inclusion of options for shared reflection and discussion.</p>
         </div>
-	  <div class="col" title="e-Assessment">
-        <h4>Personalised &amp; interactive assessment</h4>
-        <p>Assessments make use of interactive technology and media objects to deliver rich learning experience to the student. Students undertake assessment and receive real-time feedback that drives further learning and exploration of additional topic areas. Learning resources can incorporate self-marking quizzes to provide formative and summative feedback and students can attempt assessments at any time and receive feedback on them.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="e-Assessment">
+        <h4>Contributing to real world resources</h4>
+        <p>Participatory assessment tasks require students to contribute to produce an artefact or body of work that can be used by others. This kind of activity is enhanced significantly with online tools as students can access real-time communication and work together using collaborative authoring tools. These tasks can be made collaborative to extend to the co-construction of authentic rich media artefacts and learning resources that can be shared and reused.</p>
         </div>
 	</div>
 	<div class="level gradient-red">
-	  <div class="hcol"><h4>Intense</h4></div>
-      <div class="col" title="Learning Communities">
+        <div class="hcol"><h4>Intense</h4></div>
+        <div class="col" title="Learning Communities">
         <h4>Networked communities</h4>
-        <p>Groups are reconceptualised as networks and collectives of learning. The grouping occurs at point of need, around topic areas and ‘just in time’ to provide tailored learning experiences. These groups are porous and allow the community to extend beyond the class, often engaging with the profession and external peers. Tasks are often co-operative in nature requiring students to work together to produce their own unique output.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <p>Groups are reconceptualised as a network or collective of learning. Self-organised groups are created based on automated triggers or in response to the students own needs. These groups are porous and allow the community to extend beyond the class, often engaging with the profession and external peers. Tasks are often co-operative in nature requiring students to work together to produce their own unique output, or collaborative where students work together to co-create unique output.</p>        
         </div>
-	  <div class="col" title="Interaction between Students">
+        <div class="col" title="Interaction between Students">
         <h4>Communities of practice</h4>
-        <p>Communities of practice are developed by students and teachers working together to engage in ways relevant to content, current issues and future professional practice. This can be achieved through the co-creation of authentic learning products where students contribute to the development of learning resources and study aids that develops their research skills and experience. Cooperative inquiry-based or problem-based learning activities and assessment tasks are strategically designed to facilitate student interaction, leadership and shared resources with the aim of lifelong learning and collaboration.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <p>Communities of practice are developed by students and teachers working together to engage in ways relevant to content, current issues and future professional practice. This can be achieved through the co-creation of authentic learning products where students contribute to the development of learning resources and study aids that develops their research skills and experience.Cooperative and collaborative inquiry-based or problem-based learning activities and assessment tasks are strategically designed to facilitate student interaction, leadership and shared resources with the aim of fostering skills, habits and attitudes for lifelong learning.</p>
         </div>
-	  <div class="col" title="Teacher Presence">
-        <h4>Cultivate an independent community of practice</h4>
-        <p>The ultimate aim for any teacher is to develop a strong level of independence and self reliance in their students. This approach requires a strong commitment by the teacher as it challenges traditional student/teacher roles. Tone and structure of the learning environment needs to fosters student led learning that is supported with minimal intervention. Interaction between students, peers and lecturer is such that students have a sense of being in a learning community and that their learning is being enhanced by the group.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Teacher Presence">
+        <h4>Model online practice</h4>
+        <p>The actions, communications and persona of the teacher encourage students to develop their own online persona and social presence in interactions with their fellow learners. Ensuring responsiveness to enquiries, assistance to difficulties and sharing pertinent information modeling the kinds of practices that students should reflect in their own online practices.  The tone and structure of the learning environment  foster student led learning</p>
         </div>
-      <div class="col" title="interaction with the Professions">
-        <h4>Embedded workplace learning</h4>
-        <p>Student learning is embedded in the workplace promoting a self-directed and negotiated workplace learning experience that is supported by CSU in real-time. Students become agents of change within the workplace and develop a collaborative partnership with their professional community of practice that reaches beyond CSU.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="interaction with the Professions">
+        <h4>Novice professionals</h4>
+        <p>Students become part of communities of practice as novice professionals. They become agents of change and develop collaborative partnerships. Student learning is embedded in professional situations with real time support by CSU, promoting a self-directed and negotiated learning experience. Academic and professional staff also become part of a wider professional community of practice through shared projects and collaborative activities.</p>
         </div>
-      <div class="col" title="Flexible &amp; Adaptive Learning">
+        <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Personalised by design</h4>
         <p>This approach to personalised learning begins with the availability of dynamic learning pathways from the outset. Content, assessments, pace and even the timing of the subject is able to be adapted to suit the student. It allows the students to proceed at their own pace through differentiated or individualised pathways based on their demonstration of knowledge and competency.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
         </div>
-	  <div class="col" title="Interactive Resources">
-        <h4>Autonomous interactive resources </h4>
-        <p>Students are actively engage with interactive, adaptive media and resources that personalise the learning experience. An authentic and immersive learning experience is available through resources that provide access to realistic authentic contexts and professional practices. Resources are designed to meet specific outcomes, are integrated into the learning design and supported by other learning and teaching strategies. These resources are often linked to assessment tasks and assist in diversifying the assessment design throughout the degree.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
-        
+        <div class="col" title="Interactive Resources">
+        <h4>Immersive learning resources</h4>
+        <p>Immersive learning resources can allow students to explore and interact within a simulated, virtual or game based context. Such resources can be modelled on realistic authentic contexts and allow students to undertake simulated professional practices. These resources expose students to open ended learning experiences where they can develop their professional capabilities in a safe environment. Students also benefit from explicit reflection on their practice and professional decision making and from engagement with their peers during and after undertaking simulated tasks, which can lead to follow up exploration of issues and problems beyond those generated by the resources themselves.</p>
         </div>
-	  <div class="col" title="e-Assessment">
+        <div class="col" title="e-Assessment">
         <h4>Adaptive assessment</h4>
-        <p>Assessments offer a range of personalised and adaptive options to students based on demonstrated competencies and stages of learning. Adaptive assessments can include simulated tasks in immersive environments, such as virtual laboratories or virtual sites, aimed at developing professional practices and skills. Assessment feeds into developing customised pathways for students to navigate them through their study.</p>
-        <p class="practices"><a href="#">Strategy 1</a> | <a href="#">Strategy 2</a> | <a href="#">Strategy 3</a></p>
+        <p>Assessments offer a range of personalised and adaptive options to provide flexibility in content focus and timing. Students receive real-time feedback in the context of authentic real world activities and are able to choose pathways aligned with their demonstrated competencies and stages of learning. Adaptive assessment tasks can include simulated tasks in immersive environments, such as virtual laboratories or virtual sites, aimed at developing professional capabilities. </p>
         </div>
 	</div>
 
