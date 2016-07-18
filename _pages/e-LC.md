@@ -32,27 +32,19 @@ The dividing of students into smaller cohorts is an approach to learning support
 
 A number of authors have recommended both lower and upper limits on cohort sizes for online study. For example Hiltz (1997), Rovai (2002) and Aragon (2003) all recommend that classes be divided into sub cohorts of no more than 30, while Turoff (1997) argues that a critical mass is needed in order to allow effective online engagement, with Rovai (2002) suggesting that this minimum should be 8-10 students. Some authors have highlighted information overload within large online cohorts as an issue (see, for example, Chen, Pedersen & Murphy, 2012), while others have implied that the depth of engagement in online discussions (evidenced by length of postings, thoroughness of reading of peer postings, or depth of interaction evident within postings) may be less within larger cohorts (Hewitt & Brett, 2007; Kim, 2013). In a CSU context the cost implications of very small cohort sizes is an important consideration and consequently we would suggest that a reasonable compromise might be the idea of dividing very large cohorts into sub cohorts of a maximum of 50 students.
 
-### Strategies
+### <a name="LC-strategies"></a>Strategies
 
 This section sets out a number of specific strategies that are known to be helpful in establishing a learning community. It is important to acknowledge that there is substantial synergy between the Teacher Presence, Interaction Between Students and Learning Communities elements of the model. Consequently many of the strategies listed Teacher Presence (e.g. welcome videos, communication tone, and responsiveness) and Interaction Between Students (e.g. asynchronous discussions, synchronous discussions, peer teaching and online reflective journals) will also have a positive impact on the establishment of an effective learning community.
 
-**Sub-cohorts**
+**Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts](http://drive.google.com/open?id=10ZSdpsfBsbtpGHWQ-qrCHL9rdYBMCaehuzH8S6ZhIwc), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
 
-The creation of[ smaller sub cohorts within large cohorts](http://drive.google.com/open?id=10ZSdpsfBsbtpGHWQ-qrCHL9rdYBMCaehuzH8S6ZhIwc), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
+**Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment](http://drive.google.com/open?id=1Ne0vrdrMhUTqXcvD6h5CYzmhGkJSwVtCKLZv3VtBq7k), socialisation and [personalisation of the environment](http://drive.google.com/open?id=1UFO8WvTPR7U2TW5TEwexpZrAKW3FXHaTuItkP5IJYAI), prior to undertaking curriculum focused community learning activities;
 
-**Facilitated Socialisation**
+**Shared Activity** - Community building through [contribution to a shared resource](http://drive.google.com/open?id=1O_PFILWSrYcb3ImbIP_qYpRLaqHwXcyzO6nUSlgAfKw) such as a gallery of photos containing examples of a concept or experiences from professional placement; 
 
-Learning activities which support students through [orientation to the online environment](http://drive.google.com/open?id=1Ne0vrdrMhUTqXcvD6h5CYzmhGkJSwVtCKLZv3VtBq7k), socialisation and [personalisation of the environment](http://drive.google.com/open?id=1UFO8WvTPR7U2TW5TEwexpZrAKW3FXHaTuItkP5IJYAI), prior to undertaking curriculum focused community learning activities;
+**Social Media** - Establishment of [social media streams](http://drive.google.com/open?id=13k4XcRd2NtK86dpQ9ZIX-kmnX5rVy48VQXOjY7c1v_Y) supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools.
 
-**Shared Activity**
-
-Community building through [contribution to a shared resource](http://drive.google.com/open?id=1O_PFILWSrYcb3ImbIP_qYpRLaqHwXcyzO6nUSlgAfKw) such as a gallery of photos containing examples of a concept or experiences from professional placement; 
-
-**Social Media**
-
-Establishment of [social media streams](http://drive.google.com/open?id=13k4XcRd2NtK86dpQ9ZIX-kmnX5rVy48VQXOjY7c1v_Y) supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools.
-
-## References
+### References
 
 <div class="apa-ref" markdown="1">
 

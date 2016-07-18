@@ -3,7 +3,7 @@
 layout: page
 title: The CSU Online Learning Model
 permalink: "/model/"
-
+category: element
 --- 
 
 *Version 2*
@@ -22,21 +22,7 @@ This then leads to five categories of student engagement:
 
 Each of the seven elements of the Online Learning Model are designed to increase one or more types of engagement. The elements, which are outlined in the following sections, are designed to be combined together in varying degrees of intensity within the subjects making up a course. The intention is that a specific subject might emphasise about three or four elements rather than the entire model.
 
-
-<div class="u-release trans gradient-pink">
-<div class="container">
-<h4 class="white center extra-top-padding">Explore the Elements in more detail</h4>
-<div class="row tile-icons" align="center">
-<div class="tiles"><a href="{{ site.baseurl }}/model/learning-communities.html"><img src="../images/lc-rev.png" class="u-full-width"><h4>Learning Communities</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/interaction-students.html"><img src="../images/ibs-rev.png" class="u-full-width"><h4>Interaction Between Students</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/teacher-presence.html"><img src="../images/tp-rev.png" class="u-full-width"><h4>Teacher Presence</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/interaction-professions.html"><img src="../images/iwp-rev.png" class="u-full-width"><h4>Interaction With The Professions</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/flexible-adaptive.html"><img src="../images/fal-rev.png" class="u-full-width"><h4>Flexible & Adaptive Learning</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/interactive-resources.html"><img src="../images/ir-rev.png" class="u-full-width"><h4>Interactive Resources</h4></a></div>
-<div class="tiles"><a href="{{ site.baseurl }}/model/e-assessment.html"><img src="../images/ea-rev.png" class="u-full-width"><h4>E-Assessment</h4></a></div>
-</div>
-</div>
-</div>
+{% include olm-nav.html %}
 
 ### Interactivity & Engagement
 

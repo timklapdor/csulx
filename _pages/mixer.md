@@ -79,7 +79,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>     
         <div class="col" title="Interaction between Students">
         <h4>Active scaffolded discussion</h4>
-        <p>An active Discussion Board with clear communication protocols is established. Specific forums are created for assessments and topic areas for students to use and prompts are provided to student throughout learning content to encourage student contributions. These focus questions provide opportunities for students to share their experiences, knowledge and perspectives in an open dialogue.</p>
+        <p>An active Discussion Board with clear communication protocols is established. Specific forums are created for assessments and topic areas for students to use and prompts are provided to students throughout learning content to encourage student contributions. These focus questions provide opportunities for students to share their experiences, knowledge and perspectives in an open dialogue.</p>
         
         </div>
         <div class="col" title="Teacher Presence">
@@ -88,15 +88,15 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="interaction with the Professions">
         <h4>Professional contexts &amp; linkages</h4>
-        <p>Examples of professional contexts are highlighted in the subject. Learning tasks and  assessments are linked to the development of professional knowledge and skills using case study examples, practical and tutorial classes and video resources. These tasks require students to draw on and reflect upon their experiences.</p>
+        <p>Examples of professional contexts are highlighted in the subject. Learning tasks and assessments are linked to the development of professional knowledge and skills using case study examples, practical and tutorial classes and video resources. These tasks require students to draw on and reflect upon their experiences.</p>
         </div>
         <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Reflective Design</h4>
-        <p>Between teaching sessions, student and peer feedback, along with evidence of student learning behaviours through analytics, are used to evaluate learning and teaching designs, strategies and resources. This leads to a continual improvement process to align the learning delivered experiences with students’ learning needs. To allow students to progress at their own pace if they wish to, all materials are available at the beginning of the session and synchronous meetings are recording  to allow asynchronous access.</p>
+        <p>Between teaching sessions, student and peer feedback, along with evidence of student learning behaviours through analytics are used to evaluate learning and teaching designs, strategies and resources. This leads to a continual improvement process to align the learning delivered experiences with students’ learning needs. To allow students to progress at their own pace if they wish to, all materials are available at the beginning of the session and synchronous meetings are recorded to allow asynchronous access.</p>
         </div>
         <div class="col" title="Interactive Resources">
         <h4>Curating &amp; repurposing media resources</h4>
-        <p>High quality existing rich media resources are carefully incorporated and integrated throughout the subject materials in ways that complement the text and provide different perspectives, explanations and examples of practice. Using a range of media types within subject content can provide flexibility in the ways in which students consume and interact with content and can support different learning styles and preferences.</p>
+        <p>High quality, existing, rich media resources are carefully incorporated and integrated throughout the subject materials in ways that complement the text and provide different perspectives, explanations and examples of practice. Using a range of media types within subject content can provide flexibility in the ways in which students consume and interact with content and can support different learning styles and preferences.</p>
         </div>
         <div class="col" title="e-Assessment">
         <h4>Tests &amp; quizzes</h4>
@@ -123,7 +123,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Design for flexibility</h4>
-        <p>Learning resources may be provided in response to the identified needs of a student cohort. Personalised support processes can be developed using data that helps connect students with university support services. To enable students to study offline, all core materials is enabled to be downloaded to a device. Accessible design strategies are available to cater for special needs students.</p>
+        <p>Learning resources may be provided in response to the identified needs of a student cohort. Personalised support processes can be developed using data that helps connect students with university support services. To enable students to study offline, all core materials are enabled to be downloaded to a device. Accessible design strategies are available to cater for special-needs students.</p>
         </div>
         <div class="col" title="Interactive Resources">
         <h4>Commissioning &amp; creating media resources</h4>
@@ -155,7 +155,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Learner orientated </h4>
-        <p>Active use of analytics, communication, discussions and student feedback to support student learning in real-time and in targeted ways. Evidence-based interventions and feedback is provided and designed to increase the likelihood of learner success. Personalised learning opportunities can be presented through assessment tasks that allow students to draw on personal and professional interests or expertise. The adaptive release of materials based on student performance can fill gaps in students knowledge and understanding or offer students extension opportunities.</p>
+        <p>Active use of analytics, communication, discussions and student feedback to support student learning in real-time and in targeted ways. Evidence-based interventions and feedback is provided and designed to increase the likelihood of learner success. Personalised learning opportunities can be presented through assessment tasks that allow students to draw on personal and professional interests or expertise. The adaptive release of materials based on student performance can fill gaps in students' knowledge and understanding or offer students extension opportunities.</p>
         </div>
         <div class="col" title="Interactive Resources">
         <h4>Resources as a platform for engagement</h4>
@@ -182,11 +182,11 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="Interaction with the Professions">
         <h4>Engagement with the professions</h4>
-        <p>Students engage with the professions through workplace learning experiences or mentoring arrangements. Learning experiences and assignments are aligned to the workplace and/or professional contexts to ensure purposeful implementation of knowledge, skills and practice. A supportive connection between CSU, the student and partner is established before the placement (or other WPL experience) and maintained during and after its conclusion. Student are integrated into the complex and holistic aspects of the profession, developing inter-professional skills, personal ownership of their professional identity and critically reflecting on their own practice.</p>
+        <p>Students engage with the professions through workplace learning experiences or mentoring arrangements. Learning experiences and assignments are aligned to the workplace and/or professional contexts to ensure purposeful implementation of knowledge, skills and practice. A supportive connection between CSU, the student and partner is established before the placement (or other WPL experience) and maintained during and after its conclusion. Students are integrated into the complex and holistic aspects of the profession, developing inter-professional skills, personal ownership of their professional identity and critically reflecting on their own practice.</p>
         </div>
         <div class="col" title="Flexible &amp; Adaptive Learning">
         <h4>Responsive by design</h4>
-        <p>Teaching approaches and activities are designed to be responsive to student behaviour and demonstrated knowledge. This flexible approach acknowledges that some cohorts of students can be quite diverse and that a one size fits all approach will not work. Utilising early data and adaptive learning systems or resources the teacher can adjust content and experiences dynamically in order to meet the needs of a range of students.</p>
+        <p>Teaching approaches and activities are designed to be responsive to student behaviour and demonstrated knowledge. This flexible approach acknowledges that some cohorts of students can be quite diverse and that a one size fits all approach will not work. Utilising early data and adaptive learning systems or resources, the teacher can adjust content and experiences dynamically in order to meet the needs of a range of students.</p>
         </div>
         <div class="col" title="Interactive Resources">
         <h4>Interactive &amp; adaptive resources</h4>
@@ -194,7 +194,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="e-Assessment">
         <h4>Contributing to real world resources</h4>
-        <p>Participatory assessment tasks require students to contribute to produce an artefact or body of work that can be used by others. This kind of activity is enhanced significantly with online tools as students can access real-time communication and work together using collaborative authoring tools. These tasks can be made collaborative to extend to the co-construction of authentic rich media artefacts and learning resources that can be shared and reused.</p>
+        <p>Participatory assessment tasks require students to contribute to the production of an artefact or body of work that can be used by others. This kind of activity is enhanced significantly with online tools as students can access real-time communication and work together using collaborative authoring tools. These tasks can be made collaborative to extend to the co-construction of authentic rich media artefacts and learning resources that can be shared and reused.</p>
         </div>
 	</div>
 	<div class="level gradient-red">
@@ -205,11 +205,11 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="Interaction between Students">
         <h4>Communities of practice</h4>
-        <p>Communities of practice are developed by students and teachers working together to engage in ways relevant to content, current issues and future professional practice. This can be achieved through the co-creation of authentic learning products where students contribute to the development of learning resources and study aids that develops their research skills and experience.Cooperative and collaborative inquiry-based or problem-based learning activities and assessment tasks are strategically designed to facilitate student interaction, leadership and shared resources with the aim of fostering skills, habits and attitudes for lifelong learning.</p>
+        <p>Communities of practice are developed by students and teachers working together to engage in ways relevant to content, current issues and future professional practice. This can be achieved through the co-creation of authentic learning products where students contribute to the development of learning resources and study aids that develop their research skills and experience. Cooperative and collaborative inquiry-based or problem-based learning activities and assessment tasks are strategically designed to facilitate student interaction, leadership and shared resources with the aim of fostering skills, habits and attitudes for lifelong learning.</p>
         </div>
         <div class="col" title="Teacher Presence">
         <h4>Model online practice</h4>
-        <p>The actions, communications and persona of the teacher encourage students to develop their own online persona and social presence in interactions with their fellow learners. Ensuring responsiveness to enquiries, assistance to difficulties and sharing pertinent information modeling the kinds of practices that students should reflect in their own online practices.  The tone and structure of the learning environment  foster student led learning</p>
+        <p>The actions, communications and persona of the teacher encourage students to develop their own online persona and social presence in interactions with their fellow learners. Ensuring responsiveness to enquiries, assistance to difficulties and sharing pertinent information, modelling the kinds of practices that students should reflect in their own online practices.  The tone and structure of the learning environment  foster student led learning</p>
         </div>
         <div class="col" title="interaction with the Professions">
         <h4>Novice professionals</h4>
@@ -221,18 +221,13 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
         <div class="col" title="Interactive Resources">
         <h4>Immersive learning resources</h4>
-        <p>Immersive learning resources can allow students to explore and interact within a simulated, virtual or game based context. Such resources can be modelled on realistic authentic contexts and allow students to undertake simulated professional practices. These resources expose students to open ended learning experiences where they can develop their professional capabilities in a safe environment. Students also benefit from explicit reflection on their practice and professional decision making and from engagement with their peers during and after undertaking simulated tasks, which can lead to follow up exploration of issues and problems beyond those generated by the resources themselves.</p>
+        <p>Immersive learning resources can allow students to explore and interact within a simulated, virtual or game-based context. Such resources can be modelled on realistic authentic contexts and allow students to undertake simulated professional practices. These resources expose students to open-ended learning experiences where they can develop their professional capabilities in a safe environment. Students also benefit from explicit reflection on their practice and professional decision making and from engagement with their peers during and after undertaking simulated tasks, which can lead to follow up exploration of issues and problems beyond those generated by the resources themselves.</p>
         </div>
         <div class="col" title="e-Assessment">
         <h4>Adaptive assessment</h4>
         <p>Assessments offer a range of personalised and adaptive options to provide flexibility in content focus and timing. Students receive real-time feedback in the context of authentic real world activities and are able to choose pathways aligned with their demonstrated competencies and stages of learning. Adaptive assessment tasks can include simulated tasks in immersive environments, such as virtual laboratories or virtual sites, aimed at developing professional capabilities. </p>
         </div>
-	</div>
-
-
-  
-  
-    
+	</div>    
         
 </div>
 <p>&nbsp;</p>
@@ -247,3 +242,13 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
     <a href="mailto:tklapdor@csu.edu.au?subject=CSULX Mixer Feedback" class="mixer-button">Provide Feedback</a></div>
     </div>
 </div>
+
+<div class="row u-release extra-bottom-padding">
+    <div class="container center">
+    <h4 class="">Download Worksheet</h4>
+    <p>Download the Mixer Worksheet</p>
+    <div class="offset-by-four four columns">
+    <a href="{{ site.baseurl}}/documents/Mixer-Handout.pdf" class="mixer-button">Download worksheet</a></div>
+    </div>
+</div>
+

@@ -14,7 +14,7 @@ Student learning is enhanced through online peer learning activities aligned wit
 
 [Browse example strategies]({{ site.baseurl }}/tags/IBS.html)
 
-### Rationale
+### <a name="IBS-strategies"></a>Rationale
 
 In face to face learning contexts studies going back to the 1980s have consistently found that well designed cooperative and collaborative learning strategies can lead to substantial learning benefits in both school and university contexts (Johnson, Johnson, & Smith, 1998; Slavin, 1996; Hattie, 2008). One of the key benefits of such approaches is the way in which they support students in obtaining regular and timely feedback from their peers as they construct and articulate their own personal representation of the ideas and concepts within a subject. While years of empirical research have demonstrated the learning benefits of one-to-one tutoring with individual feedback for students as consistently the most effective teaching strategy with the highest effect size in terms of student achievement (Bloom, 1984), cooperative learning and peer teaching strategies have been repeatedly found to be the most effective alternatives (see for example Fuchs et al, 1997; Hattie, 2008). In a higher education context where individual teacher support is always going to be limited, the latter is clearly more feasible (Boud, Cohen & Sampson, 2014).
 
@@ -33,21 +33,13 @@ Consistent with Biggs’ (1996) notion of constructive alignment it is well know
 
 The following paragraphs describe some more specific examples of interactive learning activities and strategies for supporting them.
 
-**Online discussions** 
+**Online discussions** - [Synchronous Discussions](#) &  [Asynchronous Discussions](#) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives. 
 
-[Synchronous Discussions](#) &  [Asynchronous Discussions](#) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives. 
+**Peer teaching** - [Peer teaching](http://drive.google.com/open?id=1rYD2MtWlWMFm2Le6SQr8vvEsZAGOwDokQWliyB8eUTQ) activities where students support the learning of their fellow students can be valuable to both of the students involved.
 
-**Peer teaching** 
+**Collaborative group projects** - Collaborative learning tasks require students to work together towards the creation of learning products and authentic professional artefacts. Within this collaborative practice students engage in deep conceptual and professional dialogue with their peers. [Collaborative Group Projects](http://drive.google.com/open?id=1x9SiNAbLKA32qJEMzCnVRaFci2Y_3J_Mt6u84fGH-XA) can be valuable both in terms of the way in which the learning of the group of students is supported as well as for developing important graduate outcomes relating to collaboration and group work.
 
-[Peer teaching](http://drive.google.com/open?id=1rYD2MtWlWMFm2Le6SQr8vvEsZAGOwDokQWliyB8eUTQ) activities where students support the learning of their fellow students can be valuable to both of the students involved.
-
-**Collaborative group projects** 
-
-Collaborative learning tasks require students to work together towards the creation of learning products and authentic professional artefacts. Within this collaborative practice students engage in deep conceptual and professional dialogue with their peers. [Collaborative Group Projects](http://drive.google.com/open?id=1x9SiNAbLKA32qJEMzCnVRaFci2Y_3J_Mt6u84fGH-XA) can be valuable both in terms of the way in which the learning of the group of students is supported as well as for developing important graduate outcomes relating to collaboration and group work.
-
-**Online reflective journals** 
-
-The benefits of reflection on learning experiences both during and after professional practice have been well documented over many years (see, for example, Schon, 1987; Brockbank & McGill, 2007). Traditionally when students have been required to record their thoughts and reflections, this has been done as a personal journal or a personal piece of reflective writing (see, for example, Stoughton, 2007). More recently, however, a number of benefits of [online reflective journals](http://drive.google.com/open?id=1vQlTAECz19A_JPYWYbrckDWbvu1-j9JII5h7r96E0Q0) or blogs have been identified, including the following:
+**Online reflective journals** - The benefits of reflection on learning experiences both during and after professional practice have been well documented over many years (see, for example, Schon, 1987; Brockbank & McGill, 2007). Traditionally when students have been required to record their thoughts and reflections, this has been done as a personal journal or a personal piece of reflective writing (see, for example, Stoughton, 2007). More recently, however, a number of benefits of [online reflective journals](http://drive.google.com/open?id=1vQlTAECz19A_JPYWYbrckDWbvu1-j9JII5h7r96E0Q0) or blogs have been identified, including the following:
 
 - Allowing students’ reflections to be read by their peers and lecturers may encourage them to take more time to think through their postings, which consequently may lead to more detailed posts and a deeper level of reflection (J. Farmer, 2004; Stiler & Philleo, 2003).
 - The recording of the date and time of each posting may encourage students to post more regular reflections especially when regular reflections are part of an assessment requirement (Hourigan & Murray, 2010).
@@ -65,13 +57,9 @@ Drawing together findings from a number of studies, the following are some key r
 - When designing an online reflective activity to be undertaken by students while on professional or clinical placement, it is important to consider the other demands being placed on students during the placement (Dalgarno, Reupert & Bishop, 2014).
 - Regular participation in the online community by faculty staff is important, but the focus of postings should be on questioning and commenting to facilitate deep reflection and to encourage peer support rather than to provide answers as an ‘expert’ in the discipline (McLoughlin & Lee, 2010; Top, Yukselturk, & Inan, 2010).
 
-**Cooperative learning**
+**Cooperative learning** - Cooperative learning provides a structure through which students are required to undertake complementary learning activities which collectively lead to the achievement of shared learning goals. Students take responsibility for engaging with specific ideas and content and then share their developing understandings with the group. Cooperative learning activities can also be embedded within broader [problem-based](http://drive.google.com/open?id=1wxKPb_oTHaoDfc9WN0T0-TY8tSzXOowrFx00VHfryFg) or [inquiry-based](http://drive.google.com/open?id=1RbgpwTatry0fZzNamzB2RJoj4yumaxBck65N4PSIvn8) learning activities. 
 
-Cooperative learning provides a structure through which students are required to undertake complementary learning activities which collectively lead to the achievement of shared learning goals. Students take responsibility for engaging with specific ideas and content and then share their developing understandings with the group. Cooperative learning activities can also be embedded within broader [problem-based](http://drive.google.com/open?id=1wxKPb_oTHaoDfc9WN0T0-TY8tSzXOowrFx00VHfryFg) or [inquiry-based](http://drive.google.com/open?id=1RbgpwTatry0fZzNamzB2RJoj4yumaxBck65N4PSIvn8) learning activities. 
-
-**Co-creation** 
-
-[Co-creation of authentic learning products](http://drive.google.com/open?id=1P7L5hksid5Dn0tc1x8fzXd9qvopCqV8TPDvUW8twEfc) can involve participatory learning activities requiring students to contribute together to produce a shared artefact or body of work through collaboration via synchronous or asynchronous communication tools and/or collaborative authoring tools. 
+**Co-creation** - [Co-creation of authentic learning products](http://drive.google.com/open?id=1P7L5hksid5Dn0tc1x8fzXd9qvopCqV8TPDvUW8twEfc) can involve participatory learning activities requiring students to contribute together to produce a shared artefact or body of work through collaboration via synchronous or asynchronous communication tools and/or collaborative authoring tools. 
 
 <div class="apa-ref" markdown="1">
 

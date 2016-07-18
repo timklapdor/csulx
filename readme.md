@@ -5,6 +5,16 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 
 ### Updates
 
+**17th July 2016**
+
+- Updated mixer content, inverted table
+- Updated content on all element pages
+- Used ```html <a name="tith"></a>``` to create anchor tags
+- Added youtube Embedd via ```liquid {% include youtubePlayer.html id="ZThtaJ1_VUs" %}``` just swap out the ID and wrap in layout div
+
+
+
+
 **15 July 2016**
 
 - Replaced placeholder text on homepage

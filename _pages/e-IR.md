@@ -28,31 +28,19 @@ Resources can be curated from those available commercially, within Open Educatio
 
 One reason for the slow application of interactive resources is the fact that their development has traditionally been costly. New models are needed to acquire and obtain access to such resources for students. Such models can include the use of Open Educational Resources such as MOOCs, or collaborative ventures with other institutions to create resources suitable for use across a range of courses and subjects. In some cases the co-creation of resources can be a valuable learning experience for students and such resources can then become valuable learning resources for future student cohorts. 
 
-### Strategies
+### <a name="IR-strategies"></a>Strategies
 
-**Sub-cohorts**
+**Sub-cohorts** - The creation of [smaller sub cohorts ](#)within large cohorts, facilitated by a tutor who builds community, provides formative feedback and marks assessment tasks;
 
-The creation of [smaller sub cohorts ](#)within large cohorts, facilitated by a tutor who builds community, provides formative feedback and marks assessment tasks;
+**Resources to contextualise online discussions** - Use of [video resources to contextualise](#) an online discussion activity in a professional or community context;
 
-**Resources to contextualise online discussions.**
+**Resources to support problem based learning** - [Rich media resources supporting](#) problem based or cooperative learning activities.
 
-Use of [video resources to contextualise](#) an online discussion activity in a professional or community context;
+**Critical reflection upon illustrated cases** - Critical reflection upon cases [illustrated through photos, audio or video](#).
 
-**Resources to support problem based learning**
+**Exploration through conceptual simulations** - Simulations and adaptive learning resources that use high fidelity media to illustrate key ideas and require students to interactively demonstrate their understanding of concepts, [Simulations & Exploratory Learning](#)
 
-[Rich media resources supporting](#) problem based or cooperative learning activities.
-
-**Critical reflection upon illustrated cases**
-
-Critical reflection upon cases [illustrated through photos, audio or video](#).
-
-**Exploration through conceptual simulations**
-
-Simulations and adaptive learning resources that use high fidelity media to illustrate key ideas and require students to interactively demonstrate their understanding of concepts, [Simulations & Exploratory Learning](#)
-
-**Immersive practice environments**
-
-Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning, [Immersive Environments for Simulated Practice](#)
+**Immersive practice environments** - Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning, [Immersive Environments for Simulated Practice](#)
 
 ### References
 

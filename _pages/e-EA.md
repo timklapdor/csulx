@@ -26,39 +26,23 @@ Constructive  alignment between intended learning outcomes, learning activities 
 
 Some have questioned whether a computer-based exam is any more authentic than a paper-based exam. We would agree that just translating a paper-based exam to an electronic format only marginally increases the authenticity of the assessment practice. However, once we have the infrastructure and processes in place to offer computer-based exams this opens up the opportunity for a wider range of tasks to be assessed under examination conditions. This can embrace tasks requiring the use of specialist software like Computer Assisted Design tools, computer programming environments, accounting packages and spreadsheets and also include tasks where students are expected to search for and synthesise information from online sources.
 
-### Strategies
+### <a name="EA-strategies"></a>Strategies
 
-**Construction of authentic rich media artefacts**
+**Construction of authentic rich media artefacts** - Construction of authentic [rich media artefacts](#) modelled on the products of the profession Including collaborative tasks leading to the co-construction of authentic rich media artefacts;
 
-Construction of authentic [rich media artefacts](#) modelled on the products of the profession Including collaborative tasks leading to the co-construction of authentic rich media artefacts;
+**ePortfolios** - [ePortfolios](#) to capture student reflection on learning and practice and to record and demonstrate professional capabilities achieved on workplace learning placement;
 
-**ePortfolios**
+**Blogs and online journals** - [Blogging](#) and [online journals](#) allowing critical reflection as a foundation for peer discussion, with formative and summative assessment of contributions;
 
-[ePortfolios](#) to capture student reflection on learning and practice and to record and demonstrate professional capabilities achieved on workplace learning placement;
+**Self-marking quizzes** - Adaptive learning resources incorporating [self-marking quizzes](#) for formative and summative feedback;
 
-**Blogs and online journals**
+**Automated plagiarism checking, online marking and online peer assessment** - Technology afforded formative and summative feedback strategies including automated [plagiarism checking](#), [online marking](#A) and [peer assessment](#);
 
-[Blogging](#) and [online journals](#) allowing critical reflection as a foundation for peer discussion, with formative and summative assessment of contributions;
+**Badges for micro-credentialing of competencies** - [Badges for micro-credentialing](#) of competencies assessed within subjects and workplace learning placements;
 
-**Self-marking quizzes**
+**Contemporary computer-based exams with remote exam invigilation** - Contemporary [computer-based exam](#) options with [remote exam invigilation](#).
 
-Adaptive learning resources incorporating [self-marking quizzes](#) for formative and summative feedback;
-
-**Automated plagiarism checking, online marking and online peer assessment.**
-
-Technology afforded formative and summative feedback strategies including automated [plagiarism checking](#), [online marking](#A) and [peer assessment](#);
-
-**Badges for micro-credentialing of competencies.**
-
-[Badges for micro-credentialing](#) of competencies assessed within subjects and workplace learning placements;
-
-**Contemporary computer-based exams with remote exam invigilation.**
-
-Contemporary [computer-based exam](#) options with [remote exam invigilation](#).
-
-**Assessment of simulated tasks**
-
-Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment.
+**Assessment of simulated tasks** - Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment.
 
 ### References
 

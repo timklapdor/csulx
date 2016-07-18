@@ -26,39 +26,23 @@ Online  technologies have the potential to increase the connectedness between st
 
 As well as supporting connections to professionals and professional contexts, strategies within this element also support the development of professional capabilities, induction into the culture and values of the profession, and an ethos of lifelong learning and career planning. 
 
-### Strategies
+### <a name="IWP-strategies"></a>Strategies
 
-**Case studies**
+**Case studies** - Professional contexts can be highlighted through rich media [case studies](#) connecting theory to practice.
 
-Professional contexts can be highlighted through rich media [case studies](#) connecting theory to practice.
+**Guest lectures** - Professional practitioners can be invited to join the learning community as [guest online lecturers](#) or guest facilitators of online discussions. 
 
-**Guest lectures**
+**Practice focussed assessment** - Authentic [practice-focused assessment tasks](#) can support development of professional identities.
 
-Professional practitioners can be invited to join the learning community as [guest online lecturers](#) or guest facilitators of online discussions. 
+**Reflection on practice** - Assessment tasks which require students to draw on and [reflect upon their experiences on professional](#) or clinical WPL placement can be valuable for connecting theory to practice.
 
-**Practice focussed assessment**
+**Online discussions during WPL** - Strategies to allow students to share experiences and reflections and engage in online [discussions during work placements](#) with university teaching staff can support the bringing together of ideas from these two sites of learning.
 
-Authentic [practice-focused assessment tasks](#) can support development of professional identities.
+**Role plays and simulations** - [Online role plays](#) and [simulations](#) can be an important strategy to develop students professional capabilities, either in advance of workplace learning placement, or as a way of bringing experiences and capabilities from work placement into the learning community.
 
-**Reflection on practice**
+**Online mentoring** - [Online mentoring](#) and [professional networking](#) can be important ways of engaging students with professions and professionals. 
 
-Assessment tasks which require students to draw on and [reflect upon their experiences on professional](#) or clinical WPL placement can be valuable for connecting theory to practice.
-
-**Online discussions during WPL**
-
-Strategies to allow students to share experiences and reflections and engage in online [discussions during work placements](#) with university teaching staff can support the bringing together of ideas from these two sites of learning.
-
-**Role plays and simulations**
-
-[Online role plays](#) and [simulations](#) can be an important strategy to develop students professional capabilities, either in advance of workplace learning placement, or as a way of bringing experiences and capabilities from work placement into the learning community.
-
-**Online mentoring**
-
-[Online mentoring](#) and [professional networking](#) can be important ways of engaging students with professions and professionals. 
-
-**Connections to practice sites**
-
-With the increasing availability of video conference technology the potential to establish video [connections to sites of practice](h#) either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible.
+**Connections to practice sites** - With the increasing availability of video conference technology the potential to establish video [connections to sites of practice](h#) either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible.
 
 ### References
 
