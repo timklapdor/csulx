@@ -19,7 +19,7 @@ layout: default
     {% else %}
       {% assign listed_posts_urls = listed_posts_urls | push: mypost.url  %}
         
-            <li><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></li>
+    <li><strong><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></strong> - <em>{{ mypost.description }}</em></li>
         
     {% endif %}
   {% endfor %}

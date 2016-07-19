@@ -5,94 +5,71 @@
     <description>Developed and Maintained by Charles Sturt University&#39;s u!magine</description>
     <link>/csulx/</link>
     <atom:link href="/csulx/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jul 2016 12:50:53 +1000</pubDate>
-    <lastBuildDate>Mon, 18 Jul 2016 12:50:53 +1000</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2016 11:42:15 +1000</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2016 11:42:15 +1000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Video Lectures</title>
+        <title>Computer Based Exams</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Recording Video Lectures for online students provides a richer engagement with the subject concepts than is possible with text. The sound and  ‘live’ nature of the resource helps convey the presence of the teacher. The tone of voice and other aspects of the audio contribute to students understanding of the topic and possible nuances in concepts.&lt;/p&gt;
-
-&lt;p&gt;Video provides a rich medium to convey information but to also provide an avenue to embed some of the teacher’s personality.&lt;/p&gt;
+&lt;p&gt;A computer based exam is a an exam which replaces the more traditional paper based exam and may or may not involve the use of a remote indivigulator to monitor the student/s during the completion of the task.&lt;/p&gt;
 
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
 
-&lt;p&gt;Video Lectures provide a version of ‘the lecture’ that is more tailored to the online environment than providing a CSU Replay recording of the internal lecture, which can sometimes have issues with sound as the lecturer moves in relation to the microphone. The video lectures have become a resource used by internal students as well.&lt;/p&gt;
+&lt;p&gt;The provision of computer based exams provide students with a contemporary and flexible method of completing assessment tasks. This approach is more in keeping with the ways that students complete other assessment tasks (i.e. with computers) and is a more flexible practice than the requirement for students to travel to their nearest exam centre to sit a paper based exam.&lt;/p&gt;
 
 &lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-&lt;p&gt;SCI103&lt;/p&gt;
+
+&lt;p&gt;HIP202 Research for Health Practice.&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-&lt;p&gt;Ana Horta&lt;/p&gt;
+
+&lt;p&gt;Dr. Kylie Murphy&lt;/p&gt;
 
 &lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
 
-&lt;p&gt;The Video Lectures help the online students to feel that they are not missing out because of their study mode. They provide an effective way of augmenting the existing content students have and provide a timely way to address questions and provide support to the whole cohort of students.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HIP202 Research For Health Practice&lt;/em&gt; is a second year common subject undertaken by most students within the school of Community Health at CSU. The aim of this subject is to begin these students on the journey to becoming evidence based health practitioners. This subject is designed to provide students with an introductory experience to utilising information and research and applying this knowledge to the specific problems of their health discipline/s. Throughout this subject students are taught to, and get the chance to implement a range of skills including the development of sophisticated database search terms (including Boolean operators) creating and saving database permalinks, understanding the structure and function of a wide range of qualitative and qualitative research approaches and associated documentation. Students become skilled at doing all of these things to solve authentic problems over the course of the subject, so the apparent misalignment between the subject and it’s main assessment task, a paper based exam, were clear. Providing students with a large collection of printed resources was both in-authentic and wasteful.&lt;/p&gt;
 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
 
-&lt;p&gt;The SCI103 video lectures include screen-captures as well as audio and video, and mostly range from 20-40 minutes. They were created to provide online  students with more coverage and explanation of the concepts presented in the online modules, textbook and recommended readings. Like lectures, there is one for each week. Through these video lectures the voice and personality of the lecturer comes through as a real human being, and so helps convey teacher presence.&lt;/p&gt;
+&lt;p&gt;Creating a suitable replacement task for this paper based exam revolved around firstly determining alignment between subject outcomes, the assessable components in question and then ensuring that students could access a fair and well designed assessment which was supported by current CSU platforms. In the end, the Interact2 test centre was chosen as the platform because of the support available and (through an extended period of testing and trialing) the ability to remove technical glitches. Over 190 students completed the assessment task simultaneously in a three hour period during exam week in July 2016, with all three student cohorts reporting an increased satisfaction of the subject and the assessment practices, as measured by the student experience survey. Key messages from this implementation process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A team development process is crucial-as the academic, developing and building a vision for what you want to achieve in innovating in your assessments is crucial, but getting people around you so that you can access the right skills at the right time is key-your educational designer can support you with project management on these larger tasks.&lt;/li&gt;
+  &lt;li&gt;Sustainability versus ‘do-ability’-at some point, when you have less support, will you be able to carry out some of the trouble shooting yourself? Investing time upfront in understanding how the system will work will gain you time in the long term.&lt;/li&gt;
+  &lt;li&gt;Starting point-critically analyse what you are offering as assessment, not just how you are offering it-consider all parts when undertaking assessment changes-who, what, when, where, how, why…and for who.&lt;/li&gt;
+  &lt;li&gt;Be explicit in linking between learning outcomes and design of the e-exam-particularly useful so that students could see why the changes were being made in this research and information literacy subject&lt;/li&gt;
+  &lt;li&gt;Integrate the e-exam into the delivery of the subject i.e. providing advance notice through announcements, practice e-exams, pre-emptive student troubleshooting tips, familiarisation. In essence, consider the user experience of your e-exam.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
+&lt;p&gt;If you are looking to implement a computer based exam within your subject/s, there are some important considerations to make when planning this approach:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Integrity - Given that many exams at CSU are relatively high stakes, it is important to take into account the ways which you will maintain the integrity of the assessment task so that students are assessed on a level playing field. If you are planning on utilizing the increasing range of remote invigilator services available (see here) these concerns are somewhat minimized as the student’s identification will be verified by the invigilator.&lt;/li&gt;
+  &lt;li&gt;Design - If you are not planning on utilising these kinds invigilator services, the design of the exam can increase the integrity of the assessment. For example, an exam containing extended answer sections to complement multiple choice questions gives you as the assessor greater opportunity to cross reference any work against the student’s prior performance within the subject.&lt;/li&gt;
+  &lt;li&gt;Exam platform - It is possible to build an effective e-exam within the interact2 test environment. A growing practice is the creation of one overall exam which consists of several ‘tests’, each of which can only be accessed once the previous one has been reviewed and submitted. This has several advantages including the fact that you can choose to make students complete the exam in a specified or random order, and as a result it minimises chances for integrity breaches. In addition, there are a range of functionalities such as the ability to store audio, video and files within the test environment, these being available from other areas of your subject site. Additionally, utilizing the supported test centre functionalities within interact2 means that you can schedule specific opening and closing times for these assessment tasks, meaning that support can be organised around this timeframe.&lt;/li&gt;
+  &lt;li&gt;Another effective safeguard in ensuring integrity is undertaking a range of pre-moderation activities. In a typical exam environment, students will be presented with the same scenario. In an e-exam, it is possible to present a range of scenarios in which students are asked to apply knowledge and skills. Key to this is the development and pre-moderation of a range of equivalent scenarios that students must respond to. The alternative to this aspect is providing one scenario but a range of ways to respond. Building a range of options makes it harder for collusion to occur, but it is important to follow a rigorous pre- moderation process.&lt;/li&gt;
+  &lt;li&gt;There are other non-supported technologies for offering e-exams, but utilising these is problematic as they will not link to CSU systems such as grade centre. In some situations bespoke solutions can be created in order to embed currently unsupported software platforms, but this process requires an extensive planning and implementation time frame.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.csu.edu.au/division/dit/staff/training/self-help/teaching-technology-and-support&quot;&gt;CSU Replay&lt;/a&gt;&lt;/strong&gt; provides a desktop capture solution that allows you to record and upload presentations back into the system for students to access.&lt;/p&gt;
+&lt;p&gt;Interact2 - various tools including Test Centre and Grade Centre are important in the design and development of your computer based exam.&lt;/p&gt;
 
-&lt;h3 id=&quot;literature&quot;&gt;Literature&lt;/h3&gt;
-
-&lt;p&gt;Swan, K., Shea, P., Richardson, J., Ice, P., Garrison, D., Cleveland-Innes, M., et al. (2008). Validating a measurement tool of presence in online communities of inquiry. &lt;em&gt;E-mentor, 2&lt;/em&gt;(24), 1-12.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Anderson, et. al. (2001) describe the design and organization aspect of teaching presence as the planning and design of the structure, process, interaction and evaluation aspects of the online course. Some of the activities comprising this category of teaching presence include re-creating Power Point presentations and lecture notes onto the course site, developing audio/video mini-lectures, providing personal insights into the course material, creating a desirable mix of and a schedule for individual and group activities, and providing guidelines on how to use the medium effectively.” - p3&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nearly the same point verbatim by Garrison, D. R., &amp;amp; Arbaugh, J. B. (2007). Researching the community of inquiry framework: Review, issues, and future directions. &lt;em&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/j.iheduc.2007.04.001&quot;&gt;The Internet and Higher Education, 10&lt;/a&gt;&lt;/em&gt;(3), 157-172.  and  p.168&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Also, the increased ease with which media such as audio and video can be introduced into virtual learning environments may have significant implications for the structure, development, and interaction of the three presences (Arbaugh, 2005b; Stodel et al., 2006; Wagner, 2006).”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sheridan, T. B. (1992). Musings on telepresence and virtual presence. &lt;em&gt;Presence: Teleoper. Virtual Environ.&lt;/em&gt;, 1(1), 120-126 mentions video as part of conveying telepresence&lt;/p&gt;
-
-&lt;p&gt;Some assertion of video as a strategy for teacher presence is Ostashewski, N. (2015). A tale of three MOOCs: Designing for meaningful teacher presence in large-enrolment courses. In S. Carliner, C. Fulford &amp;amp; N. Ostashewski (Eds.), &lt;em&gt;Proceedings of EdMedia: World Conference on Educational Media and Technology 2015&lt;/em&gt; (Vol. 2015, pp. 1279-1284): Association for the Advancement of Computing in Education (AACE).&lt;/p&gt;
-
-&lt;p&gt;Recognises audio and video as a way of creating social presence - Dunlap, J. C., &amp;amp; Lowenthal, P. R. (2009). Tweeting the Night Away: Using Twitter to Enhance Social Presence. [Article]. &lt;em&gt;Journal of Information Systems Education, 20&lt;/em&gt;(2), 129-135.&lt;/p&gt;
-
-&lt;p&gt;Suggests that video can convey teacher immediacy Arbaugh, J. B. (2001). How Instructor Immediacy Behaviors Affect Student Satisfaction and Learning in Web-Based Courses. [Article]. &lt;em&gt;Business Communication Quarterly, 64&lt;/em&gt;(4), 42-54.&lt;/p&gt;
-
-&lt;p&gt;In Anderson, T., Rourke, L., Garrison, D. R., &amp;amp; Archer, W. (2001). Assessing teacher presence in a computer conferencing context. &lt;em&gt;&lt;a href=&quot;(http://auspace.athabascau.ca/bitstream/2149/2725/2141/assessing_teaching_presence.pdf on Oct-2014)&quot;&gt;Journal of the Asynchronous Learning Network, 5&lt;/a&gt;&lt;/em&gt;(2), they say&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Certainly teaching in an online environment is influenced by the absence of the non-verbal communication that occurs in the face-to-face settings of conventional education, and the reduction in the amount of paralinguistic information transmitted, as compared to some other modes of distance education such as video or audio teleconferencing.” p. 14&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In in Lowenthal, P. R. (2010). Social presence. In S. Dasgupta (Ed.), &lt;em&gt;Social computing: Concepts, methodologies, tools, and applications&lt;/em&gt; (Vol. 1, pp. 129-136). Hershey, PA: Information Science Reference  (IGI Global).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“people perceive some communication media as having a higher degree of social presence (e.g., video) than other communication media (e.g., audio).”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Video can convey excitement (and presumably other emotion) to students Anderson, T. (2008). Teaching in an online learning context. In T. Anderson (Ed.), &lt;em&gt;Theory and practice of online learning&lt;/em&gt; (pp. 343-365). Athabasca University, Edmonton, AB: AU Press.  Also, p. 359&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Although teaching presence is most commonly set in synchronous or asynchronous activities of the virtual classroom, it can also be set through fixed formats such as access to frequently-asked-questions databases or audio-, video-, or text-based presentations.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Improving online social presence through asynchronous video J Borup, RE West, CR Graham - &lt;em&gt;&lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S109675161100073X&quot;&gt;The Internet and Higher Education&lt;/a&gt;&lt;/em&gt;, 2012 - Elsevier&lt;/p&gt;
-
-&lt;p&gt;The effects of video on cognitive load and social presence in multimedia-learning BD Homer, JL Plass, L Blake - &lt;em&gt;Computers in Human Behavior&lt;/em&gt;, 2008 - Elsevier&lt;/p&gt;
-
+&lt;p&gt;Content Creation - you may need to utilise a range of tools including word processing programs such as Word or Pages. Alternatively, Test Centre does have a range of content creation tools including Word/Audio/Video which can be deployed in the test environment.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 01:35:00 +1000</pubDate>
-        <link>/csulx/strategy/video-letures.html</link>
-        <guid isPermaLink="true">/csulx/strategy/video-letures.html</guid>
+        <pubDate>Tue, 19 Jul 2016 10:37:00 +1000</pubDate>
+        <link>/csulx/strategy/computer-based-exams.html</link>
+        <guid isPermaLink="true">/csulx/strategy/computer-based-exams.html</guid>
         
-        <category>Teacher Presence</category>
+        <category>Flexible &amp; Adaptive Learning</category>
+        
+        <category>E-Assessment</category>
         
         
         <category>strategy</category>
@@ -100,40 +77,101 @@
       </item>
     
       <item>
-        <title>Strategy Template</title>
+        <title>Online Marking &amp; Effective Feedback</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
+&lt;p&gt;It is well established that students benefit from constructive feedback on their learning. Everyday learning activities as well as special tasks and tests provide opportunities for the provision of feedback. Online marking presents a diverse range of tools that are designed for provide much richer options for feedback to students that include verbal, visual and written feedback.&lt;/p&gt;
+
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;The digital tools available today can increase the personalisation possible and can greatly increase the turnaround time. The ability and ease in which quality audio feedback can be incorporated into the marking process can have many positive effects. The students engagement in their assessments is improved with personalised feedback and the teacher’s voice can make distance students feel more connected and reduce feelings of isolations. The use of verbal feedback provides a link for students with someone they know, that is not just a name in a subject outline but a real person, who cares about their progress and achievements.&lt;/p&gt;
 
 &lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
+&lt;p&gt;BMS 240, BMS241 and BMS352&lt;/p&gt;
+
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
+&lt;p&gt;Wouter Kalle&lt;/p&gt;
 
 &lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
 
+&lt;p&gt;Feedback is one of the most important aspects in student learning and traditionally scores quite low in the SES scores at CSU. An initiative in the UK called the &lt;em&gt;audio supported enhanced learning support project&lt;/em&gt; (Stewart 2008) set out to use technology to enhance and personalise teaching. A study in the USA found that using audio feedback was faster than written feedback but the quality of the feedback increased at least 2-fold ((Ice, Curtis, Phillips, &amp;amp; Wells, 2007). Whilst this is not the place to give a full review on the benefits of audio feedback, there is widespread agreement in the literature that audio feedback is a superior form of feedback which will enhance learning and teaching (Dickson, 2015)&lt;/p&gt;
+
+&lt;p&gt;However another maybe even more important aspect of audio feedback is the opportunity to provide a more personal connection with the student which could lead to more engagement of the students with their subject, their course and even the university (Rowe 2011). Studies have shown an increased ability to understand the feedback, as there is more nuance and intonation and greater feelings of subject involvement especially in distance education (Oleseva and Richardson 2011). All this means that audio feedback can provide a system to create greater personal contact and maybe even emotional support (Rowe 2011). This shows that this type of feedback could be an extremely useful tool to increase subject engagement and student retention in online programs at CSU.&lt;/p&gt;
+
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
 
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+&lt;p&gt;Briefly, the audio feedback system is set up as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assignments are downloaded from EASTS website on the due date.&lt;/li&gt;
+  &lt;li&gt;In the text different coloured highlights are made and if necessary comments are created using MS-word.&lt;/li&gt;
+  &lt;li&gt;Using MS-Word, the criteria are pasted in front of the assignment and the levels attained are highlighted and marks are awarded to each separate criterion.&lt;/li&gt;
+  &lt;li&gt;Final marks are recorded in spreadsheet&lt;/li&gt;
+  &lt;li&gt;Using a very simple Apple Mac app (called lecture recorder) and the computer microphone audio feedback is recorded for the student. The student’s first name is used and both the criteria and marks, are discussed.  The various highlights and comments in the text are explained.&lt;/li&gt;
+  &lt;li&gt;The recording is usually between 3 minutes (very good marks, HD level) and 7 minutes (lots of remarks, usually PS/CR level).&lt;/li&gt;
+  &lt;li&gt;Marked files are sent back to the students through EASTS to record return date&lt;/li&gt;
+  &lt;li&gt;An email is sent to the students using the EASTS handing-in email containing the marked file and the audio file. This ‘double-up’ is done as the linking of the audio file to the marked document does not work very well and sometimes the audio file gets lost in the EASTS transition. Also this is a point of Quality Control to check whether all assignments have been marked and marks recorded.&lt;/li&gt;
+  &lt;li&gt;Quality Control is ensured by using the original file names for the audio files and consistently using student numbers and student names to record audio feedback and marks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The audio feedback always flows according to a fixed pattern. Below is an excerpt of a typical audio feedback file:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Good morning (students first name), I just wanted to give you some audio feedback on your (subject code) assignment. As you can see I have copied and pasted the criteria in front of your work and blocked out the levels you have attained in pink. I added up all the marks and you scored X marks out of a hundred”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A description of the levels attained follows including an explanation why these were attained.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Looking at your assignment I have highlighted some parts which will be discussed now”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The highlights are in different colours depending on whether they are regarding content, grammar, referencing or general. An explanation of the highlights and comments follows while slowly going through the text. According to personal feedback, students can actually follow the marking and comments through the text and are never lost. The audio feedback always ends with a conclusion and some words of encouragement.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In short, you have achieved X marks, if you would pay attention to (a brief repeat of previous comments) you would easily score a (higher) level. I really enjoyed reading and marking your assignment and looking forward to seeing more of your work”.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
+&lt;p&gt;If you are looking to implementing completely online marking within your subject/s, there are some important considerations to make when planning this approach:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Consider the platform most suitable for your cohort and the assessment task.&lt;/li&gt;
+  &lt;li&gt;The virtues of audio feedback (like any feedback) seem to lay mostly in the detail of the feedback, the guidance it gives to increase quality in future work, the personal touch it gives and the idea of connection to the subject and university as is shown in the above comments and the many emails on the topic.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;EASTS, NORFOLK (or voice recording app)&lt;/p&gt;
+
+&lt;h3 id=&quot;literature&quot;&gt;Literature&lt;/h3&gt;
+
+&lt;div class=&quot;apa-ref&quot;&gt;
+
+  &lt;p&gt;Boud, D. and Associates (2010). &lt;em&gt;Assessment 2020: Seven propositions for assessment reform in higher education&lt;/em&gt;. Sydney: Australian Learning and Teaching Council&lt;/p&gt;
+
+  &lt;p&gt;Dickson S. (2015) The pastoral potential of audio feedback: a review of the literature. &lt;em&gt;Pastoral Care in Education, 33:2&lt;/em&gt;, 96-104&lt;/p&gt;
+
+  &lt;p&gt;Henderson, M., &amp;amp; Phillips, M. (2015). Video-based feedback on student assessment: scarily personal. &lt;em&gt;Australasian Journal of Educational Technology&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ice, P., Curtis, R., Phillips, P., &amp;amp; Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students’ sense of community. &lt;em&gt;Journal of Asynchronous Learning Networks, 11&lt;/em&gt;, 3–26.&lt;/p&gt;
+
+  &lt;p&gt;Olesova, L., &amp;amp; Richardson, J. (2011). Using asynchronous instructional audio feedback in online environments: A mixed methods study. &lt;em&gt;MERLOT Journal of Online Learning and Teaching, 7&lt;/em&gt;, 30–42.&lt;/p&gt;
+
+  &lt;p&gt;Rowe, A. (2011). The personal dimension in teaching: Why students value feedback. &lt;em&gt;International Journal of Educational Management, 25&lt;/em&gt;, 343–360.&lt;/p&gt;
+
+  &lt;p&gt;Stewart, W. (2008). ASEL project plan. JISC. Retrieved from &lt;a href=&quot;http://www.jisc.ac.uk/media/documents/programmes/usersandinnovation/aselplan.pdf&quot;&gt;http://www.jisc.ac.uk/media/documents/programmes/usersandinnovation/aselplan.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 01:34:00 +1000</pubDate>
-        <link>/csulx/strategy/template.html</link>
-        <guid isPermaLink="true">/csulx/strategy/template.html</guid>
-        
-        <category>Learning Communities</category>
-        
-        <category>Interaction Between Students</category>
-        
-        <category>Teacher Presence</category>
-        
-        <category>Interaction with the Professions</category>
-        
-        <category>Flexible &amp; Adaptive Learning</category>
+        <pubDate>Tue, 19 Jul 2016 10:30:00 +1000</pubDate>
+        <link>/csulx/strategy/online-marking-effective-feedback.html</link>
+        <guid isPermaLink="true">/csulx/strategy/online-marking-effective-feedback.html</guid>
         
         <category>Interactive Resources</category>
         
@@ -145,168 +183,61 @@
       </item>
     
       <item>
-        <title>Social Media Streams</title>
+        <title>Welcome Videos</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;A welcome video of between 5-10 minutes can be used at the commencement of a new subject by the academic/instructor to provide aspects such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introductory information about the subject such as how it fits in with the students wider course that the student is completing-e.g. What prior learning it builds upon&lt;/li&gt;
+  &lt;li&gt;Clarify early concerns that the academic suspects students might hold based on his/her prior experience in delivering the subject-for example the academic might flag that students need to consider completing a pre-requisite subject&lt;/li&gt;
+  &lt;li&gt;Makes clear the primary methods of communication that will be utilised throughout the subject&lt;/li&gt;
+  &lt;li&gt;provides students some introductory background regarding the academic’s experience and background in this field of study, giving students a sense of confidence&lt;/li&gt;
+  &lt;li&gt;Highlight key aspects of the assessment for the subject and key teaching and learning information&lt;/li&gt;
+  &lt;li&gt;Gives students some insight into interests or hobbies etc in order to position themselves as someone who is also managing the demands of work, study and life and which provides an opening for students to themselves provide some some information which can help form the basis of deeper engagement when studying online.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
 
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
+&lt;p&gt;The use of a welcome video, available before or at the start of session helps a student establish the context for the teaching, learning and assessment that will occur in the subject. Providing this information in a video, instead of solely relying on a text-based approach, helps students more readily identify with the academic. Providing a welcome video which clearly articulates expectations and highlights the important aspects of the subject can be a foundation to increasing learner-to-academic interaction, this being a key aspect in increasing learner engagement. Research such as that carried out as part of the &lt;a href=&quot;http://www.lowses.edu.au/assets/ALTC%20LSES%20Final%20Report%202012.pdf&quot;&gt;LSES report&lt;/a&gt; clearly highlights the need for students, particularly those from non traditional backgrounds, to be able to feel that their lecturers are approachable and support their learning journey. Providing a welcome video is an important part of the strategy mix in achieving these aims.&lt;/p&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
+&lt;p&gt;To create a successful Welcome Video there are some decisions to make:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t try to explain every topic/week within the video - focus on aspects such as summarising the learning outcomes and describing the assessment tasks in conjunction with details that will allow students to make a successful commencement to the subject. The intention should be to welcome students and complement the information that is already available to them. To that end, prioritise the key messages you want students to know when they finish your welcome video.&lt;/li&gt;
+  &lt;li&gt;Consider the context of the video - can you get creative and record the video in a location other than your office? For example, for a science subject, could you record the welcome video in the lab? Getting a colleague to assist you to record via e.g. smartphone in a genuine setting is at least as powerful for students as a click through powerpoint with voiceover, and your enthusiasm for the subject will be readily apparent to students.&lt;/li&gt;
+  &lt;li&gt;The creation of a welcome video need not be onerous - rather than creating a start to finish ‘script’, an equally useful approach is to create a series of headings with supporting ‘talking points.’ A ‘welcome’ video will potentially feel more welcoming if it is relatively informal and accessible, with just the key aspects conveyed to students. Equally important is the fact that you needn’t feel compelled to have every latest feature in your video production - a simply delivered clear message that students can identify with is more than adequate.&lt;/li&gt;
+  &lt;li&gt;Think about how your use of a welcome video fits in with your broader plan to build and maintain your teacher presence and how you will communicate with students throughout the subject. Successful student communication is relevant, timely and accessible. Your communication approach shouldn’t be a moving target for students-in other words, utilising a smaller range of communication strategies in an effective and efficient way means greater consistency and provides one less barrier for success for online learners who will quickly learn where and how you communicate-a trait online students appreciate.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;To create a welcome video there is a wide variety of tools available, many of them CSU supported technologies:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CSU Replay/Personal Capture&lt;/strong&gt; (Echo360) - useful when you wish to capture both yourself as a ‘talking head’ in conjunction with what you are presenting. Of course this software provides options such as voice capture with screen only. A useful tool because the start to finish process can be handled from your desktop;it’s a CSU supported technology and provides ease of insertion into your subject space within interact2&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Adobe Connect&lt;/strong&gt; - used primarily within CSU as a meeting tool, but does provide a screenshare and recording functionality-particularly useful if you intend on providing a recording of an online meeting you have run as a ‘Welcome’ type meeting at the start of your subject.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Computer webcams&lt;/strong&gt; - you can create a direct to camera recording utilising the webcam and microphone on your desktop/laptop (PC or mac) and there a numerous options for making this available e.g. storing and streaming in youtube as a private channel and embedding in your interact2 homepage or uploading the file into i2 as well (not recommended as students will incur greater download charges).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mobile technologies&lt;/strong&gt; - such as ipads and smartphones can provide you with a quick and easy way to capture footage ‘in the real world.’ Be aware that these files can quickly become large in size and emailing as a means of moving files can quickly degrade the quality, rendering them unusable. The best way to move these files is through a cloud storage solution such as google drive or dropbox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;div class=&quot;apa-ref&quot;&gt;
+
+  &lt;p&gt;Borup, J., West, R. E., &amp;amp; Graham, C. R. (2012). Improving online social presence through asynchronous video. &lt;em&gt;The Internet and Higher Education&lt;/em&gt;,&lt;em&gt;15&lt;/em&gt;(3), 195-203.&lt;/p&gt;
+
+&lt;/div&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 01:33:00 +1000</pubDate>
-        <link>/csulx/strategy/social-streams.html</link>
-        <guid isPermaLink="true">/csulx/strategy/social-streams.html</guid>
+        <pubDate>Tue, 19 Jul 2016 10:22:00 +1000</pubDate>
+        <link>/csulx/strategy/welcome-videos.html</link>
+        <guid isPermaLink="true">/csulx/strategy/welcome-videos.html</guid>
         
         <category>Learning Communities</category>
         
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Creating a Shared Resource</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 04 Jul 2016 01:32:00 +1000</pubDate>
-        <link>/csulx/strategy/shared-resource.html</link>
-        <guid isPermaLink="true">/csulx/strategy/shared-resource.html</guid>
-        
-        <category>Learning Communities</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Personalisation of the Environment</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 04 Jul 2016 01:31:00 +1000</pubDate>
-        <link>/csulx/strategy/personalising-environment.html</link>
-        <guid isPermaLink="true">/csulx/strategy/personalising-environment.html</guid>
-        
-        <category>Learning Communities</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Orientation to the Environment</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 04 Jul 2016 01:30:00 +1000</pubDate>
-        <link>/csulx/strategy/orienting-environment.html</link>
-        <guid isPermaLink="true">/csulx/strategy/orienting-environment.html</guid>
-        
-        <category>Learning Communities</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Team Teaching</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;A Team Approach to teaching can include a number of staff teaching the subject at the same time but may also include looking beyond the immediate teaching staff to include relevant staff members from across CSU in the online space, in a students focused manner, e.g. making sure that library staff are included in the online teaching space for this subject. An example of this is the library staff hosting their own thread within the discussion forum of this subject.&lt;/p&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-&lt;p&gt;MGT100&lt;/p&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching Staff&lt;/h4&gt;
-&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-&lt;p&gt;This motivated the development of a team approach, whereby various members of staff were present in the online teaching space to provide support for students in both a proactive and reactive manner.&lt;/p&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-&lt;p&gt;A key area of focus in MGT100 was the development of a ‘team’ approach to staffing within the online environment. The subject coordinator was complemented by an array of support staff who had a permanent presence within the Interact2 space-library staff, members of the ALLaN team, educational designers and of particular note, the inclusion of a ‘Student Mentor.’&lt;/p&gt;
-
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
-&lt;p&gt;An increase in threads generated by staff members (approx. 16% year on year increase), arguably a sign of increased and varied ‘teacher presence’&lt;/p&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 04 Jul 2016 00:03:00 +1000</pubDate>
-        <link>/csulx/strategy/team-teaching.html</link>
-        <guid isPermaLink="true">/csulx/strategy/team-teaching.html</guid>
+        <category>Interaction Between Students</category>
         
         <category>Teacher Presence</category>
         
@@ -316,44 +247,169 @@
       </item>
     
       <item>
-        <title>Collaborative Study Groups</title>
+        <title>Reflective Journals</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
+&lt;p&gt;Reflection is an internal dialogue facilitated by writing and creative strategies as a way of expressing, sharing, assessing and developing professional experience. By recognising and taking responsibility for personal and professional identity, values, action and feelings the student undertaking reflection within the constructs of a subject or course is demonstrating a willingness to stay with uncertainty, doubt and questioning in order to engage in spirited enquiry leading to constructive developmental change and professional integrity based on deep understanding. Knowing what to reflect upon is as critical a part of the educative process as the reflection action itself, and is a pedagogical approach that draws in reflective practice and reflexivity - finding strategies to question attitudes, values and limits of personal knowledge. A key area in the development of the professional practitioner is the ability to reflect on practise as part of the process of learning in order to foster continuous professional growth.&lt;/p&gt;
+
+&lt;p&gt;Digital reflective journals are part of a pedagogically enriched learning design within online or technology-rich context to support and improve learning experiences. A reflective journal is also especially useful for assessing intended learning outcomes  relating to the application of content knowledge, professional judgement and reflection on past decisions and problem solving, with a view to improving them. Reflective thinking also helps students develop a questioning attitude and new perspective; identify areas for change and improvement; respond effectively to challenges; and generalise and apply what they have learned from one situation to other situations.&lt;/p&gt;
+
+&lt;p&gt;When it comes to online learning students need time to locate their new learning within framework of their subject or course, and academics as teachers need to support and nurture learners to learn within the same connected and collaborative learning environments as teaching takes place.&lt;/p&gt;
+
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;A digital reflective journal written as a blog provides students with the freedom to engage with content, ideas, discoveries, disappointments, or  to simply ponder their learning. Online learning journals should be open and shared spaces, ready for enjoyment as well as providing an opportunity for students to demonstrate functioning knowledge.  Part of the engagement is being able to share with others in the cohort, as a participatory learning experience, and to make use of  (or learn how to) leverage the affordances of online platforms to better engage with  content or  leverage available resources to communicate thoughts, discoveries, academic reflections, and multimedia artefacts. Students are also able to demonstrate learning through multimodal additions to the online reflective journal.  A reflective journal provides a flexible and responsive way to share the joy of learning!&lt;/p&gt;
 
 &lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-&lt;p&gt;MGT100&lt;/p&gt;
+
+&lt;p&gt;INF530 Concepts and practices in a digital age&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
+
+&lt;p&gt;Judy O’Connell&lt;/p&gt;
 
 &lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;MGT 100 Organisations and Management&lt;/em&gt; is one of the foundational management subjects within the Faculty of Business at CSU. The Study Buddy groups were established first and foremost to address the sense of isolation that many students can feel despite  being part of a cohort that numbers in the hundreds. This subject is undertaken by students from a very diverse range of courses both within CSU and our partner institutions, meaning that it can be harder for students to easily find connections to students studying in similar courses or even similar geographical locations.&lt;/p&gt;
+
+&lt;p&gt;This keystone subject establishes the reflective journal process for use within the subject, but more particularly within the whole course. Students are encouraged to extend themselves by peer responses to their work, and are motivated to explore and embrace the affordances of the online environment to explore their knowledge and share their experiences.&lt;/p&gt;
 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-&lt;p&gt;Students were grouped in ‘Study Buddy’ Groups which required them to engage with their fellow group members early in the session (prior to the first assessment) to increase their familiarity with the online learning environment and build some level of rapport with fellow students, as many students within MGT100 are entering higher education for the first time. As MGT100 has several hundred students each session, creating a sense of connectedness is an important consideration in the planning for this subject. Students were asked to complete the following tasks within their 15 person ‘Study Buddy’ small peer group, early in the session in order to successfully complete the first assessment task.&lt;/p&gt;
 
-&lt;p&gt;Students were able to enrol in any one of the 20 Buddy Groups, each of which contained a group discussion board where the Student Mentor was also present in conversations and responses. By engaging students in interactions in groups of no more than 20 students in the critical early phase of session, it was aimed to lessen potential anxiety and maximise opportunity for interaction rather than feel swamped by being one of many hundreds of students.&lt;/p&gt;
+&lt;p&gt;CSU Thinkspace provided the ideal vehicle for transforming learning experiences through the use of a reflective journal. Using a CSU username and password students are introduced to a platform that has full flexibility for customisation to reflect personal preferences and provide a touch of motivation. Importantly this is also linked to a range of  formative steps supported by the academic in building knowledge and understanding:&lt;/p&gt;
 
-&lt;h4 id=&quot;successes&quot;&gt;Successes&lt;/h4&gt;
-&lt;p&gt;Providing a clear structure for students to engage was key to ensuring that students had  opportunities to  collaborate and improve the overall chances of success.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Key topics for reflection&lt;/li&gt;
+  &lt;li&gt;Peer-to-peer responses&lt;/li&gt;
+  &lt;li&gt;Teacher feedback&lt;/li&gt;
+  &lt;li&gt;Literacy and communication&lt;/li&gt;
+  &lt;li&gt;Celebration of learning achievements&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads.&lt;/p&gt;
+&lt;p&gt;“I found the blogging aspect really helpful to make connections and illustrate my learning to myself and others.”&lt;/p&gt;
 
-&lt;p&gt;Significant rises in overall student activity-10% increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year&lt;/p&gt;
+&lt;p&gt;“HAVING to create a professional blog - helpful for me to clarify and reflect on my learning throughout this subject; and great to be able to share my classmates learning via their blogs too.”&lt;/p&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-&lt;p&gt;Don’t create small groups without a clear understanding of how it will improve the student experience. Certain subjects and topics lend themselves to working in groups, as do certain student cohorts. Link with your structure with your teaching and learning and, ideally, your assessment practices. By creating a grouping experience and structure that incorporates assessment in some way you are more likely to garner the attention and participation of students, giving you the best chance of giving students the benefit of small group participation.&lt;/p&gt;
+
+&lt;p&gt;In looking for opportunities to develop and offer students an opportunity to engage in reflective journalling there are a range of considerations that need to be made:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reflective journals provide an opportunity for students to explore, ask questions, respond to readings, summarize key ideas, recognise strengths and weaknesses in their emerging professional understanding and/or practice.&lt;/li&gt;
+  &lt;li&gt;Understand why you are introducing this strategy. Reflective journals can be a powerful way to build understanding while also providing a responsive mechanism for personalisation of the learning process. However the process is unlikely to be nurtured by introducing too many compulsory posts, tight timelines, or other artificial constraints particularly where there is no teacher presence visible.&lt;/li&gt;
+  &lt;li&gt;Consider your strategy for  engaging interaction between students, in order to build community while also fostering a capacity for personal autonomy and accountability in the process of knowledge networking. Link the reflective journal activity to connected learning experiences or elements of professional practice.&lt;/li&gt;
+  &lt;li&gt;Make a decision about the contextual setting of your reflective journal activities.  Will your cohort be working in Interact2 in a ‘closed’ learner-community space, or will your cohort be working in open, collaborative public spaces engaging with the cohort and beyond with the discipline and/or profession?&lt;/li&gt;
+  &lt;li&gt;All forms of online learning journals are valuable, but should be designed to best support the required participatory experiences of individual subjects or courses.&lt;/li&gt;
+  &lt;li&gt;It is best not to ask students to cut and paste blog posts and place them into a discussion forum, or vice versa. However, some students do like to share the depth of their growing ideas and understanding,  and how they do this in relation to a reflective journal post is up to them or your class structures. For example, students can provide a link to their post via Twitter and the subject hashtag, or perhaps begin a discussion forum post with “I have just written a post about….” providing a linked URL and commenting on why that post has been important to their emerging understanding relevant to the Discussion forum.&lt;/li&gt;
+  &lt;li&gt;An online journal post can extend on, or allow deeper personal deliberation of content emerging in the class discussion forum.&lt;/li&gt;
+  &lt;li&gt;Work may be formative or summative, therefore careful consideration of the learning design of the subject and/or course is essential&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;CSU Thinkspace; PebblePad; Interact2 blog; other online platforms&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;div class=&quot;apa-ref&quot;&gt;
+
+  &lt;p&gt;Bull, G., Thompson, A., Searson, M., Garafalo, J., Park, J., Young, C., et al, (2008). Connecting informal and formal learning experiences in the age of participatory media. &lt;em&gt;Contemporary issues in technology and teacher education&lt;/em&gt;, 8(2), 100-107.&lt;/p&gt;
+
+  &lt;p&gt;Cho, M. H., &amp;amp; Kim, B. J. (2013). Students’ self-regulation for interaction with others in online learning environments. &lt;em&gt;The Internet and Higher Education&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;, 69-75.&lt;/p&gt;
+
+  &lt;p&gt;Garrison, D.R. (2015). &lt;em&gt;Thinking collaboratively: Learning in a community of enquiry&lt;/em&gt;. London: Taylor &amp;amp; Francis.&lt;/p&gt;
+
+&lt;/div&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 00:02:00 +1000</pubDate>
-        <link>/csulx/strategy/collaborative-study-groups.html</link>
-        <guid isPermaLink="true">/csulx/strategy/collaborative-study-groups.html</guid>
+        <pubDate>Tue, 19 Jul 2016 10:14:00 +1000</pubDate>
+        <link>/csulx/strategy/reflective-journals.html</link>
+        <guid isPermaLink="true">/csulx/strategy/reflective-journals.html</guid>
         
         <category>Interaction Between Students</category>
+        
+        <category>Teacher Presence</category>
+        
+        <category>Interaction with the Professions</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Asynchronous Discussions</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Asynchronous discussions are tasks that students can access and engage with at anytime, they do not have to be on their computer at a set time or in a set place. Asynchronous discussions are specifically designed to be flexible and are able to be engaged with at anytime in order to fit into the student’s study schedule, be it midday or midnight. These discussion can be made compulsory and tied to assessment tasks or optional and act as a support tool for students. Like all discussion tasks they need to have a specific purpose or discussion point in order to motivate students. While traditionally text based discussion forums have been the tool of choice,  there are a range of new tools that utilise rich media such as video and audio to facilitate these discussions.&lt;/p&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;Providing asynchronous discussion opportunities from your students is an essential element of the Online/DE learning experience for all CSU students. If students are engaged with &lt;em&gt;you&lt;/em&gt; as the teacher, and engaged with &lt;em&gt;peers&lt;/em&gt; as learning colleagues, they are far more likely to participate and contribute, and achieve better results.&lt;/p&gt;
+
+&lt;p&gt;Additionally, ensuring that all subjects provide Asynchronous discussion opportunities is essential given the needs of our students whilst completing their degree. So many CSU Online students work part-time or even full time, are caring for children or sick relatives, or even travelling abroad for work. Students cannot always participate in the synchronous Online Meetings so they need suitable asynchronous engagement opportunities to integrate with their individual study schedules.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;p&gt;EMT409&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching Staff&lt;/h4&gt;
+
+&lt;p&gt;Alissa Brabin&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;p&gt;Throughout the Course, students were indicating they had minimal social interaction between themselves, and limited use of online tools. This subject was redesigned to focus on developing social presence, interaction between students and sharing of ideas and developing a Community of Practice (CoP). The early assessments and learning tasks were also designed as a stepping stone for developing a CoP as required in Assessment 3. Students reported that after 2 years of studying part-time as a cohort, this was the first time they had actually heard or seen each other!&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;p&gt;The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for assessment purposes for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology. There were only 46 students in this class but some of these videos had over 2000 views.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe src=&quot;https://flipgrid.com/#f8e02656&quot; width=&quot;650&quot; height=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;p&gt;Be clear about the use of the tool as well as the question or focus of the activity. Linking discussions to Assessment provides an extrinsic motivation and can be a key strategy to encourage student participation. Be sure to make the engagement opportunities simple for student to access by providing embedded links to reduce the navigation required to find the point of engagement.&lt;/p&gt;
+
+&lt;p&gt;Different tools have different affordances and can be used in quite different ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Discussion Forums&lt;/strong&gt; - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blogs&lt;/strong&gt; - Ideally suited for summative assessments. If students are able to see and comment on each other’s work, they are more likely to engage due to the inherent benefit that a CoP offers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recordings of Online Meetings&lt;/strong&gt; - &lt;em&gt;always&lt;/em&gt; record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;FlipGrip&lt;/strong&gt; - Allows the academic to ask a question or present discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into i2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include &lt;a href=&quot;http://www.flipgrid.com&quot;&gt;FlipGrip&lt;/a&gt; and &lt;a href=&quot;https://cel.ly/&quot;&gt;Celly&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;div class=&quot;apa-ref&quot;&gt;
+
+  &lt;p&gt;Aragon, S (2003). Creating Social Presence in Online Environments. &lt;em&gt;New Directions for Adult and Continuing Education&lt;/em&gt;, (100) pp. 57-68.&lt;/p&gt;
+
+  &lt;p&gt;Boud, D., Cohen, R., &amp;amp; Sampson, J. (Eds.). (2014). &lt;em&gt;Peer learning in higher education: Learning from and with each other&lt;/em&gt;. Routledge&lt;/p&gt;
+
+  &lt;p&gt;Karel Kreijnsa, Paul A. Kirschnerb, Wim Jochemsb (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. &lt;em&gt;Computers in Human Behavior&lt;/em&gt; (19). pp. 335–353.&lt;/p&gt;
+
+  &lt;p&gt;McLoughlin, C. &amp;amp; Lee, M.J.W. (2010). Developing an online community to promote engagement and professional learning for pre-service teachers using social software tools. &lt;em&gt;Journal of Cases in Information Technology, 12&lt;/em&gt;(1), 17-30.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2016 10:03:00 +1000</pubDate>
+        <link>/csulx/strategy/asynchronous-discussions.html</link>
+        <guid isPermaLink="true">/csulx/strategy/asynchronous-discussions.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        <category>Interaction Between Students</category>
+        
+        <category>Teacher Presence</category>
         
         
         <category>strategy</category>
@@ -362,88 +418,53 @@
     
       <item>
         <title>Dividing Large Cohorts</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;This strategy entails dividing up a large cohort of student in a subject into smaller groups. These groups can then function in a variety of different ways:&lt;/p&gt;
+        <description>&lt;p&gt;This strategy entails dividing up a large cohort of student in a subject into smaller sub-cohorts. These sub-cohorts provide a more manageable way to for teaching to occur and provide a way to allocate teaching staff to specific groups of students. These staff members can then take a more active role in the facilitation of discussions, marking of assignments and providing feedback as well as answering student queries. For students a small group makes it easier to interact with each other as they are less likely to be lost or overwhelmed.&lt;/p&gt;
 
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
 
-&lt;p&gt;Small groups are beneficial to online students in large cohorts because they have the potential to provide an increased sense of connectedness and belonging and increases the chances that students will interact repeatedly with students and therefore form bonds with these students.&lt;/p&gt;
+&lt;p&gt;Small groups are beneficial to online students in large cohorts because they have the potential to provide an increased sense of connectedness and belonging and increases the chances that students will interact repeatedly with other students and therefore form bonds with their peers.&lt;/p&gt;
 
 &lt;h3 id=&quot;in-practice&quot;&gt;In Practice:&lt;/h3&gt;
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
 &lt;p&gt;MGT100&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+
 &lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
 
 &lt;h4 id=&quot;motivation&quot;&gt;Motivation:&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;MGT 100 Organisations and Management&lt;/em&gt; is one of the foundational management subjects within the Faculty of Business at CSU. The motivations for running a small grouping pilot were (and remain) multifaceted.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MGT100 Organisations and Management&lt;/em&gt; is one of the foundational management subjects within the Faculty of Business at CSU. The motivations for running a small grouping pilot were (and remain) multifaceted.&lt;/p&gt;
 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation:&lt;/h4&gt;
+
 &lt;p&gt;A key lesson from this pilot would be that ‘compulsory’ group membership and engagement up to the first assessment supported the aims of the project, which was to make students comfortable and engaged in the online learning space.&lt;/p&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-&lt;p&gt;Consider why you want students to engage in a grouping strategy. Is it to collaborate in an authentic manner? Engage students early to help familiarise with the online learning space? Develop some peer connections?&lt;/p&gt;
+
+&lt;p&gt;Consider why you want students to engage in a grouping strategy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Is it to collaborate in an authentic manner?&lt;/li&gt;
+  &lt;li&gt;Engage students early to help familiarise with the online learning space?&lt;/li&gt;
+  &lt;li&gt;Develop some peer connections?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;There are many reasons why you would choose a grouping strategy within a large online cohort, but keeping one or two of the most key reasons in mind helps to clarify both what you expect of students and what the students can expect of you.&lt;/p&gt;
 
 &lt;p&gt;Consider the practical implications-in large cohorts of hundreds of students, what strategies will you implement to ensure that the grouping process is a positive for both you and students? For example, how likely is it that you will be able to communicate in a nuanced way with students in (potentially) 20+ small groups without considering workload and logistical aspects? Having a timely discussion with your Head of School and Course Director about the grouping strategy you’d like to trial can provide the impetus to explore how workload of casual teaching and marking staff can be used to support the objectives of your planned changes. Having an active student mentor to support the academic in fielding questions and providing responses in a large first year cohort such as this seemed to provide some alleviation to the communication demands inherent in a grouping strategy.&lt;/p&gt;
 
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Blackboard&lt;/strong&gt; provides a basic grouping tool that allows each group to be provisioned with their own set of tools for collaboration and communication.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blackboard&lt;/strong&gt; provides a basic grouping tool that allows each group to be provisioned with their own set of tools for collaboration and communication. uImagine are currently working on a new grouping tool for Blackboard to provide more options and to make the process quicker&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 00:01:00 +1000</pubDate>
+        <pubDate>Tue, 19 Jul 2016 10:00:00 +1000</pubDate>
         <link>/csulx/strategy/dividing-large-cohorts.html</link>
         <guid isPermaLink="true">/csulx/strategy/dividing-large-cohorts.html</guid>
         
         <category>Learning Communities</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Student Mentoring</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice:&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-&lt;p&gt;MGT100&lt;/p&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-&lt;p&gt;Dr. Wendy Webber&lt;/p&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-&lt;p&gt;In a large cohort of first time students, it was also felt that providing an alternate voice besides the academic would provide students with further role modelling and an additional points of contact.&lt;/p&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-&lt;p&gt;MGT100 inclusion of a ‘Student Mentor.’ This student mentor was a former student of MGT100 who was subsequently employed to provide both proactive and ‘just in-time’ engagement with students in the form of discussion board interaction and pre-emptive posts which acted as ‘sign posts’ for students-pointing them in the right direction for resources, tips on study and managing workload and assignment preparation, amongst other aspects.&lt;/p&gt;
-
-&lt;p&gt;This Student Mentor was a critical component in planning the staff team approach within MGT100. As a former student of the subject the mentor was able to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Provide regular updates to students in a ‘student friendly’ manner-informal tone.&lt;/li&gt;
-  &lt;li&gt;Give snippets of the mentor’s life alongside her study routines  which demonstrated the need to plan for study amongst outside commitments, a skill not always prevalent in new students.&lt;/li&gt;
-  &lt;li&gt;Provide timely reminders about accessing resources and planning ahead for assignment preparation and submission&lt;/li&gt;
-  &lt;li&gt;Position themselves within the Interact2 site as a ‘safe’ person for students to ask questions of via the discussion forums within each study buddy group.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The student mentor posed a series of pre-agreed ‘pre-emptive’ posts ahead of key points in the subject i.e. providing students with the direct link to the referencing page in the days before an essay or exam tips ahead of the exam period. The student mentor was also given license to respond to student questions on a regular ad-hoc basis and was particularly effective in redirecting students to existing information.&lt;/p&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 04 Jul 2016 00:00:00 +1000</pubDate>
-        <link>/csulx/strategy/student-mentoring.html</link>
-        <guid isPermaLink="true">/csulx/strategy/student-mentoring.html</guid>
-        
-        <category>Interaction Between Students</category>
         
         
         <category>strategy</category>

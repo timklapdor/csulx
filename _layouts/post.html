@@ -7,12 +7,13 @@ layout: default
     <a onclick="window.history.back()"><button class="back-button">Back</button></a>
     
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta"><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
     
 </header>
   
     
-<article class="post-content">
+<article class="post-content extra-top-padding">
+    
+    <p class="post-meta blue"><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
     {{ content }}
 </article>
     

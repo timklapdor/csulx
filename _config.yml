@@ -12,6 +12,9 @@ github_username:  csuLX
 include: ['_pages']
 permalink: /:categories/:title.html
 
+#Timezone
+timezone: Australia/Sydney
+
 #Setup for Prose.io - https://github.com/prose/prose/wiki/Getting-Started
 prose:
   rooturl: '_posts'
