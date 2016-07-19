@@ -36,11 +36,11 @@ Some have questioned whether a computer-based exam is any more authentic than a 
 
 **Self-marking quizzes** - Adaptive learning resources incorporating [self-marking quizzes](#) for formative and summative feedback;
 
-**Automated plagiarism checking, online marking and online peer assessment** - Technology afforded formative and summative feedback strategies including automated [plagiarism checking](#), [online marking](#A) and [peer assessment](#);
+**Automated plagiarism checking, online marking and online peer assessment** - Technology afforded formative and summative feedback strategies including automated [plagiarism checking](#), [online marking]({{ site.baseurl }}/strategy/online-marking-effective-feedback.html) and [peer assessment](#);
 
 **Badges for micro-credentialing of competencies** - [Badges for micro-credentialing](#) of competencies assessed within subjects and workplace learning placements;
 
-**Contemporary computer-based exams with remote exam invigilation** - Contemporary [computer-based exam](#) options with [remote exam invigilation](#).
+**Contemporary computer-based exams with remote exam invigilation** - Contemporary [computer-based exam]({{ site.baseurl}}/strategy/computer-based-exams.html) options with [remote exam invigilation](#).
 
 **Assessment of simulated tasks** - Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment.
 

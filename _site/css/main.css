@@ -506,6 +506,9 @@ pre > code {
 .grey-bg {
   background-color: #333333; }
 
+.light-grey-bg {
+  background-color: #f1f1f1; }
+
 .orange {
   color: #ff5800; }
 
@@ -1465,3 +1468,10 @@ td:last-child {
   left: 0;
   width: 100%;
   height: 100%; }
+
+.image-container {
+  width: 100%;
+  box-sizing: border-box; }
+
+.image-container img {
+  width: 100%; }

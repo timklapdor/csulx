@@ -3,7 +3,7 @@ layout: post
 title: "Reflective Journals"
 date: 2016-07-19 11:14:00 +1100
 category: strategy
-tags: [Interaction Between Students, Teacher Presence, Interaction with the Professions,] 
+tags: [Interaction Between Students, Interaction with the Professions,] 
 description: "Utilising reflective practices to build students personal and professional identity"
 ---
 

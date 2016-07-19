@@ -10,7 +10,7 @@ layout: default
 <div class="page-content">
 <a onclick="window.history.back()"><button class="back-button">Back</button></a>
 
-<p>Exemplary strategies for <strong>{{ page.title }}</strong> include:</p>
+<p>Example strategies for <strong>{{ page.title }}</strong> include:</p>
 <ul>
 {% assign listed_posts_urls = page.url | split: ' ' %}
 {% for tag in page.tags %}
@@ -19,7 +19,7 @@ layout: default
     {% else %}
       {% assign listed_posts_urls = listed_posts_urls | push: mypost.url  %}
         
-    <li><strong><a href="{{ site/baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></strong> - <em>{{ mypost.description }}</em></li>
+    <li><strong><a href="{{ site.baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></strong> - <em>{{ mypost.description }}</em></li>
         
     {% endif %}
   {% endfor %}

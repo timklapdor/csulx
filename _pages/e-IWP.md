@@ -34,7 +34,7 @@ As well as supporting connections to professionals and professional contexts, st
 
 **Practice focussed assessment** - Authentic [practice-focused assessment tasks](#) can support development of professional identities.
 
-**Reflection on practice** - Assessment tasks which require students to draw on and [reflect upon their experiences on professional](#) or clinical WPL placement can be valuable for connecting theory to practice.
+**Reflection on practice** - Assessment tasks which require students to draw on and [reflect upon their experiences on professional]({{ site.baseurl }}/strategy/reflective-journals.html) or clinical WPL placement can be valuable for connecting theory to practice.
 
 **Online discussions during WPL** - Strategies to allow students to share experiences and reflections and engage in online [discussions during work placements](#) with university teaching staff can support the bringing together of ideas from these two sites of learning.
 

@@ -35,7 +35,7 @@ The full list of strategies are included below:
 {% assign cats = site.tags[this_word] | sort:"title"  %}    
 {% for post in cats %}{% if post.title != null %}
 
-<li><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> - <em>{{ post.description }}</em></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <em>{{ post.description }}</em></li>
 
 {% endif %}{% endfor %}
 </ul>
