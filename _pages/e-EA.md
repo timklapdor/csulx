@@ -28,19 +28,19 @@ Some have questioned whether a computer-based exam is any more authentic than a 
 
 ### <a name="EA-strategies"></a>Strategies
 
-**Construction of authentic rich media artefacts** - Construction of authentic [rich media artefacts](#) modelled on the products of the profession Including collaborative tasks leading to the co-construction of authentic rich media artefacts;
+**Construction of authentic rich media artefacts** - Construction of authentic [rich media artefacts]({{ site.baseurl }}/strategy/creating-rich-media-artefacts.html) modelled on the products of the profession Including collaborative tasks leading to the co-construction of authentic rich media artefacts;
 
-**ePortfolios** - [ePortfolios](#) to capture student reflection on learning and practice and to record and demonstrate professional capabilities achieved on workplace learning placement;
+**ePortfolios** - ePortfolios to capture student reflection on learning and practice and to record and demonstrate professional capabilities achieved on workplace learning placement;
 
-**Blogs and online journals** - [Blogging](#) and [online journals](#) allowing critical reflection as a foundation for peer discussion, with formative and summative assessment of contributions;
+**Blogs and online journals** - Blogging and [online journals]({{ site.baseurl }}/strategy/reflective-journals.html) allowing critical reflection as a foundation for peer discussion, with formative and summative assessment of contributions;
 
-**Self-marking quizzes** - Adaptive learning resources incorporating [self-marking quizzes](#) for formative and summative feedback;
+**Self-marking quizzes** - Adaptive learning resources incorporating self-marking quizzes for formative and summative feedback;
 
-**Automated plagiarism checking, online marking and online peer assessment** - Technology afforded formative and summative feedback strategies including automated [plagiarism checking](#), [online marking]({{ site.baseurl }}/strategy/online-marking-effective-feedback.html) and [peer assessment](#);
+**Automated plagiarism checking, online marking and online peer assessment** - Technology afforded formative and summative feedback strategies including automated plagiarism checking, [online marking]({{ site.baseurl }}/strategy/online-marking-effective-feedback.html) and peer assessment;
 
-**Badges for micro-credentialing of competencies** - [Badges for micro-credentialing](#) of competencies assessed within subjects and workplace learning placements;
+**Badges for micro-credentialing of competencies** - Badges for micro-credentialing of competencies assessed within subjects and workplace learning placements;
 
-**Contemporary computer-based exams with remote exam invigilation** - Contemporary [computer-based exam]({{ site.baseurl}}/strategy/computer-based-exams.html) options with [remote exam invigilation](#).
+**Contemporary computer-based exams with remote exam invigilation** - Contemporary [computer-based exam]({{ site.baseurl}}/strategy/computer-based-exams.html) options with remote exam invigilation.
 
 **Assessment of simulated tasks** - Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment.
 

@@ -38,7 +38,7 @@ This section sets out a number of specific strategies that are known to be helpf
 
 **Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts]({{ site.baseurl}}/strategy/dividing-large-cohorts.html), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
 
-**Facilitated Socialisation** - Learning activities which support students through orientation to the online environment, socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
+**Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment]({{ site.baseurl}}/strategy/orientation-to-the-environment.html), socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
 
 **Shared Activity** - Community building through contribution to a shared resource such as a gallery of photos containing examples of a concept or experiences from professional placement; 
 

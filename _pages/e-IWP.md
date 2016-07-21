@@ -28,21 +28,21 @@ As well as supporting connections to professionals and professional contexts, st
 
 ### <a name="IWP-strategies"></a>Strategies
 
-**Case studies** - Professional contexts can be highlighted through rich media [case studies](#) connecting theory to practice.
+**Case studies** - Professional contexts can be highlighted through rich media case studies connecting theory to practice.
 
-**Guest lectures** - Professional practitioners can be invited to join the learning community as [guest online lecturers](#) or guest facilitators of online discussions. 
+**Guest lectures** - Professional practitioners can be invited to join the learning community as [guest online lecturers]({{ site.url }}/strategy/guest-lectures.html) or guest facilitators of online discussions. 
 
-**Practice focussed assessment** - Authentic [practice-focused assessment tasks](#) can support development of professional identities.
+**Practice focussed assessment** - Authentic practice-focused assessment tasks can support development of professional identities.
 
 **Reflection on practice** - Assessment tasks which require students to draw on and [reflect upon their experiences on professional]({{ site.baseurl }}/strategy/reflective-journals.html) or clinical WPL placement can be valuable for connecting theory to practice.
 
-**Online discussions during WPL** - Strategies to allow students to share experiences and reflections and engage in online [discussions during work placements](#) with university teaching staff can support the bringing together of ideas from these two sites of learning.
+**Online discussions during WPL** - Strategies to allow students to share experiences and reflections and engage in online discussions during work placements with university teaching staff can support the bringing together of ideas from these two sites of learning.
 
-**Role plays and simulations** - [Online role plays](#) and [simulations](#) can be an important strategy to develop students professional capabilities, either in advance of workplace learning placement, or as a way of bringing experiences and capabilities from work placement into the learning community.
+**Role plays and simulations** - [Online role plays]({{ site.baseurl }}/strategy/role-play.html) and [simulations](#) can be an important strategy to develop students professional capabilities, either in advance of workplace learning placement, or as a way of bringing experiences and capabilities from work placement into the learning community.
 
-**Online mentoring** - [Online mentoring](#) and [professional networking](#) can be important ways of engaging students with professions and professionals. 
+**Online mentoring** - Online mentoring and professional networking can be important ways of engaging students with professions and professionals. 
 
-**Connections to practice sites** - With the increasing availability of video conference technology the potential to establish video [connections to sites of practice](h#) either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible.
+**Connections to practice sites** - With the increasing availability of video conference technology the potential to establish video connections to sites of practice either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible.
 
 ### References
 

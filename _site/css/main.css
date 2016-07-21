@@ -1256,17 +1256,18 @@ nav li:nth-child(odd) {
   font-size: 1em;
   background: #f1f1f1;
   color: #ff5800;
-  padding: 1em; }
+  padding: 1em;
+  margin-bottom: 2rem; }
 
 .post-content h4 {
   font-size: 1em;
   font-weight: bold;
-  margin-left: 2em; }
+  margin-left: 2rem; }
 
-.post-content p {
-  margin-left: 2em; }
+.post-content p, .page-content p {
+  margin-left: 2rem; }
 
-.post-content ul {
+.post-content ul, .page-content ul {
   margin-left: 2em;
   text-indent: -1em;
   padding-left: 1em; }
@@ -1278,6 +1279,10 @@ blockquote p {
   font-style: italic;
   color: #333333;
   font-size: 1.1em; }
+
+.post-content .apa-ref, .page-content .apa-ref {
+  padding-left: 1em;
+  margin-left: 1em; }
 
 @media print {
   /** Setting margins */

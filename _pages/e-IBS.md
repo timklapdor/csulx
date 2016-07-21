@@ -33,11 +33,11 @@ Consistent with Biggs’ (1996) notion of constructive alignment it is well know
 
 The following paragraphs describe some more specific examples of interactive learning activities and strategies for supporting them.
 
-**Online discussions** - [Synchronous Discussions](#) &  [Asynchronous Discussions]({{ site.baseurl }}/strategy/asynchronous-discussions.html) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives. 
+**Online discussions** - Synchronous Discussions &  [Asynchronous Discussions]({{ site.baseurl }}/strategy/asynchronous-discussions.html) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives. 
 
 **Peer teaching** - Peer teaching activities where students support the learning of their fellow students can be valuable to both of the students involved.
 
-**Collaborative group projects** - Collaborative learning tasks require students to work together towards the creation of learning products and authentic professional artefacts. Within this collaborative practice students engage in deep conceptual and professional dialogue with their peers. [Collaborative Group Projects](#) can be valuable both in terms of the way in which the learning of the group of students is supported as well as for developing important graduate outcomes relating to collaboration and group work.
+**Collaborative group projects** - Collaborative learning tasks require students to work together towards the creation of learning products and authentic professional artefacts. Within this collaborative practice students engage in deep conceptual and professional dialogue with their peers. [Collaborative Group Projects]({{ site.baseurl }}/strategy/collaborative-group-projects.html) can be valuable both in terms of the way in which the learning of the group of students is supported as well as for developing important graduate outcomes relating to collaboration and group work.
 
 **Online reflective journals** - The benefits of reflection on learning experiences both during and after professional practice have been well documented over many years (see, for example, Schon, 1987; Brockbank & McGill, 2007). Traditionally when students have been required to record their thoughts and reflections, this has been done as a personal journal or a personal piece of reflective writing (see, for example, Stoughton, 2007). More recently, however, a number of benefits of [online reflective journals]({{ site.baseurl }}/strategy/reflective-journals.html) or blogs have been identified, including the following:
 

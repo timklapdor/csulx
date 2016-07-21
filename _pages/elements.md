@@ -27,7 +27,7 @@ Each of the seven elements of the Online Learning Model are designed to increase
     <h4 class="">Download Summary Document</h4>
     <p>A summary document is available to download:</p>
     <div class="offset-by-four four columns">
-    <a href="{{ site.baseurl }}/documents/OLM-V2-A4.pdf" class="mixer-button">Summary PDF</a></div>
+    <a href="{{ site.baseurl }}/documents/OLM-V2-A4.pdf" class="mixer-button orange-bg">Summary PDF</a></div>
     </div>
 </div>
 
