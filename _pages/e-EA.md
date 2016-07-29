@@ -12,7 +12,13 @@ short: ea
 
 Digital technologies present new possibilities for the ways in which students undertake and submit assessment tasks, the way in which feedback is provided and the kinds of learner activities that can be assessed. Authentic assessment tasks which require students to demonstrate practices of the target profession can be provisioned in ways that scaffold students and ensure professional and practice-based learning outcomes. This element supports enhanced learner-content and learner-learner engagement.
 
-[Browse example strategies]({{ site.baseurl }}/tags/EA.html)
+Watch the video for an overview of the element.
+
+{% include youtubePlayer.html id="YRARQprfO6c" %}
+
+<div class="offset-by-two extra-top-padding container">
+<a href="{{ site.baseurl }}/tags/EA.html" class="mixer-button pink-bg">Browse example strategies</a>
+</div>
 
 ### Rationale
 

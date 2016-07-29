@@ -11,10 +11,6 @@ description: "Allowing students to draw on their own discipline knowledge experi
 
 Choice Within Assessments
 
-### Element Tags (which elements does it support?) 
-
-Flexible and adaptive learning, Interaction with the professions, INteraction between students
-
 ### Overview
 
 Providing greater choice within an assessment is a great way to personalise the learning experience for each individual student. Subject enrolments often include students from a wide range of disciplines and assessment tasks can be developed to cater for this diversity. Questions can be aligned with different discipline areas and ask students to draw on those unique aspects of their society. Student could also have choice around the type of artefact they may produce - from essay through a presentation. 

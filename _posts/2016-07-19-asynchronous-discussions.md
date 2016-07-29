@@ -36,7 +36,7 @@ Throughout the Course, students were indicating they had minimal social interact
 The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for assessment purposes for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology. There were only 46 students in this class but some of these videos had over 2000 views. 
 
 <div class="image-container">
-<img src="../images/flip-grid.jpg">
+<img src="../images/flip-grid.jpg" alt="Flipgrid Screenshot">
 </div>
 
 ### Guide

@@ -12,7 +12,11 @@ short: ibs
 
 Student learning is enhanced through online peer learning activities aligned with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.
 
-[Browse example strategies]({{ site.baseurl }}/tags/IBS.html)
+{% include youtubePlayer.html id="6o6iRkaeOzw" %}
+
+<div class="offset-by-two extra-top-padding container">
+<a href="{{ site.baseurl }}/tags/IBS.html" class="mixer-button pink-bg">Browse example strategies</a>
+</div>
 
 ### <a name="IBS-strategies"></a>Rationale
 

@@ -9,11 +9,11 @@ description: "Providing students with personalised feedback"
 
 ### Overview
 
-It is well established that students benefit from constructive feedback on their learning. Everyday learning activities as well as special tasks and tests provide opportunities for the provision of feedback. Online marking presents a diverse range of tools that are designed for provide much richer options for feedback to students that include verbal, visual and written feedback. 
+It is well established that students benefit from constructive feedback on their learning. Everyday learning activities as well as special tasks and tests provide opportunities for the provision of feedback. Online marking presents a diverse range of tools that are designed to provide much richer options for feedback to students that include verbal, visual and written feedback. 
 
 ### Engagement
 
-The digital tools available today can increase the personalisation possible and can greatly increase the turnaround time. The ability and ease in which quality audio feedback can be incorporated into the marking process can have many positive effects. The students engagement in their assessments is improved with personalised feedback and the teacher’s voice can make distance students feel more connected and reduce feelings of isolations. The use of verbal feedback provides a link for students with someone they know, that is not just a name in a subject outline but a real person, who cares about their progress and achievements.
+The digital tools available today can increase the personalisation possible and can greatly increase the turnaround time. The ability and ease in which quality audio feedback can be incorporated into the marking process allows  positive outcomes for both staff and students. The students engagement in their assessments is improved with personalised feedback and the teacher’s voice can make distance students feel more connected and reduce feelings of isolations. The use of verbal feedback provides a link for students with someone they know, that is not just a name in a subject outline but a real person, who cares about their progress and achievements.
 
 ### In Practice
 

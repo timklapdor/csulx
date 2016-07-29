@@ -20,7 +20,7 @@ This then leads to five categories of student engagement:
 - learner-community engagement, and
 - learner-institution engagement.
 
-Each of the seven elements of the Online Learning Model are designed to increase one or more types of engagement. The elements, which are outlined in the following sections, are designed to be combined together in varying degrees of intensity within the subjects making up a course. The intention is that a specific subject might emphasise about three or four elements rather than the entire model.
+Each of the seven elements of the Online Learning Model are designed to increase one or more types of engagement. The elements, which are outlined in the following sections, are designed to be combined together in varying degrees of intensity within the subjects making up a course.
 
 <div class="row u-release extra-bottom-padding ">
     <div class="container center">
@@ -32,6 +32,13 @@ Each of the seven elements of the Online Learning Model are designed to increase
 </div>
 
 {% include olm-nav.html %}
+
+<div class="container extra-bottom-padding">
+<div class="offset-by-two eight columns">
+The following video provides an overview of the model and each of the elements.
+{% include youtubePlayer.html id="tNbGNynZA8U" %}
+</div>
+</div>
 
 ### The Link to Engagement
 

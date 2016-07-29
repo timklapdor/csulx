@@ -16,7 +16,7 @@ The Learning Exchange helps to connect a range of work undertaken by u!magine th
 
 <div class="u-release orange-bg">
 <div class="container">
-<img src="../images/policy-practice.png" class="twelve columns">
+<img src="../images/policy-practice.png" class="twelve columns" alt="From Practice to Policy Graphic">
 </div>
 </div>
 

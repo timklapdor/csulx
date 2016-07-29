@@ -5,6 +5,12 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 
 ### Updates
 
+**29th July 2016**
+
+- Added videos to the Model & Elements pages
+- Added Alt tags to images
+- Minor fixes to text
+
 **19th July 2016**
 
 - Beginning to add real Strategies to the site

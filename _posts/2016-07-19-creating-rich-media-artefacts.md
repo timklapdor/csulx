@@ -9,11 +9,11 @@ description: "Assessment using photos, audio, video and multimedia presentations
 
 ### Overview
 
-The creation of rich media artefacts including photographic evidence, video records and multimedia presentations by learners can provide an authentic way for learners to develop a variety of digital literacies, technical and communication skills that will be useful in the professions. In addition, the co-construction of rich media artefacts can also offer an authentic collaborative experience for learners and due to advancing and readily available mobile technologies, a range of interactive experiences can be integrated into the collaborative learning environment. In many ways rich media such as video can provide better evidence of students work and their skills and abilities which can greatly improve the effectiveness of the assessment
+The creation of rich media artefacts including photographic evidence, video records and multimedia presentations by learners can provide an authentic way for learners to develop a variety of digital literacies, technical and communication skills that will be useful in the professions. In addition, the co-construction of rich media artefacts can also offer an authentic collaborative experience for learners and due to advancing and readily available mobile technologies, a range of interactive experiences can be integrated into the collaborative learning environment. In many ways rich media such as video can provide better evidence of students,  their skills and abilities than written assignments which can greatly improve the effectiveness of the assessment.
 
 ### Engagement
 
-The use of rich media artefacts can create an engaging learning experience by shifting the attention away from the physical product and on to the learning process. Learners can also engage further self and peer assessment and reflection in an authentic setting. Working with rich media provides an alternative to written assessment tasks and a way for students to express themselves in different ways. 
+The use of rich media artefacts can create an engaging learning experience by shifting the attention away from the physical product and on to the learning process. Learners can also engage further with self and peer assessment and reflection in an authentic setting. Working with rich media provides an alternative to written assessment tasks and a way for students to express themselves in different ways. 
 
 ### Guide
 

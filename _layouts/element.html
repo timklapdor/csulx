@@ -9,7 +9,7 @@ layout: default
 
 <div class="post eight columns page-content">
 
-    <h4 class="element-heading"><img src="../images/{{page.short}}-blk.png" width="10%"> {{ page.title }}</h4>   
+    <h4 class="element-heading"><img src="../images/{{page.short}}-blk.png" width="10%" alt="{{ page.title }} Icon"> {{ page.title }}</h4>   
 
     <article class="">
     {{ content }}
@@ -28,7 +28,7 @@ layout: default
             {% if p.url == page.url %}
               <li class="active-item">{{ p.title }}</li>
             {% else %}
-              <a href="{{site.baseurl}}/{{ p.url }}" title="{{ p.title }}"><li>{{ p.title }}</li></a>
+              <a href="{{site.baseurl}}/{{ p.url }}"><li>{{ p.title }}</li></a>
             {% endif %}
           {% endif %}
         {% endfor %}

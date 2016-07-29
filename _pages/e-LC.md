@@ -12,7 +12,11 @@ short: lc
 
 Feeling part of and actively contributing to a learning community is directly linked to student motivation and resilience. Studying within learning groups can be an important foundation for effective interaction between students, their peers and teachers in support of deeper learning. Proactive support from teachers for learning within smaller groups, provided synchronously or asynchronously, is important if the benefits of intellectual rigour and deep engagement are to be achieved. This element supports enhanced learner-teacher and learner-learner engagement.
 
-[Browse example strategies]({{ site.baseurl }}/tags/LC.html)
+{% include youtubePlayer.html id="T1YJS6LCuT0" %}
+
+<div class="offset-by-two extra-top-padding container">
+<a href="{{ site.baseurl }}/tags/LC.html" class="mixer-button pink-bg">Browse example strategies</a>
+</div>
 
 ### Rationale
 

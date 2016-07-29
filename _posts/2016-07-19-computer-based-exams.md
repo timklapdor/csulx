@@ -9,7 +9,7 @@ description: "Replacing paper based exams"
 
 ### Overview
 
-A computer based exam is a an exam which replaces the more traditional paper based exam and may or may not involve the use of a remote indivigulator to monitor the student/s during the completion of the task. 
+A computer based exam is an exam which replaces the more traditional paper based exam and may or may not involve the use of a remote indivigulator to monitor the student/s during the completion of the task. 
 
 ### Engagement
 
@@ -27,7 +27,7 @@ Dr. Kylie Murphy
 
 #### Motivation
 
-*HIP202 Research For Health Practice* is a second year common subject undertaken by most students within the school of Community Health at CSU. The aim of this subject is to begin these students on the journey to becoming evidence based health practitioners. This subject is designed to provide students with an introductory experience to utilising information and research and applying this knowledge to the specific problems of their health discipline/s. Throughout this subject students are taught to, and get the chance to implement a range of skills including the development of sophisticated database search terms (including Boolean operators) creating and saving database permalinks, understanding the structure and function of a wide range of qualitative and qualitative research approaches and associated documentation. Students become skilled at doing all of these things to solve authentic problems over the course of the subject, so the apparent misalignment between the subject and it’s main assessment task, a paper based exam, were clear. Providing students with a large collection of printed resources was both in-authentic and wasteful. 
+*HIP202 Research For Health Practice* is a second year common subject undertaken by most students within the school of Community Health at CSU. The aim of this subject is to begin these students on the journey to becoming evidence based health practitioners. This subject is designed to provide students with an introductory experience to utilising information and research and applying this knowledge to the specific problems of their health discipline/s. Throughout this subject students are taught to, and get the chance to implement a range of skills including the development of sophisticated database search terms (including Boolean operators) creating and saving database permalinks, understanding the structure and function of a wide range of qualitative and quantitative research approaches and associated documentation. Students become skilled at doing all of these things to solve authentic problems over the course of the subject, so the apparent misalignment between the subject and it’s main assessment task, a paper based exam, were clear. Providing students with a large collection of printed resources was both in-authentic and wasteful. 
 
 #### Implementation
 

@@ -12,7 +12,11 @@ short: iwp
 
 Online strategies which connect students with professionals and sites of professional practice can provide a valuable context for engagement with subject content and make clearer the relevance of the subject learning outcomes by connecting theory to practice. This engagement also supports the development of professional capabilities, induction into the culture and values of the profession, and an ethos of lifelong learning and career planning. This element supports enhanced learner-community engagement.
 
-[Browse example strategies]({{ site.baseurl }}/tags/IWP.html)
+{% include youtubePlayer.html id="BANadsNZF3g" %}
+
+<div class="offset-by-two extra-top-padding container">
+<a href="{{ site.baseurl }}/tags/IWP.html" class="mixer-button pink-bg">Browse example strategies</a>
+</div>
 
 ### Rationale
 

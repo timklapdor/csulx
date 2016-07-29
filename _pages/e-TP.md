@@ -12,7 +12,11 @@ short: tp
 
 Awareness of the presence of a passionate, knowledgeable and skilled online teacher improves student confidence supporting independent learning and socialisation of the learning experience. Regular online communication can bolster student awareness of the support and availability of the teacher and humanise the expectations around learning activities and assessment. Teacher presence can also support the development of learning communities for purposeful interaction between students. This element supports enhanced learner-teacher and learner-learner engagement.
 
-[Browse example strategies]({{ site.baseurl }}/tags/TP.html)
+{% include youtubePlayer.html id="W4u0e0pAWiM" %}
+
+<div class="offset-by-two extra-top-padding container">
+<a href="{{ site.baseurl }}/tags/TP.html" class="mixer-button pink-bg">Browse example strategies</a>
+</div>
 
 ### Rationale
 

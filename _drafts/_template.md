@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-date: 2016-07-20 11:03:00 +1100
+date: 2016-07-21 14:03:00 +1100
 category: strategy
 tags: [Learning Communities, Interaction Between Students, Teacher Presence, Interaction with the Professions, Flexible & Adaptive Learning, Interactive Resources, E-Assessment,] 
 description: ""
