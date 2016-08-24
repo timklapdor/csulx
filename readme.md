@@ -5,6 +5,12 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 
 ### Updates
 
+**24 August 2016**
+
+- Added Search! Booyeah! Used [this tutorial for setting up lunar.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/)
+- Added Piwik tracking code for Analytics
+- Updated favicon code and icons from [Real Favicon Generator](http://realfavicongenerator.net/)
+
 **29th July 2016**
 
 - Added videos to the Model & Elements pages
@@ -19,7 +25,7 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 
 - Updated mixer content, inverted table
 - Updated content on all element pages
-- Used ```html <a name="tith"></a>``` to create anchor tags
+- Used ```<a name="tith"></a>``` to create anchor tags
 - Added youtube Embedd via ```liquid {% include youtubePlayer.html id="ZThtaJ1_VUs" %}``` just swap out the ID and wrap in layout div
 
 **15 July 2016**
@@ -82,3 +88,12 @@ layout: tags
 title: "Learning Communities"
 tags: "Learning Communities"
 ````
+
+#### External code used in this project
+
+- CSS Tags: [http://codepen.io/wbeeftink/pen/dIaDH](http://codepen.io/wbeeftink/pen/dIaDH)
+- Nice CSS Lists: [https://jsfiddle.net/vandigroup/3Lvpt9rc/1/](https://jsfiddle.net/vandigroup/3Lvpt9rc/1/)
+- Sorted Navigation: [http://www.unknownerror.org/opensource/jekyll/jekyll/q/stackoverflow/9053066/sorted-navigation-menu-with-jekyll-and-liquid](http://www.unknownerror.org/opensource/jekyll/jekyll/q/stackoverflow/9053066/sorted-navigation-menu-with-jekyll-and-liquid)
+- Mixer built with this Flexbox code: [http://www.cssplay.co.uk/menu/cssplay-flexbox-gallery.html](http://www.cssplay.co.uk/menu/cssplay-flexbox-gallery.html)
+- CSS for APA Referencing: [https://github.com/bertobox/CSS-for-APA-Style-references](https://github.com/bertobox/CSS-for-APA-Style-references)
+- Skeleton-Sass: [https://github.com/WhatsNewSaes/Skeleton-Sass](https://github.com/WhatsNewSaes/Skeleton-Sass)

@@ -10,25 +10,34 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
     
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ site.baseurl }}/images/fav/apple-touch-icon-57x57.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.baseurl }}/images/fav/apple-touch-icon-114x114.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.baseurl }}/images/fav/apple-touch-icon-72x72.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/images/fav/apple-touch-icon-144x144.png" />
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ site.baseurl }}/images/fav/apple-touch-icon-60x60.png" />
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ site.baseurl }}/images/fav/apple-touch-icon-120x120.png" />
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ site.baseurl }}/images/fav/apple-touch-icon-76x76.png" />
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.baseurl }}/images/fav/apple-touch-icon-152x152.png" />
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/fav/favicon-196x196.png" sizes="196x196" />
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/fav/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/fav/favicon-32x32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/fav/favicon-16x16.png" sizes="16x16" />
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/fav/favicon-128.png" sizes="128x128" />
-<meta name="application-name" content="&nbsp;"/>
-<meta name="msapplication-TileColor" content="#FFFFFF" />
-<meta name="msapplication-TileImage" content="{{ site.baseurl }}/images/fav/mstile-144x144.png" />
-<meta name="msapplication-square70x70logo" content="{{ site.baseurl }}/images/fav/mstile-70x70.png" />
-<meta name="msapplication-square150x150logo" content="{{ site.baseurl }}/images/fav/mstile-150x150.png" />
-<meta name="msapplication-wide310x150logo" content="{{ site.baseurl }}/images/fav/mstile-310x150.png" />
-<meta name="msapplication-square310x310logo" content="{{ site.baseurl }}/images/fav/mstile-310x310.png" />
+<!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="{{ site.baseurl }}/images/manifest.json">
+    <link rel="mask-icon" href="{{ site.baseurl }}/images/safari-pinned-tab.svg" color="#ff5800">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico">
+    <meta name="msapplication-config" content="{{ site.baseurl }}/images/browserconfig.xml">
+    <meta name="theme-color" content="#ff5800">    
+ <!-- End Favicon -->   
+    
+
+    
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.uimagine.edu.au/csulx","*.www.uimagine.edu.au/csulx"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//uimagine.edu.au/statistics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//uimagine.edu.au/statistics/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->    
     
 </head>

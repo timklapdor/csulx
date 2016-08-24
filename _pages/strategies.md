@@ -47,17 +47,25 @@ Each element in the Online Learning Model is supported by a number of Strategies
         <div class="tiles orange-bg">
         <a href="{{ site.baseurl }}/tags/EA.html">
         <img src="{{ site.baseurl }}/images/ea-rev.png" class="u-full-width" alt="eAssessment Icon">
-        <h4>eAssessment</h4></a>
+        <h4>E-Assessment</h4></a>
         </div>
     </div>
 </div>    
 
 <div class="row u-release extra-bottom-padding">
     <div class="container">
-    <h3>Browse All Strategies</h3>
-    <p>You can also browse the complete set of strategies. </p>
-    <div class="offset-by-four four columns">
-    <a href="{{ site.baseurl }}/strategy/archive.html" class="mixer-button">View All Strategies</a></div>
+        <div class="six columns">
+            <h3>Browse All </h3>
+            <p>Browse the complete set of strategies here.</p>
+            <div class="ten columns">
+            <a href="{{ site.baseurl }}/strategy/archive.html" class="u-full-width mixer-button">View All Strategies</a></div>
+        </div>
+        <div class="six columns">
+            <h3>Search</h3>
+            <p>Search the strategies. </p>
+            <div class="ten columns">
+            <a href="{{ site.baseurl }}/search.html" class="u-full-width mixer-button">Search Strategies</a></div>
+        </div>
     </div>
 </div>
 

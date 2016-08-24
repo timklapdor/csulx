@@ -7,7 +7,7 @@ header: group-image
 
 ---
 
-<div class="offset-by-two eight columns " markdown="1">
+<div class="container" markdown="1">
 The Online Learning Exchange was created by the [u!magine team](http://www.uimagine.edu.au) as a resource for Charles Sturt University staff to engage with the Online Learning Model. 
 
 Our aim for the Learning Exchange is to create an evolving resource which will be updated throughout the year as we work to scale up the implementation of the Online Learning Model. As more strategies are developed they will be added and supported by practical examples of their implementation. The long term aim is to provide staff with a space to share practices and implementations of the various strategies that will support effective learning design and improve the student experience. We want to support the autonomy of individual teaching staff by providing access to examples of practice and the information they need to make changes to their own subjects and practices and that these efforts can in turn can be shared with the whole CSU community - connecting knowledge across the institution

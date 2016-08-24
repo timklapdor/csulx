@@ -28,7 +28,7 @@ input {
     display: inline-block;
     height: 38px;
     padding: 0 30px;
-    color: $secondary-color;
+    color: $lx-white;
     text-align: center;
     font-size: 11px;
     font-weight: 600;
@@ -37,7 +37,7 @@ input {
     text-transform: uppercase;
     text-decoration: none;
     white-space: nowrap;
-    background-color: transparent;
+    background-color: $primary-color;
     border-radius: $global-radius;
     cursor: pointer;
     box-sizing: border-box;
@@ -172,4 +172,5 @@ input {
     border: none;
     background-color: $lx-light-grey;
     color: $lx-dark-grey;
+    margin-top: 1em;
 }

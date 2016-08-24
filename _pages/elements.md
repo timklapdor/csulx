@@ -8,6 +8,8 @@ category: element
 
 *Version 2*
 
+<div class="row" markdown="1">
+
 ### Overview
 
 The Online Learning Model consists of a set of elements designed to increase student engagement, retention and overall satisfaction. The model builds on Moore’s (1989) model which incorporates *learner-teacher*, *learner-learner* and *learner-content* interaction. The model broadens Moore’s notion of interactivity to one of engagement and adds *learner-community* engagement as a key component of professional courses, as well as *learner-institution* engagement to ensure a connected student experience.
@@ -22,6 +24,8 @@ This then leads to five categories of student engagement:
 
 Each of the seven elements of the Online Learning Model are designed to increase one or more types of engagement. The elements, which are outlined in the following sections, are designed to be combined together in varying degrees of intensity within the subjects making up a course.
 
+</div>
+
 <div class="row u-release extra-bottom-padding ">
     <div class="container center">
     <h4 class="">Download Summary Document</h4>
@@ -31,14 +35,17 @@ Each of the seven elements of the Online Learning Model are designed to increase
     </div>
 </div>
 
-{% include olm-nav.html %}
-
-<div class="container extra-bottom-padding">
-<div class="offset-by-two eight columns">
+<div class="container extra-top-padding">
+<div class="center offset-by-one ten columns">
 The following video provides an overview of the model and each of the elements.
 {% include youtubePlayer.html id="tNbGNynZA8U" %}
 </div>
 </div>
+
+
+{% include olm-nav.html %}
+
+
 
 ### The Link to Engagement
 

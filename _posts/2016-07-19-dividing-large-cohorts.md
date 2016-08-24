@@ -45,4 +45,4 @@ Consider the practical implications-in large cohorts of hundreds of students, wh
 
 ### Tools
 
-**Blackboard** provides a basic grouping tool that allows each group to be provisioned with their own set of tools for collaboration and communication. uImagine are currently working on a new grouping tool for Blackboard to provide more options and to make the process quicker
+**Blackboard** provides a basic grouping tool that allows each group to be provisioned with their own set of tools for collaboration and communication. u!magine are currently working on a new grouping tool for Blackboard to provide more options and to make the process quicker
