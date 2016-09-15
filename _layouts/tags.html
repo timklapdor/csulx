@@ -6,10 +6,14 @@ layout: default
         <h1>{{ page.title }}</h1>
 </div>
 
-<div class="container ">&nbsp;</div>
 <div class="page-content">
-<a onclick="window.history.back()"><button class="back-button">Back</button></a>
 
+
+<p>{{ page.content }}</p>    
+ 
+    
+<a onclick="window.history.back()"><button class="back-button">Back</button></a>
+    
 <p>Example strategies for <strong>{{ page.title }}</strong> include:</p>
 <ul>
 {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -25,4 +29,10 @@ layout: default
   {% endfor %}
 {% endfor %}
 </ul>
+
+    
+<div class="offset-by-four four columns extra-bottom-padding extra-top-padding">
+<a href="{{ site.baseurl }}/model/{{ page.link }}" class="mixer-button grey-bg ">Find out more about this element</a></div> 
+    
 </div>
+

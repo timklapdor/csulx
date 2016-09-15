@@ -5,6 +5,7 @@ date: 2016-07-20 16:20:00 +1100
 category: strategy
 tags: [Learning Communities, Teacher Presence, ] 
 description: "Making students comfortable in navigating the online environment"
+subjects: SSS032, 
 ---
 
 ### Overview
@@ -19,7 +20,7 @@ If students are familiar with the learning environment they will feel more comfo
 
 #### Subject
 
-SSS032
+SSS 032
 
 #### Teaching staff 
 
@@ -32,6 +33,10 @@ The subject *SSS032 Introduction to Learning Online* was developed explicitly to
 #### Implementation
 
 The subject is open to all students throughout the year and provides them with a scaffolded way of exploring the main tools and features of Interact2. Students are introduced to key technologies through simple videos, and text modules that are then enacted upon through a structured activity. In this way students are provided with a model of how a tool works, and then a practical engagement with it by completing a task. By the end of the course which is around 10 hours in total, students have learnt about Interact2 but have used the tools too.
+
+<div class="image-container">
+<img src="../images/practices/Orientation-to-the-Environment-SSS032.jpg" alt="SSS032 Screenshot">
+</div>
 
 ### Guide
 

@@ -5,6 +5,7 @@ date: 2016-07-19 11:00:00 +1100
 category: strategy
 tags: ["Learning Communities"] 
 description: "Dividing a large cohort of students into smaller sub-cohorts"
+subjects: MGT100, 
 ---
 
 This strategy entails dividing up a large cohort of student in a subject into smaller sub-cohorts. These sub-cohorts provide a more manageable way to for teaching to occur and provide a way to allocate teaching staff to specific groups of students. These staff members can then take a more active role in the facilitation of discussions, marking of assignments and providing feedback as well as answering student queries. For students a small group makes it easier to interact with each other as they are less likely to be lost or overwhelmed.
@@ -17,7 +18,7 @@ Small groups are beneficial to online students in large cohorts because they hav
 
 #### Subject
 
-MGT100
+MGT 100
 
 #### Teaching staff 
 
@@ -30,6 +31,10 @@ Dr. Wendy Webber
 #### Implementation:
 
 A key lesson from this pilot would be that ‘compulsory’ group membership and engagement up to the first assessment supported the aims of the project, which was to make students comfortable and engaged in the online learning space.
+
+<div class="image-container">
+<img src="../images/practices/Dividing-Large-Cohorts-MGT100.jpg" alt="MGT100 Screenshot">
+</div>
 
 ### Guide
 

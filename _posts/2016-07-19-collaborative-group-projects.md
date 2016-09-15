@@ -5,6 +5,7 @@ date: 2016-07-19 11:03:00 +1100
 category: strategy
 tags: [Learning Communities, Interaction Between Students, E-Assessment,] 
 description: "Student interact in order to achieve a shared goal"
+subjects: ITC105, 
 ---
 
 ### Overview
@@ -19,7 +20,7 @@ The inclusion of a collaborative group project provides a range of affordances w
 
 #### Subject
 
-ITC105
+ITC 105
 
 #### Teaching staff 
 

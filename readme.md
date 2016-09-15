@@ -5,6 +5,13 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 
 ### Updates
 
+** 15 September 2016**
+
+- Added subject code to be indexed by search
+- Added subject name to be indexed by search
+- Added summary to Strategy List Pages + link to element
+- Moved back button below summary text
+
 **24 August 2016**
 
 - Added Search! Booyeah! Used [this tutorial for setting up lunar.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/)

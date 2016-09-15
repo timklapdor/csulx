@@ -5,6 +5,7 @@ date: 2016-07-19 11:30:00 +1100
 category: strategy
 tags: [Interactive Resources, E-Assessment,] 
 description: "Providing students with personalised feedback"
+subjects: BMS240, BMS241, BMS352
 ---
 
 ### Overview
@@ -19,7 +20,7 @@ The digital tools available today can increase the personalisation possible and 
 
 #### Subject 
 
-BMS 240, BMS241 and BMS352
+BMS 240, BMS 241 and BMS 352
 
 #### Teaching staff
 

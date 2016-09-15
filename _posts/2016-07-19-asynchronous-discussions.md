@@ -5,6 +5,7 @@ date: 2016-07-19 11:03:00 +1100
 category: strategy
 tags: [Learning Communities, Interaction Between Students, Teacher Presence,] 
 description: "Creating opportunities for flexible dialogue"
+subjects: EMT409
 ---
 
 ### Overview
@@ -17,11 +18,11 @@ Providing asynchronous discussion opportunities from your students is an essenti
 
 Additionally, ensuring that all subjects provide Asynchronous discussion opportunities is essential given the needs of our students whilst completing their degree. So many CSU Online students work part-time or even full time, are caring for children or sick relatives, or even travelling abroad for work. Students cannot always participate in the synchronous Online Meetings so they need suitable asynchronous engagement opportunities to integrate with their individual study schedules.
 
-### In Practice
+### In Practice 
 
-#### Subject 
+#### Subject  
 
-EMT409
+EMT 409: 
 
 #### Teaching Staff
 
@@ -36,7 +37,7 @@ Throughout the Course, students were indicating they had minimal social interact
 The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for assessment purposes for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology. There were only 46 students in this class but some of these videos had over 2000 views. 
 
 <div class="image-container">
-<img src="../images/flip-grid.jpg" alt="Flipgrid Screenshot">
+<img src="../images/practices/Asynchronous-Discussions-EMT409.jpg" alt="Flipgrid Screenshot">
 </div>
 
 ### Guide

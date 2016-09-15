@@ -44,7 +44,7 @@ This section sets out a number of specific strategies that are known to be helpf
 
 **Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment]({{ site.baseurl}}/strategy/orientation-to-the-environment.html), socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
 
-**Shared Activity** - Community building through contribution to a shared resource such as a gallery of photos containing examples of a concept or experiences from professional placement; 
+**Shared Activity** - Community building through [contribution to a shared resource]({{ site.baseurl}}/strategy/creating-shared-resource.html) such as a gallery of photos containing examples of a concept or experiences from professional placement; 
 
 **Social Media** - Establishment of social media streams supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools.
 

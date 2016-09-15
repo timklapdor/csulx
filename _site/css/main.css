@@ -463,7 +463,7 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
   border: none;
   background-color: #f1f1f1;
   color: #333333;
-  margin-top: 1em; }
+  margin: 1em 0 1em 2em; }
 
 .apa, .apa ul, .apa ol, .apa dl, .ref-apa, .ref-apa ul, .ref-apa ol, .ref-apa dl, .apa-ref, .apa-ref ul, .apa-ref ol, .apa-ref dl, .refapa, .refapa ul, .refapa ol, .refapa dl, .aparef, .aparef ul, .aparef ol, .aparef dl {
   padding-left: 0;

@@ -9,7 +9,8 @@ layout: null
       "url": " {{ post.url | xml_escape }}",
       "tags": "{{ post.tags | xml_escape }}",
       "category": "{{ post.category | xml_escape }}",
-      "content": "{{ post.content | strip_html | strip_newlines | xml_escape }}"
+      "content": "{{ post.content | strip_html | strip_newlines | xml_escape }}",
+      "subject": "{{ post.subjects | xml_escape }}" 
     }{% unless forloop.last %},{% endunless %}{% endfor %}
     {% for page in site.pages %}{% if page.index == true %},
       "{{ page.url | slugify }}": {
@@ -17,6 +18,7 @@ layout: null
         "url": " {{ page.url | xml_escape }}",
         "category": "{{ page.category | xml_escape }}",
         "content": "{{ page.content | strip_html | strip_newlines | xml_escape }}"
+          
       }
       {% endif %}
       {% endfor %}

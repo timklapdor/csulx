@@ -5,6 +5,7 @@ date: 2016-07-19 11:14:00 +1100
 category: strategy
 tags: [Interaction Between Students, Interaction with the Professions,] 
 description: "Utilising reflective practices to build students personal and professional identity"
+subjects: INF530,
 ---
 
 ### Overview
@@ -23,7 +24,7 @@ A digital reflective journal written as a blog provides students with the freedo
 
 #### Subject  
 
-INF530 Concepts and practices in a digital age
+INF 530: Concepts and practices in a digital age
 
 #### Teaching staff 
 

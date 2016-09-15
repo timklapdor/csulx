@@ -5,6 +5,7 @@ date: 2016-07-20 15:00:00 +1100
 category: strategy
 tags: [Interaction with the Professions,] 
 description: "Inviting practitioners and experts to engage directly with students"
+subjects: 
 ---
 
 ### Overview

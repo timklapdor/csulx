@@ -248,7 +248,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
     <h4 class="">Download Worksheet</h4>
     <p>Download the Mixer Worksheet</p>
     <div class="offset-by-four four columns">
-    <a href="{{ site.baseurl}}/documents/Mixer-Handout.pdf" class="mixer-button">Download worksheet</a></div>
+    <a href="{{ site.baseurl}}/documents/Mixer-Handout.pdf" class="mixer-button piwik_download">Download worksheet</a></div>
     </div>
 </div>
 

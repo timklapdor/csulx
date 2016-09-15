@@ -1,2 +1,12 @@
 _site
 .sass-cache
+
+_pages/.DS_Store
+
+_posts/.DS_Store
+
+_sass/.DS_Store
+
+images/.DS_Store
+
+.DS_Store

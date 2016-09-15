@@ -5,6 +5,7 @@ date: 2016-07-19 11:37:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning, E-Assessment,] 
 description: "Replacing paper based exams"
+subjects: HIP202, 
 ---
 
 ### Overview
@@ -19,7 +20,7 @@ The provision of computer based exams provide students with a contemporary and f
 
 #### Subject
 
-HIP202 Research for Health Practice.
+HIP 202: Research for Health Practice
 
 #### Teaching staff
 

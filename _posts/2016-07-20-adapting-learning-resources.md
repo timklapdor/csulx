@@ -5,6 +5,7 @@ date: 2016-07-20 11:03:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning, Interactive Resources,] 
 description: "Using data analytics to adjust learning resource provision"
+subjects: PSC102
 ---
 
 ### Overview
