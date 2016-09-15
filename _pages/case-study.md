@@ -9,6 +9,21 @@ short: ea
 
 > ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Master of Education in Knowledge Networks and Digital Innovation (School of Information Studies). It explores the concept and practice of digital citizenship. Technological, political and ethical issues concerning digital citizenship are examined, including intellectual property, plagiarism, cybersafety, freedom of information, transliteracy and the effective use of a range of technologies to support learning and teaching. Issues in policy and practice are examined to understand how learning programs and school community practices can build capacity and resilience in students to enable them to become effective and responsible digital citizens in global online learning environments.
 
+ <div class="swiper-container swiper1">
+        <div class="swiper-wrapper image-container">
+            <div class="swiper-slide"><img src="../images/practices/Asynchronous-Discussions-EMT409.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Distributed-Leadership-MGT584.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Dividing-Large-Cohorts-MGT100.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Orientation-to-the-Environment-SSS032.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Personalisation-of-the-Environment-HRM502.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/RolePlay-INR503.jpg"></div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
 ##### Teaching staff - Julie Lindsay
 
 ### Example 1: Learning Communities
@@ -52,6 +67,21 @@ This group project takes some setting up time, including the Google doc for team
 
 3-4 min. Screencast
 
+ <div class="swiper-container swiper2">
+        <div class="swiper-wrapper image-container">
+            <div class="swiper-slide"><img src="../images/practices/Asynchronous-Discussions-EMT409.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Distributed-Leadership-MGT584.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Dividing-Large-Cohorts-MGT100.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Orientation-to-the-Environment-SSS032.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Personalisation-of-the-Environment-HRM502.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/RolePlay-INR503.jpg"></div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
 ### Example 2: E-Assessment
 
 #### Strategies alignment
@@ -82,6 +112,49 @@ It was a requirement that the artefact be uploaded (if not already online) and i
 
 This task provided for expression of ideas and communication of a message using online multimedia as well as exploration of tools that could be used to support learning and teaching beyond the assignment. Although some students found working with digital media challenging, all students gained confidence with online tools and the ability to create a communication piece that could be shared with others. Many students used their artefacts in conjunction with the learning module in their schools and learning environments to support both teacher and student understanding of digital citizenship.
 
+ <div class="swiper-container swiper3">
+        <div class="swiper-wrapper image-container">
+            <div class="swiper-slide"><img src="../images/practices/Asynchronous-Discussions-EMT409.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Distributed-Leadership-MGT584.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Dividing-Large-Cohorts-MGT100.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Orientation-to-the-Environment-SSS032.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/Personalisation-of-the-Environment-HRM502.jpg"></div>
+            <div class="swiper-slide"><img src="../images/practices/RolePlay-INR503.jpg"></div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
 #### Words of advice for wider implementation
 
 This activity/assignment is a communication task, not a digital tools task, and this is important to remember. It challenges students and those with a lower ability using digital technology need to be provided with satisfactory examples and suggestions for tools that will allow them to successfully meet the rubric requirements. It was made clear however that a typical PowerPoint response was not adequate to meet criteria for success. Students are assessed on their ability to ‘express ideas and communicate a message’ and ‘understand key digital citizenship concepts and issues affecting digital citizenship development’.
+
+<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.swiper1', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 50
+    });
+
+    var swiper = new Swiper('.swiper2', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 50
+    });
+    
+    var swiper = new Swiper('.swiper3', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 50
+    });
+</script>

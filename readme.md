@@ -11,6 +11,7 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 - Added subject name to be indexed by search
 - Added summary to Strategy List Pages + link to element
 - Moved back button below summary text
+- Testing out incorporation of [Swiper](http://idangero.us/swiper/) - [Add Multiples](https://github.com/nolimits4web/Swiper/blob/master/demos/24-multiple-swipers.html) 
 
 **24 August 2016**
 
