@@ -5,6 +5,7 @@ date: 2016-07-19 17:20:00 +1100
 category: strategy
 tags: [Teacher Presence, Interactive Resources,] 
 description: "Video for online students provides a richer engagement with the subject concepts"
+subjects: "SCI 103, "
 ---
 
 ### Title
@@ -27,7 +28,7 @@ Video Lectures provide a version of ‘the lecture’ that is more tailored to t
 
 #### Subject
 
-SCI103
+SCI103: Communicating Environmental Data
 
 #### Teaching staff 
 
@@ -40,6 +41,17 @@ The Video Lectures help the online students to feel that they are not missing ou
 #### Implementation
 
 The SCI103 video lectures include screen-captures as well as audio and video, and mostly range from 20-40 minutes. They were created to provide online students with more coverage and explanation of the concepts presented in the online modules, textbook and recommended readings. Like lectures, there is one for each week. Through these video lectures the voice and personality of the lecturer comes through as a real human being, and so helps convey teacher presence. 
+
+<div class="swiper-container">
+        <div class="swiper-wrapper image-container">
+            <div class="swiper-slide"><img src="../images/practices/video-lectures-SCI103-1.jpg" alt="video screenshot"></div>
+            <div class="swiper-slide"><img src="../images/practices/video-lectures-SCI103-2.jpg" alt="video screenshot">></div>
+            <div class="swiper-slide"><img src="../images/practices/video-lectures-SCI103-3.jpg" alt="vide screenshot">></div>
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+</div>
 
 ### Guide
 
@@ -77,3 +89,15 @@ Sheridan, T. B. (1992). Musings on telepresence and virtual presence. *Presence:
 Swan, K., Shea, P., Richardson, J., Ice, P., Garrison, D., Cleveland-Innes, M., et al. (2008). Validating a measurement tool of presence in online communities of inquiry. *E-mentor, 2*(24), 1-12. 
 
 </div>
+
+<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+
+</script>

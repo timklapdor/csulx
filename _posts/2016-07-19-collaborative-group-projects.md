@@ -5,10 +5,10 @@ date: 2016-07-19 11:03:00 +1100
 category: strategy
 tags: [Learning Communities, Interaction Between Students, E-Assessment,] 
 description: "Student interact in order to achieve a shared goal"
-subjects: ITC105, 
+subjects: "ITC 105,"
 ---
 
-### Overview
+### Overview 
 
 Collaborative Group Projects are learning experiences designed to foster student interaction in order to achieve a shared goal - in many circumstances linked to assessment. These experiences are normally task based and more formal than e.g. ad hoc study groups. Group projects can take place in many circumstances and are often linked to a deeper level of instructional design and andragogy such as Project or Problem Based Learning or Scenario based learning. Collaborative Group Projects offer a range of benefits to students including utilisation and development of vital pre-professional skills, problem solving and collaborative skills and perhaps most importantly, students are provided with a source of ongoing feedback from peers, which can be a valuable source of learning and development for these students.
 
@@ -20,9 +20,9 @@ The inclusion of a collaborative group project provides a range of affordances w
 
 #### Subject
 
-ITC 105
+ITC105 : Communication and Information Management
 
-#### Teaching staff 
+#### Teaching staff
 
 Anthony Chan
 
@@ -30,7 +30,7 @@ Anthony Chan
 
 As this is a communication subject, the learning activity was designed to help students share their work, their communication skills and further develop their own ideas on how to best respond to a workplace scenario, whilst developing digital literacy skills using Cloud services, and cooperative learning.
 
-#### Implementation 
+#### Implementation  
 
 The subject coordinator set up a shared Google Drive and Docs space for the students to access via a shared link. The students were provided with a workplace scenario on a disgruntled customer. Each student had to write a response to the customer using the Google Docs, enabling all students to view each other's work. They provided comments and ideas for each other as well. Student were able to share their communication ideas, strategies and expression.
 

@@ -5,6 +5,7 @@ date: 2016-07-19 11:22:00 +1100
 category: strategy
 tags: [Learning Communities, Teacher Presence,] 
 description: "Establishing the context for  teaching, learning and assessment in your subject "
+subjects: 
 ---
 
 ### Overview

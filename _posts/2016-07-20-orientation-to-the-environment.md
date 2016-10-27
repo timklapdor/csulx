@@ -5,7 +5,7 @@ date: 2016-07-20 16:20:00 +1100
 category: strategy
 tags: [Learning Communities, Teacher Presence, ] 
 description: "Making students comfortable in navigating the online environment"
-subjects: SSS032, 
+subjects: "SSS 032, "
 ---
 
 ### Overview
@@ -20,7 +20,7 @@ If students are familiar with the learning environment they will feel more comfo
 
 #### Subject
 
-SSS 032
+SSS032: Introduction to Learning Online
 
 #### Teaching staff 
 

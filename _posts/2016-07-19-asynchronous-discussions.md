@@ -5,7 +5,7 @@ date: 2016-07-19 11:03:00 +1100
 category: strategy
 tags: [Learning Communities, Interaction Between Students, Teacher Presence,] 
 description: "Creating opportunities for flexible dialogue"
-subjects: EMT409
+subjects: "EMT 409, "
 ---
 
 ### Overview
@@ -22,7 +22,7 @@ Additionally, ensuring that all subjects provide Asynchronous discussion opportu
 
 #### Subject  
 
-EMT 409: 
+EMT409: Technology for Adult Learning and Teaching
 
 #### Teaching Staff
 

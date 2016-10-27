@@ -8,13 +8,16 @@ nav {
 
 
 nav ul {
+  display: flex;
+  flex-wrap: wrap;
   list-style: none !important;
   margin: 0px 0px;
   padding: 0;
 }
 
 nav li{
-    display: inline-block;
+    flex-grow: 1;
+    min-width: 50%;
     margin: 0px 0px;
     border-right: 1px solid rgba(255,255,255,.5);
     box-sizing: border-box;
@@ -40,13 +43,13 @@ nav a:hover {
 }
 
 nav li:nth-child(even) {
-  width: 50%;
-  float: right; 
+//  width: 50%;
+//  float: right; 
   border-bottom: 1px solid rgba(255,255,255,.5);
 }
 nav li:nth-child(odd) {
-  width: 50%;
-  float: left;
+//  width: 50%;
+//  float: left;
   border-bottom: 1px solid rgba(255,255,255,.5);
 
 }
@@ -54,8 +57,9 @@ nav li:nth-child(odd) {
 @media (min-width: 600px) {
 
 nav li:nth-child(n) {
-  width: 25%;
-  float: left; 
+//  width: 20%;
+  flex-grow: 1;
+  min-width: 20%;
 }
 
 nav a {

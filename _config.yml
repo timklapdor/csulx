@@ -12,6 +12,11 @@ github_username:  csuLX
 include: ['_pages']
 permalink: /:categories/:title.html
 
+# Setup for Categories
+collections:
+  case-study:
+    output: true
+
 #Timezone
 timezone: Australia/Sydney
 

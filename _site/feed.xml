@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSU Online Learning Exchange</title>
-    <description>Developed and Maintained by Charles Sturt University&#39;s u!magine</description>
-    <link>/csulx/</link>
-    <atom:link href="/csulx/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Sep 2016 16:34:16 +1000</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2016 16:34:16 +1000</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <description>Developed and Maintained by Charles Sturt University's u!magine</description>
+    <link>http://localhost:4000/csulx/</link>
+    <atom:link href="http://localhost:4000/csulx/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Oct 2016 12:37:10 +1100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2016 12:37:10 +1100</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
-        <title>Role play</title>
+        <title>Role Play</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;Role plays are situations in which learners take on the profiles of specific characters or representatives in a contrived setting. Role plays are designed primarily to build first-person experiences within safe environments (Wills, Leigh, Ip &amp;amp; Albert, 2011, p. 17). They can also be utilised with groups of students to develop empathy and understanding of the different relationships and situations they may encounter. By providing students with realistic scenarios, similar to those in the workplace, students are able to solve problems and consider different perspectives while collaborating with classmates. This is consistent with Herrington’s description of ‘cognitive reality’ (Herrington et al., 2009, p. 45) where students are able to apply new knowledge and develop skills needed for the real world. Role play is widely acknowledged to be a powerful teaching technique in face-to-face, blended and online settings and has been singled out as an example of good practice by the Australian Learning and Teaching Council (UoW, 2003).&lt;/p&gt;
@@ -23,9 +23,9 @@
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
-&lt;p&gt;INR 503: Industrial Relations Practice&lt;/p&gt;
+&lt;p&gt;INR503: Industrial Relations Practice&lt;/p&gt;
 
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching Staff&lt;/h4&gt;
 
 &lt;p&gt;Lynnette Ainsworth&lt;/p&gt;
 
@@ -35,7 +35,11 @@
 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
 
-&lt;p&gt;Students enrolled in &lt;em&gt;INR503 Industrial Relations Practice&lt;/em&gt; work within small groups of 6 to 8.  Each student assumes a professional role - a company representative, union representative, employee representative, HR manager, HR assistant or industry representative. The class is given an enterprise bargaining agreement midway through the session. This sets the scene, as each group of students must negotiate a new agreement. Based upon the negotiation process, the role play lasts around three weeks. Once completed each student reflects upon the process and writes a critical analysis. This is a major summative assessment task. There is a minor, less formal group presentation in which each team shares their experiences via an online meeting tutorial. This also serves as a debriefing session and allows for peer feedback.&lt;/p&gt;
+&lt;p&gt;Students enrolled in &lt;em&gt;INR503 Industrial Relations Practice&lt;/em&gt; work within small groups of 6 to 8.  Each student assumes a professional role - a company representative, union representative, employee representative, HR manager, HR assistant or industry representative. The class is given an enterprise bargaining agreement midway through the session. This sets the scene, as each group of students must negotiate a new agreement.  Based upon the negotiation process, the role play lasts around three weeks. Once completed each student reflects upon the process and writes a critical analysis.  This is a major summative assessment task. There is a minor, less formal group presentation in which each team shares their experiences via an online meeting tutorial.  This also serves as a debriefing session and allows for peer feedback.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../images/practices/RolePlay-INR503.jpg&quot; alt=&quot;Roleplay Screenshot&quot; /&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
@@ -56,18 +60,119 @@
 &lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
 
 &lt;div class=&quot;apa-ref&quot;&gt;
+  &lt;p&gt;Herrington, J., Reeves, T., &amp;amp; Oliver, R. (2009). *A practical guide to authentic e-learning. * Retrieved from EBL collection.&lt;/p&gt;
 
-  &lt;p&gt;Herrington, J., Reeves, T., &amp;amp; Oliver, R. (2009). &lt;em&gt;&lt;a href=&quot;http://www.csuau.eblib.com.ezproxy.csu.edu.au/patron/FullRecord.aspx?p=465326&quot;&gt;A practical guide to authentic e-learning&lt;/a&gt;&lt;/em&gt; Retrieved from EBL collection&lt;/p&gt;
+  &lt;p&gt;Palloff, R. &amp;amp; Pratt, K. (2010). &lt;em&gt;Collaborating online: Learning together in community.&lt;/em&gt; Retrieved from EBook Library.&lt;/p&gt;
 
-  &lt;p&gt;Palloff, R. &amp;amp; Pratt, K. (2010). &lt;em&gt;&lt;a href=&quot;http://www.csuau.eblib.com.ezproxy.csu.edu.au/patron/FullRecord.aspx?p=529967&quot;&gt;Collaborating online: Learning together in community&lt;/a&gt;&lt;/em&gt;. Retrieved from EBook Library&lt;/p&gt;
-
-  &lt;p&gt;Wills, S., Leigh, S. &amp;amp; Ip, A. (2011) &lt;a href=&quot;http://www.csuau.eblib.com.ezproxy.csu.edu.au/patron/Read.aspx?p=668307&amp;amp;pg=32&quot;&gt;Games, simulation and role plays&lt;/a&gt;. In &lt;em&gt;The power of role-based elearning: Designing and moderating&lt;/em&gt; Retrieved from EBL collection&lt;/p&gt;
-
+  &lt;p&gt;Wills, S., Leigh, S. &amp;amp; Ip, A. (2011) Games, simulation and role plays. In &lt;em&gt;The power of role-based elearning: Designing and moderating.&lt;/em&gt; Retrieved from EBL collection.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 09 Sep 2016 09:03:00 +1000</pubDate>
-        <link>/csulx/strategy/role-play.html</link>
-        <guid isPermaLink="true">/csulx/strategy/role-play.html</guid>
+        <pubDate>Mon, 19 Sep 2016 15:15:00 +1000</pubDate>
+        <link>http://localhost:4000/csulx/strategy/role-play.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/role-play.html</guid>
+        
+        <category>Learning Communities</category>
+        
+        <category>Interaction Between Students</category>
+        
+        <category>Interaction with the Professions</category>
+        
+        
+        <category>strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Social Media Streams</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Social Media provides an incredibly powerful tool for learning and teaching. It enables real-time communication, sharing and dialogue to occur at a global level. The streams created by social media provide a realtime way of publishing and accessing information relevant to students learning. Educators can use social media streams to promote their learning and professional communities of practice by sharing interesting stories or news relating to course work. Social media streams provide an opportunity for substantial collective thinking and action (NMC, 2014).&lt;/p&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;Social media streams provide a way to publish, collect and curate information in real-time. Social media itself allows students to engage in a variety of ways, with not only lecturers and peers but with individuals, professionals and experts worldwide. This contextualises study beyond the University, reflecting the broader profession and global setting.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
+
+&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
+
+&lt;p&gt;INF530: Concepts and Practices for a Digital Age&lt;/p&gt;
+
+&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching Staff&lt;/h4&gt;
+
+&lt;p&gt;Judy O’Connell&lt;/p&gt;
+
+&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+
+&lt;p&gt;Social media and networking tools are used to connect all cohorts within the course and promote ongoing dialogue, sharing of resources and the development of professional presence.&lt;/p&gt;
+
+&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
+
+&lt;p&gt;The course- level site (Knowledge Networks and Digital Innovation) was served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking).&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot;&gt;
+&lt;div class=&quot;offset-by-two eight columns&quot;&gt;
+&lt;div class=&quot;swiper-container&quot;&gt;
+        &lt;div class=&quot;swiper-wrapper image-container&quot;&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/social-media-INF530-1.jpg&quot; alt=&quot;twitter screenshot&quot; /&gt;&lt;/div&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/social-media-INF530-2.jpg&quot; alt=&quot;twitter screenshot&quot; /&gt;&amp;gt;&lt;/div&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/social-media-INF530-3.jpg&quot; alt=&quot;twitter screenshot&quot; /&gt;&amp;gt;&lt;/div&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/social-media-INF530-4.jpg&quot; alt=&quot;twitter screenshot&quot; /&gt;&amp;gt;&lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class=&quot;swiper-pagination&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;swiper-button-next&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;swiper-button-prev&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
+
+&lt;p&gt;Social media is an incredibly powerful tool that allows student work to be published to a global audience and enable dialogue between students, educators, university staff, professional and experts, in a less formal and more immediate form. Utilising hashtags and creating specialised accounts to harness social media streams means that the learning community as a whole can benefit from the wealth of information available. They provide a way to structure and share interactions, thoughts, ideas and relevant information. While each platform can be used on it’s own the streams created can often be embedded into course and organisational sites in Interact2, providing students with a simple way of interacting and engaging. See &lt;a href=&quot;https://cms.drupal.ku.edu/how-embed-facebook-feed&quot;&gt;How to Embed Facebook Feed&lt;/a&gt; or &lt;a href=&quot;https://elearn.southampton.ac.uk/blackboard/addtwitter/&quot;&gt;How to Embed Twitter Feed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As education aligns more closely with technological trends, lecturers need to carefully consider the use of social media for teaching and learning purposes. Students will often set up their own Facebook groups, but whether or not lecturers use social media in their teaching is another matter. It is recommended they consider the appropriateness and desired outcomes when using social media and &lt;a href=&quot;https://www.youtube.com/watch?v=g_is3gT7X0Y&quot;&gt;the affordances of the different platforms&lt;/a&gt;. &lt;a href=&quot;https://policy.csu.edu.au/view.current.php?id=00384&quot;&gt;CSU’s Social media use policy for staff&lt;/a&gt; is also worth perusing.&lt;/p&gt;
+
+&lt;p&gt;Tomayess’ 2015 examination of social media use within Australian higher education identifies clear advantages and disadvantages. While in general terms social media and networking tools can improve students’ personal and professional skills such as writing, speaking, listening, discussion and debating, she goes on to argue that the risks should be considered from four perspectives: cognitive development, social development, physical development and security (Tomayess, 2015, p. 18).&lt;/p&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;There are several social media and networking tools to choose from and in this short video &lt;a href=&quot;https://www.youtube.com/watch?v=g_is3gT7X0Y&quot;&gt;Harold Jarche discusses some of the differences between the social media platforms&lt;/a&gt;. Facebook, Twitter, Instagram and Pintrest are popular choices for sharing content and media. Diigo is a handy tool for sharing useful websites. PebblePad and Thinkspace are both blogging, ePortfolio tools supported by CSU which allow student to publish externally.&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;div class=&quot;apa-ref&quot;&gt;
+
+  &lt;p&gt;Charles Sturt University. (2014). &lt;a href=&quot;https://policy.csu.edu.au/view.current.php?id=00384&quot;&gt;Social media use policy for staff&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ferris, S. &amp;amp; Wilder, H. (2013) &lt;em&gt;&lt;a href=&quot;http://www.csuau.eblib.com.ezproxy.csu.edu.au/patron/FullRecord.aspx?p=1574982&quot;&gt;The plugged in professor: Tips and techniques for teaching with social media&lt;/a&gt;&lt;/em&gt;. Ebook Library&lt;/p&gt;
+
+  &lt;p&gt;Manca, S. &amp;amp; Ranieri, M. (2016). &lt;a href=&quot;http://www.sciencedirect.com.ezproxy.csu.edu.au/science/article/pii/S0360131516300185&quot;&gt;Facebook and the others. Potentials and obstacles of Social Media for teaching in higher education&lt;/a&gt;. &lt;em&gt;Computers &amp;amp; Education, 95&lt;/em&gt;.  216-230. doi:10.1016/j.compedu.2016.01.012&lt;/p&gt;
+
+  &lt;p&gt;NMC Horizon Report: &lt;a href=&quot;https://www.nmc.org/pdf/2014-nmc-horizon-report-he-EN.pdf&quot;&gt;2014 Higher Education Edition&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.socialmedianews.com.au/social-media-statistics-australia-february-2015/&quot;&gt;Social Media News Australia&lt;/a&gt; 2016. Accessed July 20, 2016 website&lt;/p&gt;
+
+  &lt;p&gt;Tomayess, I. (2015). &lt;a href=&quot;http://www.csuau.eblib.com.ezproxy.csu.edu.au/patron/Read.aspx?p=4178203&amp;amp;pg=25&quot;&gt;Social Networking in Australia: Opportunities and risks&lt;/a&gt;, In I. Tomayess,  P. Isaias, &amp;amp; P. Kommers, &lt;em&gt;Social networking and education: Global perspectives&lt;/em&gt;. Ebook Library&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;script src=&quot;/csulx/js/swiper.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+    var swiper = new Swiper('.swiper-container', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 19 Sep 2016 14:34:00 +1000</pubDate>
+        <link>http://localhost:4000/csulx/strategy/social-media-streams.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/social-media-streams.html</guid>
         
         <category>Learning Communities</category>
         
@@ -84,17 +189,17 @@
         <title>Creating a Shared Resource</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Critical to establishing a sense of community, is the feeling that group members matter and that one’s needs are satisfied through the collective effort of the group (Yuan and Kim, 2014).  One way to foster such attitudes among students is to ensure they share responsibilities as well as common goals within their study. Asking students to create shared resources assists the entire cohort to learn together by focussing on a shared goal. One commonly used approach is the  ‘jigsaw’, where’. With this approach students research a particular sub-topic for the benefit of the entire cohort. By sharing their findings with the others, the ‘puzzle’ is completed.  Shared responsibilities and goals build the sense of community and through the process students demonstrate communication skills and utilise the online environment to develop their digital literacies.&lt;/p&gt;
+&lt;p&gt;Critical to establishing a sense of community, is the feeling that group members matter and that one’s needs are satisfied through the collective effort of the group (Yuan and Kim, 2014).  One way to foster such attitudes among students is to ensure they share responsibilities as well as common goals within their study.  Asking students to create shared resources assists the entire cohort to learn together by focussing on a shared goal. One commonly used approach is the  ‘jigsaw’. With this approach students research a particular sub-topic for the benefit of the entire cohort. By sharing their findings with the others, the ‘puzzle’ is completed.  Shared responsibilities and goals build the sense of community and through the process students demonstrate communication skills and utilise the online environment to develop their digital literacies.&lt;/p&gt;
 
 &lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
 
-&lt;p&gt;Developing engagement within a community requires a focal point, a shared goal or aim and the creation of a shared resource does this. The shared nature of the resource creates a dependency that students must work towards and provides a measure of accountability that provides incentives as well as rewards through peer recognition. As noted by Wenger, McDermott and Snyder (2002) good community design requires an understanding of the community’s potential to develop and steward knowledge. Shared resources provide a way to test and develop a community in a variety of ways. It collectivises the learning and reduces the risk of a single point of failure. Students learn and develop important skills like negotiation and communication, which requires a much deeper level of engagement between students.&lt;/p&gt;
+&lt;p&gt;Developing engagement within a community requires a focal point, a common goal or aim and the creation of a shared resource does this. The shared nature of the resource creates a goal that students must work towards and provides a measure of accountability.  This equates to incentives as well as rewards through peer recognition. As noted by Wenger, McDermott and Snyder (2002) good community design requires an understanding of the community’s potential to develop and steward knowledge. Shared resources provide a way to test and develop a community in a variety of ways. It collects the learning and reduces the risk of a single point of failure. Students learn and develop important skills like negotiation and communication, which requires a much deeper level of engagement between students.&lt;/p&gt;
 
 &lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
-&lt;p&gt;MBA 501: Management, People and Organisations&lt;/p&gt;
+&lt;p&gt;MBA501: Management, People and Organisations&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
 
@@ -106,23 +211,25 @@
 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
 
-&lt;p&gt;Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts.&lt;/p&gt;
+&lt;p&gt;Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts. Each small group of students presented their findings through online meeting sessions. The entire cohort was invited to vote for the ‘best’ presentations via Suveymonkey.&lt;/p&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
-&lt;p&gt;The creation of shared resources requires quite a bit of planning. There is also to use the development of the resources in a number of ways and can it in fact provide a scaffolding for a number of distinct learning activities.&lt;/p&gt;
+&lt;p&gt;The creation of shared resources requires quite a bit of planning. Lecturers may consider the development of resources in a number of ways. Questions to ponder include: What tools do students need to build resources? How will students communicate and collaborate within their small groups? ‘When completed what will the collection of resources provide the entire cohort? Are they opportunities to share with other cohorts of students?&lt;/p&gt;
+
+&lt;p&gt;Here are some key points to consider:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Clearly identify topics&lt;/strong&gt; to be divided amongst the students.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (i.e. resources folder)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Allocate student groups&lt;/strong&gt; to each topic. Groups often work best for this kind of strategy. They reduce the risk that work may not be produced, which could impact on other students. There are some options to consider with groups too, like is it appropriate for students to self-select or will they be assigned to particular groups/&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Monitor progress&lt;/strong&gt;. Simply keep students on track as you would normally do with regular online meeting sessions and announcements. 
-Share the final product. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done is a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clearly Identify topics to be divided amongst the students&lt;/strong&gt;.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Allocate student groups to each topic&lt;/strong&gt;. At this point there are some options to consider: is it appropriate for students to self-select or will they be assigned to particular groups&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Monitor progress&lt;/strong&gt;. Simply keep students on track as you would normally with regular online meeting sessions and announcements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Share the final product&lt;/strong&gt;. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Debrief&lt;/strong&gt;. After students have had time to consider the efforts of their peers discuss overall findings and what they have learned from their own work and that of others.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 
-&lt;p&gt;Interact2 Wikis, Blogs and the use of a common space such as a ‘resources’ folder to upload artefacts are all useful tools to develop a shared resources. External technologies like Google Docs can be particularly useful for collaborative authoring and contribution in a way that also provides version tracking and control.&lt;/p&gt;
+&lt;p&gt;Blackboard Wikis, Blogs and the use of a common space such as a ‘resources’ folder to upload artefacts are all useful tools to develop a shared resources. External technologies like Google Docs or Google Slides can be particularly useful for collaborative authoring and contribution in a way that also provides version tracking and control.&lt;/p&gt;
 
 &lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
 
@@ -133,16 +240,15 @@ Share the final product. Once all the students or groups have completed their re
   &lt;p&gt;Pozzi, F. (2010). &lt;a href=&quot;http://www.sciencedirect.com.ezproxy.csu.edu.au/science/article/pii/S0360131509003388&quot;&gt;Using jigsaw and case study for supporting online collaborative learning&lt;/a&gt;. &lt;em&gt;Computer &amp;amp; Education 55&lt;/em&gt;(1), 67-75.
 doi: 10.1016/j.compedu.2009.12.003&lt;/p&gt;
 
-  &lt;p&gt;Yuan, J. &amp;amp; Kim, C. (2014). &lt;a href=&quot;http://onlinelibrary.wiley.com.ezproxy.csu.edu.au/doi/10.1111/jcal.12042/full&quot;&gt;Guidelines for facilitating the development of learning 
-communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted Learning, 30&lt;/em&gt;. 220-232. doi: 10.1111/jcal.12042&lt;/p&gt;
+  &lt;p&gt;Yuan, J. &amp;amp; Kim, C. (2014). &lt;a href=&quot;http://onlinelibrary.wiley.com.ezproxy.csu.edu.au/doi/10.1111/jcal.12042/full&quot;&gt;Guidelines for facilitating the development of learning communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted Learning, 30&lt;/em&gt;. 220-232. doi: 10.1111/jcal.12042&lt;/p&gt;
 
   &lt;p&gt;Wenger, E. &amp;amp; McDermott, R. &amp;amp; Snyder, W.M. (2002). Seven principles for cultivating communities of practice. In &lt;em&gt;Cultivating communities of practice: A guide to managing knowledge&lt;/em&gt;. (pp.49-64). Boston : Harvard Business School Press.&lt;/p&gt;
 
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 30 Aug 2016 13:55:00 +1000</pubDate>
-        <link>/csulx/strategy/creating-shared-resource.html</link>
-        <guid isPermaLink="true">/csulx/strategy/creating-shared-resource.html</guid>
+        <link>http://localhost:4000/csulx/strategy/creating-shared-resource.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/creating-shared-resource.html</guid>
         
         <category>Learning Communities</category>
         
@@ -167,7 +273,7 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
-&lt;p&gt;SSS 032&lt;/p&gt;
+&lt;p&gt;SSS032: Introduction to Learning Online&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
 
@@ -198,8 +304,8 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;p&gt;The subject &lt;em&gt;SSS032 Introduction to Learning Online&lt;/em&gt; is a useful resource for students in itself as it introduces Interact2 tools and a range of online teaching and learning strategies.&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 15:20:00 +1000</pubDate>
-        <link>/csulx/strategy/orientation-to-the-environment.html</link>
-        <guid isPermaLink="true">/csulx/strategy/orientation-to-the-environment.html</guid>
+        <link>http://localhost:4000/csulx/strategy/orientation-to-the-environment.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/orientation-to-the-environment.html</guid>
         
         <category>Learning Communities</category>
         
@@ -241,8 +347,8 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 14:00:00 +1000</pubDate>
-        <link>/csulx/strategy/guest-lectures.html</link>
-        <guid isPermaLink="true">/csulx/strategy/guest-lectures.html</guid>
+        <link>http://localhost:4000/csulx/strategy/guest-lectures.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/guest-lectures.html</guid>
         
         <category>Interaction with the Professions</category>
         
@@ -280,8 +386,8 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;p&gt;Word, Powerpoint, YouTube,&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 10:03:00 +1000</pubDate>
-        <link>/csulx/strategy/choice-within-assessments.html</link>
-        <guid isPermaLink="true">/csulx/strategy/choice-within-assessments.html</guid>
+        <link>http://localhost:4000/csulx/strategy/choice-within-assessments.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/choice-within-assessments.html</guid>
         
         <category>Interaction Between Students</category>
         
@@ -308,7 +414,7 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
-&lt;p&gt;PSC102&lt;/p&gt;
+&lt;p&gt;PSC102: Botany&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
 
@@ -341,8 +447,8 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;p&gt;Interact2 Site Analytics, Tests and Surveys, Discussion Forums, YouTube, Smart Sparrow,&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 10:03:00 +1000</pubDate>
-        <link>/csulx/strategy/adapting-learning-resources.html</link>
-        <guid isPermaLink="true">/csulx/strategy/adapting-learning-resources.html</guid>
+        <link>http://localhost:4000/csulx/strategy/adapting-learning-resources.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/adapting-learning-resources.html</guid>
         
         <category>Flexible &amp; Adaptive Learning</category>
         
@@ -375,7 +481,7 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 
 &lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
 
-&lt;p&gt;SCI103&lt;/p&gt;
+&lt;p&gt;SCI103: Communicating Environmental Data&lt;/p&gt;
 
 &lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
 
@@ -388,6 +494,17 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
 
 &lt;p&gt;The SCI103 video lectures include screen-captures as well as audio and video, and mostly range from 20-40 minutes. They were created to provide online students with more coverage and explanation of the concepts presented in the online modules, textbook and recommended readings. Like lectures, there is one for each week. Through these video lectures the voice and personality of the lecturer comes through as a real human being, and so helps convey teacher presence.&lt;/p&gt;
+
+&lt;div class=&quot;swiper-container&quot;&gt;
+        &lt;div class=&quot;swiper-wrapper image-container&quot;&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/video-lectures-SCI103-1.jpg&quot; alt=&quot;video screenshot&quot; /&gt;&lt;/div&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/video-lectures-SCI103-2.jpg&quot; alt=&quot;video screenshot&quot; /&gt;&amp;gt;&lt;/div&gt;
+            &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;../images/practices/video-lectures-SCI103-3.jpg&quot; alt=&quot;vide screenshot&quot; /&gt;&amp;gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;swiper-pagination&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;swiper-button-next&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;swiper-button-prev&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
 
@@ -427,10 +544,23 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
   &lt;p&gt;Swan, K., Shea, P., Richardson, J., Ice, P., Garrison, D., Cleveland-Innes, M., et al. (2008). Validating a measurement tool of presence in online communities of inquiry. &lt;em&gt;E-mentor, 2&lt;/em&gt;(24), 1-12.&lt;/p&gt;
 
 &lt;/div&gt;
+
+&lt;script src=&quot;/csulx/js/swiper.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+    var swiper = new Swiper('.swiper-container', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+
+&lt;/script&gt;
+
 </description>
         <pubDate>Tue, 19 Jul 2016 16:20:00 +1000</pubDate>
-        <link>/csulx/strategy/video-lectures.html</link>
-        <guid isPermaLink="true">/csulx/strategy/video-lectures.html</guid>
+        <link>http://localhost:4000/csulx/strategy/video-lectures.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/video-lectures.html</guid>
         
         <category>Teacher Presence</category>
         
@@ -491,8 +621,8 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Jul 2016 12:34:00 +1000</pubDate>
-        <link>/csulx/strategy/creating-rich-media-artefacts.html</link>
-        <guid isPermaLink="true">/csulx/strategy/creating-rich-media-artefacts.html</guid>
+        <link>http://localhost:4000/csulx/strategy/creating-rich-media-artefacts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/creating-rich-media-artefacts.html</guid>
         
         <category>Interactive Resources</category>
         
@@ -558,116 +688,10 @@ communities in online courses&lt;/a&gt;. &lt;em&gt;Journal of Computer Assisted 
 &lt;p&gt;Content Creation - you may need to utilise a range of tools including word processing programs such as Word or Pages. Alternatively, Test Centre does have a range of content creation tools including Word/Audio/Video which can be deployed in the test environment.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jul 2016 10:37:00 +1000</pubDate>
-        <link>/csulx/strategy/computer-based-exams.html</link>
-        <guid isPermaLink="true">/csulx/strategy/computer-based-exams.html</guid>
+        <link>http://localhost:4000/csulx/strategy/computer-based-exams.html</link>
+        <guid isPermaLink="true">http://localhost:4000/csulx/strategy/computer-based-exams.html</guid>
         
         <category>Flexible &amp; Adaptive Learning</category>
-        
-        <category>E-Assessment</category>
-        
-        
-        <category>strategy</category>
-        
-      </item>
-    
-      <item>
-        <title>Online Marking &amp; Effective Feedback</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-
-&lt;p&gt;It is well established that students benefit from constructive feedback on their learning. Everyday learning activities as well as special tasks and tests provide opportunities for the provision of feedback. Online marking presents a diverse range of tools that are designed to provide much richer options for feedback to students that include verbal, visual and written feedback.&lt;/p&gt;
-
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
-
-&lt;p&gt;The digital tools available today can increase the personalisation possible and can greatly increase the turnaround time. The ability and ease in which quality audio feedback can be incorporated into the marking process allows  positive outcomes for both staff and students. The students engagement in their assessments is improved with personalised feedback and the teacher’s voice can make distance students feel more connected and reduce feelings of isolations. The use of verbal feedback provides a link for students with someone they know, that is not just a name in a subject outline but a real person, who cares about their progress and achievements.&lt;/p&gt;
-
-&lt;h3 id=&quot;in-practice&quot;&gt;In Practice&lt;/h3&gt;
-
-&lt;h4 id=&quot;subject&quot;&gt;Subject&lt;/h4&gt;
-
-&lt;p&gt;BMS 240, BMS 241 and BMS 352&lt;/p&gt;
-
-&lt;h4 id=&quot;teaching-staff&quot;&gt;Teaching staff&lt;/h4&gt;
-
-&lt;p&gt;Wouter Kalle&lt;/p&gt;
-
-&lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
-
-&lt;p&gt;Feedback is one of the most important aspects in student learning and traditionally scores quite low in the SES scores at CSU. An initiative in the UK called the &lt;em&gt;audio supported enhanced learning support project&lt;/em&gt; (Stewart 2008) set out to use technology to enhance and personalise teaching. A study in the USA found that using audio feedback was faster than written feedback but the quality of the feedback increased at least 2-fold ((Ice, Curtis, Phillips, &amp;amp; Wells, 2007). Whilst this is not the place to give a full review on the benefits of audio feedback, there is widespread agreement in the literature that audio feedback is a superior form of feedback which will enhance learning and teaching (Dickson, 2015)&lt;/p&gt;
-
-&lt;p&gt;However another maybe even more important aspect of audio feedback is the opportunity to provide a more personal connection with the student which could lead to more engagement of the students with their subject, their course and even the university (Rowe 2011). Studies have shown an increased ability to understand the feedback, as there is more nuance and intonation and greater feelings of subject involvement especially in distance education (Oleseva and Richardson 2011). All this means that audio feedback can provide a system to create greater personal contact and maybe even emotional support (Rowe 2011). This shows that this type of feedback could be an extremely useful tool to increase subject engagement and student retention in online programs at CSU.&lt;/p&gt;
-
-&lt;h4 id=&quot;implementation&quot;&gt;Implementation&lt;/h4&gt;
-
-&lt;p&gt;Briefly, the audio feedback system is set up as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assignments are downloaded from EASTS website on the due date.&lt;/li&gt;
-  &lt;li&gt;In the text different coloured highlights are made and if necessary comments are created using MS-word.&lt;/li&gt;
-  &lt;li&gt;Using MS-Word, the criteria are pasted in front of the assignment and the levels attained are highlighted and marks are awarded to each separate criterion.&lt;/li&gt;
-  &lt;li&gt;Final marks are recorded in spreadsheet&lt;/li&gt;
-  &lt;li&gt;Using a very simple Apple Mac app (called lecture recorder) and the computer microphone audio feedback is recorded for the student. The student’s first name is used and both the criteria and marks, are discussed.  The various highlights and comments in the text are explained.&lt;/li&gt;
-  &lt;li&gt;The recording is usually between 3 minutes (very good marks, HD level) and 7 minutes (lots of remarks, usually PS/CR level).&lt;/li&gt;
-  &lt;li&gt;Marked files are sent back to the students through EASTS to record return date&lt;/li&gt;
-  &lt;li&gt;An email is sent to the students using the EASTS handing-in email containing the marked file and the audio file. This ‘double-up’ is done as the linking of the audio file to the marked document does not work very well and sometimes the audio file gets lost in the EASTS transition. Also this is a point of Quality Control to check whether all assignments have been marked and marks recorded.&lt;/li&gt;
-  &lt;li&gt;Quality Control is ensured by using the original file names for the audio files and consistently using student numbers and student names to record audio feedback and marks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The audio feedback always flows according to a fixed pattern. Below is an excerpt of a typical audio feedback file:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Good morning (students first name), I just wanted to give you some audio feedback on your (subject code) assignment. As you can see I have copied and pasted the criteria in front of your work and blocked out the levels you have attained in pink. I added up all the marks and you scored X marks out of a hundred”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A description of the levels attained follows including an explanation why these were attained.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Looking at your assignment I have highlighted some parts which will be discussed now”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The highlights are in different colours depending on whether they are regarding content, grammar, referencing or general. An explanation of the highlights and comments follows while slowly going through the text. According to personal feedback, students can actually follow the marking and comments through the text and are never lost. The audio feedback always ends with a conclusion and some words of encouragement.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“In short, you have achieved X marks, if you would pay attention to (a brief repeat of previous comments) you would easily score a (higher) level. I really enjoyed reading and marking your assignment and looking forward to seeing more of your work”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-
-&lt;p&gt;If you are looking to implementing completely online marking within your subject/s, there are some important considerations to make when planning this approach:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Consider the platform most suitable for your cohort and the assessment task.&lt;/li&gt;
-  &lt;li&gt;The virtues of audio feedback (like any feedback) seem to lay mostly in the detail of the feedback, the guidance it gives to increase quality in future work, the personal touch it gives and the idea of connection to the subject and university as is shown in the above comments and the many emails on the topic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-
-&lt;p&gt;EASTS, NORFOLK (or voice recording app)&lt;/p&gt;
-
-&lt;h3 id=&quot;literature&quot;&gt;Literature&lt;/h3&gt;
-
-&lt;div class=&quot;apa-ref&quot;&gt;
-
-  &lt;p&gt;Boud, D. and Associates (2010). &lt;em&gt;Assessment 2020: Seven propositions for assessment reform in higher education&lt;/em&gt;. Sydney: Australian Learning and Teaching Council&lt;/p&gt;
-
-  &lt;p&gt;Dickson S. (2015) The pastoral potential of audio feedback: a review of the literature. &lt;em&gt;Pastoral Care in Education, 33:2&lt;/em&gt;, 96-104&lt;/p&gt;
-
-  &lt;p&gt;Henderson, M., &amp;amp; Phillips, M. (2015). Video-based feedback on student assessment: scarily personal. &lt;em&gt;Australasian Journal of Educational Technology&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;Ice, P., Curtis, R., Phillips, P., &amp;amp; Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students’ sense of community. &lt;em&gt;Journal of Asynchronous Learning Networks, 11&lt;/em&gt;, 3–26.&lt;/p&gt;
-
-  &lt;p&gt;Olesova, L., &amp;amp; Richardson, J. (2011). Using asynchronous instructional audio feedback in online environments: A mixed methods study. &lt;em&gt;MERLOT Journal of Online Learning and Teaching, 7&lt;/em&gt;, 30–42.&lt;/p&gt;
-
-  &lt;p&gt;Rowe, A. (2011). The personal dimension in teaching: Why students value feedback. &lt;em&gt;International Journal of Educational Management, 25&lt;/em&gt;, 343–360.&lt;/p&gt;
-
-  &lt;p&gt;Stewart, W. (2008). ASEL project plan. JISC. Retrieved from &lt;a href=&quot;http://www.jisc.ac.uk/media/documents/programmes/usersandinnovation/aselplan.pdf&quot;&gt;http://www.jisc.ac.uk/media/documents/programmes/usersandinnovation/aselplan.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 19 Jul 2016 10:30:00 +1000</pubDate>
-        <link>/csulx/strategy/online-marking-effective-feedback.html</link>
-        <guid isPermaLink="true">/csulx/strategy/online-marking-effective-feedback.html</guid>
-        
-        <category>Interactive Resources</category>
         
         <category>E-Assessment</category>
         

@@ -5,7 +5,7 @@ date: 2016-07-19 11:37:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning, E-Assessment,] 
 description: "Replacing paper based exams"
-subjects: HIP202, 
+subjects: "HIP202, "
 ---
 
 ### Overview
