@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<div class="hero u-release {{ page.header }}">
+        <h1>{{ page.title }}</h1>
+</div>
+<a onclick="window.history.back()"><button class="back-button">Back</button></a>
+<div class="extra-top-padding">
+  <div class="case-profile">
+      <h2>{{ page.subject-code }} - {{ page.subject-name }}</h2>
+      <p>Teaching Staff - {{ page.teaching-staff }}</p>
+      
+      <label for="LC">Learning Communities</label>
+        <input type="range" min="0" max="5" value="{{ page.LCmix }}" id="LC" step="1" list="intensity" disabled class="vertical" orient="vertical">
+            <datalist id="intensity">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </datalist>
+      
+      <label for="LC">Interaction Between Students</label>
+        <input type="range" min="0" max="5" value="{{ page.IBSmix }}" id="IBS" step="1" list="intensity" disabled class="vertical" orient="vertical">
+            <datalist id="intensity">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </datalist>
+      
+      <label for="LC">Teacher Presence</label>
+        <input type="range" min="0" max="5" value="{{ page.TPmix }}" id="TP" step="1" list="intensity" disabled class="vertical" orient="vertical">
+            <datalist id="intensity">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </datalist>      
+    <ul>
+        <li>{{ page.LCmix }}</li>
+        <li>{{ page.IBSmix }}</li>
+        <li>{{ page.TPmix }}</li>
+        <li>{{ page.IWPmix }}</li>
+        <li>{{ page.FALmix }}</li>
+        <li>{{ page.IRmix }}</li>
+        <li>{{ page.EAmix }}</li>
+      </ul>
+  </div>
+  <article class="page-content">
+    {{ content }}
+  </article>
+
+</div>    

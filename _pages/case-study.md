@@ -12,7 +12,7 @@ Insert a blurb here about case studies - that they offer an expanded view of how
             <h3>ETL523</h3>
             <p>Browse the complete set of strategies here.</p>
             <div class="ten columns">
-            <a href="{{ site.baseurl }}/case-study/ETL523" class="u-full-width mixer-button">View All Strategies</a></div>
+            <a href="{{ site.baseurl }}/case-study/ETL523" class="u-full-width mixer-button">Find out more</a></div>
         </div>
         <div class="six columns">
          
