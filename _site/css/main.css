@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* Base files. */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
@@ -506,6 +505,100 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
 .cards a {
   text-decoration: none; }
 
+.mixer-grid {
+  display: flex; }
+
+input.vertical {
+  -webkit-appearance: slider-vertical;
+  writing-mode: bt-lr; }
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 10px 0;
+  width: 100%; }
+
+input[type=range]:focus {
+  outline: none; }
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 0px 0px 1px #333;
+  background: linear-gradient(90deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+  border-radius: 0px;
+  border: 0px solid #000000; }
+
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 1px 1px 1px #333;
+  border: 0px solid #000000;
+  height: 40px;
+  width: 33px;
+  border-radius: 9px;
+  background: #FFFFFF;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: 0px; }
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #50555C; }
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 0px 0px 1px #50555C;
+  background: #50555C;
+  border-radius: 0px;
+  border: 0px solid #000000; }
+
+input[type=range]::-moz-range-thumb {
+  box-shadow: 1px 1px 1px #000000;
+  border: 0px solid #000000;
+  height: 30px;
+  width: 33px;
+  border-radius: 9px;
+  background: #FFFFFF;
+  cursor: pointer; }
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  color: transparent; }
+
+input[type=range]::-ms-fill-lower {
+  background: #50555C;
+  border: 0px solid #000000;
+  border-radius: 0px;
+  box-shadow: 0px 0px 1px #50555C; }
+
+input[type=range]::-ms-fill-upper {
+  background: #333333;
+  border: 0px solid #000000;
+  border-radius: 0px;
+  box-shadow: 0px 0px 1px #50555C; }
+
+input[type=range]::-ms-thumb {
+  box-shadow: 1px 1px 1px #000000;
+  border: 0px solid #000000;
+  height: 30px;
+  width: 33px;
+  border-radius: 9px;
+  background: #FFFFFF;
+  cursor: pointer; }
+
+input[type=range]:focus::-ms-fill-lower {
+  background: #50555C; }
+
+input[type=range]:focus::-ms-fill-upper {
+  background: #333333; }
+
 code {
   padding: .2rem .5rem;
   margin: 0 .2rem;
@@ -990,7 +1083,7 @@ ul {
   padding-right: 0px; }
 
 .post-content ul li:before, .page-content ul li:before {
-  content: "»";
+  content: "\00BB";
   padding-right: 8px;
   color: #ff5800; }
 
@@ -1063,7 +1156,7 @@ li {
   overflow: hidden;
   border-radius: 5px; }
 
-.level {
+.level, .level-head {
   -webkit-flex: 1;
   -moz-flex: 1;
   -ms-flex: 1;
@@ -1082,10 +1175,19 @@ li {
   min-height: 0; }
 
 .level:hover, .level:active {
-  -webkit-flex: 8;
-  -moz-flex: 8;
-  -ms-flex: 8;
-  flex: 8;
+  -webkit-flex: 5;
+  -moz-flex: 5;
+  -ms-flex: 5;
+  flex: 5;
+  border: 0px 2px solid white;
+  transition: 1s 0.25s;
+  word-break: break-all; }
+
+.level-head:hover, .level-head:active {
+  -webkit-flex: 7;
+  -moz-flex: 7;
+  -ms-flex: 7;
+  flex: 7;
   border: 0px 2px solid white;
   transition: 1s 0.25s;
   word-break: break-all; }
@@ -1105,18 +1207,18 @@ li {
   align-items: center;
   justify-content: center;
   padding: .5em;
-  font-size: .8em;
+  font-size: 1em;
   color: rgba(255, 255, 255, 0.3);
-  padding: 1em;
+  padding: .6em;
   min-height: 0; }
 
 .col:hover, .col:active {
-  -webkit-flex: 8;
-  -moz-flex: 8;
-  -ms-flex: 8;
-  flex: 8;
+  -webkit-flex: 4;
+  -moz-flex: 4;
+  -ms-flex: 4;
+  flex: 4;
   background-color: transparent;
-  padding: 1.2em;
+  padding: .6em;
   color: white; }
 
 .hcol {
@@ -1162,7 +1264,7 @@ li {
   font-weight: bold;
   color: white;
   word-break: normal;
-  padding-bottom: 1em;
+  padding-bottom: .6em;
   border-bottom: 1px solid;
   text-align: left; }
 
@@ -1203,18 +1305,18 @@ li {
 .tools a:hover {
   color: #333333; }
 
-/* this is a hack for IE10 and IE11 to animate the mixer 
+/* this is a hack for IE10 and IE11 to animate the mixer
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 .level {
     min-height: 20px;
     max-height: 320px;
 }
-    
+
 .col {
     min-width: 20px;
     max-width: 480px;
 }
-    
+
 .level:hover {
     -webkit-flex: 1;
     -moz-flex: 1;
@@ -1223,7 +1325,7 @@ li {
     min-height: 320px;
     max-height: 320px;
 }
-    
+
 .col:hover {
     -webkit-flex: 1;
     -moz-flex: 1;

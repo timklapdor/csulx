@@ -1,6 +1,5 @@
 // Variables
-//––––––––––––––––––––––––––––––––––––––––––––––––––
-
+//==========================================================================
 // Breakpoints
 $bp-larger-than-mobile    : "min-width: 400px" !default;
 $bp-larger-than-phablet   : "min-width: 550px" !default;
@@ -20,8 +19,8 @@ $font-color: rgba(51,51,51,1) !default;
 // Color Palette
 $lx-pink: rgba(215,31,133,1);
 $lx-orange: rgba(255,88,0,1);
-$lx-purple: rgba(145,0,75,1); 
-$lx-blue: rgba(0,175,216,1); 
+$lx-purple: rgba(145,0,75,1);
+$lx-blue: rgba(0,175,216,1);
 $lx-dark-grey: rgba(51,51,51,1);
 $lx-light-grey: rgba(241,241,241,1);
 $lx-white: rgba(255,255,255,1);

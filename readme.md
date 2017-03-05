@@ -1,9 +1,18 @@
 ## The CSU Online Learning Exchange
 
-This site was built to accomodate Version 2 of the CSU Online Learning Model and it's associacted resources. These include the OLM Mixer and a growing collection of Strategies & Practice examples that ilustrate how they can be utilised to increase student engagement. 
+This site was built to accommodate Version 2 of the CSU Online Learning Model and it's associated resources. These include the OLM Mixer and a growing collection of Strategies & Practice examples that illustrate how they can be utilised to increase student engagement.
 
 
 ### Updates
+
+** 6 March 2017 **
+
+Creating a stable update to build the next set of features. Will be updating CSS to be more responsive and improve the readability of the site. 
+
+- Tweaks to mixer code to reduce size of flyouts and slow down the animation
+- Edits to text to fix minor mistakes
+- Commenting out access to new Case Study pages - will build on separate branch and merge back in
+- Planning to update styles and go for more responsive typography to improve readability
 
 ** 15 September 2016**
 
@@ -39,7 +48,7 @@ This site was built to accomodate Version 2 of the CSU Online Learning Model and
 **15 July 2016**
 
 - Replaced placeholder text on homepage
-- Updated Mixer - inverted layout, added feedback button, added hero image, 
+- Updated Mixer - inverted layout, added feedback button, added hero image,
 - Remove QLT section in Strategies - can add back again later
 
 ```html

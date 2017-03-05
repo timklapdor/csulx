@@ -15,64 +15,55 @@ When composing, performing and recording a piece of music successful patterns an
 
 The **Online Learning Model** proposed by CSU highlights seven elements composing a potential learning experience. These elements have been identified through prior experience and research to contribute to the composition of high quality learning experiences. They are not a mathematical formula that can be applied to every situation uniformly, the balance between the elements and the unique context of various courses determines the appropriate expression of each element. Educators must make the judgement calls at many stages along the way of planning, composing and performing learning experiences. They must weigh the needs of the experience and judge which elements to engage with in greater depth and which ones will provide better support with a lighter touch.
 
-The sound mixer separates out elements of a piece, allowing particular features to be focused on individually. A visual display illustrates the relationships between these elements enabling choices to be made and levels adjusted. Similar decisions may be made when planning a learning cycle. It is not desirable (or possible) to focus on each element of the OLM at full volume, a balance must be achieved. Finding the right levels requires a sense of the audience, the purpose, the context and the nature of the instruments available (including the performer). 
+The sound mixer separates out elements of a piece, allowing particular features to be focused on individually. A visual display illustrates the relationships between these elements enabling choices to be made and levels adjusted. Similar decisions may be made when planning a learning cycle. It is not desirable (or possible) to focus on each element of the OLM at full volume, a balance must be achieved. Finding the right levels requires a sense of the audience, the purpose, the context and the nature of the instruments available (including the performer).
 
-The OLM  Mixer is a tool for illustrating the levels of potential engagement with a range of teaching strategies. It provides a range of descriptors to diagnose existing practice and a visual map of the relationships between the features in a learning cycle for future planning. 
+The OLM  Mixer is a tool for illustrating the levels of potential engagement with a range of teaching strategies. It provides a range of descriptors to diagnose existing practice and a visual map of the relationships between the features in a learning cycle for future planning.
 
 *Use the tool below and let us know what you think!*
-
-
 
 <section id="thing">
 
 <div class="mixer" onclick="">
-<div class="level orange-bg">
-        <div class="hcol grey-bg">&nbsp;</div> 
+<div class="level-head orange-bg">
+        <div class="hcol grey-bg">&nbsp;</div>
 	   <div class="col" title="Learning Communities">
         <h3>Learning Communities</h3>
         <img src="../images/lc-rev.png" class="img-mix" width="30%" alt="Learning Communities Icon">
         <p>Feeling part of a learning community and actively contributing to it is directly linked to student motivation and resilience. Studying within learning groups can be an important foundation for effective interaction between students, their peers and teachers in support of deeper learning. Proactive support from teachers for learning within smaller groups, provided synchronously or asynchronously, is important if the benefits of intellectual rigour and deep engagement are to be achieved. This element supports enhanced learner-teacher and learner-learner engagement.</p>
-        <p class=""><a href="{{ site.baseurl }}/model/learning-communities.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Interaction between Students">
         <h3>Interaction between Students</h3>
         <img src="../images/ibs-rev.png" class="img-mix" width="30%" alt="Interaction between Students Icon">
         <p>Student learning is enhanced through  online peer-to-peer interaction in online learning activities designed in alignment with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/interaction-students.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Teacher Presence">
         <h3>Teacher Presence</h3>
         <img src="../images/tp-rev.png" class="img-mix" width="30%" alt="Teacher Presence Icon">
         <p>Awareness of the presence of a passionate, knowledgeable and skilled online teacher improves student confidence supporting independent learning and socialisation of the learning experience. Effective and regular online communication can bolster student awareness of the support and availability of the teacher and humanise the expectations around learning activities and assessment. It also facilitate the development of learning communities capable of purposeful interaction between students. This element supports enhanced learner-teacher and learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/teacher-presence.html" class="mixer-button">Find Out More</a></p>
         </div>
       <div class="col" title="interaction with the Professions">
         <h3>Interaction with the Professions</h3>
         <img src="../images/iwp-rev.png" class="img-mix" width="30%" alt="Interaction with the Professions Icon">
         <p>Student learning is enhanced through  online peer-to-peer interaction in online learning activities designed in alignment with the subject outcomes and actively facilitated by an online teacher. These activities may be conducted synchronously or asynchronously and student participation and learning benefits are highest when they support the completion of assessment tasks. This element supports enhanced learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/interaction-students.html" class="mixer-button">Find Out More</a></p>
         </div>
       <div class="col" title="Flexible &amp; Adaptive Learning">
         <h3>Flexible &amp; Adaptive Learning</h3>
         <img src="../images/fal-rev.png" class="img-mix" width="30%" alt="Flexible & Adaptive Learning Icon">
         <p>Learning experiences that are designed for high engagement also need to provide adequate flexibility to meet the needs of autonomous learners. Adaptivity in learning design, online teaching and student support can be improved through the provision of timely data on learners’ knowledge, perceptions and study behaviour. Alongside this, flexibility in the timing and mode of engagement with teachers, peers, learning content and feedback can promote agile and personalised learning experiences. This element supports enhanced learner-content, learner-learner, learner-teacher and learner-institution engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/flexible-adaptive.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="Interactive Resources">
         <h3>Interactive Resources</h3>
         <img src="../images/ir-rev.png" class="img-mix" width="30%" alt="Interactive Resources Icon">
         <p>High quality rich media learning resources support understanding of conceptual material,provide visual examples of practice and contextualise information within the broader learning experience. Interactive learning resources can provide a place for experiential engagement and experimentation with content and with peers and teachers as part of authentic learning activities. Resources can be curated from those available commercially, within Open Educational Resource libraries or MOOCs, or developed and quality assured by our teaching and educational design staff, students or media specialists. This element supports enhanced learner-content engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/interactive-resources.html" class="mixer-button">Find Out More</a></p>
         </div>
 	  <div class="col" title="e-Assessment">
         <h3>e-Assessment</h3>
         <img src="../images/ea-rev.png" class="img-mix" width="30%" alt="e-Assessment Icon">
         <p>Digital technologies present new possibilities for the ways in which students undertake and submit assessment tasks, the way in which feedback is provided and the kinds of learner activities that can be assessed. Authentic assessment tasks which require students to demonstrate practices of the target profession can be provisioned in ways that scaffold students and ensure professional and practice-based learning outcomes. This element supports enhanced learner-content and learner-learner engagement.</p>
-        <p class="element"><a href="{{ site.baseurl }}/model/e-assessment.html" class="mixer-button">Find Out More</a></p>
 	</div>
     </div>
     <div class="level gradient-blue">
-        <div class="hcol"><h4>light</h4></div> 
+        <div class="hcol"><h4>light</h4></div>
         <div class="col" title="Learning Communities">
         <h4>Establishing community</h4>
         <p>Proactive work by the teacher to orient students to the environment and have them introduce themselves to each other and share their location, interests, or subject goals. Designed activities where students respond to each other’s shared photos, videos, or written reflections. Forums structured and named to invite participation.</p>
@@ -80,7 +71,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         <div class="col" title="Interaction between Students">
         <h4>Active scaffolded discussion</h4>
         <p>An active Discussion Board with clear communication protocols is established. Specific forums are created for assessments and topic areas for students to use and prompts are provided to students throughout learning content to encourage student contributions. These focus questions provide opportunities for students to share their experiences, knowledge and perspectives in an open dialogue.</p>
-        
+
         </div>
         <div class="col" title="Teacher Presence">
         <h4>Established teacher Identity</h4>
@@ -104,7 +95,7 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
 	</div>
     <div class="level gradient-pink">
-        <div class="hcol">&nbsp;</div> 
+        <div class="hcol">&nbsp;</div>
         <div class="col" title="Learning Communities">
         <h4>Online Study Groups</h4>
         <p>Formation of supported online study groups allowing students to regularly engage with each other around subject content and assessment. Tailoring of the online environment to help study groups to meet and discuss ideas synchronously or asynchronously. Content and activities can be structured for group engagement throughout the session.</p>        
@@ -135,11 +126,11 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         </div>
 	</div>
     <div class="level gradient-purple">
-        <div class="hcol">&nbsp;</div> 
+        <div class="hcol">&nbsp;</div>
         <div class="col" title="Learning Communities">
         <h4>Sub cohort teaching</h4>
         <p>A large cohort is divided into smaller sub cohorts and each group is facilitated by a staff member who guides the community building, provides formative feedback, moderates the discussion forums and is responsible for the marking of summative assessment tasks.</p>
-        
+
         </div>
         <div class="col" title="Interaction between Students">
         <h4>Collaborative learning tasks</h4>
@@ -228,10 +219,10 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
         <p>Assessments offer a range of personalised and adaptive options to provide flexibility in content focus and timing. Students receive real-time feedback in the context of authentic real world activities and are able to choose pathways aligned with their demonstrated competencies and stages of learning. Adaptive assessment tasks can include simulated tasks in immersive environments, such as virtual laboratories or virtual sites, aimed at developing professional capabilities. </p>
         </div>
 	</div>    
-        
+
 </div>
 <p>&nbsp;</p>
-</section> 
+</section>
 
 
 <div class="row u-release extra-bottom-padding">
@@ -251,4 +242,3 @@ The OLM  Mixer is a tool for illustrating the levels of potential engagement wit
     <a href="{{ site.baseurl}}/documents/Mixer-Handout.pdf" class="mixer-button piwik_download">Download worksheet</a></div>
     </div>
 </div>
-

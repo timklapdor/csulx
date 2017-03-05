@@ -1,7 +1,6 @@
 // Cards
-//––––––––––––––––––––––––––––––––––––––––––––––––––
 
-// Use Cards to provide a different way of displaying content. The cards-grid is the container elements, and the each card can contain your information. first-of-type create a feature of the first card displayed. Using this selector works well for loops - for and if - content without having to extract or set up value for latest item. 
+// Use Cards to provide a different way of displaying content. The cards-grid is the container elements, and the each card can contain your information. first-of-type create a feature of the first card displayed. Using this selector works well for loops - for and if - content without having to extract or set up value for latest item.
 
 .card-grid {
     display: flex !important;
@@ -15,12 +14,12 @@
     flex-grow: 1;
 // for 3up    width: 28%;
 //            min-width: 15em;
-//            max-width: 50%;    
+//            max-width: 50%;
     width: 44%;
     background: rgba(240,240,240,1);
     padding: 1em;
     margin: 0.5em;
-    box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2); 
+    box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2);
 }
 
 //.cards:first-of-type {
@@ -31,7 +30,7 @@
 
 .cards:hover {
     background: #fff;
-    box-shadow: 0px 1em 2em 0.5em rgba(0,0,0,0.2); 
+    box-shadow: 0px 1em 2em 0.5em rgba(0,0,0,0.2);
     transition: .3s ease-out;
 }
 

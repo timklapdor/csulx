@@ -4,8 +4,8 @@ layout: post
 title: "Creating a Shared Resource"
 date: 2016-08-30 14:55:00 +1100
 category: strategy
-tags: [Learning Communities, Interaction Between Students, ] 
-description: "Student co-creadting resources for learning"
+tags: [Learning Communities, Interaction Between Students, ]
+description: "Student co-creating resources for learning"
 subjects: "MBA 501,"
 ---
 
@@ -15,25 +15,25 @@ Critical to establishing a sense of community, is the feeling that group members
 
 ### Engagement
 
-Developing engagement within a community requires a focal point, a common goal or aim and the creation of a shared resource does this. The shared nature of the resource creates a goal that students must work towards and provides a measure of accountability.  This equates to incentives as well as rewards through peer recognition. As noted by Wenger, McDermott and Snyder (2002) good community design requires an understanding of the community’s potential to develop and steward knowledge. Shared resources provide a way to test and develop a community in a variety of ways. It collects the learning and reduces the risk of a single point of failure. Students learn and develop important skills like negotiation and communication, which requires a much deeper level of engagement between students. 
+Developing engagement within a community requires a focal point, a common goal or aim and the creation of a shared resource does this. The shared nature of the resource creates a goal that students must work towards and provides a measure of accountability.  This equates to incentives as well as rewards through peer recognition. As noted by Wenger, McDermott and Snyder (2002) good community design requires an understanding of the community’s potential to develop and steward knowledge. Shared resources provide a way to test and develop a community in a variety of ways. It collects the learning and reduces the risk of a single point of failure. Students learn and develop important skills like negotiation and communication, which requires a much deeper level of engagement between students.
 
 ### In Practice
 
 #### Subject
 
-MBA501: Management, People and Organisations 
+MBA501: Management, People and Organisations
 
-#### Teaching staff 
+#### Teaching staff
 
-Wendy Webber 
+Wendy Webber
 
-#### Motivation 
+#### Motivation
 
 In a post-graduate subject with many students new to CSU, this learning design incorporated digital literacies and professional communication skills while building a sense of community. Each student group examined a contemporary management issue, shared their findings and considered the information presented by their peers. In the end this activity provided the cohort with a collection of presentations which unpacked topics introduced in weekly readings and tutorials
 
 #### Implementation
 
-Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts. Each small group of students presented their findings through online meeting sessions. The entire cohort was invited to vote for the ‘best’ presentations via Suveymonkey. 
+Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts. Each small group of students presented their findings through online meeting sessions. The entire cohort was invited to vote for the ‘best’ presentations via Suveymonkey.
 
 ### Guide
 
@@ -43,14 +43,14 @@ Here are some key points to consider:
 
 - **Clearly Identify topics to be divided amongst the students**.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)
 - **Allocate student groups to each topic**. At this point there are some options to consider: is it appropriate for students to self-select or will they be assigned to particular groups
-- **Monitor progress**. Simply keep students on track as you would normally with regular online meeting sessions and announcements. 
+- **Monitor progress**. Simply keep students on track as you would normally with regular online meeting sessions and announcements.
 - **Share the final product**. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.
 - **Debrief**. After students have had time to consider the efforts of their peers discuss overall findings and what they have learned from their own work and that of others.
 
 
 ### Tools
 
-Blackboard Wikis, Blogs and the use of a common space such as a ‘resources’ folder to upload artefacts are all useful tools to develop a shared resources. External technologies like Google Docs or Google Slides can be particularly useful for collaborative authoring and contribution in a way that also provides version tracking and control. 
+Blackboard Wikis, Blogs and the use of a common space such as a ‘resources’ folder to upload artefacts are all useful tools to develop a shared resources. External technologies like Google Docs or Google Slides can be particularly useful for collaborative authoring and contribution in a way that also provides version tracking and control.
 
 ### Further Reading
 

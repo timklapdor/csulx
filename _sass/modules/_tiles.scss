@@ -1,3 +1,6 @@
+// Tiles
+//==========================================================================
+
 .tile-icons {
     display: flex;
     flex-flow: row wrap;
@@ -37,18 +40,18 @@
 
 /* Tablet */
 @media (max-width: 800px) {
-  .tiles {  
+  .tiles {
     width: 30%;
     }
     .tiles h4 {
         font-size: 1.1rem;
         line-height: 1.1rem
-    }    
+    }
 }
 
 /* Mobile */
 @media (max-width: 480px) {
-  .tiles {  
+  .tiles {
     width: 45%;
     }
 }

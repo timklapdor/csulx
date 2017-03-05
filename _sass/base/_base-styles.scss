@@ -1,5 +1,5 @@
 // Base Styles
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+// ==========================================================================
 // NOTE
 // html is set to 62.5% so that all the REM measurements throughout Skeleton
 // are based on 10px sizing. So basically 1.5rem = 15px :)
@@ -18,7 +18,7 @@ body {
 }
 
 // Links
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+//==========================================================================
 
 a {
     color: $lx-blue;
@@ -37,7 +37,7 @@ footer a {
 
 
 // Misc
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+//==========================================================================
 
 hr {
   margin-top: 3rem;
@@ -47,7 +47,7 @@ hr {
 }
 
 // Gradient Animation Settings
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+//==========================================================================
 
 .gradient {
     background: $long-gradient;
@@ -55,8 +55,8 @@ hr {
     -webkit-animation: LX-Background 120s linear alternate infinite;
     -moz-animation: LX-Background 120s linear alternate infinite;
     animation: LX-Background 120s linear alternate infinite;
-}    
-    
+}
+
 @-webkit-keyframes LX-Background {
     0%{background-position:51% 0%}
     50%{background-position:50% 100%}
@@ -67,8 +67,8 @@ hr {
     50%{background-position:50% 100%}
     100%{background-position:51% 0%}
 }
-@keyframes LX-Background { 
+@keyframes LX-Background {
     0%{background-position:51% 0%}
     50%{background-position:50% 100%}
     100%{background-position:51% 0%}
-}    
+}

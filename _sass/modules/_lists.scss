@@ -1,6 +1,4 @@
 // Lists
-//––––––––––––––––––––––––––––––––––––––––––––––––––
-
 
 ul {
   list-style: disc outside;
@@ -18,11 +16,11 @@ ul {
 }
 
 .post-content ul li:before, .page-content ul li:before {
-    content: "»"; // Insert content that looks like bullets 
+    content: "\00BB"; // Insert content that looks like bullets
     padding-right: 8px;
     color: $lx-orange;
 }
- 
+
 ol {
   list-style: decimal inside;
   padding-left: 0;
