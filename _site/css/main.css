@@ -1348,9 +1348,11 @@ nav ul {
 
 nav li {
   flex-grow: 1;
-  min-width: 50%;
+  min-width: 40vw;
+  max-width: 100vw;
   margin: 0px 0px;
   border-right: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
   background: #333333;
   background: -moz-linear-gradient(top, #444 0%, #333333 39%, #333333 39%);
@@ -1363,23 +1365,17 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
   display: block;
-  padding: 1em 0px; }
+  padding: .5em 0px; }
 
 nav a:hover {
   background-color: rgba(215, 31, 133, 0.8);
   color: #fff; }
 
-nav li:nth-child(even) {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
-
-nav li:nth-child(odd) {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
-
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 600px) {
   nav li:nth-child(n) {
     flex-grow: 1;
-    min-width: 20%; }
+    min-width: 20vw; }
 
   nav a {
     padding: 0.8em 0px; } }

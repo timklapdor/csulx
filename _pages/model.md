@@ -35,18 +35,15 @@ Each of the seven elements of the Online Learning Model are designed to increase
     </div>
 </div>
 
-<div class="container extra-top-padding">
+<div class="container extra-top-padding extra-bottom-padding">
 <div class="center offset-by-one ten columns">
 The following video provides an overview of the model and each of the elements.
 {% include youtubePlayer.html id="tNbGNynZA8U" %}
 </div>
 </div>
 
-
-{% include olm-nav.html %}
-
-
-
+<div class="row u-release extra-top-padding">
+<div class="container" markdown="1">
 ### The Link to Engagement
 
 A central element of Moore’s transactional distance theory was the conception of the three categories of interaction in distance education:
@@ -62,6 +59,10 @@ In defining the notion of engagement that underpins the Online Learning Model, w
 The association of engagement with increased persistence, improved student learning outcomes and achievement (Hoskins, 2012; Leach & Zepke, 2011; Sinatra, Heddy, & Lombardi, 2015), reduced drop out (Sinatra et al., 2015), and increased retention rates (Hoskins, 2012; Leach & Zepke, 2011; Tinto, 2006) have led to the claim that it is the "holy grail of learning" (Sinatra et al., 2015, p. 1). While some researchers have suggested that the relationship between engagement and learning outcomes is still unclear (Axelson & Flick, 2010, p. 42) and some others have found that the strength of the relationship varies with student ability levels and stages of study (Carini, Kuh & Klein, 2006), many researchers have argued that there are unequivocal links between engagement and student success, learning and achievement (Kahn, 2014; F. Newmann, Wehlage, & Lamborn, 1992; F. M. Newmann, 1992; Zepke, 2014). The link between engagement and student retention is particularly important in a distance education or online learning context where high attrition has been a consistent problem (Carr, 2000; Tresman, 2002). In Australia a focus on engagement as part of broader strategies to enhance student transition into university and retention within their course has been a key element of a number of national projects and commissioned reviews (see, for example, Scott, 2008; Kift, 2009).
 
 The definition of engagement that we have adopted here, which encompases the time and energy devoted by students to a range of different kinds of educationally sound activities, is consistent with the implicit definition which underpins major survey instruments such as the United States’ National Survey of Student Engagement (NSSE) (Axelson & Flick, 2010; Kahu, 2013). In Australia, the national Australasian Survey of Student Engagement (AUSSE), University Experience Survey (UES) and the more recent Student Experience Survey all have similar conceptual underpinnings to the NSSE instrument. Due to this alignment between the notion of engagement as measured by the UES and the notion which underpins the Online Learning Model, we are expecting that the implementation of the model across CSU’s online/distance courses will lead to improved institutional performance on the UES instrument.
+</div>
+</div>
+
+{% include olm-nav.html %}
 
 ### References
 
