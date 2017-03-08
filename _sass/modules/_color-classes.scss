@@ -1,44 +1,91 @@
 // Colour Settings
-//==========================================================================
 
-.orange-bg {background-color: $lx-orange;}
+.blue {color: $lx-blue; }
+.blue-lighter {color: lighten($lx-blue, 25%);}
+.blue-light {color: lighten($lx-blue, 15%);}
+.blue-dark {color: darken($lx-blue, 15%);}
+.blue-darker {color: darken($lx-blue, 25%);}
 
-.pink-bg {background-color: $lx-pink;}
+.grey {color: $lx-dark-grey;}
+.grey-lighter {color: lighten($lx-dark-grey, 25%);}
+.grey-light {color: lighten($lx-dark-grey, 15%);}
+.grey-dark {color: darken($lx-dark-grey, 15%);}
+.grey-darker {color: darken($lx-dark-grey, 25%);}
 
-.purple-bg {background-color: $lx-purple;}
+.orange {color: $lx-orange;}
+.orange-lighter {color: lighten($lx-orange, 25%);}
+.orange-light {color: lighten($lx-orange, 15%);}
+.orange-dark {color: darken($lx-orange, 15%);}
+.orange-darker {color: darken($lx-orange, 25%);}
 
-.blue-bg {background-color: $lx-blue;}
+.pink {color: $lx-pink;}
+.pink-lighter {color: lighten($lx-pink, 25%);}
+.pink-light {color: lighten($lx-pink, 15%);}
+.pink-dark {color: darken($lx-pink, 15%);}
+.pink-darker {color: darken($lx-pink, 25%);}
 
-.grey-bg {background-color: $lx-dark-grey;}
+.purple {color: $lx-purple;}
+.purple-lighter {color: lighten($lx-purple, 25%);}
+.purple-light {color: lighten($lx-purple, 15%);}
+.purple-dark {color: darken($lx-purple, 15%);}
+.purple-darker {color: darken($lx-purple, 25%);}
 
-.light-grey-bg  {background-color: $lx-light-grey;}
-
-.orange {
-    color: $lx-orange;
-    }
-
-.pink {
-    color: $lx-pink;
-    }
-
-.purple {
-    color: $lx-purple;
-    }
-
-.blue {
-    color: $lx-blue;
-    }
-
-.grey  {color: $lx-dark-grey;}
+.red {color: $lx-red;}
+.red-lighter {color: lighten($lx-red, 25%);}
+.red-light {color: lighten($lx-red, 15%);}
+.red-dark {color: darken($lx-red, 15%);}
+.red-darker {color: darken($lx-red, 25%);}
 
 .white {color: $lx-white;}
 
+// Backgrounds
+
+.blue-bg {background-color: $lx-blue;}
+.blue-bg-lighter {background-color: lighten($lx-blue, 25%);}
+.blue-bg-light {background-color: lighten($lx-blue, 15%);}
+.blue-bg-dark {background-color: darken($lx-blue, 15%);}
+.blue-bg-darker {background-color: darken($lx-blue, 25%);}
+
+.grey-bg {background-color: $lx-dark-grey;}
+.grey-bg-lighter {background-color: lighten($lx-dark-grey, 25%);}
+.grey-bg-light {background-color: lighten($lx-dark-grey, 15%);}
+.grey-bg-dark {background-color: darken($lx-dark-grey, 15%);}
+.grey-bg-darker {background-color: darken($lx-dark-grey, 25%);}
+
+.light-grey-bg {background-color: $lx-light-grey;}
+.light-grey-bg-lighter {background-color: lighten($lx-light-grey, 25%);}
+.light-grey-bg-light {background-color: lighten($lx-light-grey, 15%);}
+.light-grey-bg-dark {background-color: darken($lx-light-grey, 15%);}
+.light-grey-bg-darker {background-color: darken($lx-light-grey, 25%);}
+
+.orange-bg {background-color: $lx-orange;}
+.orange-bg-lighter {background-color: lighten($lx-orange, 25%);}
+.orange-bg-light {background-color: lighten($lx-orange, 15%);}
+.orange-bg-dark {background-color: darken($lx-orange, 15%);}
+.orange-bg-darker {background-color: darken($lx-orange, 25%);}
+
+.pink-bg {background-color: $lx-pink;}
+.pink-bg-lighter {background-color: lighten($lx-pink, 25%);}
+.pink-bg-light {background-color: lighten($lx-pink, 15%);}
+.pink-bg-dark {background-color: darken($lx-pink, 15%);}
+.pink-bg-darker {background-color: darken($lx-pink, 25%);}
+
+.purple-bg {background-color: $lx-purple;}
+.purple-bg-lighter {background-color: lighten($lx-purple, 25%);}
+.purple-bg-light {background-color: lighten($lx-purple, 15%);}
+.purple-bg-dark {background-color: darken($lx-purple, 15%);}
+.purple-bg-darker {background-color: darken($lx-purple, 25%);}
+
+.red-bg {background-color: $lx-red;}
+.red-bg-lighter {background-color: lighten($lx-red, 25%);}
+.red-bg-light {background-color: lighten($lx-red, 15%);}
+.red-bg-dark {background-color: darken($lx-red, 15%);}
+.red-bg-darker {background-color: darken($lx-red, 25%);}
+
+// Gradients 
+
 .gradient-blue {background: $gradient-blue;}
-
 .gradient-pink {background: $gradient-pink;}
-
 .gradient-purple {background: $gradient-purple;}
-
 .gradient-orange {background: $gradient-orange;}
-
 .gradient-red {background: $gradient-red;}

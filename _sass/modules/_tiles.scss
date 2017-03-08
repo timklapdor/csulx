@@ -55,3 +55,29 @@
     width: 45%;
     }
 }
+
+// Boxes
+//==========================================================================
+
+.box-container-rows {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+
+.box-container-columns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+
+.boxes {
+  width: calc(100vw/7);
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}

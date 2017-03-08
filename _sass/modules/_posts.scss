@@ -25,12 +25,14 @@
 
 blockquote {
     border-left: 4px solid $lx-orange;
+    padding: .5em 0em;
 }
 
 blockquote p {
     font-style: italic;
     color: $lx-dark-grey;
     font-size: 1.1em;
+    margin: 1em;
 }
 
 .post-content .apa-ref, .page-content .apa-ref {
