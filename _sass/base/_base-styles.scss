@@ -1,21 +1,57 @@
 // Base Styles
 // ==========================================================================
-// NOTE
-// html is set to 62.5% so that all the REM measurements throughout Skeleton
-// are based on 10px sizing. So basically 1.5rem = 15px :)
+
+
+// Responsive Type
+// ==========================================================================
+
+$line-height: calc(1.3em + (1.5 - 1.3) * ((100vw - 21em)/(35 - 21)));
+
+$min_width: 320px;
+$max_width: 1200px;
+$min_font: 16px;
+$max_font: 30px;
+
+$mod_1: 1.1; // mobile
+$mod_2: 1.4; // desktop
 
 html {
-    font-size: 62.5%;
+  @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
 body {
-  font-size: 1.5em; // currently ems cause chrome bug misinterpreting rems on body element
-  line-height: 1.6;
+  font-size: 0.775rem; // currently ems cause chrome bug misinterpreting rems on body element
+  font-family: $body-font;
   font-weight: 400;
-  font-family: $font-family;
   color: $font-color;
   overflow-x: hidden;
 }
+
+article {
+  max-width: 98%;
+  margin: auto;
+}
+
+section {
+  max-width: 98%;
+  margin: auto;
+}
+
+
+@media (#{$bp-larger-than-tablet}) {
+
+article {
+  max-width: 37em;
+  margin: auto;
+}
+
+section {
+  max-width: 55em;
+  margin: auto;
+}
+
+}
+
 
 // Links
 //==========================================================================
@@ -23,6 +59,7 @@ body {
 a {
     color: $lx-blue;
     transition: all 0.2s ease;
+    text-decoration: none;
 }
 
 a:hover {

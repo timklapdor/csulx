@@ -1,0 +1,83 @@
+---
+
+layout: page
+title: The CSU Online Learning Model
+permalink: "/ranger/"
+category: element
+
+---
+<div class="one-half column">
+    <div class="card-grid">
+      <div class="cards dark">
+          <h2><a class="post-link" href="ex-1-tp.html">Teacher Presence</a></h2>
+          <p>Mixer Intensity Level <span class="intensity-{{ page.TPmix }} orange-bg"> {{page.TPmix}} </span></p>
+          <p><strong>Features:</strong> Assignment 1 - Group Wiki Project</p>
+          <p>The focus of Assignment 1 was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills. </p>
+          <p><strong>Strategies:</strong> <a href="#">Collaborative group projects</a>, <a href="#">Creating a shared resource</a></p>
+      </div>
+    </div>
+</div>
+
+
+<div class="one-half column">
+  <label for="LCmix">Learning Communities</label>
+    <input
+      type="range"
+      name="lc-range"
+      min="-1"
+      max="5"
+      step="1"
+      value="0"
+    >
+  <label for="LCmix">Learning Communities</label>
+    <input
+      type="range"
+      name="lc-range"
+      min="-1"
+      max="5"
+      step="1"
+      value="1"
+      disabled="disabled">
+  <label for="TPmix">Panel Size</label>
+    <input
+      type="range"
+      name="tp-range"
+      min="-1"
+      max="5"
+      step="1"
+      value="2"
+      disabled="disabled">
+  <label for="panel_size">Learning Communities</label>
+    <input
+      type="range"
+      name="participants"
+      min="-1"
+      max="5"
+      step="1"
+      value="3"
+      disabled="disabled">
+  <label for="panel_size">Learning Communities</label>
+    <input
+      type="range"
+      name="participants"
+      min="-1"
+      max="5"
+      step="1"
+      value="4"
+      disabled="disabled">
+  <label for="panel_size">Learning Communities</label>
+    <input
+      type="range"
+      name="participants"
+      min="-1"
+      max="5"
+      step="1"
+      value="5"
+      disabled="disabled">
+</div>
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='http://andreruffert.github.io/rangeslider.js/assets/rangeslider.js/dist/rangeslider.min.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js'></script>
+
+<script src="{{ site.baseurl}}/js/ranger.js"></script>

@@ -1,5 +1,5 @@
 ---
-layout: case-example
+layout: page
 title: ETL523 - Case Study
 category: casestudy
 header: group-image
@@ -38,7 +38,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
         <h2>
           <a class="post-link" href="ex-4-iwp.html">Interaction with the Professions</a>
         </h2>
-        <p>Short Description</p> 
+        <p>Short Description</p>
         {% include youtubePlayer.html id="DXCeCrTvux8" %}
     </div>
 </div>    

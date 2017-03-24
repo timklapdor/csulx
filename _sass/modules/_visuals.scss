@@ -1,0 +1,24 @@
+.shadow {
+  box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2);
+}
+
+.outline-left {
+  border-left: 0px;
+  padding-left: .2rem;
+}
+
+.outline-right {
+  border-left: 0px;
+  padding-left: .2rem;
+}
+
+.underline {
+  border-bottom: 1px solid;
+}
+
+@media (#{$bp-larger-than-phablet}) {
+  .outline-left {
+    border-left: 1px solid darken($lx-light-grey, 15%);
+    padding-left: 1rem;
+  }
+}

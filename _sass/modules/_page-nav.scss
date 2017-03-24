@@ -1,0 +1,71 @@
+.page-nav {
+  font-family: $header-font !important;
+  font-weight: lighter;
+  background: $gradient-light-grey;
+  color: $lx-dark-grey;
+  padding: 1em 0em 3em 1em;
+  font-size: 1em;
+  margin: -5%;
+  width: 105%;
+}
+
+@media (#{$bp-larger-than-tablet}) {
+
+.page-nav {
+  background: $gradient-light-grey;
+  color: $lx-dark-grey;
+  padding: 1em 0em 9em 1em;
+  font-size: .7em;
+  margin: 0;
+}
+}
+
+.page-nav h4{
+  font-size: .9em;
+  font-weight: bold;
+  border-bottom: 1px solid $lx-orange;
+  color: $lx-orange;
+}
+
+.page-nav ul {
+  margin: 0px 0px;
+  padding: 0em;
+  text-indent: 0em;
+  list-style: none !important;
+}
+
+.page-nav ul ul li a:before {
+  content: "\2013"; // Insert content that looks like bullets
+  padding-right: .3rem;
+  color: $lx-orange;
+  margin-left: 5px;
+}
+
+.page-nav ul ul li a:before:hover {
+  color: $lx-white;
+}
+.page-nav ul li{
+    margin: 0px 0px;
+    box-sizing: border-box;
+    // text-transform:uppercase;
+    padding: 0.2rem;
+    box-sizing: border-box;
+}
+
+.page-nav a {
+  color: lighten($lx-dark-grey, 15%);
+  text-decoration: none;
+  display: block;
+  padding: .1rem;
+}
+
+.page-nav a:hover {
+    color: $lx-white;
+    background-color: $lx-blue !important;
+}
+
+.active-item {
+    color: $lx-orange;
+    border-left: 2px solid $lx-orange;
+    font-style: italic;
+}

@@ -2,7 +2,7 @@
 layout: element
 title: E-Assessment
 permalink: "/model/e-assessment.html"
-olm-num: 7
+olm-num: 8
 category: element
 header: ea-image
 short: ea
@@ -16,8 +16,8 @@ Watch the video for an overview of the element.
 
 {% include youtubePlayer.html id="YRARQprfO6c" %}
 
-<div class="offset-by-two extra-top-padding container">
-<a href="{{ site.baseurl }}/tags/EA.html" class="mixer-button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex">
+<a href="{{ site.baseurl }}/tags/EA.html" class="button pink-bg">Browse example strategies</a>
 </div>
 
 ### Rationale
@@ -28,7 +28,7 @@ Assessment design and delivery are identified as key aspects of enhanced learner
 
 Online learning technologies can afford new approaches to assessment including the use of rich media to capture student practice in their own context and the use of communication technologies to allow collaborative assessment tasks. A wide range of e-assessment strategies have been explored in the research literature, including:  diagnostic testing, rubrics, authentic project based learning, WebQuests, simulations and e-portfolios (Buzetto-More & Alade, 2006), multiple choice, single correct response tasks and cloze exercises using simulations, Java applets, web-based applications, spreadsheets and personal response systems (Crisp, 2009), Web 2.0 technologies, namely Twitter, Wiki and Moodle (Megele, 2014), audio files and the social media platform Flickr (Pachler, Daly, Mor, & Mellar, 2010), and interactive computer-marked assignments  (Jordan & Mitchell, 2009). These investigations covered a wide range of disciplines identifying many applications for e-assessment in higher education while noting a range of issues to be considered.
 
-Constructive  alignment between intended learning outcomes, learning activities and assessment is an essential element of contemporary learning design in a university context. At the most pragmatic level such alignment is essential to ensure that all students engage with the learning activities provided and consequently achieve the intended outcomes. A corollary of the principle of constructive alignment is that providing students with authentic learning activities aligned with professional outcomes but assessing them using traditional paper-based exams or written essays is unlikely to lead to deep learner engagement. Consistent with this argument, a key plank within this element of the model is the eventual replacement of paper-based exams with computer-based exams undertaken either within on-campus examination centres or within students’ homes or workplaces using remote online invigilation. 
+Constructive  alignment between intended learning outcomes, learning activities and assessment is an essential element of contemporary learning design in a university context. At the most pragmatic level such alignment is essential to ensure that all students engage with the learning activities provided and consequently achieve the intended outcomes. A corollary of the principle of constructive alignment is that providing students with authentic learning activities aligned with professional outcomes but assessing them using traditional paper-based exams or written essays is unlikely to lead to deep learner engagement. Consistent with this argument, a key plank within this element of the model is the eventual replacement of paper-based exams with computer-based exams undertaken either within on-campus examination centres or within students’ homes or workplaces using remote online invigilation.
 
 Some have questioned whether a computer-based exam is any more authentic than a paper-based exam. We would agree that just translating a paper-based exam to an electronic format only marginally increases the authenticity of the assessment practice. However, once we have the infrastructure and processes in place to offer computer-based exams this opens up the opportunity for a wider range of tasks to be assessed under examination conditions. This can embrace tasks requiring the use of specialist software like Computer Assisted Design tools, computer programming environments, accounting packages and spreadsheets and also include tasks where students are expected to search for and synthesise information from online sources.
 
@@ -65,4 +65,3 @@ Megele, C. (2014). eABLE: embedding social media in academic curriculum as a lea
 Pachler, N., Daly, C., Mor, Y., & Mellar, H. (2010). Formative e-assessment: Practitioner cases. *Computers & Education, 54*(3), 715-721. doi:[ http://dx.doi.org/10.1016/j.compedu.2009.09.032](http://dx.doi.org/10.1016/j.compedu.2009.09.032)
 
 </div>
-

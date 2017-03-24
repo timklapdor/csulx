@@ -1,10 +1,29 @@
+#for-mobile {
+}
+
 #thing {
+  display: none;
   margin-left: calc(-45vw + 50%);
   margin-right: calc(-45vw + 50%);
 }
 
+#thing div, #thing p, #thing h4, #thing h3 {
+  margin: 0px;
+}
+
+@media (#{$bp-larger-than-tablet}) {
+#thing {
+  display: block;
+}
+
+#for-mobile {
+  display: none;
+}
+}
+
+
 .mixer {
-    width: 100hw;
+    width: 100%;
     height: 90vh;
     display: -webkit-flex;
     display: -moz-flex;
@@ -16,9 +35,11 @@
     flex-direction: column;
     overflow: hidden;
     border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.level, .level-head {
+.level, {
     -webkit-flex: 1;
     -moz-flex: 1;
     -ms-flex: 1;
@@ -35,27 +56,44 @@
     align-content:center;
     justify-content: center;
     min-height: 0;
+    margin: 0px;
+}
+
+.level-head {
+    -webkit-flex: 1.3;
+    -moz-flex: 1.3;
+    -ms-flex: 1.3;
+    flex: 1.3;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    min-height: 0;
+    margin: 0px;
+    border-bottom: 1px solid $lx-white;
 }
 
 .level:hover, .level:active {
-    -webkit-flex: 5;
-    -moz-flex: 5;
-    -ms-flex: 5;
-    flex: 5;
+    -webkit-flex: 3;
+    -moz-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
     border: 0px 2px solid rgba(255,255,255,1);
     transition: 1s 0.25s;
     word-break: break-all;
 }
 
-.level-head:hover, .level-head:active {
-    -webkit-flex: 7;
-    -moz-flex: 7;
-    -ms-flex: 7;
-    flex: 7;
-    border: 0px 2px solid rgba(255,255,255,1);
-    transition: 1s 0.25s;
-    word-break: break-all;
-}
+// .level-head:hover, .level-head:active {
+//     -webkit-flex: 7;
+//     -moz-flex: 7;
+//     -ms-flex: 7;
+//     flex: 7;
+//     border: 0px 2px solid rgba(255,255,255,1);
+//     transition: 1s 0.25s;
+//     word-break: break-all;
+// }
 
 .col {
     //border-right: 1px solid rgba(255,255,255,0.3);
@@ -73,17 +111,18 @@
     align-items: center;
     justify-content: center;
     padding: .5em;
-    font-size: 1em;
+    font-size: .5rem;
     color: rgba(255,255,255,0.3);
     padding: .6em;
     min-height: 0;
+    margin: 0px;
 }
 
 .col:hover, .col:active {
-    -webkit-flex: 4;
-    -moz-flex: 4;
-    -ms-flex: 4;
-    flex: 4;
+    -webkit-flex: 5;
+    -moz-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
     background-color: transparent;
     padding: .6em;
     color: rgba(255,255,255,1);
@@ -95,19 +134,20 @@
     -ms-flex: 0.5;
     flex: 0.5;
     text-align: center;
-    font-weight: 600;
+    font-weight: bold;
     color: #fff;
     align-items: center;
+    margin: 0px;
 }
 
 .hcol h4 {
     transform: rotate(90deg);
     word-break: keep-all !important;
-    padding: 1em 0em;
-    font-size: 1em;
+    font-size: .4rem;
     text-transform: uppercase;
     letter-spacing: -0.01em;
     color: rgba(255,255,255,0.8);
+    margin-top: 1rem !important;
 }
 
 .col p {
@@ -122,10 +162,11 @@
     transition: 0.25s;
     color: rgba(255,255,255,1);
     word-break: normal;
+    padding-top: 1em;
 }
 
 .col h4 {
-    font-size: 1em;
+    font-size: .45rem;
     text-transform: uppercase;
     letter-spacing: -0.02em;
     color: rgba(255,255,255,0.5);
@@ -143,7 +184,7 @@
 }
 
 .col h3 {
-    font-size: 1em;
+    font-size: .5rem;
     text-transform: uppercase;
     color: #fff;
     letter-spacing: -0.01em;
@@ -160,8 +201,8 @@
     transform: scale(1);
     transition: 1s 0.25s;
     float: left;
-    visibility: hidden;
-    margin-bottom: 5em;
+    margin-bottom: .5rem;
+    max-width: 200px;
 }
 
 .col:hover .img-mix {
@@ -169,6 +210,9 @@
     max-width: 200px;
     visibility:visible;
     transition: 1s 0.25s;
+}
+
+.img-head {
 }
 
 .practices a {
@@ -217,3 +261,36 @@
     max-width: 480px;
 }
 }*/
+
+// Headers
+
+
+.headings h3 {
+    font-size: .4rem;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: -0.01em;
+    padding-top: 0.25em;
+    border: 0;
+}
+
+.headings {
+    //border-right: 1px solid rgba(255,255,255,0.3);
+    -webkit-flex: 1 ;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-transition: 1s 0.25s;
+    -moz-transition: 1s 0.25s;
+    -ms-transition: 1s 0.25s;
+    -o-transition: 1s 0.25s;
+    transition: 1s 0.25s;
+    background-color: #333;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: .5em;
+    font-size: .5rem;
+    color: rgba(255,255,255,0.3);
+    margin: 0px;
+}

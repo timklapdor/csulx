@@ -97,10 +97,8 @@
 //==========================================================================
 
 .row {
-    padding: 20px 5px;
     clear: both;
     overflow: auto;
-    margin: 0 -5px;
 }
 
 .row:nth-of-type(even) {
@@ -128,11 +126,6 @@
   clear: both;
 }
 
-.u-release {
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
-}
-
 .extra-padding {
     padding: 2em 0 2em 0;
 }
@@ -141,12 +134,20 @@
 
 .row-flex {
   display: flex;
-  justify-content: center;
-  flex-direction: row;
+  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-.column-vertical {
+@media (#{$bp-larger-than-phablet}) {
+.row-flex {
+  flex-direction: row;
+}
+}
+
+.column-flex {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -163,9 +164,113 @@
 }
 
 .linking:hover {
-    background: $lx-orange;
+    background: $lx-white;
 }
 
 .post-content, .page-content {
+  max-width: 95vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -.3em;
+  display: flex;
+  align-items: flex-start;
+  flex-flow: column;
+}
+
+.content-main {
+  flex-grow: 1;
+  flex-basis: 95%;
+  order: 2;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-side {
+  flex-basis: 100%;
+  order: 1;
+}
+
+.content-full {
+  flex-grow: 1;
+  flex-basis: 95%;
+  order: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
+.content-half {
+  width: 95%;
+  margin: 1rem;
+}
+
+.content-third {
+  width: 95%;
+  margin: 1rem;
+}
+
+.content-spread {
+  display: flex;
+  flex-flow: column;
+  flex-wrap: nowrap;
+  align-content: space-between;
+}
+
+
+@media (#{$bp-larger-than-tablet}) {
+  .post-content, .page-content {
     min-height: 80vh;
+    max-width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -.3em;
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row;
+  }
+  .content-main {
+    flex-grow: 3;
+    flex-basis: 80%;
+    order: 1;
+  }
+  .content-side {
+    flex-basis: 20%;
+    order: 2;
+  }
+  .content-half {
+    flex-grow: 1;
+    width: 45%;
+    margin: 1rem;
+  }
+
+  .content-third {
+    width: 33%;
+    margin: 1rem;
+  }
+}
+
+.u-release {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+@media (min-width: 600px) {
+  .content-main .u-release {
+    margin-left: calc(-50vw + 25%);
+    margin-right: calc(-50vw);
+  }
+}
+
+.flex-bottom {
+  align-self: flex-end;
+}
+
+footer .csulx { order: 3;}
+footer .csulogo { order: 2;}
+footer .blurb {order: 1}
+
+@media (#{$bp-larger-than-tablet}) {
+footer .csulx { order: 1;}
+footer .csulogo { order: 3;}
+footer .blurb {order: 2}
 }

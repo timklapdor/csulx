@@ -26,8 +26,12 @@ $lx-light-grey: rgba(241,241,241,1);
 $lx-white: rgba(255,255,255,1);
 $lx-red: rgba(196,38,46,1);
 
-// Typography
-$font-family: "OpenSans", "PT Sans", Helvetica, Arial, sans-serif !default;
+// Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+// Font Variables
+$body-font: 'Roboto', Helvetica, Arial, sans-serif;
+$header-font: 'Open Sans', Helvetica, Arial, sans-serif;
 
 //Grid Variables
 $container-width: 1000px !default;
@@ -43,7 +47,7 @@ $global-radius: 4px !default;
 // Gradients
 $long-gradient: linear-gradient(180deg, #ff5800, #ff5800, #d71f85, #00afd8,  #cb0044, #ff5800, #ff5800);
 $dark-gradient: linear-gradient(to bottom,#444444 0%,#333333 39%,#333333 39%);
-$gradent-palette: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+$gradient-palette: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
 $gradient-blue: linear-gradient(180deg, #333333, #00afd8);
 $gradient-pink: linear-gradient(180deg, #00afd8, #d71f85);
 $gradient-purple: linear-gradient(180deg, #d71f85, #cb0044);
@@ -51,3 +55,5 @@ $gradient-orange: linear-gradient(180deg, #cb0044, #ff5800);
 $gradient-red: linear-gradient(180deg, #ff5800, #E31B23);
 $gradient-light-grey: linear-gradient(to bottom, #F1F1F1, #fff);
 $gradient-slider: linear-gradient(90deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+$gradient-vertical: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+$gradient-horizontal: linear-gradient(-90deg, #333333, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);

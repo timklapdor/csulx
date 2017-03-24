@@ -7,7 +7,7 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h4>' + item.title + '</h4></a>';
+        appendString += '<li><a href="' + item.url + '"><strong>' + item.title + '</strong></a>';
         appendString += '<p>' + item.description.substring(0, 300) + '.</p></li>';
       }
 
@@ -44,6 +44,8 @@
       this.field('category');
       this.field('content');
       this.field('subject');
+      this.field('tags');
+      this.field('subjectnames')
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -53,8 +55,9 @@
         'author': window.store[key].author,
         'category': window.store[key].category,
         'subject': window.store[key].subject,
-        'content': window.store[key].content
-          
+        'content': window.store[key].content,
+        'tags':  window.store[key].tags,
+        'subjectnames': window.store[key].subjectnames,
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search

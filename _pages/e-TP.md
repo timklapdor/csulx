@@ -1,11 +1,13 @@
 ---
+
 layout: element
 title: Teacher Presence
 permalink: "/model/teacher-presence.html"
-olm-num: 3
+olm-num: 4
 category: element
 header: tp-image
 short: tp
+
 ---
 
 ### Summary
@@ -14,25 +16,25 @@ Awareness of the presence of a passionate, knowledgeable and skilled online teac
 
 {% include youtubePlayer.html id="W4u0e0pAWiM" %}
 
-<div class="offset-by-two extra-top-padding container">
-<a href="{{ site.baseurl }}/tags/TP.html" class="mixer-button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex">
+<a href="{{ site.baseurl }}/tags/TP.html" class="button pink-bg">Browse example strategies</a>
 </div>
 
 ### Rationale
 
 A recurring theme in discussions with experienced distance and online teachers at CSU and one well supported in the literature is the idea that students respond very positively to subjects in which they feel that their learning is being supported by a teacher rather than feeling that they are being expected to study alone. While the elements discussed thus far focus considerable attention on achieving a strong social presence in the online learning site, the role of the teacher remains critical in this setting. Akyol, Garrison, & Ozden (2011), for example, suggest that online students often need more teacher guidance than on campus students to ensure knowledge and skill development, effective communication within the learning community and overall course satisfaction.
 
-Much of the literature that would be referred to for ‘teacher presence’ is the Community of Inquiry literature that, as Garrison, Anderson and Archer (2010) point out, started as such with several articles around the year 2000 (Garrison, Anderson & Archer, 2000; Rourke, Anderson, Garrison & Archer, 1999; Garrison, Anderson & Archer, 2001; Anderson, Rourke, Garrison & Archer, 2001). The Community of Inquiry framework, however, refers to ‘teaching’ presence, rather than ‘teacher’ presence, and includes peer teaching by students as well as instructional design and subject organisation (Anderson *et al*. 2001). 
+Much of the literature that would be referred to for ‘teacher presence’ is the Community of Inquiry literature that, as Garrison, Anderson and Archer (2010) point out, started as such with several articles around the year 2000 (Garrison, Anderson & Archer, 2000; Rourke, Anderson, Garrison & Archer, 1999; Garrison, Anderson & Archer, 2001; Anderson, Rourke, Garrison & Archer, 2001). The Community of Inquiry framework, however, refers to ‘teaching’ presence, rather than ‘teacher’ presence, and includes peer teaching by students as well as instructional design and subject organisation (Anderson *et al*. 2001).
 
-The notion of Teacher Presence within the Online Learning Model, however, focuses specifically on the immediacy and visibility of the teacher rather than the curriculum preparation included in the Community of Inquiry (CoI) framework. Awareness of the presence of a passionate, knowledgeable and skilled online teacher has the potential to improve student confidence supporting independent learning and socialisation of the learning experience. 
+The notion of Teacher Presence within the Online Learning Model, however, focuses specifically on the immediacy and visibility of the teacher rather than the curriculum preparation included in the Community of Inquiry (CoI) framework. Awareness of the presence of a passionate, knowledgeable and skilled online teacher has the potential to improve student confidence supporting independent learning and socialisation of the learning experience.
 
-Teacher presence includes setting the tone of interaction and the instructor’s disposition is significant (Sheridan, Kelly & Bentz, 2013) which are elements of the broader notion of social presence. The emotional tone that the teacher creates in the learning space can show interest in the students’ learning and success and is related to ‘instructor immediacy’. Baker (p. 2) refers to Anderson’s (1979) finding "that immediacy-producing behaviors by teachers were significant predictors of instructional effectiveness." 
+Teacher presence includes setting the tone of interaction and the instructor’s disposition is significant (Sheridan, Kelly & Bentz, 2013) which are elements of the broader notion of social presence. The emotional tone that the teacher creates in the learning space can show interest in the students’ learning and success and is related to ‘instructor immediacy’. Baker (p. 2) refers to Anderson’s (1979) finding "that immediacy-producing behaviors by teachers were significant predictors of instructional effectiveness."
 
 Regular online communication between teachers and students can bolster student awareness of the support and availability of the teacher and humanise the expectations around learning activities and assessment. Swan (2001) and others emphasise that the more interaction students believed that they had with their instructor, the more they were satisfied with their course. Ally (2008, p. 32) asserts that, "Interaction is critical to creating a sense of presence and a sense of community for online learners, and to promoting transformational learning".
 
 Teacher presence can also support the development of learning communities for purposeful interaction between students. For example, Kreijns et al. (2003) and McInnerney and Roberts (2004) highlight the importance of the teacher undertaking deliberate work towards the establishment of an effective learning community. Salmon (2004) also highlights the importance of the teacher’s role in establishing a learning community, presenting a detailed online teaching model which includes online socialisation as a key element within the model.  
 
-Anderson defined an excellent online teacher as having sufficient technical skills to navigate and contribute effectively, the capacity to develop trust and safety and resilience, innovativeness and perseverance (Anderson, 2004 as cited in Akyol & Garrison, 2011a, p. 26). Akyol refers to the need for teaching presence to address the "design, facilitation and direction of cognitive and social processes to support and enhance a meaningful learning experience" (Akyol & Garrison, 2011a, p. 26). 
+Anderson defined an excellent online teacher as having sufficient technical skills to navigate and contribute effectively, the capacity to develop trust and safety and resilience, innovativeness and perseverance (Anderson, 2004 as cited in Akyol & Garrison, 2011a, p. 26). Akyol refers to the need for teaching presence to address the "design, facilitation and direction of cognitive and social processes to support and enhance a meaningful learning experience" (Akyol & Garrison, 2011a, p. 26).
 
 Very close engagement between online teachers and students can take up a lot of time and academic staff workload can constrain this. However, there are a number of strategies for bolstering the sense of teacher presence in a subject that don’t necessarily take more time. The desktop recording of presentations or the recording of lectures for face to face students, as well as the provision of synchronous sessions using web conferencing software such as Adobe Connect or Blackboard Collaborate provide valuable connections between learners and teachers facilitating a stronger teacher presence. Strategies for structuring and responding to student forum discussions can maximise the peer support of students and maximise the impact of lecturer responses without increasing the time spent managing the forum. Strategies that make the support of students by a teacher more explicit are also likely to lead to improvements in students’ rating of the quality of their experience through external surveys such as the Course Experience Questionnaire, which refer explicitly or implicitly to teaching and to student engagement with their teaching staff.
 
@@ -46,13 +48,13 @@ Others highlighting the potential for highlighting teacher presence within subje
 
 **Communication Tone** - Thoughtfully managed communication tone and structure of the learning environment can encourage student participation and agency. The tone of interaction and the instructor’s disposition have an important role (Sheridan, Kelly & Bentz, 2013) and are elements of the broader notion of social presence. Dunlap & Lowenthal (2009, p. 130) point out about social presence: "Originally developed to explain the effect telecommunications media can have on communication, social presence was used to describe the degree of salience (i.e., quality or state of “being there") between two communicators using a communication medium (Short, Williams, & Christie, 1976).” Similarly, social presence in the Community of Inquiry literature includes ‘emotional expression’ (e.g. Garrison et al. 2000, p. 89) and “the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as ‘real people’”.
 
-The emotional tone that the teacher creates in the learning space can show interest in the students’ learning and success and is related to ‘instructor immediacy’. Arbaugh (2001, p. 43) states that "lmmediacy refers to communication behaviors that reduce social and psychological distance between people (Mehrabian, 1971; Myers, Zhong, & Guan, 1998)". He explains that it traditionally included both verbal and non-verbal behaviours such as eye contact, smiling, body position, and using personal examples or humour. Baker (2004) sets immediacy and its reduction of psychological distance in the context of Moore’s (1993) transactional distance theory. Baker (p. 2) refers to Anderson’s (1979) finding “that immediacy-producing behaviors by teachers were significant predictors of instructional effectiveness.” 
+The emotional tone that the teacher creates in the learning space can show interest in the students’ learning and success and is related to ‘instructor immediacy’. Arbaugh (2001, p. 43) states that "lmmediacy refers to communication behaviors that reduce social and psychological distance between people (Mehrabian, 1971; Myers, Zhong, & Guan, 1998)". He explains that it traditionally included both verbal and non-verbal behaviours such as eye contact, smiling, body position, and using personal examples or humour. Baker (2004) sets immediacy and its reduction of psychological distance in the context of Moore’s (1993) transactional distance theory. Baker (p. 2) refers to Anderson’s (1979) finding “that immediacy-producing behaviors by teachers were significant predictors of instructional effectiveness.”
 
 **Naming of Subject Team** - Explicit acknowledgement and naming of all staff involved in the subject delivery, as well as the role each has played in the subject development and.or delivery can be an important way to establish teacher presence. As well as the staff directly engaged with the students as part of the subject teaching this might including curators of learning content, educational designers and markers.
 
 **Responsiveness** - Timely responses to student online questions and comments can be an effective strategy for continuing to make students aware of the presence of the teacher.
 
-**Emergent Resources** - The addition of new resources, including voice or video commentary, during the session in response to emergent ideas in online discussions or identified student needs can be an effective teacher presence strategy. 
+**Emergent Resources** - The addition of new resources, including voice or video commentary, during the session in response to emergent ideas in online discussions or identified student needs can be an effective teacher presence strategy.
 
 ### References
 
@@ -60,7 +62,7 @@ The emotional tone that the teacher creates in the learning space can show inter
 
 Ally, M. (2008). Foundations of educational theory for online learning. In T. Anderson (Ed.), Theory and practice of online learning (2nd ed., pp. 15-44). Edmonton, AB: Athabasca University.
 
-Anderson, T. (2008). Teaching in an online learning context. In T. Anderson (Ed.), *Theory and practice of online learning* (pp. 343-365). Athabasca University, Edmonton, AB: AU Press. 
+Anderson, T. (2008). Teaching in an online learning context. In T. Anderson (Ed.), *Theory and practice of online learning* (pp. 343-365). Athabasca University, Edmonton, AB: AU Press.
 
 Anderson, J. F. (1979). Teacher immediacy as a predictor of teaching effectiveness. In D. Nimmo (Ed.), *Communication Yearbook* (Vol. 3, pp. 543–559). New Brunswick, NJ: Transaction Books.
 
@@ -78,7 +80,7 @@ Garrison, D. R., Anderson, T., & Archer, W. (2001). Critical thinking, cognitive
 
 Garrison, D. R., Anderson, T., & Archer, W. (2010). The first decade of the community of inquiry framework: A retrospective. *The Internet and Higher Education, 13*(1–2), 5-9. doi: http://dx.doi.org/10.1016/j.iheduc.2009.10.003
 
-Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework: Review, issues, and future directions.[ The Internet and Higher Education, 10](http://dx.doi.org/10.1016/j.iheduc.2007.04.001)(3), 157-172. 
+Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework: Review, issues, and future directions.[ The Internet and Higher Education, 10](http://dx.doi.org/10.1016/j.iheduc.2007.04.001)(3), 157-172.
 
 Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in human behavior*, *19*(3), 335-353.
 
@@ -96,7 +98,7 @@ Salmon, G. (2004). *E-moderating: The key to teaching and learning online*. Psyc
 
 Sheridan, K., Kelly, M., A. , & Bentz, D., T. (2013). A Follow-Up Study of the Indicators of Teaching Presence Critical to Students in Online Courses *Educational Communities of Inquiry: Theoretical Framework, Research and Practice* (pp. 67-83). Hershey, PA, USA: IGI Global.
 
-Sheridan, T. B. (1992). Musings on telepresence and virtual presence. *Presence: Teleoper. Virtual Environ.*, 1(1), 120-126 
+Sheridan, T. B. (1992). Musings on telepresence and virtual presence. *Presence: Teleoper. Virtual Environ.*, 1(1), 120-126
 
 Swan, K. (2001). Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses. *Distance Education, 22*(2), 306-331. doi: 10.1080/0158791010220208
 

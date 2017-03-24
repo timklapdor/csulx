@@ -4,21 +4,27 @@ ul {
   list-style: disc outside;
 }
 
-.post-content ul, .page-content ul {
+article ul, article ul {
     list-style: none inside;
+    margin-left: 1em;
     text-indent: -1em;
     padding-left: 1em;
 }
 
-.post-content nav ul li:before, .page-content nav ul li:before {
+article nav ul li:before, article nav ul li:before {
     content: "";
     padding-right: 0px;
 }
 
-.post-content ul li:before, .page-content ul li:before {
+article ul li:before, article ul li:before {
     content: "\00BB"; // Insert content that looks like bullets
     padding-right: 8px;
     color: $lx-orange;
+}
+
+.back {
+  padding: 2em 0em 0em 2em !important;
+  cursor: pointer !important;
 }
 
 ol {
@@ -44,12 +50,12 @@ ol {
 }
 
 li {
-  margin-bottom: 1rem;
+  margin-bottom: .4rem;
 }
 
 .nice-ol {
 	position: relative;
-	padding-left: 32px;
+	padding-left: 1.5rem;
 	list-style-type: none;
 }
 .nice-ol li {
@@ -63,8 +69,8 @@ li {
 	content: counter(step-counter);
 	position: absolute;
 	left: 0;
-	padding: 3px 8px;
-	font-size: 0.8em;
+	padding: .2rem .3rem;
+	font-size: 0.5rem;
 	color: white;
 	font-weight: bold;
 	background-color: $lx-orange   ;

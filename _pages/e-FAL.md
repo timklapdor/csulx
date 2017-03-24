@@ -2,7 +2,7 @@
 layout: element
 title: Flexible & Adaptive Learning
 permalink: "/model/flexible-adaptive.html"
-olm-num: 5
+olm-num: 6
 category: element
 header: fal-image
 short: fal
@@ -14,13 +14,13 @@ The diversity of contemporary online learning cohorts requires learning experien
 
 {% include youtubePlayer.html id="0T0joHdQu0s" %}
 
-<div class="offset-by-two extra-top-padding container">
-<a href="{{ site.baseurl }}/tags/FAL.html" class="mixer-button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex">
+<a href="{{ site.baseurl }}/tags/FAL.html" class="button pink-bg">Browse example strategies</a>
 </div>
 
 ### Rationale
 
-The diversity of contemporary online learning cohorts requires learning experiences that are designed for high engagement but are flexible and adaptive to the needs of autonomous learners. 
+The diversity of contemporary online learning cohorts requires learning experiences that are designed for high engagement but are flexible and adaptive to the needs of autonomous learners.
 
 Adaptivity in learning design, online teaching and student support has been made possible by technologies providing timely data on learners’ knowledge, perceptions and study behaviour. The use of learning analytics and adaptive learning technologies can be key enabling elements for the provision of a tailored learning experience for students (Siemens & Long, 2011). Learning analytics enable personalised support from teachers and learning support staff which recognises students as individuals and ensures that problems encountered are headed off quickly. Another tool available to personalise the learning experience is the use of adaptive technologies that allow students to progress through a course at their own pace with quizzes and other online assessment techniques providing feedback and guidance to allow them to skip over material they have already mastered or engage more deeply with components where they need additional help (Irwin, Hepplestone, Holden, Parkin, & Thorpe, 2013).
 

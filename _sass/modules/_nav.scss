@@ -6,13 +6,14 @@ nav {
   margin-top: -6px;
 }
 
-
 nav ul {
   display: flex;
   flex-wrap: wrap;
   list-style: none !important;
   margin: 0px 0px;
   padding: 0;
+  font-family: $header-font !important;
+  font-weight: lighter;
 }
 
 nav li{
@@ -35,7 +36,8 @@ nav a {
   text-decoration: none;
   text-transform:uppercase;
   display: block;
-  padding: .5em 0px;
+  padding: .8rem 0px;
+  font-size: .775rem;
 }
 
 nav a:hover {
@@ -44,7 +46,7 @@ nav a:hover {
 }
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 600px) {
+@media (#{$bp-larger-than-phablet}) {
 
 nav li:nth-child(n) {
 //  width: 20%;
@@ -53,7 +55,8 @@ nav li:nth-child(n) {
 }
 
 nav a {
-    padding: .8em 0px
+    padding: .5rem 0px;
+    font-size: .6rem;
 }
 
 }

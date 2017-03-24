@@ -1,8 +1,11 @@
 ---
+
 layout: archive
 title: All Strategies
-permalink: /strategy/archive.html
-tag: 
+permalink: /strategy/old-archive.html
+tag:
+header: h-gradient-purple
+
 ---
 
 The full list of strategies are included below:
@@ -13,31 +16,34 @@ The full list of strategies are included below:
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | split:',' | sort %}
 
+<div id="tag-list">
 <!-- List of all tags -->
 <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-    <li>
+    <li><h6>
       <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
         <span>({{ site.tags[this_word].size }})</span>
-      </a>
+      </a></h6>
     </li>
   {% endunless %}{% endfor %}
 </ul>
+
+</div>
 
 <!-- Posts by Tag -->
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-<div class="post-content">
+
 <h4 id="{{ this_word | cgi_escape }}">{{ this_word }}</h4>
-    <ul>
+<ul>
 {% assign cats = site.tags[this_word] | sort:"title"  %}    
-{% for post in cats %}{% if post.title != null %}
-
+{% for post in cats %}
+{% if post.title != null %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <em>{{ post.description }}</em></li>
-
-{% endif %}{% endfor %}
+{% endif %}
+{% endfor %}
 </ul>
-{% endunless %}{% endfor %}
-</div>
+{% endunless %}
+{% endfor %}

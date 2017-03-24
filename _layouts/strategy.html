@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="hero u-release h-gradient-orange">
+        <h1>{{ page.title }}</h1>
+</div>
+
+<div class="page-content">
+
+<article class="content-full" >
+  <a onclick="window.history.back()"><button class="back-button">Back</button></a>
+  <p class="post-meta blue"><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
+    {{ content }}
+
+</article>
+
+</div>

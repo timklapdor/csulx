@@ -18,7 +18,7 @@
 .orange-dark {color: darken($lx-orange, 15%);}
 .orange-darker {color: darken($lx-orange, 25%);}
 
-.pink {color: $lx-pink;}
+.pink {color: $lx-pink !important; }
 .pink-lighter {color: lighten($lx-pink, 25%);}
 .pink-light {color: lighten($lx-pink, 15%);}
 .pink-dark {color: darken($lx-pink, 15%);}
@@ -82,7 +82,7 @@
 .red-bg-dark {background-color: darken($lx-red, 15%);}
 .red-bg-darker {background-color: darken($lx-red, 25%);}
 
-// Gradients 
+// Gradients
 
 .gradient-blue {background: $gradient-blue;}
 .gradient-pink {background: $gradient-pink;}

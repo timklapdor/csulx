@@ -8,14 +8,20 @@
   text-indent: 0.5em !important;
 }
 
-.tags ul li:before {
-    list-style: none;
+#tag-list ul li:before {
+    list-style: none !important;
     content: "" !important;
     padding-right: 0px;
 }
 
 .tags li {
   float: left;
+  margin: 0px;
+}
+
+.tags li h6 {
+  margin: 0px;
+  font-size: .6rem;
 }
 
 .tag {

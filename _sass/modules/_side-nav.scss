@@ -1,0 +1,32 @@
+.with-page-nav {
+  display: flex;
+  min-height: 100%;
+}
+
+.with-page-nav article {
+   flex: 5;
+   order: 1;
+}
+
+.with-page-nav nav {
+  flex: 1;
+  order: 2;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.u-release-side {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+@media (#{$bp-larger-than-mobile}) {
+.u-release-side {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 30%);
+}
+}
