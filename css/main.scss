@@ -2,40 +2,37 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@charset "UTF-8";
+// Base files
+@import 'base/normalize';
+@import 'base/variables';
+@import 'base/functions';
+@import 'base/base-styles';
+@import 'base/utils';
+@import 'base/typography';
 
-/* Base files. */
-@import "base/normalize";
-@import "base/variables";
-@import "base/functions";
-@import "base/base-styles";
-@import "base/utils";
-@import "base/typography";
-
-/* Modules */
-@import "modules/apa";
-@import "modules/buttons";
-@import "modules/cards";
-@import "modules/case-profile";
-@import "modules/code";
-@import "modules/color-classes";
-@import "modules/element";
-@import "modules/forms";
-@import "modules/grid";
-@import "modules/hero";
-@import "modules/lists";
-@import "modules/logo";
-@import "modules/media-queries";
-@import "modules/mixer";
-@import "modules/nav";
-@import "modules/page-nav";
-@import "modules/posts";
-@import "modules/practice";
-@import "modules/print";
-@import "modules/ranger";
-@import "modules/spacing";
-@import "modules/tables";
-@import "modules/tags";
-@import "modules/tiles";
-@import "modules/video";
-@import "modules/visuals";
+// Modules
+@import 'modules/apa';
+@import 'modules/buttons';
+// @import 'modules/cards';
+// @import 'modules/case-profile';
+@import 'modules/code';
+@import 'modules/color-classes';
+// @import 'modules/forms';
+@import 'modules/grid';
+@import 'modules/hero';
+@import 'modules/lists';
+@import 'modules/logo';
+@import 'modules/media-queries';
+@import 'modules/mixer';
+@import 'modules/nav';
+@import 'modules/page-nav';
+// @import 'modules/posts';
+@import 'modules/practice';
+@import 'modules/print';
+@import 'modules/ranger';
+@import 'modules/spacing';
+@import 'modules/tables';
+@import 'modules/tags';
+@import 'modules/tiles';
+@import 'modules/video';
+@import 'modules/visuals';

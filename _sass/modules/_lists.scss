@@ -4,48 +4,54 @@ ul {
   list-style: disc outside;
 }
 
-article ul, article ul {
-    list-style: none inside;
-    margin-left: 1em;
-    text-indent: -1em;
-    padding-left: 1em;
+article ul,
+article ul {
+  list-style: none inside;
+  margin-left: 1em;
+  padding-left: 1em;
+  text-indent: -1em;
 }
 
-article nav ul li:before, article nav ul li:before {
-    content: "";
-    padding-right: 0px;
+article nav ul li::before,
+article nav ul li::before {
+  content: '';
+  padding-right: 0;
 }
 
-article ul li:before, article ul li:before {
-    content: "\00BB"; // Insert content that looks like bullets
-    padding-right: 8px;
-    color: $lx-orange;
+article ul li:before,
+article ul li:before {
+  color: $lx-orange;
+  content: '\00BB';
+  padding-right: 8px;
 }
 
 .back {
-  padding: 2em 0em 0em 2em !important;
   cursor: pointer !important;
+  padding: 2em 0 0 2em !important;
 }
 
 ol {
   list-style: decimal inside;
-  padding-left: 0;
   margin-top: 0;
+  padding-left: 0;
 }
 
 ul {
-  padding-left: 0;
   margin-top: 0;
-ul, ol {
-    margin: 1.5rem 0 1.5rem 3rem;
-    font-size: 90%;
+  padding-left: 0;
+
+ul,
+ol {
+  font-size: 90%;
+  margin: 1.5rem 0 1.5rem 3rem;
   }
 }
 
 ol {
-  ol, ul {
-    margin: 1.5rem 0 1.5rem 3rem;
+  ol,
+  ul {
     font-size: 90%;
+    margin: 1.5rem 0 1.5rem 3rem;
   }
 }
 
@@ -54,25 +60,28 @@ li {
 }
 
 .nice-ol {
-	position: relative;
-	padding-left: 1.5rem;
-	list-style-type: none;
+  list-style-type: none;
+  padding-left: 1.5rem;
+  position: relative;
 }
+
 .nice-ol li {
-	counter-increment: step-counter;
-	margin-bottom: 8px;
+  counter-increment: step-counter;
+  margin-bottom: 8px;
 }
-.nice-ol li:last-child {
-	margin-bottom: 0;
+
+.nice-ol li::last-child {
+  margin-bottom: 0;
 }
+
 .nice-ol li::before {
-	content: counter(step-counter);
-	position: absolute;
-	left: 0;
-	padding: .2rem .3rem;
-	font-size: 0.5rem;
-	color: white;
-	font-weight: bold;
-	background-color: $lx-orange   ;
-	border-radius: 3px;
+  background-color: $lx-orange;
+  border-radius: 3px;
+  color: $lx-white;
+  content: counter(step-counter);
+  font-size: .5rem;
+  font-weight: bold;
+  left: 0;
+  padding: .2rem .3rem;
+  position: absolute;
 }

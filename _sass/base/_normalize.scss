@@ -1,4 +1,4 @@
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+// normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css //
 //==========================================================================
 //
 // 1. Set default font family to sans-serif.
@@ -139,7 +139,7 @@ dfn {
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: .67em 0;
 }
 
 //
@@ -172,11 +172,11 @@ sup {
 }
 
 sup {
-  top: -0.5em;
+  top: -.5em;
 }
 
 sub {
-  bottom: -0.25em;
+  bottom: -.25em;
 }
 
 // Embedded content

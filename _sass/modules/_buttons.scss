@@ -3,48 +3,45 @@
 
 .button,
 button {
-  display: inline-block;
-  padding: .5rem 2rem;
-  color: $lx-white;
-  text-align: center;
-  font-size: .5rem;
-  letter-spacing: .1rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
   background-color: $lx-dark-grey;
   border-radius: $global-radius;
-  cursor: pointer;
   box-sizing: border-box;
+  color: $lx-white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: .5rem;
+  letter-spacing: .1rem;
+  padding: .5rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 input {
   &[type="submit"],
   &[type="reset"],
   &[type="button"] {
-    display: inline-block;
-    height: 38px;
-    padding: 0 30px;
-    color: $lx-white;
-    text-align: center;
-    font-size: 11px;
-    font-weight: 600;
-    line-height: 38px;
-    letter-spacing: .1rem;
-    text-transform: uppercase;
-    text-decoration: none;
-    white-space: nowrap;
-    background-color: $primary-color;
+    background-color: $lx-dark-grey;
     border-radius: $global-radius;
-    cursor: pointer;
     box-sizing: border-box;
+    color: $lx-white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: .5rem;
+    letter-spacing: .1rem;
+    padding: .5rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
 }
 
 .button:hover,
 button:hover {
-  color: $lx-white;
   background-color: $lx-blue;
+  color: $lx-white;
   outline: 0;
 }
 
@@ -52,16 +49,16 @@ input {
   &[type="submit"]:hover,
   &[type="reset"]:hover,
   &[type="button"]:hover {
-  color: $lx-white;
-  background-color: $lx-blue;
-  outline: 0;
+    background-color: $lx-blue;
+    color: $lx-white;
+    outline: 0;
   }
 }
 
 .button:focus,
 button:focus {
-  color: $lx-white;
   background-color: $lx-blue;
+  color: $lx-white;
   outline: 0;
 }
 
@@ -69,60 +66,60 @@ input {
   &[type="submit"]:focus,
   &[type="reset"]:focus,
   &[type="button"]:focus {
-  color: $lx-white;
-  background-color: $lx-blue;
-  outline: 0;
+    background-color: $lx-blue;
+    color: $lx-white;
+    outline: 0;
   }
 }
 
 .button.button-primary,
 button.button-primary {
-  color: #fff;
   background-color: $primary-color;
   border-color: $primary-color;
+  color: $lx-white;
 }
 
 input {
   &[type="submit"].button-primary,
   &[type="reset"].button-primary,
   &[type="button"].button-primary {
-    color: #fff;
     background-color: $primary-color;
     border-color: $primary-color;
+    color: $lx-white;
   }
 }
 
 .button.button-primary:hover,
 button.button-primary:hover {
-  color: #fff;
   background-color: $link-color;
   border-color: $link-color;
+  color: $lx-white;
 }
 
 input {
   &[type="submit"].button-primary:hover,
   &[type="reset"].button-primary:hover,
   &[type="button"].button-primary:hover {
-    color: #fff;
     background-color: $link-color;
     border-color: $link-color;
+    color: $lx-white;
   }
 }
 
 .button.button-primary:focus,
 button.button-primary:focus {
-  color: #fff;
   background-color: $link-color;
   border-color: $link-color;
+  color: $lx-white;
 }
 
 input {
   &[type="submit"].button-primary:focus,
   &[type="reset"].button-primary:focus,
   &[type="button"].button-primary:focus {
-    color: #fff;
     background-color: $link-color;
     border-color: $link-color;
+    color: $lx-white;
   }
   &[type="email"],
   &[type="number"],
@@ -131,42 +128,42 @@ input {
   &[type="tel"],
   &[type="url"],
   &[type="password"] {
-    height: 38px;
-    padding: 6px 10px; // The 6px vertically centers text on FF, ignored by Webkit
-    background-color: #fff;
+    background-color: $lx-white;
     border: 1px solid lighten($border-color, 8.8%);
     border-radius: $global-radius;
     box-shadow: none;
     box-sizing: border-box;
+    height: 38px;
+    padding: 6px 10px; // The 6px vertically centers text on FF, ignored by Webkit
   }
 }
 
 .mixer-button {
   // display:flex;
   // justify-content: center;
-  height: 3em;
-  padding: 0.5em 2em;
-  color: $lx-white;
-  text-align: center;
-  font-size: .65em;
-  font-weight: 600;
-  letter-spacing: .1rem;
-  text-transform: uppercase;
-  text-decoration: none;
   background-color: $lx-dark-grey;
   border-radius: $global-radius;
+  color: $lx-white;
+  font-size: .65em;
+  font-weight: 600;
+  height: 3em;
+  letter-spacing: .1rem;
+  padding: .5em 2em;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 .mixer-button:hover {
-  color: $lx-white;
   background-color: $lx-blue;
+  color: $lx-white;
   outline: 0;
 }
 
 .back-button {
-    float: right;
-    border: none;
-    background-color: $lx-light-grey;
-    color: $lx-dark-grey;
-    margin: 1em 0 1em 2em;
+  background-color: $lx-light-grey;
+  border: 0;
+  color: $lx-dark-grey;
+  float: right;
+  margin: 1em 0 1em 2em;
 }

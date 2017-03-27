@@ -2,47 +2,42 @@
 //==========================================================================
 
 .hero {
-    overflow: hidden;
-    position: relative;
-    display: inline-block;
-    min-height: 300px;
-    max-height: 500px;
-    width: 100vw;
+  display: inline-block;
+  max-height: 500px;
+  min-height: 300px;
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
 }
 
 .hero:after {
-    content:'';
-    top: 0;
-    left: 0;
-    z-index: 10;
-    width: 100%;
-    height: 100%;
-    display: block;
-    position: absolute;
-    background: rgba(0,0,0,0.6);
-    opacity: 0.8;
+  background: rgba(0,0,0,0.6);
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: .8;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 10;
 }
 
 .hero h1 {
-    color: #fff;
-    padding: 10px;
-    margin-bottom: 0px;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    height: 0%;
-    margin: auto;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    z-index: 51;
+  color: $lx-white;
+  height: 0%;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  top: 1rem;
+  width: 100%;
+  z-index: 51;
 }
 
 .hero img {
-    padding-top: 0;
-    display: block;
-    width: 100vw;
+  display: block;
+  padding-top: 0;
+  width: 100vw;
 }
 
 // Hero Gradients
@@ -61,67 +56,67 @@
 // Hero Images on Pages
 //-------------------------------------------------
 
-
 .ea-image {
-    background: url(../images/ea-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/ea-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .fal-image {
-    background: url(../images/fal-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/fal-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
+
 .ibs-image {
-    background: url(../images/ibs-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/ibs-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .ir-image {
-    background: url(../images/ir-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/ir-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .iwp-image {
-    background: url(../images/iwp-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/iwp-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .lc-image {
-    background: url(../images/lc-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/lc-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .tp-image {
-    background: url(../images/tp-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/tp-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .qlt9-image {
-    background: url(../images/qlt9-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/qlt9-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .qlt11-image {
-    background: url(../images/qlt11-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/qlt11-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .qlt12-image {
-    background: url(../images/qlt12-rev.png) center center no-repeat, $gradient-red;
-    background-size: contain;
+  background: url(../images/qlt12-rev.png) center center no-repeat, $gradient-red;
+  background-size: contain;
 }
 
 .mixer-image {
-    background: url(../images/mixer-header.jpg) center center no-repeat;
-    background-size: cover;
+  background: url(../images/mixer-header.jpg) center center no-repeat;
+  background-size: cover;
 }
 
 .group-image {
-    background: url(../images/index-image.jpg) center top no-repeat;
-    background-size: cover;
+  background: url(../images/index-image.jpg) center top no-repeat;
+  background-size: cover;
 }
 
 .search-image {
-    background: url(../images/search-rev.png) center center no-repeat, $gradient-purple;
-    background-size: contain;
+  background: url(../images/search-rev.png) center center no-repeat, $gradient-purple;
+  background-size: contain;
 }

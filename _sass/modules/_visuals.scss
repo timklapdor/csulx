@@ -1,14 +1,14 @@
 .shadow {
-  box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2);
+  box-shadow: 0 .5em .5em 0 $lx-transblack;
 }
 
 .outline-left {
-  border-left: 0px;
+  border-left: 0;
   padding-left: .2rem;
 }
 
 .outline-right {
-  border-left: 0px;
+  border-left: 0;
   padding-left: .2rem;
 }
 

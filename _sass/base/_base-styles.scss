@@ -7,49 +7,47 @@
 
 $line-height: calc(1.3em + (1.5 - 1.3) * ((100vw - 21em)/(35 - 21)));
 
-$min_width: 320px;
-$max_width: 1200px;
-$min_font: 16px;
-$max_font: 30px;
+$min-width: 320px;
+$max-width: 1200px;
+$min-font: 16px;
+$max-font: 30px;
 
-$mod_1: 1.1; // mobile
-$mod_2: 1.4; // desktop
+$mod-1: 1.1; // mobile
+$mod-2: 1.4; // desktop
 
 html {
-  @include fluid-type($min_width, $max_width, $min_font, $max_font);
+  @include fluid-type($min-width, $max-width, $min-font, $max-font);
 }
 
 body {
-  font-size: 0.775rem; // currently ems cause chrome bug misinterpreting rems on body element
-  font-family: $body-font;
-  font-weight: 400;
   color: $font-color;
+  font-family: $body-font;
+  font-size: .775rem; // currently ems cause chrome bug misinterpreting rems on body element
+  font-weight: 400;
   overflow-x: hidden;
 }
 
 article {
-  max-width: 98%;
   margin: auto;
+  max-width: 98%;
 }
 
 section {
-  max-width: 98%;
   margin: auto;
+  max-width: 98%;
 }
-
 
 @media (#{$bp-larger-than-tablet}) {
 
-article {
-  max-width: 37em;
-  margin: auto;
+  article {
+    margin: auto;
+    max-width: 37em;
 }
 
-section {
-  max-width: 55em;
-  margin: auto;
+  section {
+    margin: auto;
+    max-width: 55em;
 }
-
 }
 
 
@@ -57,55 +55,42 @@ section {
 //==========================================================================
 
 a {
-    color: $lx-blue;
-    transition: all 0.2s ease;
-    text-decoration: none;
+  color: $lx-blue;
+  text-decoration: none;
+  transition: all .2s ease;
 }
 
 a:hover {
-    color: $lx-pink;
+  color: $lx-pink;
 }
 
 footer a {
-    text-decoration: none;
-    font-weight: bold;
-    color: $lx-white;
+  color: $lx-white;
+  font-weight: bold;
+  text-decoration: none;
 }
-
 
 // Misc
 //==========================================================================
 
 hr {
-  margin-top: 3rem;
-  margin-bottom: 3.5rem;
-  border-width: 0;
   border-top: 1px solid $light-grey;
+  border-width: 0;
+  margin-bottom: 3.5rem;
+  margin-top: 3rem;
 }
 
 // Gradient Animation Settings
 //==========================================================================
 
 .gradient {
-    background: $long-gradient;
-    background-size: 1600% 1600%;
-    -webkit-animation: LX-Background 120s linear alternate infinite;
-    -moz-animation: LX-Background 120s linear alternate infinite;
-    animation: LX-Background 120s linear alternate infinite;
+  animation: LX-Background 120s linear alternate infinite;
+  background: $long-gradient;
+  background-size: 1600% 1600%;
 }
 
-@-webkit-keyframes LX-Background {
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
-}
-@-moz-keyframes LX-Background {
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
-}
 @keyframes LX-Background {
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
+  0% { background-position: 51% 0%; }
+  50% { background-position: 50% 100%; }
+  100% { background-position: 51% 0%; }
 }

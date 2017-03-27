@@ -1,33 +1,31 @@
 // Variables
 //==========================================================================
 // Breakpoints
-$bp-larger-than-mobile    : "min-width: 400px" !default;
-$bp-larger-than-phablet   : "min-width: 550px" !default;
-$bp-larger-than-tablet    : "min-width: 750px" !default;
-$bp-larger-than-desktop   : "min-width: 1000px" !default;
-$bp-larger-than-desktophd : "min-width: 1200px" !default;
+$bp-larger-than-mobile: 'min-width: 400px' !default;
+$bp-larger-than-phablet: 'min-width: 550px' !default;
+$bp-larger-than-tablet: 'min-width: 750px' !default;
+$bp-larger-than-desktop: 'min-width: 1000px' !default;
+$bp-larger-than-desktophd: 'min-width: 1200px' !default;
 
 // Colors
-$light-grey: rgba(241,241,241,1) !default;
-$dark-grey: rgba(51,51,51,1) !default;
-$primary-color: rgba(215,31,133,1) !default;
+$light-grey: rgba(241, 241, 241, 1) !default;
+$dark-grey: rgba(51, 51, 51, 1) !default;
+$primary-color: rgba(215, 31, 133, 1) !default;
 $secondary-color: lighten($dark-grey, 13.5%) !default;
 $border-color: #bbb !default;
-$link-color: rgba(0,175,216,1) !default;
-$font-color: rgba(51,51,51,1) !default;
+$link-color: rgba(0, 175, 216, 1) !default;
+$font-color: rgba(51, 51, 51, 1) !default;
 
 // Color Palette
-$lx-pink: rgba(215,31,133,1);
-$lx-orange: rgba(255,88,0,1);
-$lx-purple: rgba(145,0,75,1);
-$lx-blue: rgba(0,175,216,1);
-$lx-dark-grey: rgba(51,51,51,1);
-$lx-light-grey: rgba(241,241,241,1);
-$lx-white: rgba(255,255,255,1);
-$lx-red: rgba(196,38,46,1);
-
-// Google Fonts
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+$lx-pink: rgba(215, 31, 133, 1);
+$lx-orange: rgba(255, 88, 0, 1);
+$lx-purple: rgba(145, 0, 75, 1);
+$lx-blue: rgba(0, 175, 216, 1);
+$lx-dark-grey: rgba(51, 51, 51, 1);
+$lx-light-grey: rgba(241, 241, 241, 1);
+$lx-white: rgba(255, 255, 255, 1);
+$lx-red: rgba(196, 38, 46, 1);
+$lx-transblack: rgba(0, 0, 0, .2);
 
 // Font Variables
 $body-font: 'Roboto', Helvetica, Arial, sans-serif;
@@ -35,7 +33,7 @@ $header-font: 'Open Sans', Helvetica, Arial, sans-serif;
 
 //Grid Variables
 $container-width: 1000px !default;
-$container-width-larger-than-mobile: 85% !default;
+$container-width-larger-than-mobile: 95% !default;
 $container-width-larger-than-phablet: 90% !default;
 $total-columns: 12 !default;
 $column-width: 100 / $total-columns !default; // calculates individual column width based off of # of columns
@@ -46,14 +44,14 @@ $global-radius: 4px !default;
 
 // Gradients
 $long-gradient: linear-gradient(180deg, #ff5800, #ff5800, #d71f85, #00afd8,  #cb0044, #ff5800, #ff5800);
-$dark-gradient: linear-gradient(to bottom,#444444 0%,#333333 39%,#333333 39%);
+$dark-gradient: linear-gradient(to bottom, #444444 0%, #333333 39%, #333333 39%);
 $gradient-palette: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
 $gradient-blue: linear-gradient(180deg, #333333, #00afd8);
 $gradient-pink: linear-gradient(180deg, #00afd8, #d71f85);
 $gradient-purple: linear-gradient(180deg, #d71f85, #cb0044);
 $gradient-orange: linear-gradient(180deg, #cb0044, #ff5800);
-$gradient-red: linear-gradient(180deg, #ff5800, #E31B23);
+$gradient-red: linear-gradient(180deg, #ff5800, #e31B23);
 $gradient-light-grey: linear-gradient(to bottom, #F1F1F1, #fff);
 $gradient-slider: linear-gradient(90deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
 $gradient-vertical: linear-gradient(0deg, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
-$gradient-horizontal: linear-gradient(-90deg, #333333, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
+$gradient-horizontal: linear-gradient(-90deg, #333333, #00afd8, #d71f85, #cb0044, #ff5800, #e31b23);

@@ -1,14 +1,14 @@
 
 label {
   font-size: .6rem;
-  text-transform: uppercase;
-  margin-top: 1.2rem;
   letter-spacing: .04rem;
+  margin-top: 1.2rem;
+  text-transform: uppercase;
 }
 
 label img {
-  width: 3em;
   height: 3em;
+  width: 3em;
 }
 
 .rangeslider__tooltip {
@@ -36,17 +36,13 @@ input[type='range'] {
 
 .rangeslider,
 .rangeslider__fill {
-  display: block;
   border-radius: 1em;
+  display: block;
 }
 
 .rangeslider {
   background: #333333;
-    background-image:
-    linear-gradient(
-      to right,
-      #333333, #333333, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23
-  );
+  background-image: linear-gradient(to right,#333333, #333333, #00afd8, #d71f85, #cb0044, #ff5800, #E31B23);
   position: relative;
 }
 
@@ -56,40 +52,35 @@ input[type='range'] {
 }
 
 .rangeslider--vertical {
-  width: 2em;
-  min-height: 150px;
   max-height: 100%;
+  min-height: 150px;
+  width: 2em;
 }
-
-// .rangeslider--disabled {
-//   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
-//   opacity: 0.4;
-// }
 
 .rangeslider__fill {
-  // background: #4bc67d;
   position: absolute;
 }
+
 .rangeslider--horizontal .rangeslider__fill {
-  top: 0;
   height: 100%;
+  top: 0;
 }
+
 .rangeslider--vertical .rangeslider__fill {
   bottom: 0;
   width: 100%;
 }
 
 .rangeslider__handle {
-  // border: 6px solid #4bc67d;
-  cursor: pointer;
-  display: inline-block;
-  width: 1.75rem;
-  height: 1.75rem;
-  position: absolute;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  color: #fff;
+  color: $lx-white;
+  cursor: pointer;
+  display: inline-block;
+  height: 1.75rem;
+  position: absolute;
+  width: 1.75rem;
 
   &.js-zero {
     border-color: #333333;

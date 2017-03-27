@@ -1,71 +1,69 @@
 .page-nav {
-  font-family: $header-font !important;
-  font-weight: lighter;
   background: $gradient-light-grey;
   color: $lx-dark-grey;
-  padding: 1em 0em 3em 1em;
+  font-family: $header-font !important;
   font-size: 1em;
+  font-weight: lighter;
   margin: -5%;
+  padding: 1em 0 3em 1em;
   width: 105%;
 }
 
 @media (#{$bp-larger-than-tablet}) {
-
-.page-nav {
-  background: $gradient-light-grey;
-  color: $lx-dark-grey;
-  padding: 1em 0em 9em 1em;
-  font-size: .7em;
-  margin: 0;
+  .page-nav {
+    background: $gradient-light-grey;
+    color: $lx-dark-grey;
+    font-size: .7em;
+    margin: 0;
+    padding: 1em 0 9em 1em;
 }
 }
 
-.page-nav h4{
-  font-size: .9em;
-  font-weight: bold;
-  border-bottom: 1px solid $lx-orange;
+  .page-nav h4 {
+    border-bottom: 1px solid $lx-orange;
+    color: $lx-orange;
+    font-size: .9em;
+    font-weight: bold;
+}
+
+  .page-nav ul {
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+.page-nav ul ul li a::before {
   color: $lx-orange;
-}
-
-.page-nav ul {
-  margin: 0px 0px;
-  padding: 0em;
-  text-indent: 0em;
-  list-style: none !important;
-}
-
-.page-nav ul ul li a:before {
-  content: "\2013"; // Insert content that looks like bullets
-  padding-right: .3rem;
-  color: $lx-orange;
+  content: '\2013'; // Insert content that looks like bullets
   margin-left: 5px;
+  padding-right: .3rem;
 }
 
 .page-nav ul ul li a:before:hover {
   color: $lx-white;
 }
+
 .page-nav ul li{
-    margin: 0px 0px;
-    box-sizing: border-box;
-    // text-transform:uppercase;
-    padding: 0.2rem;
-    box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: .2rem;
 }
 
 .page-nav a {
   color: lighten($lx-dark-grey, 15%);
-  text-decoration: none;
   display: block;
   padding: .1rem;
+  text-decoration: none;
 }
 
 .page-nav a:hover {
-    color: $lx-white;
-    background-color: $lx-blue !important;
+  background-color: $lx-blue !important;
+  color: $lx-white;
 }
 
 .active-item {
-    color: $lx-orange;
-    border-left: 2px solid $lx-orange;
-    font-style: italic;
+  border-left: 2px solid $lx-orange;
+  color: $lx-orange;
+  font-style: italic;
 }

@@ -1,86 +1,79 @@
 .practice {
+  align-content: space-around;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-content: space-around;
   flex-wrap: wrap;
-  padding: 1rem;
   font-size: .75rem;
+  justify-content: space-around;
+  padding: 1rem;
 }
-
 
 .practice-row {
+  align-content: space-around;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-content: space-around;
   flex-wrap: wrap;
-  padding: 1rem;
   font-size: .75rem;
+  justify-content: space-around;
+  padding: 1rem;
 }
 
 .practice-item {
-    width: 90%;
-    padding: .5rem;
-    // border-top: 2px solid $lx-purple;
-    // border-left: 2px solid $lx-purple;
-    box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2);
-    background-color: $lx-light-grey;
-    margin: .5rem;
+  background-color: $lx-light-grey;
+  box-shadow: 0 .5em .5em 0 $lx-transblack;
+  margin: .5rem;
+  padding: .5rem;
 }
 
 .practice-item-bg {
-    width: 90%;
-    padding: .5rem;
-    // border-top: 2px solid $lx-purple;
-    // border-left: 2px solid $lx-purple;
-    box-shadow: 0px .5em .5em 0px rgba(0,0,0,0.2);
-    border-radius: $global-radius;
-    margin: .5rem;
-    text-align: center;
+  border-radius: $global-radius;
+  box-shadow: 0 .5em .5em 0 $lx-transblack;
+  margin: .5rem;
+  padding: .5rem;
+  text-align: center;
 }
-
 
 @media (#{$bp-larger-than-tablet}) {
-.practice {
+  .practice {
     flex-direction: row;
     flex-wrap: wrap;
+  }
+
+  .practice-row {
+    align-content: space-around;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
-.practice-row{
-  flex-direction: row;
-  justify-content: space-around;
-  align-content: space-around;
+  .practice-item {
+    align-content: space-between;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 40vw;
 }
 
-.practice-item {
-  max-width: 40vw;
-  display: flex;
-  flex-direction: column;
-  align-content: space-between;
-  justify-content: space-between;
-}
-
-.practice-item-bg {
-  max-width: 40vw;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: space-between;
+  .practice-item-bg {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 40vw;
 }
 }
 
-//
+// Heading & Text modifications
 
 .practice-item h4 {
   font-size: .7rem;
-  margin: 0px;
+  margin: 0;
 }
 
 .practice p {
-  margin-bottom: 0px;
+  margin-bottom: .5rem;
 }
 
 .practice h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+  line-height: $line-height;
 }
