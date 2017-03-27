@@ -29,8 +29,3 @@ introduction: "The ETL523 case study features these OLM elements - Teacher Prese
 <div class="u-release practice">
 {% include application-examples.html %}
 </div>
-
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='http://andreruffert.github.io/rangeslider.js/assets/rangeslider.js/dist/rangeslider.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js'></script>
-<script src="{{ site.baseurl}}/js/ranger.js"></script>

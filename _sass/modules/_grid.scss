@@ -180,11 +180,11 @@
 }
 
 .content-main {
-  flex-basis: 95%;
   flex-grow: 1;
   margin-left: auto;
   margin-right: auto;
   order: 2;
+  width: 95%;
 }
 
 .content-side {

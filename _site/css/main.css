@@ -907,11 +907,11 @@ pre > code {
   max-width: 95vw; }
 
 .content-main {
-  flex-basis: 95%;
   flex-grow: 1;
   margin-left: auto;
   margin-right: auto;
-  order: 2; }
+  order: 2;
+  width: 95%; }
 
 .content-side {
   flex-basis: 100%;
@@ -1643,11 +1643,11 @@ label img {
 .rangeslider,
 input[type='range'] {
   max-width: 100%;
-  margin-bottom: 1em; }
+  margin: 0.2rem 0 0.5rem; }
 
 .rangeslider__handle {
   border-radius: 2em;
-  line-height: 1.7rem;
+  line-height: 1.3rem;
   text-align: center; }
   .rangeslider__handle:after {
     background: 0; }
@@ -1689,9 +1689,9 @@ input[type='range'] {
   color: white;
   cursor: pointer;
   display: inline-block;
-  height: 1.75rem;
+  height: 1.3rem;
   position: absolute;
-  width: 1.75rem; }
+  width: 1.3rem; }
   .rangeslider__handle.js-zero {
     border-color: #333333;
     background-color: #333333; }
@@ -1727,7 +1727,7 @@ input[type='range'] {
   border-radius: 50%; }
 
 .rangeslider--horizontal .rangeslider__handle {
-  top: -0.5rem;
+  top: -0.3rem;
   touch-action: pan-y;
   -ms-touch-action: pan-y; }
 

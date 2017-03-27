@@ -21,12 +21,12 @@ label img {
 .rangeslider,
 input[type='range'] {
   max-width: 100%;
-  margin-bottom: 1em;
+  margin: .2rem 0 .5rem ;
 }
 
 .rangeslider__handle {
   border-radius: 2em;
-  line-height: 1.7rem;
+  line-height: 1.3rem;
   text-align: center;
 
   &:after {
@@ -78,9 +78,9 @@ input[type='range'] {
   color: $lx-white;
   cursor: pointer;
   display: inline-block;
-  height: 1.75rem;
+  height: 1.3rem;
   position: absolute;
-  width: 1.75rem;
+  width: 1.3rem;
 
   &.js-zero {
     border-color: #333333;
@@ -132,7 +132,7 @@ input[type='range'] {
 
 }
 .rangeslider--horizontal .rangeslider__handle {
-  top: -0.5rem;
+  top: -0.3rem;
   touch-action: pan-y;
   -ms-touch-action: pan-y;
 }

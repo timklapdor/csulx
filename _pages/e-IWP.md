@@ -34,7 +34,7 @@ As well as supporting connections to professionals and professional contexts, st
 
 **Case studies** - Professional contexts can be highlighted through rich media case studies connecting theory to practice.
 
-**Guest lectures** - Professional practitioners can be invited to join the learning community as [guest online lecturers]({{ site.url }}/strategy/guest-lectures.html) or guest facilitators of online discussions.
+**Guest lectures** - Professional practitioners can be invited to join the learning community as [guest online lecturers]({{ site.baseurl }}/strategy/guest-lectures.html) or guest facilitators of online discussions.
 
 **Practice focussed assessment** - Authentic practice-focused assessment tasks can support development of professional identities.
 

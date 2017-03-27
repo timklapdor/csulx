@@ -15,7 +15,7 @@ strategies:
 
 ### Strategies Used
 
-- **[Creating rich media artefacts]({{ site.baseurl }}strategy/creating-rich-media-artefacts.html)** - Student development of technical and communication skills using multimedia and online tools.
+- **[Creating rich media artefacts]({{ site.baseurl }}/strategy/creating-rich-media-artefacts.html)** - Student development of technical and communication skills using multimedia and online tools.
 
 ### Motivation
 
