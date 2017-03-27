@@ -56,25 +56,25 @@
 //==========================================================================
 
 .box-container-rows {
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
   flex-direction: row-reverse;
+  justify-content: center;
 }
 
 .box-container-columns {
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
   flex-direction: column-reverse;
+  justify-content: center;
 }
 
 .box {
-  width: calc(100vw/5);
-  height: 20vh;
-  display: flex;
   align-items: center;
-  justify-content: center;
-  z-index: 1;
   border-radius: $global-radius;
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+  width: 30vw;
+  z-index: 1;
 }

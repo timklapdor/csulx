@@ -1894,25 +1894,25 @@ td:last-child {
   .tiles {
     width: 45%; } }
 .box-container-rows {
-  display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: row-reverse; }
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center; }
 
 .box-container-columns {
-  display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column-reverse; }
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center; }
 
 .box {
-  width: calc(100vw/5);
-  height: 20vh;
-  display: flex;
   align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 30vh;
   justify-content: center;
-  z-index: 1;
-  border-radius: 4px; }
+  width: 30vw;
+  z-index: 1; }
 
 .video-container {
   position: relative;
