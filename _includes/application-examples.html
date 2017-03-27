@@ -1,0 +1,31 @@
+{% assign app_type = page.category %}
+{% assign pages = site.applications | sort:"weight"  %}
+{% for application in pages %}
+  {% if application.category == app_type %}
+    {% if application.url == page.url %}
+    {% else %}
+
+    <div class="practice-item">
+      <h2><a class="post-link" href="{{site.baseurl}}{{ application.url }}">{{ application.element }}</a></h2>
+      <label for="lc-range">Mixer Intensity</label>
+      <input type="range" name="lc-range" min="-1" max="5" step="1" value="{{ application.mixer }}" disabled="disabled">
+      <label>Features:</label>
+      <p>{{ application.features }}</p>
+      <label>Description:</label>
+      <p>{{ application.description }}</p>
+      <label>Strategies:</label>
+      <p>{% for item in application.strategies | split: ',' | sort  %}
+        <a href="{{ item | slugify }}.html">{{ item }}</a>
+      {% endfor %}</p>
+      <a href="{{ site.baseurl }}{{ application.url }}" class="button u-full-width flex-bottom sml-margin-top">Read More...</a>
+    </div>
+
+
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='http://andreruffert.github.io/rangeslider.js/assets/rangeslider.js/dist/rangeslider.min.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js'></script>
+<script src="{{ site.baseurl}}/js/ranger.js"></script>

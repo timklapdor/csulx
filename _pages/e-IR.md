@@ -2,7 +2,7 @@
 layout: element
 title: Interactive Resources
 permalink: "/model/interactive-resources.html"
-olm-num: 6
+olm-num: 7
 category: element
 header: ir-image
 short: ir
@@ -14,13 +14,13 @@ High quality rich media learning resources can support understanding of conceptu
 
 {% include youtubePlayer.html id="hUcOyKOef5w" %}
 
-<div class="offset-by-two extra-top-padding container">
-<a href="{{ site.baseurl }}/tags/IR.html" class="mixer-button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex">
+<a href="{{ site.baseurl }}/tags/IR.html" class="button pink-bg">Browse example strategies</a>
 </div>
 
 ### Rationale
 
-High quality rich media learning resources can support understanding of conceptual material, provide visual examples of practice and contextualise the broader learning experience. Interactive learning resources can provide a place for experiential engagement and experimentation with content and interaction with peers and teachers. 
+High quality rich media learning resources can support understanding of conceptual material, provide visual examples of practice and contextualise the broader learning experience. Interactive learning resources can provide a place for experiential engagement and experimentation with content and interaction with peers and teachers.
 
 The use of curriculum specific interactive learning resources, including audio, video, interactive multimedia and computer-based simulations has a long history, particularly in distance education contexts. Such resources have the potential to provide rich and deep engagement with content, and to support students’ learning through visualisation, exploration and embedded feedback. Contemporary online versions of such resources typically allow shared engagement with content or collaborative learning by communities of learners through synchronous and asynchronous discussion tools embedded within resources or through group simulated activities, for example within virtual environments, such as simulated laboratories, classrooms, or hospitals.
 
@@ -28,9 +28,9 @@ Many of these resources exploit the potency of role-play activities to immerse l
 
 De Jong, Lin and Zacharia (2013) suggest that simulated laboratory experience can be an opportunity to develop student team-work abilities, cultivate interest in science, promote conceptual understanding, develop inquiry skills, and to experience the challenges many scientists face when planning experiments that require careful setup of equipment, troubleshooting of machinery and observations over a long time span. They observed the effectiveness of simulated laboratory experience in promoting conceptual knowledge, offering a cost effective advantage and an opportunity to investigate conjectures that are not possible in physical experiments.
 
-Resources can be curated from those available commercially, within Open Educational Resource libraries or MOOCs, or developed and quality assured by teaching and educational design staff, students or media specialists. 
+Resources can be curated from those available commercially, within Open Educational Resource libraries or MOOCs, or developed and quality assured by teaching and educational design staff, students or media specialists.
 
-One reason for the slow application of interactive resources is the fact that their development has traditionally been costly. New models are needed to acquire and obtain access to such resources for students. Such models can include the use of Open Educational Resources such as MOOCs, or collaborative ventures with other institutions to create resources suitable for use across a range of courses and subjects. In some cases the co-creation of resources can be a valuable learning experience for students and such resources can then become valuable learning resources for future student cohorts. 
+One reason for the slow application of interactive resources is the fact that their development has traditionally been costly. New models are needed to acquire and obtain access to such resources for students. Such models can include the use of Open Educational Resources such as MOOCs, or collaborative ventures with other institutions to create resources suitable for use across a range of courses and subjects. In some cases the co-creation of resources can be a valuable learning experience for students and such resources can then become valuable learning resources for future student cohorts.
 
 ### <a name="IR-strategies"></a>Strategies
 
@@ -42,7 +42,7 @@ One reason for the slow application of interactive resources is the fact that th
 
 **Exploration through conceptual simulations** - Simulations and adaptive learning resources that use high fidelity media to illustrate key ideas and require students to interactively demonstrate their understanding of concepts, [Simulations & Exploratory Learning]({{ site.baseurl }}/strategy/simulations-exploratory-learning.html)
 
-**Immersive practice environments** - Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning, 
+**Immersive practice environments** - Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning,
 
 ### References
 

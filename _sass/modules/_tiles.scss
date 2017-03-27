@@ -33,8 +33,8 @@
 }
 
 .tiles h4 {
-    font-size: 1.4rem;
-    line-height: 1.4rem;
+    font-size: .75rem;
+    line-height: .75rem;
     color: $lx-white;
 }
 
@@ -42,10 +42,6 @@
 @media (max-width: 800px) {
   .tiles {
     width: 30%;
-    }
-    .tiles h4 {
-        font-size: 1.1rem;
-        line-height: 1.1rem
     }
 }
 
@@ -73,11 +69,12 @@
   flex-direction: column-reverse;
 }
 
-.boxes {
-  width: calc(100vw/7);
-  height: 15vh;
+.box {
+  width: calc(100vw/5);
+  height: 20vh;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 1;
+  border-radius: $global-radius;
 }

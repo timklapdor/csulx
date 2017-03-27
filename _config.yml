@@ -15,11 +15,19 @@ permalink: /:categories/:title.html
 
 # Setup for Categories
 collections:
-  case-study:
+  applications:
     output: true
+    permalink: /applications/:categories/:title.html
+  strategies:
+    output: true
+    permalink: /strategies/:title.html
+    layout: post
 
 #Timezone
 timezone: Australia/Sydney
+
+# sass:
+#   style: compressed
 
 #Setup for Prose.io - https://github.com/prose/prose/wiki/Getting-Started
 prose:
@@ -74,7 +82,6 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-
 
 # Build settings
 markdown: kramdown

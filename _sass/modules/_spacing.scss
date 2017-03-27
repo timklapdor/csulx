@@ -10,7 +10,7 @@ input,
 textarea,
 select,
 fieldset {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.2rem;
 }
 
 pre,
@@ -22,18 +22,27 @@ p,
 ul,
 ol,
 form {
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.2rem;
 }
- 
+
 .post {
-    margin-top: 2rem;
-    min-height: 90vh;
+  margin-top: 1rem;
+  min-height: 90vh;
 }
 
 .extra-top-padding {
-    padding-top: 2em;
+  padding-top: 1.5rem;
 }
 
 .extra-bottom-padding {
-    padding-bottom: 3em;
+  padding-bottom: 1.5rem;
+}
+
+.extra-padding {
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+.sml-margin-top {
+  margin-top: 1rem;
 }

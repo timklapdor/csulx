@@ -2,15 +2,13 @@
 //==========================================================================
 
 .logo {
-    padding: 20px;
-    height: 150px;
-    text-align: center;
+  height: 150px;
+  padding: 20px;
+  text-align: center;
 }
 
-/* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-    .logo {
-        text-align: left;
-    }    
-    
+  .logo {
+    text-align: left;
+}
 }

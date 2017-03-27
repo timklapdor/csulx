@@ -1,37 +1,27 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="hero u-release {{ page.header }}">
-        <h1>{{ page.title }}</h1>
-</div>
-
-<div class="page-content">
-
-
-<blockquote><p>{{ page.content }}</p></blockquote>    
- 
-    
 <a onclick="window.history.back()"><button class="back-button">Back</button></a>
-    
+
+<blockquote><p>{{ page.content }}</p></blockquote>
+
 <p>Example strategies for <strong>{{ page.title }}</strong> include:</p>
-<ul>
-{% assign listed_posts_urls = page.url | split: ' ' %}
-{% for tag in page.tags %}
-  {% for mypost in site.tags[tag] %}
-    {% if listed_posts_urls contains mypost.url %}
-    {% else %}
-      {% assign listed_posts_urls = listed_posts_urls | push: mypost.url  %}
-        
-    <li><strong><a href="{{ site.baseurl }}{{ mypost.url }}">{{ mypost.title }}</a></strong> - <em>{{ mypost.description }}</em></li>
-        
+
+{% assign collection_tags =  site.strategies | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+
+{% for tag in collection_tags %}
+  <ul>
+  {% if tag contains page.tags %}
+  {% for strategies in site.strategies %}
+    {% if strategies.tags contains tag %}
+    <li><a href="{{ site.baseurl }}{{ strategies.url }}">{{ strategies.title }}</a></li>
     {% endif %}
   {% endfor %}
+  {% endif %}
+  </ul>
 {% endfor %}
-</ul>
 
-    
-<div class="offset-by-four four columns extra-bottom-padding extra-top-padding">
-<a href="{{ site.baseurl }}/model/{{ page.link }}" class="mixer-button grey-bg ">Find out more about this element</a></div> 
-    
+<div class="row-flex extra-padding">
+<p><a href="{{ site.baseurl }}/model/{{ page.link }}" class="button grey-bg ">Find out more about this element</a></p>
 </div>

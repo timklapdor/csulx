@@ -1,10 +1,27 @@
 ---
 
-layout: default
+layout: two-columns
 title: Typography
 permalink: "styles/type.html"
+header: h-gradient-horizontal
 
 ---
+<div class="content-side page-nav" markdown="1">
+
+#### Page Navigation
+
+{:.}
+
+* Table of contents placeholder
+{:toc}
+
+<ul>
+<a onclick="window.history.back()"><li class="back">&larr; Back</li></a>
+</ul>
+
+</div>
+
+<article class="content-main" markdown="1">
 
 The following are default formats **OUTSIDE** of the "post-content" DIV
 
@@ -34,10 +51,7 @@ Particles each come with their own set of default settings which may or may not 
 3. like
 4. this
 
-<div class="post-content" markdown="1">
-
 The following are default formats **INSIDE** of the "post-content" DIV
-
 
 # Heading 1
 
@@ -61,8 +75,6 @@ Paragraphs look a bit like this.
 3. like
 4. this
 
-</div>
-
 ### Seperate Classes Altogether
 
 <ol class="nice-ol">
@@ -85,3 +97,18 @@ Carini, R. M., Kuh, G. D., & Klein, S. P. (2006). Student engagement and student
 Carr, S. (2000). As distance education comes of age, the challenge is keeping the students. *Chronicle of higher education, 46*(23).
 
 </div>
+
+<div class="row-flex extra-padding">
+  <div class="content-half">
+    <h3>Browse All </h3>
+    <p>Browse the complete set of strategies here.</p>
+    <p><a href="{{ site.baseurl }}/strategy/archive.html" class="button">View All Strategies</a></p>
+  </div>
+  <div class="content-half">
+    <h3>Search</h3>
+    <p>Search the strategies.</p>
+    <p><a href="{{ site.baseurl }}/search.html" class="button">Search Strategies</a></p>
+  </div>
+</div>
+
+</article>

@@ -5,9 +5,20 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 
 ### Updates
 
+** March 2017 **
+
+#### Big Updates
+
+- Moved Strategies from posts to a Collection
+- New archive page created
+- New "Applications" collection created to include Case Studies
+- Added Range bars based of code found here: http://codepen.io/mukealicious/pen/jWoeZY
+- Swapped site to Fluid Type as outlined here: https://css-tricks.com/snippets/css/fluid-typography/ & https://blog.codepen.io/2016/10/31/fluid-type-blogs/
+- Fluid line height: http://codepen.io/timbrown/pen/akXvRw/
+
 ** 6 March 2017 **
 
-Creating a stable update to build the next set of features. Will be updating CSS to be more responsive and improve the readability of the site. 
+Creating a stable update to build the next set of features. Will be updating CSS to be more responsive and improve the readability of the site.
 
 - Tweaks to mixer code to reduce size of flyouts and slow down the animation
 - Edits to text to fix minor mistakes

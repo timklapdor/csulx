@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% for item in page.header %}
+</header>
+<div class="hero u-release {{ page.header }}">
+        <h1>{{ page.title }}</h1>
+</div>
+{% endfor %}
+
+<div class="page-content">
+
+<article class="content-main">
+    {{ content }}
+</article>
+
+<div class="page-nav content-side">
+    <h4>Explore the Strategies</h4>
+    <ul class="">
+      {% for strategyitem in site.strategyitem %}
+          {% if strategyitem.url == page.url %}
+              {% assign class = "active-item" %}
+          {% else %}
+              {% assign class = "normal" %}
+          {% endif %}
+          <li class="{{ class }}"><a href="{{ menuitem.url }}">{{ strategyitem.title }}</a></li>
+      {% endfor %}
+      <li class="back"><a onclick="window.history.back()">&larr; Back</a></li>
+    </ul>
+</div>
+
+</div>

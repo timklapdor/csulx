@@ -1,24 +1,24 @@
 .container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: $container-width;
+  padding: 0 20px;
   position: relative;
   width: 100%;
-  max-width: $container-width;
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box;
 }
 
 .column,
 .columns {
-  width: 100%;
-  float: left;
   box-sizing: border-box;
+  float: left;
+  width: 100%;
 }
 
 // For devices larger than 400px
 @media (#{$bp-larger-than-mobile}) {
   .container {
-    width: $container-width-larger-than-mobile;
     padding: 0;
+    width: $container-width-larger-than-mobile;
   }
 }
 
@@ -27,67 +27,69 @@
   .container {
     width: $container-width-larger-than-phablet;
   }
+
   .column,
   .columns {
     margin-left: $column-margin;
   }
+
   .column:first-child,
   .columns:first-child {
     margin-left: 0;
   }
 
   .one.column,
-  .one.columns          { width: grid-column-width(1);  }
-  .two.columns          { width: grid-column-width(2);  }
-  .three.columns        { width: grid-column-width(3);  }
-  .four.columns         { width: grid-column-width(4);  }
-  .five.columns         { width: grid-column-width(5);  }
-  .six.columns          { width: grid-column-width(6);  }
-  .seven.columns        { width: grid-column-width(7);  }
-  .eight.columns        { width: grid-column-width(8);  }
-  .nine.columns         { width: grid-column-width(9);  }
-  .ten.columns          { width: grid-column-width(10); }
-  .eleven.columns       { width: grid-column-width(11); }
-  .twelve.columns       { width: 100%; margin-left: 0;  }
+  .one.columns { width: grid-column-width(1);  }
+  .two.columns { width: grid-column-width(2);  }
+  .three.columns { width: grid-column-width(3);  }
+  .four.columns { width: grid-column-width(4);  }
+  .five.columns { width: grid-column-width(5);  }
+  .six.columns { width: grid-column-width(6);  }
+  .seven.columns { width: grid-column-width(7);  }
+  .eight.columns { width: grid-column-width(8);  }
+  .nine.columns { width: grid-column-width(9);  }
+  .ten.columns { width: grid-column-width(10); }
+  .eleven.columns { width: grid-column-width(11); }
+  .twelve.columns { margin-left: 0; width: 100%; }
 
-  .one-third.column     { width: grid-column-width(4);  }
-  .two-thirds.column    { width: grid-column-width(8);  }
+  .one-third.column { width: grid-column-width(4);  }
+  .two-thirds.column { width: grid-column-width(8);  }
 
-  .one-half.column      { width: grid-column-width(6);  }
+  .one-half.column { width: grid-column-width(6);  }
 
 
   // Offsets
   .offset-by-one.column,
-  .offset-by-one.columns       { margin-left: grid-offset-length(1);  }
+  .offset-by-one.columns { margin-left: grid-offset-length(1);  }
   .offset-by-two.column,
-  .offset-by-two.columns       { margin-left: grid-offset-length(2);  }
+  .offset-by-two.columns { margin-left: grid-offset-length(2);  }
   .offset-by-three.column,
-  .offset-by-three.columns     { margin-left: grid-offset-length(3);  }
+  .offset-by-three.columns { margin-left: grid-offset-length(3);  }
   .offset-by-four.column,
-  .offset-by-four.columns      { margin-left: grid-offset-length(4);  }
+  .offset-by-four.columns { margin-left: grid-offset-length(4);  }
   .offset-by-five.column,
-  .offset-by-five.columns      { margin-left: grid-offset-length(5);  }
+  .offset-by-five.columns { margin-left: grid-offset-length(5);  }
   .offset-by-six.column,
-  .offset-by-six.columns       { margin-left: grid-offset-length(6);  }
+  .offset-by-six.columns { margin-left: grid-offset-length(6);  }
   .offset-by-seven.column,
-  .offset-by-seven.columns     { margin-left: grid-offset-length(7);  }
+  .offset-by-seven.columns { margin-left: grid-offset-length(7);  }
   .offset-by-eight.column,
-  .offset-by-eight.columns     { margin-left: grid-offset-length(8);  }
+  .offset-by-eight.columns { margin-left: grid-offset-length(8);  }
   .offset-by-nine.column,
-  .offset-by-nine.columns      { margin-left: grid-offset-length(9);  }
+  .offset-by-nine.columns { margin-left: grid-offset-length(9);  }
   .offset-by-ten.column,
-  .offset-by-ten.columns       { margin-left: grid-offset-length(10); }
+  .offset-by-ten.columns { margin-left: grid-offset-length(10); }
   .offset-by-eleven.column,
-  .offset-by-eleven.columns    { margin-left: grid-offset-length(11); }
+  .offset-by-eleven.columns { margin-left: grid-offset-length(11); }
 
 
   .offset-by-one-third.column,
-  .offset-by-one-third.columns  { margin-left: grid-offset-length(4);  }
+  .offset-by-one-third.columns { margin-left: grid-offset-length(4);  }
   .offset-by-two-thirds.column,
   .offset-by-two-thirds.columns { margin-left: grid-offset-length(8);  }
 
   .offset-by-one-half.column,
-  .offset-by-one-half.column   { margin-left: grid-offset-length(6);  }
+  .offset-by-one-half.column { margin-left: grid-offset-length(6);  }
 
 
 }
@@ -97,35 +99,160 @@
 //==========================================================================
 
 .row {
-    padding: 20px 5px;
-    clear: both;
-    overflow: auto;
-    margin: 0 -5px;
+  clear: both;
+  overflow: auto;
 }
 
 .row:nth-of-type(even) {
-    background: $light-grey;
+  background: $light-grey;
 }
 
 .row:first-child {
-    margin: 0px;
+  margin: 0;
 }
 
 .row-coloured {
-    background: $light-grey;
-    margin-top: -1em;
+  background: $light-grey;
+  margin-top: -1em;
 }
 
 
 // Clearing
 //==========================================================================
 
-.container:after,
-.row:after,
+.container::after,
+.row::after,
 .u-cf {
-  content: "";
-  display: table;
   clear: both;
+  content: '';
+  display: table;
+}
+
+.extra-padding {
+  padding: 2em 0;
+}
+
+// Flex
+
+.row-flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media (#{$bp-larger-than-phablet}) {
+  .row-flex {
+    flex-direction: row;
+}
+}
+
+.column-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 0 !important;
+  padding: 0;
+  text-align: center;
+}
+
+.linking {
+  background: transparent;
+  border-radius: 50%;
+  padding: 1em 1em .5em;
+  transition: background .5s ease;
+}
+
+.linking:hover {
+  background: $lx-white;
+}
+
+.post-content,
+.page-content {
+  align-items: flex-start;
+  display: flex;
+  flex-flow: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -.3em;
+  max-width: 95vw;
+}
+
+.content-main {
+  flex-grow: 1;
+  margin-left: auto;
+  margin-right: auto;
+  order: 2;
+  width: 95%;
+}
+
+.content-side {
+  flex-basis: 100%;
+  order: 1;
+}
+
+.content-full {
+  flex-basis: 95%;
+  flex-grow: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  order: 1;
+}
+
+.content-half {
+  margin: 1rem;
+  width: 95%;
+}
+
+.content-third {
+  margin: 1rem;
+  width: 95%;
+}
+
+.content-spread {
+  align-content: space-between;
+  display: flex;
+  flex-flow: column;
+  flex-wrap: nowrap;
+}
+
+
+@media (#{$bp-larger-than-tablet}) {
+  .post-content,
+  .page-content {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: row;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -.3em;
+    max-width: 95vw;
+    min-height: 80vh;
+}
+
+  .content-main {
+    flex-basis: 80%;
+    flex-grow: 3;
+    order: 1;
+}
+
+  .content-side {
+    flex-basis: 20%;
+    order: 2;
+}
+
+  .content-half {
+    flex-grow: 1;
+    margin: 1rem;
+    width: 45%;
+  }
+
+  .content-third {
+    margin: 1rem;
+    width: 33%;
+  }
 }
 
 .u-release {
@@ -133,39 +260,23 @@
   margin-right: calc(-50vw + 50%);
 }
 
-.extra-padding {
-    padding: 2em 0 2em 0;
+@media (min-width: 600px) {
+  .content-main .u-release {
+    margin-left: calc(-50vw + 25%);
+    margin-right: calc(-50vw);
+  }
 }
 
-// Flex
-
-.row-flex {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  align-items: center;
+.flex-bottom {
+  align-self: flex-end;
 }
 
-.column-vertical {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  text-align: center;
-  padding: 0px;
-  margin-bottom: 0px !important;
-}
+footer .csulx { flex: .5; order: 3; width: 50%; }
+footer .csulogo { flex: .5; order: 2; width: 50%;}
+footer .blurb { flex: .5; order: 1; font-size: .75rem; }
 
-.linking {
-    background: transparent;
-    transition: background 0.5s ease;
-    border-radius: 50%;
-    padding: 1em 1em 0.5em 1em;
-}
-
-.linking:hover {
-    background: $lx-orange;
-}
-
-.post-content, .page-content {
-    min-height: 80vh;
+@media (#{$bp-larger-than-phablet}) {
+  footer .csulx { order: 1; width: 100%;}
+  footer .csulogo { order: 3; width: 100%;}
+  footer .blurb { flex: 2; order: 2; font-size: .6rem;}
 }

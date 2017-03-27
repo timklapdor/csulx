@@ -1,0 +1,8 @@
+
+{% assign strategies-used = site.applications | map: 'strategies' | join: ','  | split: ',' | uniq | sort %}
+{% for item in strategies-used %}
+  {% if item.size >0 %}
+  <a href="{{ site.baseurl }}/strategies/{{ item | slugify }}.html">{{ item | append: ',' }}</a>
+  {% endif %}
+
+{% endfor %}

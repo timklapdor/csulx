@@ -1,0 +1,79 @@
+.practice {
+  align-content: space-around;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: .75rem;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.practice-row {
+  align-content: space-around;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: .75rem;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.practice-item {
+  background-color: $lx-light-grey;
+  box-shadow: 0 .5em .5em 0 $lx-transblack;
+  margin: .5rem;
+  padding: .5rem;
+}
+
+.practice-item-bg {
+  border-radius: $global-radius;
+  box-shadow: 0 .5em .5em 0 $lx-transblack;
+  margin: .5rem;
+  padding: .5rem;
+  text-align: center;
+}
+
+@media (#{$bp-larger-than-tablet}) {
+  .practice {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .practice-row {
+    align-content: space-around;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+  .practice-item {
+    align-content: space-between;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 40vw;
+}
+
+  .practice-item-bg {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 40vw;
+}
+}
+
+// Heading & Text modifications
+
+.practice-item h4 {
+  font-size: .7rem;
+  margin: 0;
+}
+
+.practice p {
+  margin-bottom: .5rem;
+}
+
+.practice h2 {
+  font-size: 1.3rem;
+  line-height: $line-height;
+}
