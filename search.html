@@ -1,26 +1,32 @@
 ---
 
-layout: page
-page-header: search-image
+layout: search
+header: search-image
 title: Search
 
 ---
-
-<div class="u-release row-coloured">
-    <div class="container">
-<form action="{{ site.baseurl }}/search.html" method="get" class="extra-top-padding">
-    <label for="search-box"><h5>Search</h5></label>
-    <div class="eight columns"><input type="text" id="search-box" name="query" class="u-full-width"></div>
-    <div class="three columns"><input type="submit" value="search" class="u-full-width"></div>
-</form>
-</div>
+<div class="u-release row-coloured extra-padding">
+  <div class="container">
+    <form action="{{ site.baseurl }}/search.html" method="get">
+      <label for="search-box">
+        <h5>Search</h5></label>
+      <div class="eight columns">
+        <input type="text" id="search-box" name="query" class="u-full-width">
+      </div>
+      <div class="three columns">
+        <input type="submit" value="search" class="u-full-width">
+      </div>
+    </form>
+  </div>
 </div>
 
 <a onclick="window.history.back()"><button class="back-button" margin="1em">Back</button></a>
 
-<div class="ten columns">
-<ol id="search-results" class="nice-ol"></ol>
-</div>
+
+  <ol id="search-results" class="nice-ol extra-top-padding">
+  </ol>
+
+
 <script>
   window.store = {
 

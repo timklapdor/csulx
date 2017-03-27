@@ -113,7 +113,7 @@
 
 .row-coloured {
   background: $light-grey;
-  margin-top: -1em;
+  margin-top: -1.2rem;
 }
 
 
@@ -279,4 +279,8 @@ footer .blurb { flex: .5; order: 1; font-size: .75rem; }
   footer .csulx { order: 1; width: 100%;}
   footer .csulogo { order: 3; width: 100%;}
   footer .blurb { flex: 2; order: 2; font-size: .6rem;}
+}
+
+.search {
+  min-height: 80vh;
 }
