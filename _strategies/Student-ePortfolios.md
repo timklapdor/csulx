@@ -142,7 +142,7 @@ Lindsay, J. (2016). Beyond blogging: Reflective and responsive practice using Th
 
 Judy O’Connell. (2016, June 2). Thinkspace - ePortfolio and online enhancement [Video file].
 
-{% include youtubeplayer.html id="MiMxqc_7cB0" %}
+{% include youtubePlayer.html id="MiMxqc_7cB0" %}
 
 DSL website ‘Portfolio’ - Specific how to [information on ePortfolios can be found here](http://www.csu.edu.au/division/student-learning/home/csu-academics/learning-and-teaching-at-csu/portfolio)
 

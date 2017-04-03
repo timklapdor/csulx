@@ -88,7 +88,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
 
 Students collaborate on the learning module content and chose a unique sub-topic to build their individual digital artefact. Once a topic is chosen students then explore a range of digital tools to find one they are comfortable using to create the digital artefact. The digital artefact could be created using any reliable Web 2.0 tool for audio, video or image/text production such as Voicethread, Smore, or Slideshare. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact. It was a requirement that the artefact be uploaded and in a state where it had a unique URL and could be embedded the wiki-based learning module. This is [a great example of student work produced](https://youtu.be/622OHuEMM38) in this assessment.
 
-{% include youtubeplayer.html id="NkXU81zceuY" %}
+{% include youtubePlayer.html id="NkXU81zceuY" %}
 
 </div>
 </div>

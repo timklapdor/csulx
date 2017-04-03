@@ -79,7 +79,7 @@ The rationale for this assessment is to build students’ skills and knowledge i
 
 Students self-select into a group to discuss a  ‘Current Issues in Finance’. Several topics are provided to ensure each student gets a chance to be a leader. They are each asked to lead the group for one week, guiding and commenting on the posts of others, just as a lecturer would.
 
-{% include youtubeplayer.html id="hz4I-yDJ7BA" %}
+{% include youtubePlayer.html id="hz4I-yDJ7BA" %}
 
 </div>
 </div>

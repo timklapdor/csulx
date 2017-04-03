@@ -64,7 +64,7 @@ In this example the lecturer wanted a good quality video that provided essential
 
 This video was professionally recorded on the Port Macquarie campus. It was then edited to maximise impact. It was placed on the landing page at the start of the subject in 201730. A thoughtful static image has been set, not of the lecturer in this instance.
 
-{% include youtubeplayer.html id="zXPWdKYOdWc" %}
+{% include youtubePlayer.html id="zXPWdKYOdWc" %}
 
 </div>
 </div>

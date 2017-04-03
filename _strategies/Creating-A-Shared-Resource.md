@@ -78,7 +78,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
 
 The focus of the Group Wiki project was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. Teams were mostly self-selected and chose their own topic (pending approval) and methods of communication about the assignment needs. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills.
 
-{% include youtubeplayer.html id="rxDvr61G0Lk" %}
+{% include youtubePlayer.html id="rxDvr61G0Lk" %}
 
 You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
 

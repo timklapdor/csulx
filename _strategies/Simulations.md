@@ -49,7 +49,7 @@ This strategy incorporates role-playing particular responsibilities of the pharm
 In the short video below Donna explains how the simulation works.  
 Professional communication skills are often taught in the classroom by interacting with another student, staff member or virtual patient. Learning in role-play can be an effective strategy but is staff-intensive and somewhat artificial, lacking practice ambience. Students, for instance, often report being unprepared for how noisy and busy pharmacies can be. Thus, to give a more realistic and 'immersed' feel, the virtual pharmacy has three encompassing screens, each of which can project a different part of the pharmacy and the activities and associated noises.
 
-{% include youtubeplayer.html id="xIHvEmpvWxk" %}
+{% include youtubePlayer.html id="xIHvEmpvWxk" %}
 
 </div>
 </div>

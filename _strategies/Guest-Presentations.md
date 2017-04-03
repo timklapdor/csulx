@@ -42,7 +42,7 @@ The colloquium series of five online meetings/presentations is organised by the 
 
 [Online Colloquium presentation slides](https://docs.google.com/presentation/d/1gHVIzTj8EZveR77SQWqci1trsIEhF46diMYKHO7x7EE/pub?start=false&loop=false&delayms=3000)
 
-{% include youtubeplayer.html id="Sv0Odv7LkZg" %}
+{% include youtubePlayer.html id="Sv0Odv7LkZg" %}
 
 </div>
 </div>
