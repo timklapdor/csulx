@@ -44,7 +44,7 @@ For Assignment 1, each diverse team (3-5 students) chose a suitable topic and su
 
 The Assignment 2 report was typically distributed to leadership within the school/institution and once again propelled this task into a professional realm. In effect it often prevented students from being too critical of what they saw (and were experiencing), encouraging facts and then synthesised discussion and some solutions via a proposed plan of improvement.
 
-{% include youtubeplayer.html id="DXCeCrTvux8" %}
+<!-- {% include youtubeplayer.html id="DXCeCrTvux8" %} -->
 
 You can find out more about this subject in [this Case Study]({{ site.baseurl }}applications/etl532/).
 
