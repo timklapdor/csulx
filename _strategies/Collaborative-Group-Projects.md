@@ -68,7 +68,7 @@ Successful groups self-organised, developed a common mission despite possible pr
 
 An external wiki using Wikispaces Classroom (a free tool) was used for the group assignment. Teams were mostly self-selected and chose their own topic (pending approval) and methods of communication about the assignment needs. The chosen topic related to digital citizenship in an education context.  Students had their own ‘wiki within the larger wiki’ afforded by the ‘classroom’ model with Wikispaces - as shown by the screenshot and ‘Teams’ listed in the navigation. The wiki took some time to set up however once done it provided a secure (and private) medium for students to share their teamwork.
 
-{% include youtubeplayer.html id="rxDvr61G0Lk" %}
+{% include youtubePlayer.html id="rxDvr61G0Lk" %}
 
 You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
 
