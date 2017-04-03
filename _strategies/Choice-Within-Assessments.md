@@ -46,7 +46,8 @@ The Assignment 2 report was typically distributed to leadership within the schoo
 
 {% include youtubeplayer.html id="DXCeCrTvux8" %}
 
-You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
+You can find out more about this subject in [this Case Study]({{ site.baseurl }}applications/etl532/).
+
 </div>
 </div>
 
