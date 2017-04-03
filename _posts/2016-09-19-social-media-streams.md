@@ -4,7 +4,7 @@ layout: post
 title: "Social Media Streams"
 date: 2016-09-19 15:34:00 +1100
 category: strategy
-tags: [Learning Communities, Interaction Between Students, Interaction with the Professions,] 
+tags: [Learning Communities, Interaction Between Students, Interaction with the Professions,]
 description: "Using social media to publish and accessing information in realtime"
 subjects: "INF 530,"
 
@@ -16,11 +16,11 @@ Social Media provides an incredibly powerful tool for learning and teaching. It 
 
 ### Engagement
 
-Social media streams provide a way to publish, collect and curate information in real-time. Social media itself allows students to engage in a variety of ways, with not only lecturers and peers but with individuals, professionals and experts worldwide. This contextualises study beyond the University, reflecting the broader profession and global setting. 
+Social media streams provide a way to publish, collect and curate information in real-time. Social media itself allows students to engage in a variety of ways, with not only lecturers and peers but with individuals, professionals and experts worldwide. This contextualises study beyond the University, reflecting the broader profession and global setting.
 
 ### In Practice
 
-#### Subject 
+#### Subject
 
 INF530: Concepts and Practices for a Digital Age
 
@@ -30,26 +30,17 @@ Judy O’Connell
 
 #### Motivation
 
-Social media and networking tools are used to connect all cohorts within the course and promote ongoing dialogue, sharing of resources and the development of professional presence. 
+Social media and networking tools are used to connect all cohorts within the course and promote ongoing dialogue, sharing of resources and the development of professional presence.
 
 #### Implementation
 
-The course- level site (Knowledge Networks and Digital Innovation) was served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking). 
+The course- level site (Knowledge Networks and Digital Innovation) was served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
 
 <div class="container row">
 <div class="offset-by-two eight columns">
-<div class="swiper-container">
-        <div class="swiper-wrapper image-container">
-            <div class="swiper-slide"><img src="../images/practices/social-media-INF530-1.jpg" alt="twitter screenshot"></div>
-            <div class="swiper-slide"><img src="../images/practices/social-media-INF530-2.jpg" alt="twitter screenshot">></div>
-            <div class="swiper-slide"><img src="../images/practices/social-media-INF530-3.jpg" alt="twitter screenshot">></div>
-            <div class="swiper-slide"><img src="../images/practices/social-media-INF530-4.jpg" alt="twitter screenshot">></div>
 
-        </div>
-        <div class="swiper-pagination"></div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
-</div>
+{% include swiper.html url1="social-media-INF530-1.jpg" url2="social-media-INF530-2.jpg" url3="social-media-INF530-3.jpg" url4="social-media-INF530-4.jpg" %}
+
 </div>
 </div>
 
@@ -60,7 +51,7 @@ Social media is an incredibly powerful tool that allows student work to be publi
 
 As education aligns more closely with technological trends, lecturers need to carefully consider the use of social media for teaching and learning purposes. Students will often set up their own Facebook groups, but whether or not lecturers use social media in their teaching is another matter. It is recommended they consider the appropriateness and desired outcomes when using social media and [the affordances of the different platforms](https://www.youtube.com/watch?v=g_is3gT7X0Y). [CSU’s Social media use policy for staff](https://policy.csu.edu.au/view.current.php?id=00384) is also worth perusing.
 
-Tomayess’ 2015 examination of social media use within Australian higher education identifies clear advantages and disadvantages. While in general terms social media and networking tools can improve students’ personal and professional skills such as writing, speaking, listening, discussion and debating, she goes on to argue that the risks should be considered from four perspectives: cognitive development, social development, physical development and security (Tomayess, 2015, p. 18). 
+Tomayess’ 2015 examination of social media use within Australian higher education identifies clear advantages and disadvantages. While in general terms social media and networking tools can improve students’ personal and professional skills such as writing, speaking, listening, discussion and debating, she goes on to argue that the risks should be considered from four perspectives: cognitive development, social development, physical development and security (Tomayess, 2015, p. 18).
 
 ### Tools
 

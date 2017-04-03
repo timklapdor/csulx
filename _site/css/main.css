@@ -353,6 +353,10 @@ h4 {
   font-size: .7rem;
   margin: 0; }
 
+.sml-text {
+  font-size: .6rem;
+  font-style: italic; }
+
 .apa, .apa ul, .apa ol, .apa dl, .ref-apa, .ref-apa ul, .ref-apa ol, .ref-apa dl, .apa-ref, .apa-ref ul, .apa-ref ol, .apa-ref dl, .refapa, .refapa ul, .refapa ol, .refapa dl, .aparef, .aparef ul, .aparef ol, .aparef dl {
   padding-left: 0;
   margin-left: 0;
@@ -1033,7 +1037,6 @@ footer .blurb {
 .hero h1 {
   color: white;
   height: 0%;
-  padding: 10px;
   position: absolute;
   text-align: center;
   top: 1rem;
@@ -1195,6 +1198,10 @@ li {
   left: 0;
   padding: .2rem .3rem;
   position: absolute; }
+
+dt {
+  font-style: italic;
+  padding-top: .5rem; }
 
 .logo {
   height: 150px;
@@ -1563,7 +1570,7 @@ nav a:hover {
   padding: .5rem;
   text-align: center; }
 
-@media (min-width: 750px) {
+@media (min-width: 1000px) {
   .practice {
     flex-direction: row;
     flex-wrap: wrap; }
@@ -1576,9 +1583,11 @@ nav a:hover {
   .practice-item {
     align-content: space-between;
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: space-between;
-    max-width: 40vw; }
+    max-width: 65vw;
+    min-width: 40vw; }
 
   .practice-item-bg {
     align-content: center;

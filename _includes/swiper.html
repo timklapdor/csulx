@@ -1,0 +1,37 @@
+<!--  To use add url1-5 values to Liquid Include-->
+
+<div class="swiper-container u-full-width">
+  <div class="swiper-wrapper image-container">
+
+    {% if include.url1 %}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ include.url1 }}"></div>
+    {% endif %}
+    {% if include.url2%}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ include.url2 }}"></div>
+    {% endif %}
+    {% if include.url3 %}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ include.url3 }}"></div>
+    {% endif %}
+    {% if include.url4 %}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ include.url4 }}"></div>
+    {% endif %}
+    {% if include.url5 %}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ include.url5}}"></div>
+    {% endif %}
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+
+</script>

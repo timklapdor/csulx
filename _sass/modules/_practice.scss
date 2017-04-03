@@ -33,7 +33,7 @@
   text-align: center;
 }
 
-@media (#{$bp-larger-than-tablet}) {
+@media (#{$bp-larger-than-desktop}) {
   .practice {
     flex-direction: row;
     flex-wrap: wrap;
@@ -48,9 +48,11 @@
   .practice-item {
     align-content: space-between;
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: space-between;
-    max-width: 40vw;
+    max-width: 65vw;
+    min-width: 40vw;
 }
 
   .practice-item-bg {
