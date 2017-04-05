@@ -40,7 +40,7 @@ Teacher presence has better scope and impact if the discussion forum is carefull
 
 For the module forums additional threads were ‘locked off’ through settings. Therefore students were requested to respond, discuss and reflect within the one main thread for each module or part module. The teacher rarely contributed to these interactive discussions during the week of that module. By the middle of the following week a summary post (as a separate thread) is added to the forum by the teacher/lecturer. This post reveals the teacher has been present, has read and re-read discussions and is keen to share feedback, highlight pertinent contributions and synthesise material as a review of the week.
 
-{% include swiper.html url1="Managing-discussion-forums-EED408-1.jpg" url2="Managing-discussion-forums-EED408-2.jpg" %}
+![Screenshot](../images/practices/Managing-discussion-forums-EED408-1.jpg){: .u-full-width}
 
 </div>
 </div>

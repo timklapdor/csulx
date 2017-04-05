@@ -16,7 +16,7 @@ Teacher interaction with students is directly supported by the skillful use of a
 
 ### Engagement
 
-An announcement may be the first direct contact with students so it offers the opportunity to establish tone and delineate lecturer expectations of lines of communication and engagement. Announcements may be sent directly through student email providing direct, responsive communication of expectations as a foundation for relationship building and enhanced engagement. Announcements are of course, available for viewing within the Interact2 environment. 
+An announcement may be the first direct contact with students so it offers the opportunity to establish tone and delineate lecturer expectations of lines of communication and engagement. Announcements may be sent directly through student email providing direct, responsive communication of expectations as a foundation for relationship building and enhanced engagement. Announcements are of course, available for viewing within the Interact2 environment.
 
 ### In Practice
 <div class="u-release practice" >
@@ -47,7 +47,8 @@ A common strategy for all three subjects is to send out one or more announcement
 
 HSC102 uses the Russian nesting doll images as a metaphor for communication layers and packing and unpacking understanding of the subject content throughout the announcements.
 
-{% include swiper.html url1="Successful-Announcements-1.jpg" url2="Successful-Announcements-2.jpg" %}
+![Screenshot](../images/practices/Successful-Announcements-1.jpg){: .u-full-width}
+
 
 </div>
 </div>

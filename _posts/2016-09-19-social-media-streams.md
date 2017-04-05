@@ -39,7 +39,7 @@ The course- level site (Knowledge Networks and Digital Innovation) was served as
 <div class="container row">
 <div class="offset-by-two eight columns">
 
-{% include swiper.html url1="social-media-INF530-1.jpg" url2="social-media-INF530-2.jpg" url3="social-media-INF530-3.jpg" url4="social-media-INF530-4.jpg" %}
+![Screenshot](../images/practices/social-media-INF530-1.jpg){: .u-full-width}
 
 </div>
 </div>

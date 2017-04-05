@@ -60,7 +60,8 @@ Examples of student work:
 - [Letters, words, a story…](http://thinkspace.csu.edu.au/letterswordsastory/)
 - [Online learning journal](http://thinkspace.csu.edu.au/megancrawford/)
 
-{% include swiper.html url1="Student-ePortfolios-ETL1.jpg" url2="Student-ePortfolios-ETL2.jpg" %}
+
+![Screenshot](../images/practices/Student-ePortfolios-ETL1.jpg){: .u-full-width}
 
 </div>
 </div>

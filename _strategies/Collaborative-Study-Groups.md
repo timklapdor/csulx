@@ -44,7 +44,7 @@ Students were able to enrol in any one of the 20 Buddy Groups, each of which con
 
 Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year. '
 
-{% include swiper.html url1="Collaborative-Group-Projects-1.png" url2="Collaborative-Group-Projects-2.png" %}
+![Screenshot](../images/practices/Collaborative-Group-Projects-1.png){: .u-full-width}
 
 </div>
 </div>

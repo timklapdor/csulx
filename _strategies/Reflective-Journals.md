@@ -52,7 +52,8 @@ Feedback from students provides an insight into how this strategy was received:
 
 A simple Google Doc embedded in the Interact2 site creates a space for students to provide their CSU Thinkspace link and Twitter details so students can interact with each other in an asynchronous manner.
 
-{% include swiper.html url1="Reflective-Journals-1.png" url2="Reflective-Journals-2.png" %}
+![Screenshot](../images/practices/Reflective-Journals-1.png){: .u-full-width}
+
 
 </div>
 </div>

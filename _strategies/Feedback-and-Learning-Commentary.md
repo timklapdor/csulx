@@ -72,7 +72,8 @@ Students in ACC322 are required to understand and utilise significant volumes of
 
 ACC322 ‘Company Accounting’ Provides a strong demonstration of how online learning space design choices can be effectively paired with a strong teacher presence to support student learning, and be viewed as a comprehensive process. In this instance, we see ‘Learning Commentary and Feedback’ deployed primarily through several methods. Firstly, the lecturer scaffolds learning at the commencement of each topic through the use of short introductory videos (active teacher presence) which provide context and draws students attention to links with prior learning and possible areas of concern. This is paired with effective use of the discussion forum (design choice), which has been designed to make it very easy for students to identify the correct location to ask a question for each topic, but perhaps more importantly, makes it easy for fellow students to see where answers have been provided by the academic. Complemented by the use of online meetings, students within this subject are part of an effective feedback/feedforward loop due to the effective design of scaffolding, feedback provided in a non threatening and ongoing formative manner.
 
-{% include swiper.html url1="Feedback-Learning-Commentary-2.png" url2="Feedback-Learning-Commentary-3.png" url3="Feedback-Learning-Commentary-4.jpg" %}
+![Screenshot](../images/practices/Feedback-Learning-Commentary-2.png){: .u-full-width}
+
 
 </div>
 </div>

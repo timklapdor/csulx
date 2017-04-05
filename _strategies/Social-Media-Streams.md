@@ -42,7 +42,8 @@ Social media and networking tools are used to connect all cohorts within the cou
 
 The course-level site, [Knowledge Networks and Digital Innovation](http://csu.edu.au/digital) has served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
 
-{% include swiper.html url1="social-media-INF530-1.jpg" url2="social-media-INF530-2.jpg" url3="social-media-INF530-3.jpg" url4="social-media-INF530-4.jpg" %}
+![Screenshot](../images/practices/social-media-INF530-1.jpg){: .u-full-width}
+
 
 </div>
 </div>

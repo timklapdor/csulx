@@ -16,7 +16,7 @@ Simulations are an effective way of providing opportunities for students to inte
 
 Computer-based simulations have been used to great effect in many disciplines e.g. economics, science, politics, social sciences, engineering, medicine and other health professions. What these disparate applications have in common is that they use scenarios that operate in a space defined by the instructor. The teacher will define the parameters, assumptions and variables within which the students must navigate. The simulation sits in between real world ambiguity and predictability, and the very controlled environs of most traditional teaching e.g. questions in the back of the textbook. This makes a simulation attractive to help students learn about the complexity and nuances of applying their classroom learning to real world practice.
 
-The degree of "fidelity", or how close the simulation comes to the real world can be adjusted to meet the needs of the learner (Weller et al., 2012). Many simulations involve complex, multi-dimensional issues and decision-making as a part of the process, sometimes with a time-pressure added to mimic real-life. For beginners, simulations can be designed or adjusted to reduce the complexity (e.g. by concentrating on one part of the process at a time) or by reduce time pressure, thereby allowing time to think and reflect. 
+The degree of "fidelity", or how close the simulation comes to the real world can be adjusted to meet the needs of the learner (Weller et al., 2012). Many simulations involve complex, multi-dimensional issues and decision-making as a part of the process, sometimes with a time-pressure added to mimic real-life. For beginners, simulations can be designed or adjusted to reduce the complexity (e.g. by concentrating on one part of the process at a time) or by reduce time pressure, thereby allowing time to think and reflect.
 
 ### Engagement
 
@@ -46,7 +46,7 @@ This strategy incorporates role-playing particular responsibilities of the pharm
 
 #### Implementation
 
-In the short video below Donna explains how the simulation works. 
+In the short video below Donna explains how the simulation works.
 Professional communication skills are often taught in the classroom by interacting with another student, staff member or virtual patient. Learning in role-play can be an effective strategy but is staff-intensive and somewhat artificial, lacking practice ambience. Students, for instance, often report being unprepared for how noisy and busy pharmacies can be. Thus, to give a more realistic and 'immersed' feel, the virtual pharmacy has three encompassing screens, each of which can project a different part of the pharmacy and the activities and associated noises.
 
 {% include youtubePlayer.html id="xIHvEmpvWxk" %}
@@ -73,7 +73,8 @@ In this subject, activities in Second Life (SL) (a virtual world) support the ex
 
 While virtual spaces, such as OpenSim and Second Life exist, it is worthwhile considering a more permanent CSU branded presence, such as the School of Information Studies virtual campus. In INF506, although it is not mandatory, students are invited to explore Second Life. In a recent announcement students were advised, "Even if you have no relevance for your situation, it’s worth thinking about as virtual world technology is just another means of reaching client groups, providing a service and networking with colleagues across the world. Some of these links from [Stanford’s Virtual Human Interaction Lab](http://vhil.stanford.edu/news/) are interesting to explore and Stanford is one of the places we usually take in on our SL tours. Students are inducted into SL via a training sessions where they get a grip on the basics, how to move, communicate, etc. These training sessions are held in the SIS Learning Centre in Jokaydia Exploratorium. Then on the next session students are offered a tour around some SL sites such as Stanford university, Health Info Island.
 
-{% include swiper.html url1="Simulations-2.png" url2="Simulations-1.png" %}
+![Screenshot](../images/practices/Simulations-2.png){: .u-full-width}
+
 
 </div>
 </div>
@@ -87,7 +88,7 @@ While virtual spaces, such as OpenSim and Second Life exist, it is worthwhile co
 - **Class discussions** - Reflection and debriefing are needed so that students gain maximum benefit from the simulation. Feedback from the instructor and peers is also important step (Merchant et al., 2014). Thus there needs to be enough time for reflection and discussions with peers to make sense of the experience, including how this fits with the rest of their classroom learning.
 - **Assessment:** - Simulations can be used to test specific competencies e.g. in counselling in[ psychology](https://www.youtube.com/watch?v=JhpvZvKK0P4).
 - **Emotions** - Depending on the subject matter and how realistic the scenario is, students may encounter situations that trigger emotional responses (Weller et al., 2012). Some planning about how to monitor and effectively deal manage these emotions may be necessary.
-- **Beware negative learning** Depending on how the simulation is set up, there is a possibility of students learning things you would rather they did not learn e.g. taking short cuts or ignoring real world signs and issues/situations not highlighted in the simulations (Weller, et al 2012). Careful design may help, but you need to be alert in student discussions and in observing students to point out where the simulation does not fit into real life. 
+- **Beware negative learning** Depending on how the simulation is set up, there is a possibility of students learning things you would rather they did not learn e.g. taking short cuts or ignoring real world signs and issues/situations not highlighted in the simulations (Weller, et al 2012). Careful design may help, but you need to be alert in student discussions and in observing students to point out where the simulation does not fit into real life.
 
 In her video Donna outlines some of the additional and practical steps required for a successful simulation:
 
