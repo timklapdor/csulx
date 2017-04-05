@@ -82,6 +82,6 @@ Lockyer, L., Heathcote, E., & Dawson, S. (2013). Informing pedagogical action: A
 
 Long, P., & Siemens, G. (2011). Penetrating the fog: Analytics in learning and education. *Educause Review*, September/October, 2011. Retrieved from [http://er.educause.edu/~/media/files/article-downloads/erm1151.pdf](http://er.educause.edu/~/media/files/article-downloads/erm1151.pdf)
 
-Toetenel, L. & Rienties, B. (2016).  Analysing 157 learning designs using learning analytic approaches as a means to evaluate the impact of pedagogical decision making. *British Journal of Educational Technology, 47*(5), 981–992. doi: [10.1111/bjet.12423](https://doi.org/10.1111/bjet.12423)
+Toetenel, L. & Rienties, B. (2016). Analysing 157 learning designs using learning analytic approaches as a means to evaluate the impact of pedagogical decision making. *British Journal of Educational Technology, 47*(5), 981–992. doi: [10.1111/bjet.12423](https://doi.org/10.1111/bjet.12423)
 
 </div>

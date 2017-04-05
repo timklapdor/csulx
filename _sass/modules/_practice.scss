@@ -33,6 +33,17 @@
   text-align: center;
 }
 
+.practice blockquote {
+  border-left: 4px solid $lx-orange;
+  padding: .5em 0;
+}
+
+.practice blockquote p {
+  color: $lx-dark-grey;
+  font-style: italic;
+  margin: .5rem 1rem;
+}
+
 @media (#{$bp-larger-than-desktop}) {
   .practice {
     flex-direction: row;

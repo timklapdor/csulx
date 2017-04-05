@@ -12,7 +12,7 @@ subjectnames: "Digital Citizenship in Schools, Successful Teaching, Literature i
 
 ### Overview
 
-Rich media is commonly defined as "technologies that enable users to engage in interactive communication, with the ability to see, hear and interact with multiple communication streams synchronously or access them asynchronously" (Andrews et al. 2008, pp. 3). Rich media technologies also have the capacity to support non-verbal communication such as body language and vocal inflection making them valuable learning media for many profession (Andrews et al. 2008). Furthermore, the rapidly increasing access to various type of  often open source video and web conferencing technologies creates a number of opportunities for use in higher education (Andrews et al. 2008). The creation of rich media artefacts including photographic evidence, video records and multimedia presentations by learners can provide an authentic way for learners to develop a variety of digital literacies,  technical and communication skills that will be useful in the professions. In addition, the co-construction of rich media artefacts can also offer an authentic collaborative experience for learners and due to advancing and readily available mobile technologies, a range of interactive experiences can be integrated into the collaborative learning environment. In many ways rich media such as video can provide better evidence of students work, their skills and abilities than written assessments, which can greatly improve the effectiveness of the assessment.
+Rich media is commonly defined as "technologies that enable users to engage in interactive communication, with the ability to see, hear and interact with multiple communication streams synchronously or access them asynchronously" (Andrews et al. 2008, pp. 3). Rich media technologies also have the capacity to support non-verbal communication such as body language and vocal inflection making them valuable learning media for many profession (Andrews et al. 2008). Furthermore, the rapidly increasing access to various type of often open source video and web conferencing technologies creates a number of opportunities for use in higher education (Andrews et al. 2008). The creation of rich media artefacts including photographic evidence, video records and multimedia presentations by learners can provide an authentic way for learners to develop a variety of digital literacies, technical and communication skills that will be useful in the professions. In addition, the co-construction of rich media artefacts can also offer an authentic collaborative experience for learners and due to advancing and readily available mobile technologies, a range of interactive experiences can be integrated into the collaborative learning environment. In many ways rich media such as video can provide better evidence of students work, their skills and abilities than written assessments, which can greatly improve the effectiveness of the assessment.
 
 ### Engagement
 
@@ -58,7 +58,7 @@ Lee Fitzgerald
 
 #### Motivation
 
-Using and responding to professional, workplace requirements, modelling curriculum practice, developing assessments that engage in online environments, and allowing students to extend themselves in these areas is vital. INF533 Literature in Digital environments does just that in Assessment 4: Digital Story Telling Project and Reflection. In some respects it is also an innovate approach to eAssessment.  
+Using and responding to professional, workplace requirements, modelling curriculum practice, developing assessments that engage in online environments, and allowing students to extend themselves in these areas is vital. INF533 Literature in Digital environments does just that in Assessment 4: Digital Story Telling Project and Reflection. In some respects it is also an innovate approach to eAssessment. 
 
 #### Implementation
 
@@ -116,7 +116,7 @@ To know if using rich media is the right choice in your subject then ask yoursel
 
 There are many readily available tools that students can utilise to produce rich media artefacts:
 
-* Mobile devices can record audio and video as well as take photos.  
+* Mobile devices can record audio and video as well as take photos. 
 * Use Powerpoint and similar software to combine audio and visuals.
 * [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), [SoundCloud](https://soundcloud.com/) and [Flickr](https://www.flickr.com/) provide free and easy ways for students to publish their artefacts
 * Other online tools such as [PowToons](https://www.powtoon.com/), [GoAnimate](https://goanimate.com/), [Voki](http://www.voki.com/), [Voicethread](http://voicethread.com/) and more can be used individually or in combinations

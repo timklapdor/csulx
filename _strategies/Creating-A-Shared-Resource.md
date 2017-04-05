@@ -12,7 +12,7 @@ subjectnames: ["Management, People and Organisations", "Digital Citizenship in S
 
 ### Overview
 
-Creating a shared resource can assist in establishing a strong sense of community by helping students to focus on a shared learning goal and shared responsibilities. This speaks to the importance that each member has within the group. It also increases the likelihood that students' individual needs are satisfied through the collective efforts of the group (Yuan and Kim, 2014). Creating shared resources provides opportunities to enhance communication, teamwork and digital literacy skills.  
+Creating a shared resource can assist in establishing a strong sense of community by helping students to focus on a shared learning goal and shared responsibilities. This speaks to the importance that each member has within the group. It also increases the likelihood that students' individual needs are satisfied through the collective efforts of the group (Yuan and Kim, 2014). Creating shared resources provides opportunities to enhance communication, teamwork and digital literacy skills. 
 
 Through the process of developing a shared resource, students are required to test and develop their working relationships with others, enhancing skills in negotiation, problem-solving and communication, which require a much deeper level of engagement. Learning is distributed throughout the cohort, reducing the risk of a single point of failure.
 
@@ -94,7 +94,7 @@ Questions to ponder include: *What tools do students need to build resources? Ho
 
 Here are some key points to consider:
 
-* Clearly Identify topics to be divided amongst the students.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)
+* Clearly Identify topics to be divided amongst the students. As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)
 * Allocate student groups to each topic. At this point there are some options to consider: is it appropriate for students to self-select or will they be assigned to particular groups
 * Monitor progress. Simply keep students on track as you would normally with regular online meeting sessions and announcements.
 * Share the final product. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.

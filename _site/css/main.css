@@ -1570,6 +1570,15 @@ nav a:hover {
   padding: .5rem;
   text-align: center; }
 
+.practice blockquote {
+  border-left: 4px solid #ff5800;
+  padding: .5em 0; }
+
+.practice blockquote p {
+  color: #333333;
+  font-style: italic;
+  margin: .5rem 1rem; }
+
 @media (min-width: 1000px) {
   .practice {
     flex-direction: row;
@@ -1783,6 +1792,9 @@ form {
 
 .extra-bottom-padding {
   padding-bottom: 1.5rem; }
+
+.sml-padding {
+  padding: .5rem 0; }
 
 .extra-padding {
   padding-bottom: 1.5rem;

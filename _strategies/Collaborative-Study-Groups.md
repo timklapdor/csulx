@@ -34,7 +34,7 @@ Wendy Webber
 
 #### Motivation
 
-*MGT 100 Organisations and Management* is one of the foundational management subjects within the Faculty of Business at CSU. The Study Buddy groups were established first and foremost to address the sense of isolation that many students can feel despite  being part of a cohort that numbers in the hundreds. This subject is undertaken by students from a very diverse range of courses both within CSU and our partner institutions, meaning that it can be harder for students to easily find connections to students studying in similar courses or even similar geographical locations.
+*MGT 100 Organisations and Management* is one of the foundational management subjects within the Faculty of Business at CSU. The Study Buddy groups were established first and foremost to address the sense of isolation that many students can feel despite being part of a cohort that numbers in the hundreds. This subject is undertaken by students from a very diverse range of courses both within CSU and our partner institutions, meaning that it can be harder for students to easily find connections to students studying in similar courses or even similar geographical locations.
 
 #### Implementation
 

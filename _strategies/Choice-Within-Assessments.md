@@ -12,7 +12,7 @@ subjectnames: "Digital Citizenship in Schools, Developing Human Resources,"
 
 ### Overview
 
-Giving students more control over the assessment process is a great way to personalise the learning experience for each student. Subject enrolments often include students from a wide range of disciplines, and differentiated assessment tasks can be developed to cater for this diversity. Questions can be aligned with different discipline areas that ask students to draw on those unique aspects of their experience. Students could also have choice around the type of artefact they may produce, allowing them an opportunity to express and communicate in different forms. Providing students the opportunity to produce assessment items which relate to their chosen field is motivational as well as practical. As described by Bosco and Ferns, such assessment practices nurture graduate employment capabilities (p. 289,  2014). Students come away from their studies with artefacts and experience relevant to the workplace.
+Giving students more control over the assessment process is a great way to personalise the learning experience for each student. Subject enrolments often include students from a wide range of disciplines, and differentiated assessment tasks can be developed to cater for this diversity. Questions can be aligned with different discipline areas that ask students to draw on those unique aspects of their experience. Students could also have choice around the type of artefact they may produce, allowing them an opportunity to express and communicate in different forms. Providing students the opportunity to produce assessment items which relate to their chosen field is motivational as well as practical. As described by Bosco and Ferns, such assessment practices nurture graduate employment capabilities (p. 289, 2014). Students come away from their studies with artefacts and experience relevant to the workplace.
 
 ### Engagement
 
@@ -78,7 +78,7 @@ No additional resources to those found within Interact2 are required. With this 
 
 ### Guide
 
-Choice-based assessments are those in which students are given some element of  choice, at some point during the entire assessment process, in how they meet defined learning objectives. Allowing choice in assessment and learning will have the impact of increasing student motivation to learn and enhancing the development of skills they may need in professional workplace settings. Digital technologies can make choice-based assessments much more convenient to design and organise.
+Choice-based assessments are those in which students are given some element of choice, at some point during the entire assessment process, in how they meet defined learning objectives. Allowing choice in assessment and learning will have the impact of increasing student motivation to learn and enhancing the development of skills they may need in professional workplace settings. Digital technologies can make choice-based assessments much more convenient to design and organise.
 
 There are a number of assessment formats to provide greater choice to students in their assessment tasks:
 
@@ -87,7 +87,7 @@ There are a number of assessment formats to provide greater choice to students i
 * Students may wish a choice of medium for the assignment. Rather than write a traditional essay students could present their work as a presentation, multimedia artefact or video. This can broaden the student's range of communication skills and promote a variety of digital literacies.
 * Students produce a number of learning artefacts during a session and they are permitted to choose 1-3 of them to be assessed on, explaining why they have chosen these particular artefacts as representative of their learning.
 * Assessment through student‐involved methods may be as simple as a project based task, negotiated through a learning contract aligned with learning outcomes for a topic or course.
-* Although the use of open digital badges has yet to be validated by compelling evidence, the use of Interact2 Achievements may offer scope for personalisation of learning, especially where learning objectives have been matched with subject content broken into manageable chunks (Strunk &  Willis, 2017).
+* Although the use of open digital badges has yet to be validated by compelling evidence, the use of Interact2 Achievements may offer scope for personalisation of learning, especially where learning objectives have been matched with subject content broken into manageable chunks (Strunk & Willis, 2017).
 
 ### Tools
 
@@ -114,6 +114,6 @@ Stefanou, C. R., Perencevich, K. C., Di Cintio, M., & Turner, J. C. (2004). Supp
 
 *Educational Psychologist, 39*(2), 97-110. Retrieved from [http://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=3575&context=etd](http://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=3575&context=etd)
 
-Strunk, V. &  Willis, J. (2017, February 13). Digital badges and learning analytics provide differentiated assessment opportunities. *Educause Review*. Retrieved from [http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities](http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities)
+Strunk, V. & Willis, J. (2017, February 13). Digital badges and learning analytics provide differentiated assessment opportunities. *Educause Review*. Retrieved from [http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities](http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities)
 
 </div>

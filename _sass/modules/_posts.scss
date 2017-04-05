@@ -15,20 +15,16 @@
     margin-left: 2rem;
 }
 
-.post-content ul, .page-content ul {
-
-}
-
 blockquote {
     border-left: 4px solid $lx-orange;
-    padding: .5em 0em;
+    padding: .5em 0;
 }
 
 blockquote p {
-    font-style: italic;
-    color: $lx-dark-grey;
-    font-size: 1.1em;
-    margin: 1em;
+  color: $lx-dark-grey;
+  font-size: 1.1em;
+  font-style: italic;
+  margin: 1em;
 }
 
 // .post-content .apa-ref, .page-content .apa-ref {

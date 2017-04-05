@@ -16,7 +16,7 @@ Teacher interaction with students is directly supported by the skillful use of a
 
 ### Engagement
 
-An announcement may be the first direct contact with  students so it offers the opportunity to establish tone and delineate lecturer expectations of lines of communication and engagement. Announcements may be sent directly through student email providing direct, responsive communication of expectations as a foundation for relationship building and enhanced engagement. Announcements are of course, available for viewing within the Interact2 environment.  
+An announcement may be the first direct contact with students so it offers the opportunity to establish tone and delineate lecturer expectations of lines of communication and engagement. Announcements may be sent directly through student email providing direct, responsive communication of expectations as a foundation for relationship building and enhanced engagement. Announcements are of course, available for viewing within the Interact2 environment. 
 
 ### In Practice
 <div class="u-release practice" >
