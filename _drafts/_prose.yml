@@ -1,0 +1,58 @@
+#Setup for Prose.io - https://github.com/prose/prose/wiki/Getting-Started
+prose:
+  rooturl: "_strategies"
+  media: "images"
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /js
+  metadata:
+    _strategies:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "strategy"
+    - name: "category"
+      field:
+        element: "hidden"
+        value: "strategy"
+    - name: "tags"
+      field:
+        element: "multiselect"
+        label: "Add Tags"
+        placeholder: "Choose Tags"
+        options:
+          - name: "E-Assessment"
+            value: "E-Assessment"
+          - name: "Flexible & Adaptive Learning"
+            value: "Flexible & Adaptive Learning"
+          - name: "Interaction Between Students"
+            value: "Interaction Between Students"
+          - name: "Interactive Resources"
+            value: "Interactive Resources"
+          - name: "Interaction with the Professions"
+            value: "Interaction with the Professions"
+          - name: "Learning Communities"
+            value: "Learning Communities"
+          - name: "Teacher Presence"
+            value: "Teacher Presence"
+        - name: "subjects"
+          field:
+            element: "text"
+            label: "Subject Code"
+            help: "Each subject code for the practices used"
+            placeholder: "ABC123"
+        - name: "subjectnames"
+          field:
+            element: "text"
+            label: "Subject Names"
+            help: "Place the subject name seperately for the practices used"
+            placeholder: "A beginners guide to the Alphabet"
+        - name: "title"
+          field:
+            element: "text"
+            label: "title"
+            placeholder: "Name of the strategy"

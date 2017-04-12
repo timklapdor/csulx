@@ -3,6 +3,7 @@ title: CSU Online Learning Exchange
 email: your-email@domain.com
 description: "Developed and Maintained by Charles Sturt University's u!magine"
 baseurl: "/csulx" # the subpath of your site, e.g. /blog/
+
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 encoding: utf-8
 
@@ -10,7 +11,7 @@ twitter_username: csuLX
 github_username:  csuLX
 
 # Setup for pages
-include: ['_pages']
+include: ["_pages"]
 permalink: /:categories/:title.html
 
 # Setup for Categories
@@ -28,60 +29,6 @@ timezone: Australia/Sydney
 
 # sass:
 #   style: compressed
-
-#Setup for Prose.io - https://github.com/prose/prose/wiki/Getting-Started
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "E-Assessment"
-              value: "E-Assessment"
-            - name: "Flexible & Adaptive Learning"
-              value: "Flexible & Adaptive Learning"
-            - name: "Interaction Between Students"
-              value: "Interaction Between Students"
-            - name: "Interactive Resources"
-              value: "Interactive Resources"
-            - name: "Interaction with the Professions"
-              value: "Interaction with the Professions"
-            - name: "Learning Communities"
-              value: "Learning Communities"
-            - name: "Teacher Presence"
-              value: "Teacher Presence"
-            - name: "KPI9 Landing Page"
-              value: "QLT9"
-            - name: "KPI11 Peer-to-Peer"
-              value: "QLT11"
-            - name: "KPI12 Staff-to-Student"
-              value: "QLT12"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
 
 # Build settings
 markdown: kramdown
