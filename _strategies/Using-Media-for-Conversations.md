@@ -84,7 +84,7 @@ When selecting social media tools for subject specific conversations, be mindful
 
 Typical tools used include:
 
-- FlipGrid
+- [FlipGrid](http://flipgrid.com)
 - Facebook
 - VoiceThread
 - Twitter
