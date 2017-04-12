@@ -85,9 +85,9 @@ When selecting social media tools for subject specific conversations, be mindful
 Typical tools used include:
 
 - [FlipGrid](http://flipgrid.com)
-- Facebook
-- VoiceThread
-- Twitter
-- SoundCloud
-- Instagram
-- LinkedIn
+- [Facebook](http://facebook.com)
+- [VoiceThread](http://www.VoiceThread.com)
+- [Twitter](http://www.twitter.com)
+- [SoundCloud](http://www.soundcloud.com)
+- [Instagram](http://www.instagram.com)
+- [LinkedIn](http://http://www.linkedin.com)
