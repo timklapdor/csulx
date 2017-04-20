@@ -60,8 +60,7 @@ Examples of student work:
 - [Letters, words, a story…](http://thinkspace.csu.edu.au/letterswordsastory/)
 - [Online learning journal](http://thinkspace.csu.edu.au/megancrawford/)
 
-
-![Screenshot](../images/practices/Student-ePortfolios-ETL1.jpg){: .u-full-width}
+{% include swiper.html url1="Student-ePortfolios-ETL1.jpg" url2="Student-ePortfolios-ETL2.jpg" %}
 
 </div>
 </div>
@@ -95,6 +94,8 @@ The ePortfolio is created and submitted using the Journal tool in Interact2 and 
 6. Pathology Clinical Placement Guides (if applicable)
 
 Students are required to organise their placement and submit the ePortfolio within 2 weeks of the conclusion of the placement period. Individual feedback regarding the student performance whilst on clinical placement is provided by the placement supervisor. The subject coordinator then provides comments and feedback on the assessment item submitted and students can contact the subject coordinator for additional individual feedback on the assessment item.
+
+![Blackboard Screenshot](../images/practices/Student-ePortfolios-1.png){: .u-full-width}
 
 </div>
 </div>

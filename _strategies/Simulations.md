@@ -73,8 +73,7 @@ In this subject, activities in Second Life (SL) (a virtual world) support the ex
 
 While virtual spaces, such as OpenSim and Second Life exist, it is worthwhile considering a more permanent CSU branded presence, such as the School of Information Studies virtual campus. In INF506, although it is not mandatory, students are invited to explore Second Life. In a recent announcement students were advised, "Even if you have no relevance for your situation, it’s worth thinking about as virtual world technology is just another means of reaching client groups, providing a service and networking with colleagues across the world. Some of these links from [Stanford’s Virtual Human Interaction Lab](http://vhil.stanford.edu/news/) are interesting to explore and Stanford is one of the places we usually take in on our SL tours. Students are inducted into SL via a training sessions where they get a grip on the basics, how to move, communicate, etc. These training sessions are held in the SIS Learning Centre in Jokaydia Exploratorium. Then on the next session students are offered a tour around some SL sites such as Stanford university, Health Info Island.
 
-![Screenshot](../images/practices/Simulations-2.png){: .u-full-width}
-
+{% include swiper.html url1="Simulations-2.png" url2="Simulations-1.png" %}
 
 </div>
 </div>

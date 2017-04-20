@@ -64,7 +64,7 @@ This subject employs images of Matryoushka dolls as an analogy in different ways
 
 Images of the dolls are sprinkled throughout the modules, landing page and announcements.
 
-![Screenshot](../images/practices/Photographs-Relatable-Images-2.png){: .u-full-width}
+{% include swiper.html url1="Photographs-Relatable-Images-2.png" url2="Photographs-Relatable-Images-3.png" %}
 
 </div>
 </div>

@@ -1543,7 +1543,7 @@ nav a:hover {
   align-content: space-around;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   font-size: .75rem;
   justify-content: space-around;
   padding: 1rem; }

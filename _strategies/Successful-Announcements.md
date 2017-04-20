@@ -47,8 +47,7 @@ A common strategy for all three subjects is to send out one or more announcement
 
 HSC102 uses the Russian nesting doll images as a metaphor for communication layers and packing and unpacking understanding of the subject content throughout the announcements.
 
-![Screenshot](../images/practices/Successful-Announcements-1.jpg){: .u-full-width}
-
+{% include swiper.html url1="Successful-Announcements-1.jpg" url2="Successful-Announcements-2.jpg" %}
 
 </div>
 </div>

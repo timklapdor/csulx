@@ -64,7 +64,7 @@ There is a deliberate and successful practice employed in this subject to constr
 
 In conjunction with a well-designed landing page, other strategies include the use of a designed discussion forum and template-based announcements. The forum has a clear structure with areas for general questions, student social interaction and focus on content and assessment. Each forum is described with purpose and expectation so students are clear where to go. The announcements use a template that includes, ‘key dates’, ‘done and dusted’ and ‘on the table’. This segments the material into readable chunks and provides a supportive tone to the essential communication.
 
-![Screenshot](../images/practices/Tone-of-Communication-1.png){: .u-full-width}
+{% include swiper.html url1="Tone-of-Communication-1.png" url2="Tone-of-Communication-2.png" %}
 
 </div>
 </div>

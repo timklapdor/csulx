@@ -59,7 +59,7 @@ INF532 - For this subject students are requested to maintain a blog to document 
 
 More information on this practice can be obtained from this presentation delivered by Julie Lindsay - ‘Beyond blogging: [Reflective and responsive practice using Thinkspace’](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
 
-![Screenshot](../images/practices/Blogging-INF1.jpg){: .u-full-width}
+{% include swiper.html url1="Blogging-INF1.jpg" url2="Blogging-INF2.jpg" %}
 
 </div>
 </div>
