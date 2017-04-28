@@ -83,7 +83,7 @@ You can view some of the student's ‘Network literacy evaluative reports’ her
 
 - [Karen M](http://thinkspace.csu.edu.au/karenmalbon/category/inf532/)
 - [Jordan G](http://thinkspace.csu.edu.au/iteachilearn/category/inf532/)
- - [Hyacinth S](http://thinkspace.csu.edu.au/hyacinth/category/knowledge-networking-for-educators/)
+- [Hyacinth S](http://thinkspace.csu.edu.au/hyacinth/category/knowledge-networking-for-educators/)
 
 ![Screenshot of students work](../images/practices/Reflective-Journals-3.png){: .u-full-width}
 
@@ -106,9 +106,9 @@ In looking for opportunities to develop and offer students an opportunity to eng
 
 ### Tools
 
-Typical tools used for reflective journals within the i2 platform are PebblePad and the Interact2 blog
+Typical tools used for reflective journals within the Interact2 platform are [PebblePad](https://v3.pebblepad.com.au/login/csu/?redirect=%2falt%2fcsu) and the [Interact2 blog](https://www.csu.edu.au/division/student-learning/interact2_help/faculty-and-csu-staff/interact-with-students/blogs).
 
-The [CSU Thinkspace](http://thinkspace.csu.edu.au/) platform provides a real-world tool (Wordpress) where students can customise using themes and embed, hyperlink as well as comment and co-comment on other student's.
+The [CSU Thinkspace](http://thinkspace.csu.edu.au/) platform provides a real-world tool ([Wordpress](https://wordpress.org/)) where students can customise using themes and embed, hyperlink as well as comment and co-comment on other student's.
 
 ### Additional Resources
 

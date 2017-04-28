@@ -3,14 +3,14 @@ layout: post
 title: "Asynchronous Discussions"
 date: 2016-07-19 11:03:00 +1100
 category: strategy
-tags: [Learning Communities, Interaction Between Students, Teacher Presence,] 
+tags: [Learning Communities, Interaction Between Students, Teacher Presence,]
 description: "Creating opportunities for flexible dialogue"
 subjects: "EMT 409, "
 ---
 
 ### Overview
 
-Asynchronous discussions are tasks that students can access and engage with at anytime, they do not have to be on their computer at a set time or in a set place. Asynchronous discussions are specifically designed to be flexible and are able to be engaged with at anytime in order to fit into the student’s study schedule, be it midday or midnight. These discussion can be made compulsory and tied to assessment tasks or optional and act as a support tool for students. Like all discussion tasks they need to have a specific purpose or discussion point in order to motivate students. While traditionally text based discussion forums have been the tool of choice,  there are a range of new tools that utilise rich media such as video and audio to facilitate these discussions. 
+Asynchronous discussions are tasks that students can access and engage with at anytime, they do not have to be on their computer at a set time or in a set place. Asynchronous discussions are specifically designed to be flexible and are able to be engaged with at anytime in order to fit into the student’s study schedule, be it midday or midnight. These discussion can be made compulsory and tied to assessment tasks or optional and act as a support tool for students. Like all discussion tasks they need to have a specific purpose or discussion point in order to motivate students. While traditionally text based discussion forums have been the tool of choice,  there are a range of new tools that utilise rich media such as video and audio to facilitate these discussions.
 
 ### Engagement
 
@@ -18,7 +18,7 @@ Providing asynchronous discussion opportunities from your students is an essenti
 
 Additionally, ensuring that all subjects provide Asynchronous discussion opportunities is essential given the needs of our students whilst completing their degree. So many CSU Online students work part-time or even full time, are caring for children or sick relatives, or even travelling abroad for work. Students cannot always participate in the synchronous Online Meetings so they need suitable asynchronous engagement opportunities to integrate with their individual study schedules.
 
-### In Practice 
+### In Practice
 
 #### Subject  
 
@@ -34,7 +34,7 @@ Throughout the Course, students were indicating they had minimal social interact
 
 #### Implementation
 
-The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for assessment purposes for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology. There were only 46 students in this class but some of these videos had over 2000 views. 
+The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for assessment purposes for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology. There were only 46 students in this class but some of these videos had over 2000 views.
 
 <div class="image-container">
 <img src="../images/practices/Asynchronous-Discussions-EMT409.jpg" alt="Flipgrid Screenshot">
@@ -46,14 +46,14 @@ Be clear about the use of the tool as well as the question or focus of the activ
 
 Different tools have different affordances and can be used in quite different ways:
 
-- **Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion 
+- **Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion
 - **Blogs** - Ideally suited for summative assessments. If students are able to see and comment on each other's work, they are more likely to engage due to the inherent benefit that a CoP offers.
 - **Recordings of Online Meetings** - *always* record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.
-- **FlipGrip** - Allows the academic to ask a question or present discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into i2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use. 
+- **FlipGrip** - Allows the academic to ask a question or present discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use. 
 
 ### Tools
 
-There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [FlipGrip](http://www.flipgrid.com) and [Celly](https://cel.ly/) 
+There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [FlipGrip](http://www.flipgrid.com) and [Celly](https://cel.ly/)
 
 
 ### Further Reading

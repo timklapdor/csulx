@@ -85,7 +85,7 @@ For there to be an effective learning commentary provided, some elements must be
 
 * **What are you going to provide feedback/feedforward on?** Whilst providing feedback on assignments or other assessment tasks is an expected and standard part of assessment practice, using a well designed rubric to base specific recommendations for improved future performance and steps to make these improvements is something which students often value as much as comments which reflect the actual performance in a given task. To that end, your well designed rubric will clearly signpost to students where the greatest value lies in an assessment task, and to you as a marker what the bulk of the commentary should be about.
 * **What learning needs do students have, and how could feedback support learning?** If in your experience as an academic you’re aware that a given subject or topic presents issues for students each time the subject is offered, how can you use learning commentary as a ‘circuit breaker.’ One example is to use ‘mini tasks’ or simple ‘practice examples’ (even on the forum) which provide students with the chance to practice a skill/concept and allows you to provide a whole of cohort response in the form of a demonstration of the ‘answer.’ It is in that response where you can plan to provide additional insights that students can learn from.
-* **Where will the feedback be provided?** Whilst individual feedback is regularly provided in the form of comments and annotations on assessments, there are numerous ways in which you can generalise important themes or issues and provides these in order to support students and enable them to learn from these in a feedforward manner. Methods to do this include providing a succinct i2 announcement with ‘General Feedback’ from assessments, running ‘post assessment’ meetings on Adobe Connect’ or creating a discussion forum or thread with this information, which allows students the chance to engage asynchronously.
+* **Where will the feedback be provided?** Whilst individual feedback is regularly provided in the form of comments and annotations on assessments, there are numerous ways in which you can generalise important themes or issues and provides these in order to support students and enable them to learn from these in a feedforward manner. Methods to do this include providing a succinct Interact2 announcement with ‘General Feedback’ from assessments, running ‘post assessment’ meetings on Adobe Connect’ or creating a discussion forum or thread with this information, which allows students the chance to engage asynchronously.
 
 ### Tools
 
@@ -94,17 +94,17 @@ There are many tools which can utilised to provide learning commentary and feedb
 CSU Supported:
 
 * Interact2 supported tools - Announcements, Discussion Forums
-* NORFOLK provides text and audio annotation on assignments
-* Adobe Connect Meeting tools
+* [NORFOLK](https://www.csu.edu.au/division/student-learning/interact2_help/faculty-and-csu-staff/assessment/norfolk) provides text and audio annotation on assignments
+* [Adobe Connect](http://www.csu.edu.au/division/landt/interact/help/adobeconnect.htm) Meeting tools
 
 External Educational Technologies
 
-* Flipgrid
+* [Flipgrid](http://www.flipgrid.com)
 * Externally available meeting tools
-* Microsoft Word comment tools
+* [Microsoft Word](http://www.office.com) comment tools
 * Podcasting platforms
-* Youtube videos
-* Voicethread
+* [YouTube](http://www.youtube.com) videos
+* [Voicethread](http://www.Voicethread.com)
 
 ### Additional Resources
 

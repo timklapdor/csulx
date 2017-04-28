@@ -26,30 +26,6 @@ The use of rich media artefacts can create an engaging learning experience by sh
 
 #### Subject
 
-EED408 Successful Teaching
-
-#### Teaching Staff
-
-Paul Grover
-
-#### Motivation
-
-Students are expected to interact with workplace situations and to create a digital legacy of this interaction in order to also write a reflective statement around the experience and knowledge gained. This is included in the ‘rich’ media artefacts practice examples as a way to show how deeper understanding of the task can produce more successful results when using multimedia.
-
-#### Implementation
-
-For Assessment 1 students are asked to interview a practicing educator. This simple assignment requires preparation and understanding of the use of audio files. Some students also prefer to edit the file down to the required length before submitting for assessment.
-
-![Screenshot of student work](../images/practices/Creating-Rich-Media-Artefacts-EED408.png){: .u-full-width}
-
-</div>
-</div>
-
-<div class="practice-item">
-<div class="practice-content" markdown="1">
-
-#### Subject
-
 INF533 Literature in Digital Environments
 
 #### Teaching Staff
@@ -58,7 +34,7 @@ Lee Fitzgerald
 
 #### Motivation
 
-Using and responding to professional, workplace requirements, modelling curriculum practice, developing assessments that engage in online environments, and allowing students to extend themselves in these areas is vital. INF533 Literature in Digital environments does just that in Assessment 4: Digital Story Telling Project and Reflection. In some respects it is also an innovate approach to eAssessment. 
+Using and responding to professional, workplace requirements, modelling curriculum practice, developing assessments that engage in online environments, and allowing students to extend themselves in these areas is vital. INF533 Literature in Digital environments does just that in Assessment 4: Digital Story Telling Project and Reflection. In some respects it is also an innovate approach to eAssessment.
 
 #### Implementation
 
@@ -93,6 +69,30 @@ Students collaborate on the learning module content and chose a unique sub-topic
 </div>
 </div>
 
+<div class="practice-item">
+<div class="practice-content" markdown="1">
+
+#### Subject
+
+EED408 Successful Teaching
+
+#### Teaching Staff
+
+Paul Grover
+
+#### Motivation
+
+Students are expected to interact with workplace situations and to create a digital legacy of this interaction in order to also write a reflective statement around the experience and knowledge gained. This is included in the ‘rich’ media artefacts practice examples as a way to show how deeper understanding of the task can produce more successful results when using multimedia.
+
+#### Implementation
+
+For Assessment 1 students are asked to interview a practicing educator. This simple assignment requires preparation and understanding of the use of audio files. Some students also prefer to edit the file down to the required length before submitting for assessment.
+
+![Screenshot of student work](../images/practices/Creating-Rich-Media-Artefacts-EED408.png){: .u-full-width}
+
+</div>
+</div>
+
 </div>
 
 ### Guide
@@ -116,7 +116,7 @@ To know if using rich media is the right choice in your subject then ask yoursel
 
 There are many readily available tools that students can utilise to produce rich media artefacts:
 
-* Mobile devices can record audio and video as well as take photos. 
+* Mobile devices can record audio and video as well as take photos.
 * Use Powerpoint and similar software to combine audio and visuals.
 * [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), [SoundCloud](https://soundcloud.com/) and [Flickr](https://www.flickr.com/) provide free and easy ways for students to publish their artefacts
 * Other online tools such as [PowToons](https://www.powtoon.com/), [GoAnimate](https://goanimate.com/), [Voki](http://www.voki.com/), [Voicethread](http://voicethread.com/) and more can be used individually or in combinations

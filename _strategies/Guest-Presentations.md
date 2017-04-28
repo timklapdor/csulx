@@ -38,7 +38,7 @@ This subject is the capstone for the Master of Education - Knowledge Networks an
 
 #### Implementation
 
-The colloquium series of five online meetings/presentations is organised by the Subject Coordinator to meet the needs of the students and to align with presenter schedules. A Socratic method using a collaborative intellectual dialogue is usually employed with prior preparation by students a key requirement. All sessions are held in Adobe Connect and guests share slides and resources before and after the session. Student groups are rostered to provide a summary and pertinent discussion points for each session to be shared via the i2 forum for further interactive dialogue and reflection.
+The colloquium series of five online meetings/presentations is organised by the Subject Coordinator to meet the needs of the students and to align with presenter schedules. A Socratic method using a collaborative intellectual dialogue is usually employed with prior preparation by students a key requirement. All sessions are held in Adobe Connect and guests share slides and resources before and after the session. Student groups are rostered to provide a summary and pertinent discussion points for each session to be shared via the Interact2 forum for further interactive dialogue and reflection.
 
 [Online Colloquium presentation slides](https://docs.google.com/presentation/d/1gHVIzTj8EZveR77SQWqci1trsIEhF46diMYKHO7x7EE/pub?start=false&loop=false&delayms=3000)
 
@@ -60,7 +60,7 @@ Katrina Gersbach
 
 #### Motivation
 
-The subject Fields of Practice is aimed at supporting students to contextualise the nature of Social Work in a variety of practice settings and fields. Sourcing quality interviews / guest lectures from a range of practising professionals and embedding these videos throughout the online topics was identified as suitable way to enhance the quality of the online resources, contextualise the nature of social work and professional practice.
+The subject Fields of Practice is aimed at supporting students to contextualise the nature of Social Work in a variety of practice settings and fields. Sourcing quality interviews/guest lectures from a range of practising professionals and embedding these videos throughout the online topics was identified as suitable way to enhance the quality of the online resources, contextualise the nature of social work and professional practice.
 
 #### Implementation
 

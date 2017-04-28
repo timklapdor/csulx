@@ -136,7 +136,7 @@ Are a variety of technologies supporting the development of Student ePortfolios.
 
 <div class="apa-ref" markdown="1">
 
-[i2 journal tool](http://www.csu.edu.au/division/student-learning/interact2_help/faculty-and-csu-staff/interact-with-students/journals) - Tutorial videos and help section of CSU website
+[Interact2 journal tool](http://www.csu.edu.au/division/student-learning/interact2_help/faculty-and-csu-staff/interact-with-students/journals) - Tutorial videos and help section of CSU website
 
 Pebble pad ([https://www.csu.edu.au/division/student-learning/home/technologies-for-learning-and-teaching/eportfolio](https://www.csu.edu.au/division/student-learning/home/technologies-for-learning-and-teaching/eportfolio))
 

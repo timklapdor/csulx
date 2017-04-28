@@ -194,7 +194,7 @@ body {
 
 article {
   margin: auto;
-  max-width: 98%; }
+  max-width: 90%; }
 
 section {
   margin: auto;
@@ -1015,12 +1015,12 @@ footer .blurb {
   min-height: 80vh; }
 
 .hero {
-  display: inline-block;
-  max-height: 500px;
-  min-height: 300px;
+  display: flex;
+  min-height: 20vh;
   overflow: hidden;
   position: relative;
-  width: 100vw; }
+  width: 100vw;
+  align-items: center; }
 
 .hero:after {
   background: rgba(0, 0, 0, 0.6);
@@ -1036,10 +1036,8 @@ footer .blurb {
 
 .hero h1 {
   color: white;
-  height: 0%;
-  position: absolute;
+  padding: 1.5rem 1rem;
   text-align: center;
-  top: 1rem;
   width: 100%;
   z-index: 51; }
 
@@ -1592,7 +1590,7 @@ nav a:hover {
   .practice-item {
     align-content: space-between;
     display: flex;
-    flex: 1;
+    flex: 1 0 44%;
     flex-direction: column;
     justify-content: space-between;
     max-width: 65vw;

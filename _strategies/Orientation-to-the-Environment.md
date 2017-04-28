@@ -36,7 +36,7 @@ Stewart McKinney
 
 #### Motivation
 
-The subject SSS032 Introduction to Learning Online was developed explicitly to orient students to studying online at CSU. Ensuring students are comfortable in using the communication technologies is paramount to their success as it forms the bedrock of their interaction with the peers and teaching staff. Students must be capable of using a variety of i2 and other CSU supported technologies to succeed in their study.
+The subject SSS032 Introduction to Learning Online was developed explicitly to orient students to studying online at CSU. Ensuring students are comfortable in using the communication technologies is paramount to their success as it forms the bedrock of their interaction with the peers and teaching staff. Students must be capable of using a variety of Interact2 and other CSU supported technologies to succeed in their study.
 
 #### Implementation
 
@@ -60,11 +60,11 @@ Nicole Sugden
 
 #### Motivation
 
-By explaining to students how to navigate their i2 site as well as directing them to important information within the Subject Outline, Nicole is setting students up for success. She is also addressing common questions students may have, which should reduce the amount of time she normally spends responding to emails addressing similar questions.
+By explaining to students how to navigate their Interact2 site as well as directing them to important information within the Subject Outline, Nicole is setting students up for success. She is also addressing common questions students may have, which should reduce the amount of time she normally spends responding to emails addressing similar questions.
 
 #### Implementation
 
-Desktop video is created; in this case using CSUReplay, personal capture. The video is uploaded to the Faculty Youtube channel and embedded within an i2 page.  Nicole works her way down the i2 left-hand navigation, explaining each tool as well as how and when students are expected to use each.  Handy tips are also noted. For example, Nicole shows students how to use the Discussion board, explaining the individual threads and responses.
+Desktop video is created; in this case using CSUReplay, personal capture. The video is uploaded to the Faculty Youtube channel and embedded within an Interact2 page.  Nicole works her way down the Interact2 left-hand navigation, explaining each tool as well as how and when students are expected to use each.  Handy tips are also noted. For example, Nicole shows students how to use the Discussion board, explaining the individual threads and responses.
 
 {% include youtubePlayer.html id="1aKqFajRiF8" %}
 

@@ -40,7 +40,9 @@ This strategy was deployed to build a sense of community among online students a
 
 #### Implementation
 
-This strategy was implemented  through an ‘icebreaker’ activity. A Google Map was shared with the cohort  using the i2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group.  (students are advised to not publicly post the home address or other personal info)
+This strategy was implemented  through an ‘icebreaker’ activity. A Google Map was shared with the cohort  using the Interact2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group.  (students are advised to not publicly post the home address or other personal info)
+
+![Screenshot of subject's map](../images/practices/Mapping-Students-Locations-2.jpg){: .u-full-width}
 
 </div>
 </div>
@@ -62,7 +64,7 @@ This activity forms an ‘icebreaker’ activity which also relates closely to t
 
 #### Implementation
 
-A content area within i2 is set up entitle ‘Who are We?’ Within the content area a Google map containing the following instructions is available:
+A content area within Interact2 is set up entitle ‘Who are We?’ Within the content area a Google map containing the following instructions is available:
 
 > "Sharing spatial data about the place where we are, the place we call Country and the place where we would like to go."
 
@@ -82,7 +84,10 @@ There are a few issues to be aware of concerning privacy and  location data. To 
 
 It is important to remind students not to include personal information, such as their home address, but rather identify a nearby public location such as their nearest public library.
 
-When setting up this activity, see the example from PHL101 where information, including a small video, and the map URL were linked from the navigation.
+When setting up this activity, see the example from PHL101 below, and include information like a small explanatory video and ensure that the the map URL is linked from the navigation.
+
+![Screenshot of PHL101's map](../images/practices/Mapping-Students-Locations-3.jpg){: .u-full-width}
+
 
 ### Tools
 

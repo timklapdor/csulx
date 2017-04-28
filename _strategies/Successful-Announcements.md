@@ -69,7 +69,7 @@ EMT409 is a technology subject with lots of practical activities for students. A
 
 #### Implementation
 
-Creating Announcements using a friendly tone, 1 or 2 images, and keeping it concise are important considerations. Providing staff email at the bottom of each Announcement means students can quickly contact the Subject Coordinator if they need to, instead of having to log into i2 (because EMT409 Announcements are also emailed to students).
+Creating Announcements using a friendly tone, 1 or 2 images, and keeping it concise are important considerations. Providing staff email at the bottom of each Announcement means students can quickly contact the Subject Coordinator if they need to, instead of having to log into Interact2 (because EMT409 Announcements are also emailed to students).
 
 ![Screenshot of subject announcement](../images/practices/Successful-Announcements-3.png){: .u-full-width}
 
@@ -88,7 +88,7 @@ Whilst the ‘Announcements’ Tool within Interact2 is relatively simple to use
 
 ### Tools
 
-Creating an announcement within the i2 environment presents users with the usual editing toolbar, which presents options to embed, link, create and edit text etc.
+Creating an announcement within the Interact2 environment presents users with the usual editing toolbar, which presents options to embed, link, create and edit text etc.
 
 ![Screenshot of Announcements tool](../images/practices/Successful-Announcements-4.png){: .u-full-width}
 

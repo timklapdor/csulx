@@ -12,6 +12,8 @@ description: "In this subject teacher presence was fostered across the use of an
 strategies:
   - "Collaborative Group Projects"
   - "Creating A Shared Resource"
+taster-video: rxDvr61G0Lk
+main-video: 8CcG2cJXv6Q
 ---
 
 
@@ -23,6 +25,10 @@ strategies:
 ### Motivation
 
 This group assignment required students to develop communication and collaboration skills in order to co-create a learning module for use within an education setting. Successful groups self-organised, developed a common mission despite possible professional differences and motivations, and shared responsibilities towards the co-creation of the learning module. Through independent team communication they solved content and design issues related to module completion in an ongoing capacity - much of this was visible via the wiki discussion interface. This task provided group collaborative skill development in addition to enhanced facility with digital technologies along with an authentic, real-world scenario and final usable product.
+
+### Video Explanation
+
+{% include youtubePlayer.html id="8CcG2cJXv6Q" %}
 
 ### Implementation
 
@@ -48,8 +54,8 @@ All groups in this subject were challenged by the need for effective communicati
 
 Groups were self-organised, developed a common mission despite possible professional differences and motivations, and shared responsibilities towards the co-creation of the wiki-based learning module. Participants visibly communicated and solved content and design issues related to module completion in an ongoing capacity. This task provided group online communication, collaborative skill development in addition to enhanced facility with digital technologies in an authentic, real-world professional learning scenario.
 
+{% include swiper.html url1="ETL523-case-study-lc-example-1.png" url2="ETL523-case-study-lc-example-2.png" url3="ETL523-case-study-lc-example-3.png" url4="ETL523-case-study-lc-example-4.jpg" url5="ETL523-case-study-lc-example-5.png" url6="ETL523-case-study-lc-example-6.png" url7="ETL523-case-study-lc-example-7.png" url8="ETL523-case-study-lc-example-8.png" url9="ETL523-case-study-lc-example-9.png"%}
+
 ### Words of advice for wider implementation
 
 This group project takes some setting up time, including the Google doc for team and topic selection as well as the Wiki design and setup. Once it is all in place student contributions and collaborative workflow is without issues.
-
-{% include youtubePlayer.html id="8CcG2cJXv6Q" %}

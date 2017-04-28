@@ -2,12 +2,13 @@
 //==========================================================================
 
 .hero {
-  display: inline-block;
-  max-height: 500px;
-  min-height: 300px;
+  display: flex;
+  // max-height: 30vh;
+  min-height: 20vh;
   overflow: hidden;
   position: relative;
   width: 100vw;
+  align-items: center;
 }
 
 .hero:after {
@@ -25,10 +26,8 @@
 
 .hero h1 {
   color: $lx-white;
-  height: 0%;
-  position: absolute;
+  padding: 1.5rem 1rem;
   text-align: center;
-  top: 1rem;
   width: 100%;
   z-index: 51;
 }

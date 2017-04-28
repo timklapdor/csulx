@@ -65,7 +65,7 @@ Social media provides an incredibly powerful tool for dynamic communication, sha
 
 #### Implementation
 
-Social media streams were incorporated into the i2 learning environment, allowing for dynamic sharing of interesting stories, news or resources related to subject coursework.
+Social media streams were incorporated into the Interact2 learning environment, allowing for dynamic sharing of interesting stories, news or resources related to subject coursework.
 
 ![Screenshot of Interact2 site with embedded stream](../images/practices/Social-Media-Streams-1.png){: .u-full-width}
 

@@ -40,7 +40,7 @@ PSC 102 Botany is a large, foundational science subject that serves a wide range
 
 This subject is one which requires students to cover a significant volume of content. As this subject is offered both online and face to face, the challenge is providing students with communication which enables them to stay on track, but which isn’t so ‘dry’ that students skip it and thus risk missing out on interesting or important information. Therefore, throughout this subject, students are able to see some of the lighter moments from the teaching team in a similar way to the face to face students do in class, in the case below, a simple YouTube video of a ‘photosynthesis song’ linked to the subject site.
 
-![Screenshot of John perform the photosynthesis song](../images/practices/Tone-of-Communication-PSC.png){: .u-full-width}
+{% include youtubePlayer.html id="CNZvi_IeE60" %}
 
 </div>
 </div>

@@ -12,16 +12,25 @@ description: The focus of Assignment 1 was to work in a small team and create an
 strategies:
   - "Collaborative Group Projects"
   - "Creating A Shared Resource"
+taster-video: cGBWKpRqvKc
+main-video: _S4PXO_H-wQ
 ---
 
 ### Strategies Used:
 
 - **Multi-modal presence within a subject**- (new strategy to be developed by Julie)
 
-### Motivation
+### Description
+
 In this subject teacher presence was fostered across the use of announcements, discussion forum design, the use of online meetings using Adobe Connect and additional online communication tools. This multimodal approach provided a scaffold for establishing a strong teacher identity and effective, reliable and regular communication. It also amplified teacher to student interaction through the different choices and opportunities provided.
 
+### Motivation
+
 In the Online Learning Model teacher presence refers to the availability and visibility of the teacher during the subject session. It includes methods and strategies for regular informative communication from the teacher, building a viable learning community, and fostering student-to-student and teacher-to-student interaction. Establishing teacher presence within an online learning environment is vital to support student confidence and understanding of the subject
+
+### Video Explanation
+
+{% include youtubePlayer.html id="_S4PXO_H-wQ" %}
 
 ### Implementation
 
@@ -53,8 +62,8 @@ Online meetings are held in Adobe Connect to correspond with the three assessmen
 
 The multi-modal approach used in this subject is evident by the use of external online tools and spaces, most of which are optional but well-used by students. A simple Padlet for introductions as it allows for embedded multimedia and hyperlinks; a Twitter hashtag (#ETL523) for community interaction within and beyond the subject - students even organised their own Twitter chat session; a Diigo group to bookmark to collect resources and a wiki is used to scaffold group collaboration and co-creation.
 
-### Words of advice for wider implementation
+{% include swiper.html url1="ETL523-case-study-tp-example-1.jpg" url2="ETL523-case-study-tp-example-2.jpg" url3="ETL523-case-study-tp-example-3.jpg" url4="ETL523-case-study-tp-example-4.png" url5="ETL523-case-study-tp-example-5.jpg" url6="ETL523-case-study-tp-example-6.jpg" url7="ETL523-case-study-tp-example-7.jpg" url8="ETL523-case-study-tp-example-8.png" url9="ETL523-case-study-tp-example-9.jpg"%}
+
+### Advice for wider implementation
 
 All of these strategies and tools not only support teacher presence and interaction, they provide a level playing field where both teachers and students are equal participants in the learning process. Taking a multimodal approach is important as it provides choices for students to use different platforms that are both synchronous (e.g., online meetings and chat sessions) and asynchronous (e.g., discussion forum). Some of these tools take some setting up time - and of course a narrower selection of tools could be used.
-
-{% include youtubePlayer.html id="cGBWKpRqvKc" %}

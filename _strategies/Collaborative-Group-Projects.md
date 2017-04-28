@@ -42,7 +42,7 @@ The subject coordinator set up a Google Docs space for the students to access vi
 
 You can see [an example of this Learning Activity from the 201630 sesssion](https://docs.google.com/document/d/1r12YxVxJQpf5qooa3Tct5Mhsbfir-sPZtw1mgT9C2hM/edit?usp=sharing) that is now read-only.
 
-{% include swiper.html url1="Collaborative-Group-Projects-1.png" url2="Collaborative-Group-Projects-2.png" %}
+{% include swiper.html url1="Collaborative-Group-Projects-1.png" url2="collaborative-group-projects-ITC105.jpg" %}
 
 </div>
 </div>
@@ -95,7 +95,7 @@ There is a wide variety of tools available to support the implementation of Coll
 * **CSU Interact** – Various functionalities-our learning management system, interact2, provides a ‘Group tool’ which has a range of functionalities such as a wiki, group discussion forums, file exchanges etc. Interact2 is a good solution for collaborative group work if this collaboration is primarily text based, and can be used as a centralized area for the group to organise themselves.
 * **Google Docs** – Ease of access and a wide range of functionality within the google environment make it a useful tool for group collaboration, including the ability to have multiple editors working on a document simultaneously. Students can use features such as ‘hangouts’ to connect via video chat to collaborate within this space. It is important to note that as this is not an officially supported teaching and learning tool, CSU cannot ensure integrity-e.g.work lost or deleted in this space cannot be retrieved. Use of these third party services generally involves students signing up to create an account.
 * **Video Conferencing technologies** – Skype and the CSU video conferencing system - There are many choices available and circumstances will dictate which platform best suits your students to collaborate.
-* **[Wikispaces](http://wikispaces.com)** – A recommended wiki tool beyond what’s possible in I2 (can be linked from navigation) that provides a free, authentic wiki with facility superior to the i2 wiki. [This video explains joining Wikispaces and starting group work](https://youtu.be/zxh_qyxoqP4).
+* **[Wikispaces](http://wikispaces.com)** – A recommended wiki tool beyond what’s possible in Interact2 (can be linked from navigation) that provides a free, authentic wiki with facility superior to the Interact2 wiki. [This video explains joining Wikispaces and starting group work](https://youtu.be/zxh_qyxoqP4).
 
 When planning and offering best practice is to provide a reliable, supported ‘default’ approach as well as articulating and modelling a range of ways in which collaboration can enriched-hopefully the default is also a best practice! There should be easy to access and understand help guides (text/audio/video) available for students so that they can trouble shoot minor problems themselves. If not, the creation of simple ‘how to guides’ may make your experience of facilitating Collaborative Group Projects all the more fruitful.
 

@@ -53,6 +53,8 @@ This strategy was deployed to provide students the opportunity for reflective pr
 
 Each student creates their own CSU [Thinkspace](http://thinkspace.csu.edu.au/) blog. Some posts and pages within the blog are private (shared only with the lecturer) while others are shared with classmates. This is the first subject within the Graduate Certificate of University Leadership and Management, and as such students are given guidance in developing their blog as well as prompts for reflective writing.
 
+![Thinkspace screenshot](../images/practices/Reflecting-upon-professional-experience-1.jpg){: .u-full-width}
+
 </div>
 </div>
 
@@ -69,11 +71,13 @@ Chrys Gunasekara
 
 #### Motivation
 
-Journaling was deployed in this subject using the i2 journal tool. Student entries were private; only the lecturer saw postings. This gave students a ‘safe’ place to critically evaluate the role of human resource management while reflecting upon their own practice and workplace
+Journaling was deployed in this subject using the Interact2 journal tool. Student entries were private; only the lecturer saw postings. This gave students a ‘safe’ place to critically evaluate the role of human resource management while reflecting upon their own practice and workplace
 
 #### Implementation
 
 Students were asked to write 6 short journal entries (one per week). Each entry allows students to apply newly gained knowledge to their professional practice. The lecturer provides private feedback. This assessment task is worth 30% and prepares the students to participate in a subsequent group activity and final reflective essay.
+
+![Interact2 Journal tool screenshot](../images/practices/Reflecting-upon-professional-experience-2.png){: .u-full-width}
 
 </div>
 </div>
@@ -89,7 +93,7 @@ If using CSU *Thinkspace* it is important to be aware of privacy settings. Journ
 
 **Interact2 Journal**
 
-When used as an assessment activity, the i2 Journal appears within gradebook, so lecturers may record results as required. When setting up the journal, it may be useful to copy any instructions from the subject outline into to journal page itself.
+When used as an assessment activity, the Interact2 Journal appears within gradebook, so lecturers may record results as required. When setting up the journal, it may be useful to copy any instructions from the subject outline into to journal page itself.
 
 ### Tools
 

@@ -58,11 +58,11 @@ Michael Mehmet
 
 #### Motivation
 
-Student engagement is higher on Facebook than using i2, and given the nature of the subject, Digital Marketing, Facebook is a valid teaching and marketing tool. This Facebook page continue to be used after session to develop student knowledge and connect with each other and new students well after the subject has finished. It creates opportunities for collaboration and even future work partnership and funding sources.
+Student engagement is higher on Facebook than using Interact2, and given the nature of the subject, Digital Marketing, Facebook is a valid teaching and marketing tool. This Facebook page continue to be used after session to develop student knowledge and connect with each other and new students well after the subject has finished. It creates opportunities for collaboration and even future work partnership and funding sources.
 
 #### Implementation
 
-The teaching academic for MKT525 has set up a Facebook page specifically for the subject and students are invited to join the group with details provided on the i2 site. The academic regularly shares content with students but more importantly, this page also acts as a connection tool to Industry, sharing interviews and news from visit.
+The teaching academic for MKT525 has set up a Facebook page specifically for the subject and students are invited to join the group with details provided on the Interact2 site. The academic regularly shares content with students but more importantly, this page also acts as a connection tool to Industry, sharing interviews and news from visit.
 
 ![Screenshot of subject site with links to social media](../images/practices/Using-media-for-conversations-2.png){: .u-full-width}
 
@@ -80,7 +80,7 @@ Selecting media tools that are well supported on mobile devices is essential. Th
 
 Going beyond social media, you might consider cloud based systems such as VoiceThread (audio, text and video) or SoundCloud (audio only) media conversations.
 
-When selecting social media tools for subject specific conversations, be mindful about the nature of the content distributed through media platforms, ensuring core content is still distributed through CSU i2 sites.
+When selecting social media tools for subject specific conversations, be mindful about the nature of the content distributed through media platforms, ensuring core content is still distributed through CSU Interact2 sites.
 
 Typical tools used include:
 

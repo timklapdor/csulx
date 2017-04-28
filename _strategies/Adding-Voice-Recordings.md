@@ -62,7 +62,7 @@ These audio files were created to add a rich set of material to the module conte
 
 #### Implementation
 
-In this example the audio files are created using an iPad and an audio recording app. This creates an MP3 file that is then simply uploaded to the I2 site. A new content page is set up, with each audio topic having a new folder. This avoids having all audio files on the same page - which can be a problem if files are set to ‘auto play.
+In this example the audio files are created using an iPad and an audio recording app. This creates an MP3 file that is then simply uploaded to the Interact2 site. A new content page is set up, with each audio topic having a new folder. This avoids having all audio files on the same page - which can be a problem if files are set to ‘auto play.
 
 ![Screenshot explaining how to link and add MP3 files in Interact2 ](../images/practices/Adding-Voice-Recordings-HCS310.jpg){: .u-full-width}
 

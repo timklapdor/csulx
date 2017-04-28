@@ -6,7 +6,7 @@ category: strategy
 tags: [Interaction with the Professions, ]
 description: "Immersing students in a virtual environment to practice their professional skills."
 subjects: "INF506, "
-subjectnames: "Social Networking for Information Professionals, "
+subjectnames: "Social Networking for Information Professionals, Bachelor of Pharmacy"
 
 ---
 
@@ -32,7 +32,7 @@ Actually employing the simulation tools/software used in real-world practice is 
 
 #### Subject
 
-
+Bachelor of Pharmacy
 
 #### Teaching Staff
 

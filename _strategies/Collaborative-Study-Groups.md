@@ -44,7 +44,7 @@ Students were able to enrol in any one of the 20 Buddy Groups, each of which con
 
 Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year. '
 
-![Screenshot](../images/practices/Collaborative-Group-Projects-1.png){: .u-full-width}
+{% include swiper.html url1="Collaborative-Study-Groups-MGT100-1.png" url2="Collaborative-Study-Groups-MGT100-2.png" %}
 
 </div>
 </div>
@@ -68,7 +68,8 @@ INF532 Knowledge Networking for Educators is a subject in the postgraduate degre
 
 At the start of the session students filled in an online Google form, sharing essential details including their ThinkSpace URL. They were then grouped into small groups of 4, and the resulting spreadsheet colour-coded for ease of reading. This was shared with students as a ‘view only’ doc.
 
-![Screenshot of the Groups List](..images/practices/Collaborative-Study-Groups-INF532.png){: .u-full-width}
+![Screenshot of the Groups List](../images/practices/Collaborative-Study-Groups-INF532.png){: .u-full-width}
+
 </div>
 </div>
 </div>
@@ -82,7 +83,7 @@ It is important to have a clear understanding of why and how setting up a smalle
 ### Tools
 
 * Within Interact 2 the ‘Groups’ feature allows cohorts to be divided into smaller groupings, and within these they can discuss, share etc.
-* The i2 Wiki can also provide an area for group work.
+* The Interact2 Wiki can also provide an area for group work.
 * Google Forms is a useful way to collect information from students. It efficiently pours data into a spreadsheet that can then be shared with students to ‘view’
 * uImagine is currently developing a new tool **GrouperPlus** to provide a more powerful way to group students. If you would be interested in testing out the tool please [feel free to get in touch](mailto:tklapdor@csu.edu.au?subject=I'm interested in GrouperPlus).
 

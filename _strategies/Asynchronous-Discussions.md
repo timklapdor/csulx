@@ -70,7 +70,7 @@ The Interact 2 Forum for this subject is designed to be a typical discussion are
 
 This presentation by Julie *[Discussion Forums: Dissection and design](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)* provides an insight into this practice.
 
-![Labelled diagram of Discussion Forum Design](../images/practices/ Asynchronous-Discussion-ETL523.png){: .u-full-width}
+![Labelled diagram of Discussion Forum Design](../images/practices/Asynchronous-Discussion-ETL523.png){: .u-full-width}
 </div>
 </div>
 </div>
@@ -96,10 +96,10 @@ Be clear about the use of the tool as well as the question or focus of the activ
 
 Different tools have different affordances and can be used in quite different ways:
 
-* **I2 Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion
+* **Interact2 Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion
 * **Blogs** - Ideally suited for summative assessments. If students are able to see and comment on each other's work, they are more likely to engage due to the inherent benefit that a CoP offers.
 * **Recordings of Online Meetings** - *always* record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.
-* **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into i2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use.
+* **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use.
 
 ### Additional Resources
 
@@ -111,7 +111,7 @@ Boud, D., Cohen, R., & Sampson, J. (Eds.). (2014). *Peer learning in higher educ
 
 Karel Kreijnsa, Paul A. Kirschnerb, Wim Jochemsb (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in Human Behavior* (19). pp. 335–353.
 
-Lindsay, J. (2016). Discussion forums: Dissection and design [Slideshow]. Retrieved from [https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)
+Lindsay, J. (2016). Discussion forums: Dissection and design [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)
 
 McLoughlin, C. & Lee, M.J.W. (2010). Developing an online community to promote engagement and professional learning for pre-service teachers using social software tools. *Journal of Cases in Information Technology, 12*(1), 17-30.
 

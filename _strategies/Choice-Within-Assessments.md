@@ -72,6 +72,8 @@ Implementing choice such as this is quite simple. The main consideration for a l
 
 No additional resources to those found within Interact2 are required. With this example students submitted a report through EASTS. It would be fair to assume that other disciplines could follow this widely used approach.
 
+![Stock image of divergent paths](../images/practices/choice-within-assessment-mike-enerio-87677.jpg){: .u-full-width}
+
 </div>
 </div>
 </div>
@@ -102,7 +104,7 @@ Some of the tools that enable choice within assessment tasks include:
 
 <div class="apa-ref" markdown="1">
 
-Bosco, A., & Ferns, S. (2014). Embedding authentic assessment in work-integrated learning curriculum. * Asia-Pacific Journal of Cooperative Education* *15*(4), 281-290. Retrieved from
+Bosco, A., & Ferns, S. (2014). Embedding authentic assessment in work-integrated learning curriculum. *Asia-Pacific Journal of Cooperative Education 15*(4), 281-290. Retrieved from
 
 [http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live](http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live)
 

@@ -13,9 +13,14 @@
       <p>{{ application.features }}</p>
       <label>Description:</label>
       <p>{{ application.description }}</p>
+      {% for item in application.taster-video %}
+      <label>Taster Video:</label>
+      {% capture taster-id %}{{ application.taster-video }}{% endcapture %}
+      {% include youtubePlayer.html id=taster-id %}
+      {% endfor %}
       <label>Strategies:</label>
       <p>{% for item in application.strategies | split: ',' | sort  %}
-        <a href="{{ item | slugify }}.html">{{ item }}</a>
+        <a href="{{ site.baseurl }}/strategies/{{ item | slugify }}.html">{{ item }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}</p>
       <a href="{{ site.baseurl }}{{ application.url }}" class="button u-full-width flex-bottom sml-margin-top">Read More...</a>
     </div>
