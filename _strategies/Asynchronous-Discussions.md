@@ -100,6 +100,7 @@ Different tools have different affordances and can be used in quite different wa
 * **Blogs** - Ideally suited for summative assessments. If students are able to see and comment on each other's work, they are more likely to engage due to the inherent benefit that a CoP offers.
 * **Recordings of Online Meetings** - *always* record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.
 * **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use.
+* **A New Tool** - then we can add some text.
 
 ### Additional Resources
 
