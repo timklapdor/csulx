@@ -5,7 +5,17 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 
 ### Updates
 
-** March 2017 **
+**April 2017**
+
+More updates
+- fixes to Swiper.js components not playing nicely with Flexbox elements.
+- new media added to pages throughout
+- Improvements to Applications type and associated Case Studies
+  - added Taster Videos script and front matter
+- developing workflow for GitHub based editing
+- swapped i2 references to Interact2 site wide
+
+**March 2017**
 
 #### Big Updates
 
@@ -16,7 +26,7 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 - Swapped site to Fluid Type as outlined here: https://css-tricks.com/snippets/css/fluid-typography/ & https://blog.codepen.io/2016/10/31/fluid-type-blogs/
 - Fluid line height: http://codepen.io/timbrown/pen/akXvRw/
 
-** 6 March 2017 **
+**6 March 2017**
 
 Creating a stable update to build the next set of features. Will be updating CSS to be more responsive and improve the readability of the site.
 
@@ -25,7 +35,7 @@ Creating a stable update to build the next set of features. Will be updating CSS
 - Commenting out access to new Case Study pages - will build on separate branch and merge back in
 - Planning to update styles and go for more responsive typography to improve readability
 
-** 15 September 2016**
+**15 September 2016**
 
 - Added subject code to be indexed by search
 - Added subject name to be indexed by search
