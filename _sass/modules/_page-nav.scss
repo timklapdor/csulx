@@ -4,7 +4,7 @@
   font-family: $header-font !important;
   font-size: 1em;
   font-weight: lighter;
-  margin: -5%;
+  margin: 0;
   padding: 1em 0 3em 1em;
   width: 105%;
 }
@@ -14,7 +14,6 @@
     background: $gradient-light-grey;
     color: $lx-dark-grey;
     font-size: .7em;
-    margin: 0;
     padding: 1em 0 9em 1em;
 }
 }
