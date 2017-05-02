@@ -7,8 +7,8 @@ category: ETL532
 element: Learning Communities
 weight: 1
 mixer: 5
-features: "Announcements, Discussion forums, Adobe Connect meetings, Twitter"
-description: "In this subject teacher presence was fostered across the use of announcements, discussion forum design, the use of online meetings using Adobe Connect and additional online communication tools. This multimodal approach provided a scaffold for establishing a strong teacher identity and effective, reliable and regular communication. It also amplified teacher to student interaction through the different choices and opportunities provided."
+features: "Assignment 1 - group wiki project"
+description: "In this subject the focus of Assignment 1 was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills."
 strategies:
   - "Collaborative Group Projects"
   - "Creating A Shared Resource"
@@ -24,7 +24,7 @@ main-video: 8CcG2cJXv6Q
 
 ### Motivation
 
-This group assignment required students to develop communication and collaboration skills in order to co-create a learning module for use within an education setting. Successful groups self-organised, developed a common mission despite possible professional differences and motivations, and shared responsibilities towards the co-creation of the learning module. Through independent team communication they solved content and design issues related to module completion in an ongoing capacity - much of this was visible via the wiki discussion interface. This task provided group collaborative skill development in addition to enhanced facility with digital technologies along with an authentic, real-world scenario and final usable product.
+This group assignment in ETL523 required students to develop communication and collaboration skills in order to co-create a learning module for use within an education setting. Successful groups self-organised, developed a common mission despite possible professional differences and motivations, and shared responsibilities towards the co-creation of the learning module. Through independent team communication they solved content and design issues related to module completion in an ongoing capacity. Much of this interaction was visible via the wiki discussion interface. This task provided group collaborative skill development in addition to enhanced facility with digital technologies along with an authentic, real-world scenario and final usable product.
 
 ### Video Explanation
 
@@ -44,11 +44,11 @@ Teams were self-selected and topics approved within set digital citizenship conc
 
 **Part 2: Wiki development**
 
-The subject coordinator sets up a Wikispaces ‘Project wiki’ (free education account). In their groups students collaborated on authoring via the wiki interface. The result was a co-developed group learning module in a style appropriate to education. The expectation of the task was that all collaborative work be shown via the digital tools used for collaboration and a digital footprint of each user's contributions be left by each participant. Essential communication and conversation to show the process of material development was to be readily available to others.
+The subject coordinator (or it could be an ED) is required to set up a Wikispaces ‘Project wiki’ (free education account). One wiki provideded space for all groups/teams of students. In their groups students collaborated on authoring via the wiki interface. The result was a co-developed group learning module in a style appropriate to education. The expectation of the task was that all collaborative work be shown via the digital tools used for collaboration and a digital footprint of each user's contributions be left by each participant. Essential communication and conversation to show the process of material development was to be readily available to others.
 
 **Part 3: Overcoming the challenges of this collaborative group project**
 
-All groups in this subject were challenged by the need for effective communication and contribution. It was expected that students would work this out themselves and adopt necessary communication and collaboration tools and methods. Tools used beyond email included Twitter, google docs, Skype and the wiki discussion forum. Successful groups held regular synchronous meetings - including face-to-face if the opportunity arose, as in Team 5.2. Between meetings asynchronous communication supported project content design and development.
+All groups in this subject were challenged by the need for effective communication and contribution. It was expected that students would work this out themselves and adopt necessary communication and collaboration tools and methods. Tools used beyond email included Twitter, Google docs, Skype and the wiki discussion forum. Successful groups held regular synchronous meetings - including face-to-face if the opportunity arose, as in Team 5.2. Between meetings asynchronous communication supported project content design and development.
 
 **Part 4: Final outcomes of group collaborative work**
 
@@ -58,4 +58,4 @@ Groups were self-organised, developed a common mission despite possible professi
 
 ### Words of advice for wider implementation
 
-This group project takes some setting up time, including the Google doc for team and topic selection as well as the Wiki design and setup. Once it is all in place student contributions and collaborative workflow is without issues.
+This group project takes some setting up time, including the Google doc for team and topic selection as well as the Wiki design and setup. Once it is all in place student contributions and collaborative workflow is without issues. In addition, it is important not to make the groups too large. This assignment and challenge works very well with groups of 3-5 students. 
