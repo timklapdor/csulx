@@ -39,7 +39,7 @@ Students collaborated on the learning module content and chose a unique sub-topi
 
 Once a topic was chosen students then explored a range of digital tools to find one they were comfortable using to create the digital artefact. The digital artefact could be any reliable Web 2.0 tool for audio, video or image/text production such as Voicethread, Smore, or Slideshare. This was a self-help process - with of course students connecting and collaborating and sharing ideas, resources, and support for tool choice and skill development. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact.
 
-![Stock image](../../images/practices/Powtoons.png){: .u-full-width}
+{% include youtubePlayer.html id="pNlDk0HgwNc" %}
 
 **Part 3: Artefact completion, upload and embed**
 

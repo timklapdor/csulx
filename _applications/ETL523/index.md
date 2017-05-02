@@ -10,11 +10,11 @@ subject-code: ETL523
 subject-name: Digital Citizenship in Schools
 teaching-staff: Julie Lindsay
 LCmix: 5
-IBSmix: 0
-TPmix: 2
+IBSmix: 5
+TPmix: 5
 IWPmix: 4
-FALmix: 0
-IRmix: 0
+FALmix: 2
+IRmix: 3
 EAmix: 4
 introduction: "The ETL523 case study features these OLM elements - Teacher Presence, E-Assessment, Learning Communities and Interaction with the Professions. These elements are not present in isolation from each other. A combination of elements provide multiple strategies for subject implementation and often overlap and interconnect. The case study showcases these elements and attempts to reveal how vital it is we understand how they may co-exist and work together to improve engagement and enhanced learning outcomes."
 

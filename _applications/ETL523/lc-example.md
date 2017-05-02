@@ -7,7 +7,7 @@ category: ETL532
 element: Learning Communities
 weight: 1
 mixer: 5
-features: "Assignment 1 - group wiki project"
+features: "Assignment 1 - Group Wiki Project"
 description: "In this subject the focus of Assignment 1 was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills."
 strategies:
   - "Collaborative Group Projects"
@@ -58,4 +58,4 @@ Groups were self-organised, developed a common mission despite possible professi
 
 ### Words of advice for wider implementation
 
-This group project takes some setting up time, including the Google doc for team and topic selection as well as the Wiki design and setup. Once it is all in place student contributions and collaborative workflow is without issues. In addition, it is important not to make the groups too large. This assignment and challenge works very well with groups of 3-5 students. 
+This group project takes some setting up time, including the Google doc for team and topic selection as well as the Wiki design and setup. Once it is all in place student contributions and collaborative workflow is without issues. In addition, it is important not to make the groups too large. This assignment and challenge works very well with groups of 3-5 students.
