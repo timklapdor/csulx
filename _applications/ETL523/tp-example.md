@@ -7,11 +7,10 @@ category: ETL532
 element: Teacher Presence
 weight: 2
 mixer: 2
-features: Assignment 1 - Group Wiki Project
-description: The focus of Assignment 1 was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills.
+features: Announcements, Discussion forums, Adobe Connect meetings, Twitter 
+description: In this subject teacher presence was fostered across the use of announcements, discussion forum design, the use of online meetings using Adobe Connect and additional online communication tools.  This multimodal approach provided a scaffold for establishing a strong teacher identity and effective, reliable and regular communication. It also amplified teacher to student interaction through the different choices and opportunities provided.
 strategies:
-  - "Collaborative Group Projects"
-  - "Creating A Shared Resource"
+  - "Mulitmodal presence within a subject"
 taster-video: cGBWKpRqvKc
 main-video: _S4PXO_H-wQ
 ---
@@ -61,6 +60,8 @@ Online meetings are held in Adobe Connect to correspond with the three assessmen
 **Part 4: Foster a multimodal approach with external tools**
 
 The multi-modal approach used in this subject is evident by the use of external online tools and spaces, most of which are optional but well-used by students. A simple Padlet for introductions as it allows for embedded multimedia and hyperlinks; a Twitter hashtag (#ETL523) for community interaction within and beyond the subject - students even organised their own Twitter chat session; a Diigo group to bookmark to collect resources and a wiki is used to scaffold group collaboration and co-creation.
+
+The set of images below share the multimodal teacher presence objectives and also reveal student communicaiton and interactivity within the subject using a variety of tools.
 
 {% include swiper.html url1="ETL523-case-study-tp-example-1.jpg" url2="ETL523-case-study-tp-example-2.jpg" url3="ETL523-case-study-tp-example-3.jpg" url4="ETL523-case-study-tp-example-4.png" url5="ETL523-case-study-tp-example-5.jpg" url6="ETL523-case-study-tp-example-6.jpg" url7="ETL523-case-study-tp-example-7.jpg" url8="ETL523-case-study-tp-example-8.png" url9="ETL523-case-study-tp-example-9.jpg"%}
 
