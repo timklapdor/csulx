@@ -5,6 +5,40 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 
 ### Updates
 
+**May 2017**
+
+- Fixing content
+- Big found with old responsive video player - playing havoc with new flexbox elements. Old code has been replaced.
+
+```css
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.video-container div {
+  flex-grow: 1;
+  position: relative;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    // flex: 1 1 auto;
+    width: 100%;
+    min-height: 100%;
+}
+```
+
 **April 2017**
 
 More updates

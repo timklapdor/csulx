@@ -26,7 +26,7 @@ introduction: "The ETL523 case study features these OLM elements - Teacher Prese
 
 ### Introduction to this Case Study
 
-The ETL523 case study features these OLM elements - [Teacher Presence]({{ site.baseurl}}model/teacher-presence.html), E-[Assessment]({{ site.baseurl}}model/e-assessment.html), [Learning Communities]({{ site.baseurl}}model/learning-communities.html) and [Interaction with the Professions]({{ site.baseurl}}model/interaction-professions.html). These elements are not present in isolation from each other. A combination of elements provide multiple strategies for subject implementation and often overlap and interconnect. The case study showcases these elements and attempts to reveal how vital it is we understand how they may co-exist and work together to improve engagement and enhanced learning outcomes.
+The ETL523 case study features these OLM elements - [Teacher Presence]({{ site.baseurl}}model/teacher-presence.html), [E-Assessment]({{ site.baseurl}}model/e-assessment.html), [Learning Communities]({{ site.baseurl}}model/learning-communities.html) and [Interaction with the Professions]({{ site.baseurl}}model/interaction-professions.html). These elements are not present in isolation from each other. A combination of elements provide multiple strategies for subject implementation and often overlap and interconnect. The case study showcases these elements and attempts to reveal how vital it is we understand how they may co-exist and work together to improve engagement and enhanced learning outcomes.
 
 {% include youtubePlayer.html id="S1Za7YCG6-g" %}
 
