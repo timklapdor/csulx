@@ -22,7 +22,7 @@ main-video: Rp9RYejCjVw
 
 ### Motivation
 
-The focus of Assignment 1 was to create an authentic learning module based on a chosen topic to do with digital citizenship in schools. This module was to be extensive and comprehensive enough for creators to use in their own learning environments. It could include content in various media forms, activities and assessments as needed. Assignment 2 asked students to be able to articulate and reflect on the role of an information leader and be able to develop an information policy or set of guidelines that support digital citizenship and digital learning in schools.
+The focus of Assignment 1 in ETL523 was to create an authentic learning module based on a chosen topic to do with digital citizenship in schools. This module was to be extensive and comprehensive enough for creators to use in their own learning environments. It could include content in various media forms, activities and assessments as needed. Assignment 2 asked students to be able to articulate and reflect on the role of an information leader and be able to develop an information policy or set of guidelines that support digital citizenship and digital learning in schools.
 
 ### Video Explanation
 
@@ -46,8 +46,8 @@ The final assignment for this subject challenged students to do an environmental
 
 **Part 4: Modeling best practice identification of issues and discussion of strategies and solutions**
 
-Students were tasked with identifying (choosing) issues they wanted to include in the report based on the real situation in their school/institution. Multiple information and/or digital learning issues were discussed in the report. In addition students chose ONE main issue for a more comprehensive and analytical discussion.
+Students were tasked with identifying (choosing) issues they wanted to include in the environmental scan/report based on the real situation in their school/institution. Multiple information and/or digital learning issues were discussed in the report. In addition students chose ONE main issue for a more comprehensive and analytical discussion, once again based on their professional learning situation.
 
 ### Words of advice for wider implementation
 
-Best student examples showed a determination to interview, survey and discuss digital learning and associated issues within the school/institution in order to gather data that could be melded with current literature to provide a researched combined with real-world discussion. Some students were currently not working or in a position to easily gather current data, and these based their hypothetical report on the literature and wider reading instead. The scenario of the report being distributed to leadership within the school/institution provided an effective safety net and once again propelled this task into a professional realm. In effect it prevented students from being too critical of what they saw (and were experiencing) into providing facts and then synthesised discussion and some solutions via a proposed plan of improvement.
+Best student examples showed a determination to interview, survey and discuss digital learning and associated issues within the school/institution. This was done in order to gather data that could be melded with current literature to provide a combined researched real-world discussion. Some students were currently not working or in a position to easily gather current data, and these then based their hypothetical report on the literature and wider reading instead. The assignment scenario suggested the report be distributed to leadership within the school/institution, thereby propelling this task into a professional realm. In effect it prevented students from being too critical of what they saw (and were experiencing) and encouraged them to provide facts, observations and then synthesised discussion and some solutions via a proposed plan of improvement.
