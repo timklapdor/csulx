@@ -8,7 +8,7 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 **May 2017**
 
 - Fixing content
-- Big found with old responsive video player - playing havoc with new flexbox elements. Old code has been replaced.
+- Big bug found with old responsive video player - playing havoc with new Flexbox elements. The old code (below) has been replaced. Main change was Adding a DIV to the player so it now goes Media > media__flex > media__video. The flex resize is applied to the media__flex element which seems to resolve the issue. 
 
 ```css
 .video-container {
