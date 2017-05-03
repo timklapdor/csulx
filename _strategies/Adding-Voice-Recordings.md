@@ -16,7 +16,7 @@ Adding a voice recording is an alternative way to engage students with both info
 
 ### Engagement
 
-One of the key intentions of enhancing and maintaining a sense of teacher presence within the online environment is providing students with a genuine sense of being in the hands of a passionate, knowledgeable and skilled online teacher. Providing content in a range of formats not only demonstrates a level of competency in the online environment and therefore increase student confidence in the quality of their education, but also allows students to access content in a more flexible manner. As the barriers to accessing and engaging with content are lowered, it is hoped that engagement is subsequently increased and learning deepens. Audio mediums have the potential for to allow academics to speak in a range of ways to students, but lend themselves particularly well to more conversational/relaxed styles of presentation. Such flexibility allows the instructor to either position or reposition themselves in terms of tone utilised and content areas focused upon. For example, an audio recording may be instructional in nature and therefore highly structured (i.e. providing a detailed breakdown of expectations on a forthcoming assessment task) or alternatively, may be much more informal and reflective (for example, a ‘chat show’ style podcast on topics relating to the area of study). Whatever the purpose, audio voice recordings can help support the central aim of engagement in online learning.  
+One of the key intentions of enhancing and maintaining a sense of teacher presence within the online environment is providing students with a genuine sense of being in the hands of a passionate, knowledgeable and skilled online teacher. Providing content in a range of formats not only demonstrates a level of competency in the online environment and therefore increase student confidence in the quality of their education, but also allows students to access content in a more flexible manner. As the barriers to accessing and engaging with content are lowered, it is hoped that engagement is subsequently increased and learning deepens. Audio mediums have the potential to allow academics to speak in a range of ways to students, but lend themselves particularly well to more conversational/relaxed styles of presentation. Such flexibility allows the instructor to either position or reposition themselves in terms of tone utilised and content areas focused upon. For example, an audio recording may be instructional in nature and therefore highly structured (i.e. providing a detailed breakdown of expectations on a forthcoming assessment task) or alternatively, may be much more informal and reflective (for example, a ‘chat show’ style podcast on topics relating to the area of study). Whatever the purpose, audio voice recordings can help support the central aim of engagement in online learning.  
 
 ### In Practice
 <div class="u-release practice" >
@@ -62,7 +62,7 @@ These audio files were created to add a rich set of material to the module conte
 
 #### Implementation
 
-In this example the audio files are created using an iPad and an audio recording app. This creates an MP3 file that is then simply uploaded to the Interact2 site. A new content page is set up, with each audio topic having a new folder. This avoids having all audio files on the same page - which can be a problem if files are set to ‘auto play.
+In this example the audio files are created using an iPad and an audio recording app. This creates an MP3 file that is then simply uploaded to the Interact2 site. A new content page is set up, with each audio topic having a new folder. This avoids having all audio files on the same page - which can be a problem if files are set to ‘auto play'.
 
 ![Screenshot explaining how to link and add MP3 files in Interact2 ](../images/practices/Adding-Voice-Recordings-HCS310.jpg){: .u-full-width}
 
@@ -76,7 +76,7 @@ Audio is a powerful tool when used effectively. Aim for "short, sharp and punchy
 
 ### Tools
 
-There are multiple ways to record and upload an audio file for students. You can use a handheld Digital Voice Recorder (picture the type used by journalists), a headset at your computer or even your mobile phone. A number of Schools throughout the university have purchased Digital Voice Recorders so please check before purchasing your own. Most newer models record in MP3 but if the device you have does not permit MP3, you could [use a program](https://cloudconvert.com/) to converts to MP3 for free.
+There are multiple ways to record and upload an audio file for students. You can use a handheld Digital Voice Recorder (picture the type used by journalists), a headset at your computer or even your mobile phone. A number of Schools throughout the university have purchased Digital Voice Recorders so please check before purchasing your own. Most newer models record in MP3 but if the device you have does not permit MP3, you could [use a program](https://cloudconvert.com/) that converts to MP3 for free.
 
 Create audio files by recording using the following:
 
