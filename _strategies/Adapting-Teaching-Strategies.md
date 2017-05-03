@@ -34,7 +34,7 @@ Anthony Chan
 
 #### Motivation
 
-In this core first-year subject, students have often left things till late by start the assignment task too close to submission date, then submitting at the last minute. This raises questions about researching and writing quality, level of engagement and reflection upon subject content and issues, and incidence of website contract cheating to gain a passing mark.
+In this core first-year subject, students have often left things until late by starting the assignment task too close to submission date, then submitting at the last minute. This raises questions about researching and writing quality, level of engagement and reflection upon subject content and issues, and incidence of website contract cheating to gain a passing mark.
 
 The changed teaching strategy was to adopt a scaffolded approach to an early written assessment task in order to:
 
