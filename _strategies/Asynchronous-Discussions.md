@@ -4,7 +4,7 @@ layout: strategy
 title: "Asynchronous Discussions"
 category: strategy
 tags: [Interaction Between Students, ]
-description: "Discussions that can utilise online technologies to take place without student having to be present at the same time. "
+description: "Discussions that can utilise online technologies and take place without students having to be present at the same time. "
 subjects: "EMT409, INF537, "
 subjectnames: "Adult Learning and Teaching Technologies, Digital Futures Colloquium, "
 
@@ -12,7 +12,7 @@ subjectnames: "Adult Learning and Teaching Technologies, Digital Futures Colloqu
 
 ### Overview
 
-Asynchronous discussions are tasks that students can access and engage with at anytime; they do not have to be on their computer at a set time or in a set place. Asynchronous discussions are specifically designed to be flexible and fit into the student’s study schedule, be it midday or midnight. These discussion can be made compulsory and tied to assessment tasks or optional and act as a support tool for students. Like all discussion tasks they need to have a specific purpose or discussion point in order to motivate students. While traditionally text-based discussion forums have been the tool of choice, there are a range of new tools that utilise rich media such as video and audio to facilitate these discussions.
+Asynchronous discussions are tasks that students can access and engage with at anytime; they do not have to be on their computer at a set time or in a set place. Asynchronous discussions are specifically designed to be flexible and fit into the student’s study schedule, be it midday or midnight. These discussions can be made compulsory and tied to assessment tasks or optional and act as a support tool for students. Like all discussion tasks they need to have a specific purpose or discussion point in order to motivate students. While traditionally text-based discussion forums have been the tool of choice, there are a range of new tools that utilise rich media such as video and audio to facilitate these discussions.
 
 ### Engagement
 
@@ -62,13 +62,13 @@ Julie Lindsay
 
 #### Motivation
 
-The goal in this subject was to affect ongoing, reliable and regular participation in asynchronous discussion using Interact 2 for this subject each forum was carefully designed to maximise different aspects of the subject experience. Being a capstone subject for a Masters degree another objective was to provide an avenue for deeper student involvement in the asynchronous forum through moderation and summary production.
+The goal in this subject was to affect ongoing, reliable and regular participation in asynchronous discussion. Using Interact 2 each forum was carefully designed to maximise different aspects of the subject experience. Being a capstone subject for a Masters degree another objective was to provide an avenue for deeper student involvement in the asynchronous forum through moderation and summary production.
 
 #### Implementation
 
 The Interact 2 Forum for this subject is designed to be a typical discussion area with many pre-established forums to meet the needs of learner-content and learner-learner interaction objectives. The Introduction forum is a starting point for students to connect and share; the ‘Cafe is open’ forum deliberately segments any social chit-chat and interaction; the Subject module and Subject assessment forums provide clear pathways for interacting around the content and student synthesis of this; the colloquium forum provides another area to share and discuss guest colloquiums. In addition the guest colloquium forum applies a requirement (not assessed) for students in groups to provide a summary of the colloquium and then moderate an ongoing discussion, further supporting interactive learning and deeper understanding of the content through active collaboration.
 
-This presentation by Julie *[Discussion Forums: Dissection and design](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)* provides an insight into this practice.
+This presentation by Julie *[Discussion Forums: Dissection and design](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)* provides further insight into this practice.
 
 ![Labelled diagram of Discussion Forum Design](../images/practices/Asynchronous-Discussion-ETL523.png){: .u-full-width}
 </div>
@@ -82,7 +82,7 @@ In looking for opportunities to develop and facilitate online Asynchronous Discu
 * Purpose of discussion, currency and relevance to content.
 * Timing between Discussions, how frequently will staff and students be expected to "check in".
 * How to organise the Discussions - which tools, using headings, groups, allowing students to self select.
-* Consider the level of scaffolding required for early discussions.
+* The level of scaffolding required for early discussions.
 * Ease of access and use for students when selecting tools.
 * If assessable, ease of marking for staff.
 
@@ -90,16 +90,16 @@ Once these key issues have been identified and addressed, providing a sound just
 
 ### Tools
 
-There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [FlipGrid](http://www.flipgrid.com) and [Celly](https://cel.ly/)
+There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [FlipGrid](http://www.flipgrid.com) and [Celly](https://cel.ly/).
 
 Be clear about the use of the tool as well as the question or focus of the activity. Linking discussions to Assessment provides an extrinsic motivation and can be a key strategy to encourage student participation. Be sure to make the engagement opportunities simple for student to access by providing embedded links to reduce the navigation required to find the point of engagement.
 
 Different tools have different affordances and can be used in quite different ways:
 
-* **Interact2 Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion
+* **Interact2 Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion.
 * **Blogs** - Ideally suited for summative assessments. If students are able to see and comment on each other's work, they are more likely to engage due to the inherent benefit that a CoP offers.
 * **Recordings of Online Meetings** - *always* record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.
-* **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. Flipgrid has a $60 annual fee for staff to create and use grids but is free for students to access and use.
+* **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 60-90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. 
 
 ### Additional Resources
 
