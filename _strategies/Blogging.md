@@ -11,9 +11,9 @@ subjects: "ETL401, INF530, INF537, INF532, ETL523, INF506"
 
 ### Overview
 
-A blog is essentially an online publication mechanism and consists of a series of posts and pages written by individuals or groups of people on the world wide web. Blogs can promote an open dialogue with a broad audience and encourage community building in which both the bloggers and those commenting exchange opinions, ideas. Blogging can be a way for students to document their learning over time but also to share and submit their work in a subject for review by their teachers and peers. It can be an important critical reflection and responsive practice tool and provide unique opportunities for enriched collaborative and reflective assessment.
+A blog is essentially an online publication and consists of a series of posts and pages written by individuals or groups of people on the world wide web. Blogs can promote an open dialogue with a broad audience and encourage community building in which both the bloggers and those commenting exchange opinions, ideas and resources. Blogging can be a way for students to document their learning over time but also to share and submit their work in a subject for review by their teachers and peers. It can be an important critical reflection and responsive practice tool and provide unique opportunities for enriched collaborative and reflective assessment.
 
-A common educational use of blogs is for students to reflect on their experiences and learning similar to the process used in learning journals (Ladyshewsky & Gardner, 2008). Reflective practice is emerging as an important component of many professions with many professional associations, regulatory bodies, universities and workplaces noting it as an important skill of graduates (Farmer et al. 2008; Ladyshewsky & Gardner, 2008). There are particular benefits in using blogs with students who are working on placements away from the university, both for assessment purposes and for developing reflective skills. Sheridan et al (2014, p. 343) examined students perspectives in a Bachelor of Commerce degree and notes that "not only did the online environment accommodate the time and travel logistics associated with students undertaking an internship but, in some cases, its flexibility in time and place also meant the students engage with assessments in a more independent, thoughtful and, perhaps, more meaningful way as it directly related to their personal experience." The students in this study used blogs and online journals to capture their reflections whilst on placement (reflection in-action) and to draw the threads together for a final assessment task (reflection on-action).
+A common educational use of blogs is for students to reflect on their experiences and learning similar to the process used in learning journals (Ladyshewsky & Gardner, 2008). Reflective practice is emerging as an important component of many professions with many professional associations, regulatory bodies, universities and workplaces noting it as an important skill of graduates (Farmer et al., 2008; Ladyshewsky & Gardner, 2008). There are particular benefits in using blogs with students who are working on placements away from the university, both for assessment purposes and for developing reflective skills. Sheridan et al (2014, p. 343) examined students perspectives in a Bachelor of Commerce degree and noted that "not only did the online environment accommodate the time and travel logistics associated with students undertaking an internship but, in some cases, its flexibility in time and place also meant the students engage with assessments in a more independent, thoughtful and, perhaps, more meaningful way as it directly related to their personal experience." The students in this study used blogs and online journals to capture their reflections whilst on placement (reflection in-action) and to draw the threads together for a final assessment task (reflection on-action).
 
 ### Engagement
 
@@ -21,9 +21,9 @@ Blogs enhance students' engagement in participative and collaborative learning. 
 
 * Learning as a process - blogs help document that over time.
 * Linking previous study and work to current learning.
-* Engage with a much broader audience via public blogging - engage with their professions, share easily
+* Engaging with a much broader audience via public blogging and engage and share easily with their professions.
 * Critical reflection and analysis of material
-* Provide a vehicle for presenting and supporting opinions
+* Providing a vehicle for presenting and supporting opinions
 
 ### In Practice
 
@@ -53,9 +53,9 @@ Provide a critical synthesis of your reflection on how your views, knowledge and
 
 INF532 - For this subject students are requested to maintain a blog to document reflections and evaluations of connected learning experiences, with posts demonstrating the affordances of blogs such as tags, categories, embeds, etc. Assessment item 3 is an 1800 word ‘Network literacy evaluative report’ published as the final blog post for the subject. All blog posts are considered in the final marking and the rubric reflects this through criteria:
 
-- Student investigates a range of ideas and issues
-- Student applies and integrates critical analysis
-- Student is able to form, present and support own opinions
+- Student investigates a range of ideas and issues.
+- Student applies and integrates critical analysis.
+- Student is able to form, present and support own opinions.
 
 More information on this practice can be obtained from this presentation delivered by Julie Lindsay - ‘Beyond blogging: [Reflective and responsive practice using Thinkspace’](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
 
@@ -79,7 +79,7 @@ When designing a learning task that assesses with blogs, your instructions need 
 * Post the rubric and criteria on the group blog or as a comment in the individual blogs.
 * Hold an initial online meeting or make a podcast. Show the students the different elements of a blog, and examples of exemplary blogs. Explicitly outline your requirements of them, and discuss these with them.
 * Ensure that your expectations about the number of posts, comments and reviews are absolutely clear to your students.
-* Provide a safe, flexible and inclusive environment where students can develop skills for risk taking and self-regulation. Blogs should offer "an environment where learners can practice, fail, succeed and learn in a rich and realistic setting" (Morison, 2003, 359).
+* Provide a safe, flexible and inclusive environment where students can develop skills for risk taking and self-regulation. Blogs should offer "an environment where learners can practice, fail, succeed and learn in a rich and realistic setting" (Morison, 2003, p. 359).
 * Encourage student reflection using leading questions, statements and content, and ask students to present their reflection and its results in writing on the blog.
 * Provide students with a range of potential blog content and ideas to encourage their learning beyond the classroom.
 * [Utilise RSS](https://help.edublogs.org/introduction-to-rss-and-subscribing-using-rss/ ) or Hashtags to aggregate content for the class.
