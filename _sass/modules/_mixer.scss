@@ -76,10 +76,10 @@
 }
 
 .level:hover, .level:active {
-  -webkit-flex: 3;
-  -moz-flex: 3;
-  -ms-flex: 3;
-  flex: 3;
+  -webkit-flex: 4;
+  -moz-flex: 4;
+  -ms-flex: 4;
+  flex: 4;
   border: 0 2px solid $lx-white;
   transition: 1s .25s;
   word-break: break-all;
@@ -107,10 +107,10 @@
 }
 
 .col:hover, .col:active {
-  -webkit-flex: 5;
-  -moz-flex: 5;
-  -ms-flex: 5;
-  flex: 5;
+  -webkit-flex: 4;
+  -moz-flex: 4;
+  -ms-flex: 4;
+  flex: 4;
   background-color: transparent;
   padding: .6em;
   color: rgba(255, 255, 255, 1);
