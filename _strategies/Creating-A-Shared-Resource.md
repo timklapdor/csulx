@@ -44,7 +44,7 @@ Students were randomly placed into groups, communication tools for student-to-st
 
 **Assessment Items Used**
 
-Introductions & Plans
+Introductions and Plans
 : During week 1, each team (4-5 students) is assigned a current management issue/problem. Due week 3, each students introduce themselves to the entire cohort and they share their plans for completing the project. This activity involves collaboration and cooperation.
 
 Presentations
