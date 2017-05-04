@@ -47,7 +47,7 @@ Data analytics has provided helpful insights into how students can be helped to 
 
 ### Guide
 
-In simple terms, learning analytics is about better understanding the online learning and teaching process, and interpreting student data to improve their learning experiences and success. Analytics can be presented as summaries, visualisations and analyses of student data that could improve learning in multiple ways (Cooper, 2012; Long & Siemens, 2011). Student data is the trace data or data trails of students recorded within in a number of online systems used at CSU, like Interact2, CSU Replay, Adobe Connect and Smart Sparrow.
+In simple terms, learning analytics is about better understanding of the online learning and teaching process, and interpreting student data to improve learning experiences and success. Analytics can be presented as summaries, visualisations and analyses of student data that could improve learning in multiple ways (Cooper, 2012; Long & Siemens, 2011). Student data is the trace data or data trails of students recorded within a number of online systems used at CSU, like Interact2, CSU Replay, Adobe Connect and Smart Sparrow.
 
 Content analytics uses collected data for analysing different forms of learning content in order to understand or improve learning resources or activities. Data provides detailed visibility into courses (e.g. subject structure, digital content used) and can be used to discover student use and engagement patterns for content areas and core learning resources (Lockyer, Heathcote & Dawson, 2013, p. 1441). Any actionable insights then form the basis for making adjustments to learning resources and support (eg. scaffolding) during a current session, and to inform learning resources and support provision in subsequent subject offerings. The end result is learner pathways that are more responsive to concept learning difficulties or to knowledge enhancement.
 
@@ -58,7 +58,7 @@ By way of an example, using Interact2 Site Analytics will provide you with self-
 Adopting a data-informed adaptive approach to teaching can be realised in a variety of ways:
 
 * Augment existing resources with additional material by injecting additional sources of information.
-* Using existing rich media resources, like YouTube videos, to add explain topic areas. Video and visual resources can often help explain and illustrate difficult concept in different ways.
+* Use existing rich media resources, like YouTube videos, to add explain topic areas. Video and visual resources can often help explain and illustrate difficult concept in different ways.
 * Link to other sources that describe the topic in different ways to create[ Choral Explanations](https://hapgood.us/2016/05/13/choral-explanations/) so that students can find an explanation that relates to their way of thinking.
 * Present students with options and different ways to access learning materials. Some students may prefer to read, some on screen and some on paper, others may prefer to listen or watch their resources. Data analysis can help identify student preferences.
 * Create supplementary resources yourself, like impromptu videos, to provide feedback or that react and respond to student queries, questions and misunderstandings.
