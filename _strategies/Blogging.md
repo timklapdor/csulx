@@ -86,7 +86,7 @@ When designing a learning task that assesses with blogs, your instructions need 
 
 ### Tools
 
-- Blackboard Blogs and Journals
+- Blackboard Blogs & Journals
 - [Thinkspace](http://thinkspace.csu.edu.au)
 - [Wordpress](http://wordpress.com)
 - [Blogger](https://www.blogger.com/)
