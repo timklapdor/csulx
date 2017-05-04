@@ -40,7 +40,7 @@ Julie Lindsay, Judy O’Connell, Carole Gerts
 
 #### Motivation
 
-The use of Thinkspace for blogging (Wordpress platform) is an essential objective within the MKNDI course. Emphasis is on reflective practice, sharing new resources and ideas, synthesising subject content, and responding to others as part of the learning continuum. ‘Blogging’ as such provides for interaction between learners and with the wider community as well as group-based activities. It is also an integral part of assessment for each of these subjects and as such students are encouraged to blog regularly across the session.
+The use of Thinkspace for blogging (Wordpress platform) is an essential objective within the [Master of Education (Knowledge Networks and Digital Innovation course](http://csu.edu.au/digital). Emphasis is on reflective practice, sharing new resources and ideas, synthesising subject content, and responding to others as part of the learning continuum. ‘Blogging’ as such provides for interaction between learners and with the wider community as well as group-based activities. It is also an integral part of assessment for each of these subjects and as such students are encouraged to blog regularly across the session.
 
 #### Implementation
 
@@ -82,7 +82,7 @@ When designing a learning task that assesses with blogs, your instructions need 
 * Provide a safe, flexible and inclusive environment where students can develop skills for risk taking and self-regulation. Blogs should offer "an environment where learners can practice, fail, succeed and learn in a rich and realistic setting" (Morison, 2003, p. 359).
 * Encourage student reflection using leading questions, statements and content, and ask students to present their reflection and its results in writing on the blog.
 * Provide students with a range of potential blog content and ideas to encourage their learning beyond the classroom.
-* [Utilise RSS](https://help.edublogs.org/introduction-to-rss-and-subscribing-using-rss/ ) or Hashtags to aggregate content for the class.
+* [Utilise RSS](https://help.edublogs.org/introduction-to-rss-and-subscribing-using-rss/ ) or [Hashtags](https://en.wikipedia.org/wiki/Hashtag) to aggregate content for the class.
 
 ### Tools
 
