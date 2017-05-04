@@ -111,7 +111,7 @@ Boud, D., Cohen, R., & Sampson, J. (Eds.). (2014). *Peer learning in higher educ
 
 Karel Kreijnsa, Paul A. Kirschnerb, Wim Jochemsb (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in Human Behavior* (19). pp. 335–353.
 
-Lindsay, J. (2016). Discussion forums: Dissection and design [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)
+Lindsay, J. (2016). Discussion forums: Direction and design [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/13gdFkfMJfmSbdRmiTYBQsTDspgFdE71OJ5sqI2Gl3LI/pub?start=false&loop=false&delayms=3000)
 
 McLoughlin, C. & Lee, M.J.W. (2010). Developing an online community to promote engagement and professional learning for pre-service teachers using social software tools. *Journal of Cases in Information Technology, 12*(1), 17-30.
 
