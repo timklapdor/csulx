@@ -106,13 +106,11 @@ Some of the tools that enable choice within assessment tasks include:
 
 Bosco, A., & Ferns, S. (2014). Embedding authentic assessment in work-integrated learning curriculum. *Asia-Pacific Journal of Cooperative Education 15*(4), 281-290. Retrieved from [http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live](http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live)
 
-Pacharn, P., Bay, D. & Felton, S. (2013). The impact of a flexible assessment system on students' motivation, performance and attitude, *Accounting Education, 22*(2), 147-167. doi:[http://dx.doi.org/10.1080/09639284.2013.765292](http://dx.doi.org/10.1080/09639284.2013.765292)
+Pacharn, P., Bay, D. & Felton, S. (2013). The impact of a flexible assessment system on students' motivation, performance and attitude, *Accounting Education, 22*(2), 147-167. doi:[10.1080/09639284.2013.765292](http://dx.doi.org/10.1080/09639284.2013.765292)
 
 Schwartz, D.L., & Arena, D.A. (2013). *Measuring what matters most: Choice-based assessments for the digital age*. Cambridge, MA: MIT Press. Retrieved from [https://aaalab.stanford.edu/papers/Measuring_What_Matters_Most.pdf](https://aaalab.stanford.edu/papers/Measuring_What_Matters_Most.pdf)
 
-Stefanou, C. R., Perencevich, K. C., Di Cintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage decision making and ownership.
-
-*Educational Psychologist, 39*(2), 97-110. Retrieved from [http://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=3575&context=etd](http://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=3575&context=etd)
+Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. Retrieved from [http://www.tandfonline.com/doi/abs/10.1207/s15326985ep3902_2](http://www.tandfonline.com/doi/abs/10.1207/s15326985ep3902_2)
 
 Strunk, V. & Willis, J. (2017, February 13). Digital badges and learning analytics provide differentiated assessment opportunities. *Educause Review*. Retrieved from [http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities](http://er.educause.edu/articles/2017/2/digital-badges-and-learning-analytics-provide-differentiated-assessment-opportunities)
 
