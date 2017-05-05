@@ -52,12 +52,28 @@ As well as supporting connections to professionals and professional contexts, st
 
 <div class="apa-ref" markdown="1">
 
-Conrad, D. L. (2008). From Community to Community of Practice: Exploring the Connection of Online Learners to Informal Learning in the Workplace. *American Journal of Distance Education, 22*(1), 3-23. doi: 10.1080/08923640701713414
+Braunstein, L. A, Takei, H., Wang, F., &  Loken, M. K. (2011). Benefits of cooperative and work-integrated education for employers. In R. K. Coll & K. E. Zegwaard (Eds.),* International handbook for cooperative and work-integrated education: International perspectives of theory, research and practice* (pp. 277-286). Lowell, MA: World Association for Cooperative Education.
 
-Dalgarno, B., Kennedy, G., & Merrit, A. (2014). connecting student learning at university with professional practiceusing rich media in practice based curricula. In M. Gosper & D. Ifenthaler (Eds.), *Curriculum models for the 21st century: Using learning technologies in higher education* (pp. 213-234). Sydney, NSW,  Australia: Springer.
+Coates, H. (2005). The value of student engagement for higher education quality assurance. *Quality in Higher Education, 11*(1), 25-36. [doi:10.1080/13538320500074915](http://dx.doi.org/10.1080/13538320500074915)
 
-Kettis, Å., Ring, L., Gustavsson, M., & Wallman, A. (2013). Placements: an underused vehicle for quality enhancement in higher education? *Quality in Higher Education, 19*(1), 28-40. doi: 10.1080/13538322.2013.772697
+Coulby, C., Hennessey, S., Davies, N. & Fuller, R. (2011). The use of mobile technology for work-based assessment: the student experience. *British Journal of Educational technology, 42*(2), 251-265. doi:10.1111/j.1467-8535.2009.01022.x
 
-Stacey, E., Smith, P. J., & Barty, K. (2004). Adult learners in the workplace: online learning and communities of practice. *Distance Education, 25*(1), 107-123. doi: 10.1080/0158791042000212486
+Dalgarno, B., Kennedy, G., & Merritt, A. (2014). Connecting student learning at university with professional practice using rich media in practice based curricula. In M.Gosper & D. Ifenthaler (Eds.), *Curriculum Models for the 21st Century*. New York: Springer. Retrieved from [http://link.springer.com/book/10.1007/978-1-4614-7366-4/page/1](http://link.springer.com/book/10.1007/978-1-4614-7366-4/page/1)
+
+Dressler, S., & Keeling, A. E., (2011). Benefits of cooperative and work-integrated education for students. In R. K. Coll & K. E. Zegwaard (Eds.), *International Handbook for Cooperative and Work-Integrated Education* (pp. 261-275). Lowell, MA: World Association for Cooperative Education.
+
+Edgar, S., Francis-Coad, J., & Connaughton, J. (2013). Undergraduate reflective journaling in work integrated learning: is it relevant to professional practice? *Asia Pacific Journal of Cooperative Education 14*(3), 147-156.
+
+Edwards, D., Perkins, K., Pearce, J., & Hong, J. (2015). *Work Integrated Learning in STEM in Australian Universities: Final report: Submitted to the Office of the Chief Scientist*. Retrieved from [http://research.acer.edu.au/cgi/viewcontent.cgi?article=1046&context=higher_education](http://research.acer.edu.au/cgi/viewcontent.cgi?article=1046&context=higher_education)
+
+Harvey, M., Coulson, D., Mackaway, J., & Winchester-Seeto, T. (2010). Aligning reflection in the cooperative education curriculum. *Asia-Pacific Journal of Cooperative Education, 11*(3), 137-152.
+
+Kaider, F., Henschke, K., Richardson, J., & Kelly, M. P. (2009). Designing blended spaces to maximise student learning in work integrated learning programs. In *Same places, different spaces. Proceedings ascilite Auckland 2009*. Retrieved from [http://www.ascilite.org.au/conferences/auckland09/procs/kaider.pdf](http://www.ascilite.org.au/conferences/auckland09/procs/kaider.pdf)
+
+ Kuh, G., & O’Donnell, K. (2013). *Ensuring quality & taking high-impact practices to scale with case studies*. Washington, DC: Association of American Colleges and Universities. Retrieved from [https://www.aacu.org/sites/default/files/files/LEAP/HIP_tables.pdf](https://www.aacu.org/sites/default/files/files/LEAP/HIP_tables.pdf)
+
+Tan, S. M., Ladyshewkey, R. K., & Gardner, P. (2010). Using logging to promote clinical reasoning and metacognition in undergraduate physiotherapy fieldwork programs. *Australian Journal of Educational Technology 26*(3), 355-368.
+
+Winchester-Seeto, T., Rowe, A., & Mackaway, J. (2016). Sharing the load: Understanding the roles of academics and host supervisors in work-integrated learning. *Asia-Pacific Journal of Cooperative Education, 17*(2), 101-118. Retrieved from [http://www.apjce.org/files/APJCE_17_2_101_118.pdf](http://www.apjce.org/files/APJCE_17_2_101_118.pdf)
 
 </div>

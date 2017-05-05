@@ -54,14 +54,51 @@ Some have questioned whether a computer-based exam is any more authentic than a 
 
 <div class="apa-ref" markdown="1">
 
-Buzetto-More, N. A., & Alade, A. J. (2006). Best Practices in e-Assessment. *Journal of Information Technology Education, 5*, 251-269.
 
-Crisp, G. (2009). Interactive e-Assessment: moving beyond multiple-choice questions. *Centre for Learning and Professional Development, 3*, 12-31.
+Boud, D. (1992). The use of self-assessment schedules in negotiated learning. *Studies in Higher Education, 17*, 185-200. doi:10.1080/03075079212331382657
 
-Jordan, S., & Mitchell, T. (2009). e-Assessment for learning? The potential of short-answer free-text questions with tailored feedback. *British Journal of Educational Technology, 40*(2), 371-385. doi: 10.1111/j.1467-8535.2008.00928.x
+Boud, D. (2010). *Assessment 2020: Seven propositions for assessment reform in higher education*. Sydney, Australia: Australian Learning and Teaching Council. Available from [https://www.uts.edu.au/sites/default/files/Assessment-2020_propositions_final.pdf](https://www.uts.edu.au/sites/default/files/Assessment-2020_propositions_final.pdf)
 
-Megele, C. (2014). eABLE: embedding social media in academic curriculum as a learning and assessment strategy to enhance students learning and e-professionalism. *Innovations in Education and Teaching International, 52*(4), 414-425. doi: 10.1080/14703297.2014.890951
+Boud, D., & Falchikov, N. (2005). Redesigning assessment for learning beyond higher education. In A. Brew & C. Asmar (Eds.), *Research and Development in Higher Education* 28 (pp. 34–41). Sydney: HERDSA, Sydney.
 
-Pachler, N., Daly, C., Mor, Y., & Mellar, H. (2010). Formative e-assessment: Practitioner cases. *Computers & Education, 54*(3), 715-721. doi:[ http://dx.doi.org/10.1016/j.compedu.2009.09.032](http://dx.doi.org/10.1016/j.compedu.2009.09.032)
+Buzetto-More, N. A., & Alade, A. J. (2006). Best practices in e-Assessment. *Journal of Information Technology Education, 5*, 251-269.
+
+Cochrane, T. D. (2014). Critical success factors for transforming pedagogy with mobile Web 2.0. *British Journal of Educational Technology, 45*(1), 65-82. doi:10.1111/j.1467-8535.2012.01384.x
+
+Crisp, G. (2009). *Interactive e-Assessment: moving beyond multiple-choice questions*. In J.  Khon Kaen University) & Adams, K & Alvaro, F & Alwi, A & Armstrong, L et al. (Eds.), *Proceedings of the EDU-COM 2006 International Conference: Engagement and Empowerment: New Opportunities for Growth in Higher Education.* Edith Cowan University, Perth Western Australia, 22-24 November 2006. Retrieved from [http://ro.ecu.edu.au/ceducom/71/](http://ro.ecu.edu.au/ceducom/71/)
+
+Dochy, F., Segers, M., & Sluijsmans, D. (2006). The use of self-, peer and co-assessment in higher education: A review. *Studies in Higher Education, 24*(3), 331-350. doi:10.1080/03075079912331379935
+
+Fontanillas, T. R., Carbonell, M. R., & Catasús, M. G. (2016). E-assessment process: giving a voice to online learners. *International Journal of Educational Technology in Higher Education, 13*(20), 1-14. doi:10.1186/s41239-016-0019-9
+
+Guàrdia, L., Crisp, G., & Alsina, I. (2016). Trends and challenges of e-assessment to enhance student learning in Higher Education. In E. Cano, & G. Ion (Eds.),*Innovative Practices for Higher Education Assessment and Measurement* (Chapter 3, pp. 36-56). Hershey PA, USA: IGI Global. doi:10.4018/978-1-5225-0531-0.guilch003
+
+Gulikers, J. T. M., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. *Educational Technology Research and Development, 52*(3), 67-86. doi:10.1007/BF02504676
+
+Hepplestone, S.  Holden, G., Irwin, B., Parkin H. J., & Thorpe, L. (2011). Using technology to encourage student engagement with feedback: A literature review. *Research in Learning Technology, 19*(2), 117–127. doi:10.1080/21567069.2011.586677
+
+Herrington, J., Reeves, T. C., & Oliver, R. (2009). *A practical guide to authentic e-learning*. Taylor & Francis, e-Library.
+
+Hillier, M., & Fluck, A. (2015). A pedagogical end game for exams: a look 10 years into the future of high stakes assessment. In T. Reiners, B.R. von Konsky, D. Gibson, V. Chang, L. Irving, & K. Clarke (Eds.), *Globally connected, digitally enabled. Proceedings ascilite 2015 in Perth* (pp. 465-470). Retrieved from [http://www.2015conference.ascilite.org/wp-content/uploads/2015/11/ascilite-2015-proceedings.pdf](http://www.2015conference.ascilite.org/wp-content/uploads/2015/11/ascilite-2015-proceedings.pdf)
+
+James, R. (2016). Tertiary student attitudes to invigilated, online summative examinations. *International Journal of Educational Technology in Higher Education, 13*(9), 1-13. doi:10.1186/s41239-016-0015-0
+
+Jordan, S., & Mitchell, T. (2009). e-Assessment for learning? The potential of short-answer free-text questions with tailored feedback. *British Journal of Educational Technology, 40*(2), 371-385. doi:10.1111/j.467-8535.2008.00928.x
+
+Longhurst, N., & Norton, L. S. (1997). Self-assessment in coursework essays. *Studies in Educational Evaluation, 23*(4), 319-330. [doi:10.1016/S0191-491X(97)86213-X](http://dx.doi.org/10.1016/S0191-491X(97)86213-X)
+
+Megele, C. (2014). eABLE: embedding social media in academic curriculum as a learning and assessment strategy to enhance students learning and e-professionalism. *Innovations in Education an**d Teaching International, 52*(4), 414-425.
+
+Nicol, D. J., & Macfarlane-Dick, D. (2006). Formative assessment and self-regulated learning: A model and seven principles of good feedback practice. *Studies in Higher Education 31*(2), 199–218. [doi:10.1080/03075070600572090](http://dx.doi.org/10.1080/03075070600572090)
+
+Pachler, N., Daly, C., Mor, Y., & Mellar, H. (2010). Formative e-assessment: Practitioner cases. *Computers & Education,  54*(3), 715-721. doi:[10.1016/j.compedu.2009.09.032](http://dx.doi.org/10.1016/j.compedu.2009.09.032)
+
+Ridgway, J., McCusker, S., & Pead, D. (2004). *Literature review of e-assessment*. Bristol: Futurelab.
+
+Rust, C., Price, M., & O’Donovan, B. (2003). Improving students’ learning by developing their understanding of assessment criteria and processes. *Assessment and Evaluation in Higher Education, 28*(2), 147–164.
+
+Scott, G. (2016). OLTF Powerful Assessment Exemplars 2016. Accessed online November 2016. [http://flipcurric.edu.au/sites/flipcurric/media/105.pdf ](http://flipcurric.edu.au/sites/flipcurric/media/105.pdf )
+
+Sheriden, L., Kotevski, S., & Dean, B.A. (2014). Learner perspectives on online assessments as a mechanism to engage in reflective practice. *Asia-Pacific Journal of Cooperative Education, 15*(4), 335-345. Retrieved from [http://www.apjce.org/files/APJCE_15_4_335_345.pdf](http://www.apjce.org/files/APJCE_15_4_335_345.pdf)
 
 </div>

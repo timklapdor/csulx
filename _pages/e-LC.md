@@ -52,46 +52,50 @@ This section sets out a number of specific strategies that are known to be helpf
 
 <div class="apa-ref" markdown="1">
 
-Aragon, S. (2003). Creating social presence in online environments. *New Directions for Adult and Continuing Education*, 100, 57-68.
+Aragon, S. (2003). Creating social presence in online environments. *New Directions for Adult and Continuing Education, 100*, 57-68. doi:10.1002/ace.119
 
-Asterhan, C. S. C., Schwarz, B. B., & Gil, J. (2012). Small-group, computer-mediated argumentation in middle-school classrooms: The effects of gender and different types of online teacher guidance. *British Journal of Educational Psychology, 82*(3), 375-397. doi: 10.1111/j.2044-8279.2011.02030.x
+Asterhan, C. S. C., Schwarz, B. B., & Gil, J. (2012). Small-group, computer-mediated argumentation in middle-school classrooms: The effects of gender and different types of online teacher guidance. *British Journal of Educational Psychology, 82*(3), 375-397. doi:10.1111/j.2044-8279.2011.02030.x
 
-Chen, C. Y., Pedersen, S., & Murphy, K. L. (2012). The influence of perceived information overload on student participation and knowledge construction in computer-mediated communication. *Instructional Science, 40*(2), 325-349.
+Chen, C. Y., Pedersen, S., & Murphy, K. L. (2012). The influence of perceived information overload on student participation and knowledge construction in computer-mediated communication. *Instructional Science, 40*(2), 325-349. doi:10.1007/s11251-011-9179-0
 
 Conrad, D. (2005). Building and maintaining community in cohort-based online learning. *Journal of Distance Education, 20*(1), 1-20.
 
-Doolittle, R. J. & MacDonald, D. (1978). Communication and a sense of community in a metropolitan neighbourhood : A factor analytic examination. *Communication Quarterly, 26,* 2-7.
+Doolittle, R. J., & MacDonald, D. (1978). Communication and a sense of community in a metropolitan neighbourhood: A factor analytic examination. *Communication Quarterly, 26*(3), 2-7. [doi:10.1080/01463377809369297](http://dx.doi.org/10.1080/01463377809369297)
 
 Ehrenberg, R. G., Brewer, D. J., Gamoran, A., & Willms, J. D. (2001). Class size and student achievement. *Psychological Science in the Public Interest, 2*(1), 1-30.
 
-Garrison, R. (2011). *E-learning in the 21st Century: A framework for research and practice* 2nd ed. Retrieved from EBook Library
+Falvo, D. A., & Solloway, S. (2004). Constructing community in a graduate course about teaching with technology. *Techtrends: Linking Research & Practice To Improve Learning, 48*(5), 56-85. doi:10.1007/BF02763532
 
-Hattie, J. (2012). *Visible learning for teachers: Maximizing impact on learning*. Routledge.
+Garrison, R. (2011). *E-learning in the 21st Century: A framework for research and practice* (2nd ed.). New York: Routledge. Retrieved from EBook Library
 
-Harasim, L. 1990, *On-line Education: Perspectives on a New Environment*, Praeger, New York.
+Hattie, J. (2012). *Visible learning for teachers: Maximizing impact on learning*. New York: Routledge.
 
-Hewitt, J., & Brett, C. (2007). The relationship between class size and online activity patterns in asynchronous computer conferencing environments. *Computers & Education, 49*(4), 1258-1271.
+Harasim, L. (1990). *Online Education: Perspectives on a New Environment*. New York: Praeger.
 
-Hiltz, S.R. 1994, *The Virtual Classroom: Learning Without Limits via Computer Networks*, Ablex, Norwood, NJ.
+Hewitt, J., & Brett, C. (2007). The relationship between class size and online activity patterns in asynchronous computer conferencing environments. *Computers & Education, 49*(4), 1258-1271. [doi:10.1016/j.compedu.2006.02.001](http://dx.doi.org/10.1016/j.compedu.2006.02.001)
 
-Hiltz, S.R. (1997). Impacts of college level courses via asynchronous learning networks: some preliminary results. *Journal of Asynchronous Learning Networks, 1*(2).
+Hiltz, S. R. (1994). *The virtual classroom: Learning without limits via computer networks*. Norwood, NJ: Ablex.
 
-Kim, J. (2013). Influence of group size on students' participation in online discussion forums. *Computers & Education, 62*(0), 123-129. Doi: [http://dx.doi.org/10.1016/j.compedu.2012.10.025](http://dx.doi.org/10.1016/j.compedu.2012.10.025)
+Hiltz, S. R. (1997). Impacts of college level courses via asynchronous learning networks: some preliminary results. *Journal of Asynchronous Learning Networks, 1*(2). Retrieved from https://onlinelearningconsortium.org/jaln_article/impacts-of-college-level-courses-via-asynchronous-learning-networks-some-preliminary-results-2/
 
-Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in human behavior, 19*(3), 335-353.
+Kim, J. (2013). Influence of group size on students' participation in online discussion forums. *Computers & Education, 62*, 123-129. doi:[10.1016/j.compedu.2012.10.025](http://dx.doi.org/10.1016/j.compedu.2012.10.025)
+
+Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: A review of the research. *Computers in Human Behavior, 19*(3), 335-353. [doi:10.1016/S0747-5632(02)00057-2](http://dx.doi.org/10.1016/S0747-5632(02)00057-2)
 
 McInnerney, J. M., & Roberts, T. S. (2004). Online learning: Social interaction and the creation of a sense of community. *Educational Technology & Society, 7*(3), 73-81.
 
-MacMillan, D. & Chavis, D. (1986). Sense of community: A definition and theory, *Journal of Community Psychology, 14*, 6-20
+MacMillan, D., & Chavis, D. (1986). Sense of community: A definition and theory. *Journal of Community Psychology, 14*, 6-20.
 
-Rovai, A. P. (2002). Building sense of community at a distance. *The International Review of Research in Open and Distributed Learning, 3*(1).
+Rovai, A. P. (2002). Building sense of community at a distance. *The International Review of Research in Open and Distributed Learning, 3*(1). Retrieved from [http://www.irrodl.org/index.php/irrodl/article/view/79/152](http://www.irrodl.org/index.php/irrodl/article/view/79/152)
 
-Salmon, G. (2004). *E-moderating: The key to teaching and learning online*. Psychology Press.
+Salmon, G. (2004). *E-moderating: The key to teaching and learning online*. London: Psychology Press.
 
-Sung, E., & Mayer, R. E. (2012). Five facets of social presence in online distance education. *Computers in Human Behavior, 28*(5), 1738-1747.
+Sung, E., & Mayer, R. E. (2012). Five facets of social presence in online distance education. *Computers in Human Behavior, 28*(5), 1738-1747. [doi:10.1016/j.chb.2012.04.014](http://dx.doi.org/10.1016/j.chb.2012.04.014)
 
-Toth, L. S., & Montagna, L. G. (2002). Class Size and Achievement in Higher Education: A Summary of Current Research. *College Student Journal, 36*(2).
+Toth, L. S., & Montagna, L. G. (2002). Class size and achievement in higher education: A summary of current research. *College Student Journal, 36*(2), 253-261.
 
-Wenger, E. (1998). *Communities of practice: learning, meaning, and identity.* Cambridge, U.K. ; New York : Cambridge University Press.
+Wenger, E. (1998). *Communities of practice: learning, meaning, and identity*. Cambridge, UK: Cambridge University Press.
+
+Yuan, J., & Kim, C. (2014). Guidelines for facilitating the development of learning communities in online courses. *Journal of Computer Assisted Learning, 30*(3), 220-232. doi:10.1111/jcal.12042
 
 </div>

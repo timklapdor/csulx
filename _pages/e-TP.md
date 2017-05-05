@@ -60,48 +60,50 @@ The emotional tone that the teacher creates in the learning space can show inter
 
 <div class="apa-ref" markdown="1">
 
-Ally, M. (2008). Foundations of educational theory for online learning. In T. Anderson (Ed.), Theory and practice of online learning (2nd ed., pp. 15-44). Edmonton, AB: Athabasca University.
+Ally, M. (2008). Foundations of educational theory for online learning. In T. Anderson (Ed.), *Theory and practice of online learning* (2nd ed., pp. 15-44). Edmonton, AB: AU Press.
 
-Anderson, T. (2008). Teaching in an online learning context. In T. Anderson (Ed.), *Theory and practice of online learning* (pp. 343-365). Athabasca University, Edmonton, AB: AU Press.
+Anderson, T. (2008). Teaching in an online learning context. In T. Anderson (Ed.), *Theory and practice of online learning* (pp. 343-365). Edmonton, AB: AU Press.
 
 Anderson, J. F. (1979). Teacher immediacy as a predictor of teaching effectiveness. In D. Nimmo (Ed.), *Communication Yearbook* (Vol. 3, pp. 543–559). New Brunswick, NJ: Transaction Books.
 
-Anderson, T., Rourke, L., Garrison, D. R., & Archer, W. (2001). Assessing teacher presence in a computer conferencing context. *Journal of the Asynchronous Learning Network, 5*(2), retrieved from http://auspace.athabascau.ca/bitstream/2149/2725/2141/assessing_teaching_presence.pdf on Oct-2014.
+Anderson, T., Rourke, L., Garrison, D. R., & Archer, W. (2001). Assessing teacher presence in a computer conferencing context. *Journal of the Asynchronous Learning Network, 5*(2). Retrieved from [http://auspace.athabascau.ca/bitstream/2149/725/1/assessing_teaching_presence.pdf](http://auspace.athabascau.ca/bitstream/2149/725/1/assessing_teaching_presence.pdf)
 
-Arbaugh, J. B. (2001). How Instructor Immediacy Behaviors Affect Student Satisfaction and Learning in Web-Based Courses. [Article]. *Business Communication Quarterly, 64*(4), 42-54.
+Arbaugh, J. B. (2001). How instructor immediacy behaviors affect student satisfaction and learning in web-based courses. *Business Communication Quarterly, 64*(4), 42-54.
 
-Baker, J. D. (2004). An investigation of relationships among instructor immediacy and affective and cognitive learning in the online classroom. *The Internet and Higher Education, 7*(1), 1-13. doi:[ http://dx.doi.org/10.1016/j.iheduc.2003.11.006](http://dx.doi.org/10.1016/j.iheduc.2003.11.006)
+Baker, J. D. (2004). An investigation of relationships among instructor immediacy and affective and cognitive learning in the online classroom. *The Internet and Higher Education, 7*(1), 1-13. doi:[10.1016/j.iheduc.2003.11.006](http://dx.doi.org/10.1016/j.iheduc.2003.11.006)
 
-Dunlap, J. C., & Lowenthal, P. R. (2009). Tweeting the Night Away: Using Twitter to Enhance Social Presence. [Article]. *Journal of Information Systems Education, 20*(2), 129-135.
+Dunlap, J. C., & Lowenthal, P. R. (2009). Tweeting the night away: Using Twitter to enhance social presence. *Journal of Information Systems Education, 20*(2), 129-135.
 
-Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education. *The Internet and Higher Education, 2*(2–3), 87-105. doi:[ http://dx.doi.org/10.1016/S1096-7516(00)00016-6](http://dx.doi.org/10.1016/S1096-7516(00)00016-6)
+Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2–3), 87-105. doi:[10.1016/S1096-7516(00)00016-6](http://dx.doi.org/10.1016/S1096-7516(00)00016-6)
 
-Garrison, D. R., Anderson, T., & Archer, W. (2001). Critical thinking, cognitive presence, and computer conferencing in distance education. *American Journal of Distance Education, 15*(1), 7-23. doi: 10.1080/08923640109527071
+Garrison, D. R., Anderson, T., & Archer, W. (2001). Critical thinking, cognitive presence, and computer conferencing in distance education. *American Journal of Distance Education, 15*(1), 7-23. doi:10.1080/08923640109527071
 
-Garrison, D. R., Anderson, T., & Archer, W. (2010). The first decade of the community of inquiry framework: A retrospective. *The Internet and Higher Education, 13*(1–2), 5-9. doi: http://dx.doi.org/10.1016/j.iheduc.2009.10.003
+Garrison, D. R., Anderson, T., & Archer, W. (2010). The first decade of the community of inquiry framework: A retrospective. *The Internet and Higher Education, 13*(1–2), 5-9. doi:10.1016/j.iheduc.2009.10.003
 
-Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework: Review, issues, and future directions.[ The Internet and Higher Education, 10](http://dx.doi.org/10.1016/j.iheduc.2007.04.001)(3), 157-172.
+Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework: Review, issues, and future directions. *The Internet and Higher Education, 10*(3), 157-172.[ doi:10.1016/j.iheduc.2007.04.001]((http://dx.doi.org/10.1016/j.iheduc.2007.04.001))
 
-Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in human behavior*, *19*(3), 335-353.
+Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls for social interaction in computer-supported collaborative learning environments: a review of the research. *Computers in Human Behavior, 19*(3), 335-353. doi:[10.1016/S0747-5632(02)00057-2](http://dx.doi.org/10.1016/S0747-5632(02)00057-2)
 
-Lowenthal, P. R. (2010). Social presence. In S. Dasgupta (Ed.), *Social computing: Concepts, methodologies, tools, and applications* (Vol. 1, pp. 129-136). Hershey, PA: Information Science Reference  (IGI Global).
+Lowenthal, P. R. (2010). Social presence. In S. Dasgupta (Ed.), *Social computing: Concepts, methodologies, tools, and applications* (Vol. 1, pp. 129-136). Hershey, PA: Information Science Reference (IGI Global).
 
-McInnerney, J. M., & Roberts, T. S. (2004). Online learning: Social interaction and the creation of a sense of community. *Educational Technology & Society*, 7(3), 73-81.
+McInnerney, J. M., & Roberts, T. S. (2004). Online learning: Social interaction and the creation of a sense of community. *Educational Technology & Society, 7*(3), 73-81.
 
-Moore, M. G. (1993). Theory of transactional distance. In D. Keegan (Ed.), *Theoretical principles of distance education* (pp. 22-38). New York Routledge.
+Moore, M. G. (1993). Theory of transactional distance. In D. Keegan (Ed.), *Theoretical principles of distance education* (pp. 22-38). New York: Routledge.
 
 Ostashewski, N. (2015). A tale of three MOOCs: Designing for meaningful teacher presence in large-enrolment courses. In S. Carliner, C. Fulford & N. Ostashewski (Eds.), *Proceedings of EdMedia: World Conference on Educational Media and Technology 2015* (Vol. 2015, pp. 1279-1284): Association for the Advancement of Computing in Education (AACE).
 
 Rourke, L., Anderson, T., Garrison, D. R., & Archer, W. (1999). Assessing social presence in asynchronous text-based computer conferencing. *Journal of Distance Education (Online), 14*(2), 50-71.
 
-Salmon, G. (2004). *E-moderating: The key to teaching and learning online*. Psychology Press.
+Salmon, G. (2004). *E-moderating: The key to teaching and learning online*. London: Taylor & Francis.
 
-Sheridan, K., Kelly, M., A. , & Bentz, D., T. (2013). A Follow-Up Study of the Indicators of Teaching Presence Critical to Students in Online Courses *Educational Communities of Inquiry: Theoretical Framework, Research and Practice* (pp. 67-83). Hershey, PA, USA: IGI Global.
+Sheridan, K., Kelly, M., A., & Bentz, D., T. (2013). A follow-up study of the indicators of teaching presence critical to students in online courses. In [Z. Akyol](http://www.igi-global.com/affiliate/zehra-akyol/218982/) & [D. R. Garrison](http://www.igi-global.com/affiliate/d-randy-garrison/129349/) (Eds.), *Educational Communities of Inquiry: Theoretical Framework, Research and Practice* (pp. 67-83). Hershey, PA, USA: IGI Global.
 
-Sheridan, T. B. (1992). Musings on telepresence and virtual presence. *Presence: Teleoper. Virtual Environ.*, 1(1), 120-126
+Sheridan, T. B. (1992). Musings on telepresence and virtual presence. *Presence: Teleoperators Virtual Environments, 1*(1), 120-126. doi:[10.1162/pres.1992.1.1.120](https://doi.org/10.1162/pres.1992.1.1.120)
 
-Swan, K. (2001). Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses. *Distance Education, 22*(2), 306-331. doi: 10.1080/0158791010220208
+Smyth, R. (2011). Enhancing learner-learner interaction using video communications in higher education: Implications from theorising about a new model. *British Journal of Educational Technology, 42*(1), 113–127. doi:10.1111/j.1467-8535.2009.00990.x
 
-Swan, K., Shea, P., Richardson, J., Ice, P., Garrison, D., Cleveland-Innes, M., et al. (2008). Validating a measurement tool of presence in online communities of inquiry. *E-mentor, 2*(24), 1-12.
+Swan, K. (2001). Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses. *Distance Education, 22*(2), 306-331. doi:10.1080/0158791010220208
+
+Swan, K., Shea, P., Richardson, J., Ice, P., Garrison, D., Cleveland-Innes, M., et al. (2008). Validating a measurement tool of presence in online communities of inquiry. *E-mentor, 2*(24), 1-12. Retrieved from [http://www.e-mentor.edu.pl/artykul/index/numer/24/id/543](http://www.e-mentor.edu.pl/artykul/index/numer/24/id/543)
 
 </div>

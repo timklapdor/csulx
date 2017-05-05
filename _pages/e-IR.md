@@ -50,12 +50,12 @@ One reason for the slow application of interactive resources is the fact that th
 
 Dalgarno, B., & Lee, M. (2010). What are the learning affordances of 3-D virtual environments? *British Journal of Educational Technology, 42*(1), 10-32. doi: 10.1111/j.1467-8535.2009.01038.x
 
-De Jong, T., Linn, M. C., & Zacharia, Z. C. (2013). Physical and virtual laboratories in science and engineering education. Science. *Science, 340*(6130), 305-308. doi: DOI: 10.1126/science.1230579
+De Jong, T., Linn, M. C., & Zacharia, Z. C. (2013). Physical and virtual laboratories in science and engineering education. *Science, 340*(6130), 305-308. doi:10.1126/science.1230579
 
-Russell, C., & Shepherd, J. (2010). Online role play environments for higher education. *British Journal of Educational Technology, 41*(6), 992-1002. doi: 10.1111/j.1467-8535.2009.01048.x
+Russell, C., & Shepherd, J. (2010). Online role play environments for higher education. *British Journal of Educational Technology, 41*(6), 992-1002. doi:10.1111/j.1467-8535.2009.01048.x
 
 Venable, B. B. (2001). Using role play to teach and learn aesthetics. *Art Education, 54*(1), 47-51.
 
-Wills, S., Leigh, E., & Ip. (2011). *The power of role-based e-learning: designing and moderating online role play*: Routledge.
+Wills, S., Leigh, E., & Ip., A. (2011). *The power of role-based e-learning: Designing and moderating online role play*. New York: Routledge.
 
 </div>

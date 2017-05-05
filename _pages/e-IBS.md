@@ -69,13 +69,13 @@ Drawing together findings from a number of studies, the following are some key r
 
 ### References
 
-Bennett, S., Bishop, A., Dalgarno, B., Waycott, J., & Kennedy, G. (2012). Implementing Web 2.0 technologies in higher education: A collective case study. *Computers & Education, 59*(2), 524–534. http://doi.org/10.1016/j.compedu.2011.12.022
+Bennett, S., Bishop, A., Dalgarno, B., Waycott, J., & Kennedy, G. (2012). Implementing Web 2.0 technologies in higher education: A collective case study. *Computers & Education, 59*(2), 524–534. doi:10.1016/j.compedu.2011.12.022
 
-Bernard, R. M., & Rubalcava, B. R. D. (2000). Collaborative online distance learning: Issues for future practice and research. *Distance education, 21*(2), 260-277.
+Bernard, R. M., & Rubalcava, B. R. D. (2000). Collaborative online distance learning: Issues for future practice and research. *Distance Education, 21*(2), 260-277. [doi:10.1080/0158791000210205](http://dx.doi.org/10.1080/0158791000210205)
 
-Bernard, R. M., Abrami, P. C., Borokhovski, E., Wade, C. A., Tamim, R. M., Surkes, M. A., & Bethel, E. C. (2009). A meta-analysis of three types of interaction treatments in distance education. *Review of Educational research, 79*(3), 1243-1289.
+Bernard, R. M., Abrami, P. C., Borokhovski, E., Wade, C. A., Tamim, R. M., Surkes, M. A., & Bethel, E. C. (2009). A meta-analysis of three types of interaction treatments in distance education. *Review of Educational Research, 79*(3), 1243-1289. doi:[10.3102/0034654309333844](http://dx.doi.org/10.3102%2F0034654309333844)
 
-Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher education, 32*(3), 347-364.
+Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher Education, 32*(3), 347-364. doi:10.1007/BF00138871
 
 Bloom, B. S. (1984). The 2 sigma problem: The search for methods of group instruction as effective as one-to-one tutoring. *Educational Researcher, 13*(6), 4-16.
 
@@ -83,62 +83,62 @@ Borokhovski, E., Tamim, R., Bernard, R. M., Abrami, P. C., & Sokolovskaya, A. (2
 
 Boud, D., Cohen, R., & Sampson, J. (Eds.). (2014). *Peer learning in higher education: Learning from and with each other*. Routledge.
 
-Brockbank, A., & McGill, I. (2007). *Facilitating reflective learning in higher education*. McGraw-Hill Education (UK).
+Brockbank, A., & McGill, I. (2007). *Facilitating reflective learning in higher education *(2nd ed.). London: McGraw-Hill Education.
 
-Churchill, D. (2009). Educational applications of Web 2.0: Using blogs to support teaching and learning. *British Journal of Educational Technology, 40*(1), 179-183.
+Churchill, D. (2009). Educational applications of Web 2.0: Using blogs to support teaching and learning. *British Journal of Educational Technology*, *40*(1), 179-183. doi:10.1111/j.1467-8535.2008.00865.x
 
-Cho, M. H., & Kim, B. J. (2013). Students' self-regulation for interaction with others in online learning environments. *The Internet and Higher Education, 17*, 69-75.
+Cho, M. H., & Kim, B. J. (2013). Students' self-regulation for interaction with others in online learning environments. *The Internet and Higher Education*, *17*, 69-75. [doi:10.1016/j.iheduc.2012.11.001](http://dx.doi.org/10.1016/j.iheduc.2012.11.001)
 
-Dalgarno, B., Reupert, A., & Bishop, A. (2015). Blogging while on professional placement: explaining the diversity in student attitudes and engagement. *Technology, Pedagogy and Education, 24*(2), 189-209.
+Dalgarno, B., Reupert, A., & Bishop, A. (2015). Blogging while on professional placement: explaining the diversity in student attitudes and engagement. *Technology, Pedagogy and Education, 24*(2), 189-209. doi:10.1080/1475939X.2013.847481
 
-Deng, L., & Yuen, A. H. K. (2011). Towards a framework for educational affordances of blogs. *Computers and Education*, 56, 441–451.
+Deng, L., & Yuen, A. H. K. (2011). Towards a framework for educational affordances of blogs. *Computers and Education, 56*, 441–451. [doi:10.1016/j.compedu.2010.09.005](http://dx.doi.org/10.1016/j.compedu.2010.09.005)
 
-Divitini, M., Haugalokken, O., & Morken, E. M. (2005, July). Blog to support learning in the field: Lessons learned from a fiasco. Paper presented at the Fifth IEEE International Conference on Advanced Learning Technologies (ICALT'05), Kaohsiung, Taiwan.
+Divitini, M., Haugalokken, O., & Morken, E. M. (2005, July). *Blog to support learning in the field: Lessons learned from a fiasco*. Paper presented at the Fifth IEEE International Conference on Advanced Learning Technologies (ICALT'05), Kaohsiung, Taiwan.
 
-Farmer, J. (2004). Communication dynamics: discussion boards, weblogs and the development of communities of inquiry in online learning environments. In R. Atkinson, C. McBeath, D. Jonas-Dwyer, R. Phillips (Eds.), *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference* (pp. 274–283). Perth, 5-8 December. [http://www.ascilite.org.au/conferences/perth04/procs/farmer.html](http://www.ascilite.org.au/conferences/perth04/procs/farmer.html)
+Farmer, J. (2004). Communication dynamics: discussion boards, weblogs and the development of communities of inquiry in online learning environments. In R. Atkinson, C. McBeath, D. Jonas-Dwyer, R. Phillips (Eds.), *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference* (pp. 274–283). Perth, 5-8 December. Retrieved from [http://www.ascilite.org.au/conferences/perth04/procs/farmer.html](http://www.ascilite.org.au/conferences/perth04/procs/farmer.html)
 
-Farmer, B., Yue, A., & Brooks, C. (2007). Using blogging for higher order learning in large-cohort university teaching: A case study. In *ICT: Providing choices for learners and learning.  Proceedings ascilite Singapore 2007* (pp. 262-270). [http://www.ascilite.org.au/conferences/singapore07/procs/farmer.pdf](http://www.ascilite.org.au/conferences/singapore07/procs/farmer.pdf)
+Farmer, B., Yue, A., & Brooks, C. (2007). Using blogging for higher order learning in large-cohort university teaching: A case study. In *ICT: Providing choices for learners and learning.  Proceedings ascilite Singapore 2007* (pp. 262-270). Retrieved from [http://www.ascilite.org.au/conferences/singapore07/procs/farmer.pdf](http://www.ascilite.org.au/conferences/singapore07/procs/farmer.pdf)
 
 Fuchs, D., Fuchs, L. S., Mathes, P. G., & Simmons, D. C. (1997). Peer-assisted learning strategies: Making classrooms more responsive to diversity. *American Educational Research Journal, 34*(1), 174-206.
 
-Garrison, D. R., Anderson, T., & Archer, W. (1999). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The internet and higher education, 2*(2), 87-105.
+Garrison, D. R., Anderson, T., & Archer, W. (1999). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The internet and higher education, 2*(2), 87-105. [doi:10.1016/S1096-7516(00)00016-6](http://dx.doi.org/10.1016/S1096-7516(00)00016-6)
 
-Hattie, J. (2008). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge.
+Hattie, J. (2008). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Oxon, UK: Routledge.
 
-Hourigan, T. & Murray, L. (2010). Investigating the emerging generic features of the blog writing task across three discrete learner groups at a higher education institution. *Educational Media International, 47*(2), 83-101.
+Hourigan, T., & Murray, L. (2010). Investigating the emerging generic features of the blog writing task across three discrete learner groups at a higher education institution. *Educational Media International, 47*(2), 83-101. [doi:10.1080/09523987.2010.492674](http://dx.doi.org/10.1080/09523987.2010.492674)
 
-Hrastinski, S. (2008). Asynchronous and synchronous e-learning. *Educause quarterly, 31*(4), 51-55 available: [http://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning](http://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning)
+Hrastinski, S. (2008). Asynchronous and synchronous e-learning. *Educause quarterly, 31*(4), 51-55. Retrieved from [http://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning](http://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning)
 
-Hrastinski, S., Keller, C., & Carlsson, S. A. (2010). Design exemplars for synchronous e-learning: A design theory approach. *Computers & Education, 55*(2), 652–662. http://doi.org/10.1016/j.compedu.2010.02.025
+Hrastinski, S., Keller, C., & Carlsson, S. A. (2010). Design exemplars for synchronous e-learning: A design theory approach. *Computers & Education*, *55*(2), 652–662. doi:10.1016/j.compedu.2010.02.025
 
-Kreijns, K., Kirschner, P. A., & Jochems, W. (2002). The Sociability of Computer-Supported Collaborative Learning Environments. *Educational Technology & Society, 5*(1), 1-21.
+Kreijns, K., Kirschner, P. A., & Jochems, W. (2002). The sociability of computer-supported collaborative learning environments. *Educational Technology & Society, 5*(1), 1-21.
 
-Johnson, D. W., Johnson, R.T., & Smith, K.A. . (1998). Cooperative Learning Returns to College What Evidence Is There That It Works? *Change: The Magazine of Higher Learning, 30*(4), 26-35.
+Johnson, D. W., Johnson, R. T., & Smith, K.A. (1998). Cooperative learning returns to college what evidence is there that it works?, *Change: The Magazine of Higher Learning, 30*(4), 26-35.
 
-Le Cornu, R. (2005). Peer mentoring: Engaging pre-service teachers in mentoring one another. *Mentoring & Tutoring: Partnership in Learning*, 13, 355–366.
+Le Cornu, R. (2005). Peer mentoring: Engaging pre-service teachers in mentoring one another. *Mentoring & Tutoring: Partnership in Learning, 13*, 355–366.
 
-McLoughlin, C. & Lee, M.J.W. (2010). Developing an online community to promote engagement and professional learning for pre-service teachers using social software tools. *Journal of Cases in Information Technology, 12*(1), 17-30.
+McLoughlin, C., & Lee, M. J. W. (2010). Developing an online community to promote engagement and professional learning for pre-service teachers using social software tools. *Journal of Cases in Information Technology, 12*(1), 17-30. [doi:10.1080/13611260500105592](http://dx.doi.org/10.1080/13611260500105592)
 
-Moore, M. G. (1989). Editorial: Three types of interaction. *American Journal of Distance Education, 3*(2), 1-7.
+Moore, M. G. (1989). Editorial: Three types of interaction. *American Journal of Distance Education, 3*(2), 1-7. [doi:10.1080/08923648909526659](http://dx.doi.org/10.1080/08923648909526659)
 
-Putnam, J. W. (1998). The Process of Cooperative Learning. In J. W. Putnam (Ed.), *Cooperative Learning and Strategies for Inclusion: Celebrating the diversity in classroom* (2 ed., pp. 17-47). Blatimore, Maryland, USA: Paul H. Brookes Publishing Co.
+Putnam, J. W. (1998). The process of cooperative learning. In J. W. Putnam (Ed.), *Cooperative learning and strategies for inclusion: Celebrating the diversity in classroom* (2nd ed., pp. 17-47). Baltimore, Maryland, USA: Paul H. Brookes Publishing Co.
 
-Rowley, J., and Munday, J. (2014). A ‘Sense of self’ through reflective thinking in ePortfolios, *International Journal of Humanities Social Sciences and Education*, 1(7), 78-85.
+Rowley, J., & Munday, J. (2014). A ‘sense of self’ through reflective thinking in ePortfolios, *International Journal of Humanities Social Sciences and Education, 1*(7), 78-85.
 
-Rush, P. (2014). Wide Open Listening: what is it really like to be a distance student?. In *'Rhetoric or Reality: Critical Perspectives on Educational Technology’-Ascilite Conference 2014* (pp. 1-11).
+Rush, P. (2014). Wide open listening: What is it really like to be a distance student?. In B. Hegarty, J. McDonald, & S.-K. Loke (Eds.), *Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014* (pp. 348-358).
 
-Schon, D. A. (1987). *Educating the reﬂective practitioner*. San Francisco: Iossey-Bass.
+Schon, D. A. (1987). *Educating the reﬂective practitioner*. San Francisco: Jossey-Bass.
 
-Slavin, R. (1991). Synthesis of research of cooperative learning. *Educational Leadership*, 48, 71-82.
+Slavin, R. (1991). Synthesis of research of cooperative learning. *Educational Leadership, 48*(5), 71-82.
 
-Slavin, R. E. (1996). Research for the future. Research on Cooperative Learning and Achievement: What We Know, What We Need to Know. *Contemporary Educational Psychology, 21*(1), 43-69.
+Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Contemporary Educational Psychology, 21*(1), 43-69. doi:10.1006/ceps.1996.0004
 
-Stiler, G.M., & Philleo, T. (2003). Blogging and blogspots: An alternative format for encouraging reflective practice among preservice teachers. *Education, 123*(4), 789-797.
+Stiler, G. M., & Philleo, T. (2003). Blogging and blogspots: An alternative format for encouraging reflective practice among preservice teachers. *Education, 123*(4), 789-797.
 
-Stoughton, E. H. (2007). ‘How will I get them to behave?’: Pre service teachers reflect on classroom management. T*eaching and Teacher Education*, 23, 1024–1037.
+Stoughton, E. H. (2007). ‘How will I get them to behave?’: Pre service teachers reflect on classroom management. *Teaching and Teacher Education, 23*(7), 1024–1037. [doi:10.1016/j.tate.2006.05.001](http://dx.doi.org/10.1016/j.tate.2006.05.001)
 
-Top, E., Yukselturk, E., & Inan, F. A. (2010). Reconsidering usage of blogging in preservice teacher education courses. *The Internet and Higher Education*, 13(4), 214-217.
+Top, E., Yukselturk, E., & Inan, F. A. (2010). Reconsidering usage of blogging in preservice teacher education courses. *The Internet and Higher Education, 13*(4), 214-217. [doi:10.1016/j.iheduc.2010.05.003](http://dx.doi.org/10.1016/j.iheduc.2010.05.003)
 
-Yang, S-H. (2009). Using blogs to enhance critical reflection and community of practice. *Educational Technology and Society, 12(2)*, 11-21.
+Yang, S-H. (2009). Using blogs to enhance critical reflection and community of practice. *Educational Technology and Society, 12(2)*, 11-21. Retrieved from [http://www.ifets.info/journals/12_2/2.pdf](http://www.ifets.info/journals/12_2/2.pdf)
 
 </div>

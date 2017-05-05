@@ -44,12 +44,12 @@ Alongside this, flexibility in the timing and mode of engagement with teachers, 
 
 <div class="apa-ref" markdown="1">
 
-Conole, G. (Ed.). (2009). *Personalisation through technology-Enhanced learning*. London: IGI Global.
+Conole, G. (2009). *Personalisation through technology-Enhanced learning*. In J. O'Donoghue (Ed.), *[Technology-Supported Environments for Personalized Learning: Methods and Case Studies](http://www.igi-global.com/book/technology-supported-environments-personalized-learning/982)* (pp. 1-15). London: IGI Global. doi:10.4018/978-1-60566-884-0.ch001
 
-Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., & Knight, E. (2013). Digital badges in education. *Education and information technologies, 20*(2), 403-410.
+Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., & Knight, E. (2013). Digital badges in education. *Education and information technologies, 20*(2), 403-410. doi:10.1007/s10639-013-9291-7
 
-Irwin, B., Hepplestone, S., Holden, G., Parkin, H. J., & Thorpe, L. (2013). Engaging students with feedback through adaptive release. *Innovations in Education & Teaching International., 50*(1), 51-61.
+Irwin, B., Hepplestone, S., Holden, G., Parkin, H. J., & Thorpe, L. (2013). Engaging students with feedback through adaptive release. *Innovations in Education & Teaching International, 50*(1), 51-61. [doi:10.1080/14703297.2012.748333](http://dx.doi.org/10.1080/14703297.2012.748333)
 
-Siemens, G., & Long, P. (2011). Penetrating the fog: Analytics in learning and education. *EDUCAUSE reviews, 46*(5), 30.
+Siemens, G., & Long, P. (2011). Penetrating the fog: Analytics in learning and education. *EDUCAUSE review, 46*(5), 30.
 
 </div>
