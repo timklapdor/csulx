@@ -12,7 +12,7 @@ subjectnames: "Digital Citizenship in Schools, Developing Human Resources,"
 
 ### Overview
 
-Giving students more control over the assessment process is a great way to personalise the learning experience for each student. Subject enrolments often include students from a wide range of disciplines, and differentiated assessment tasks can be developed to cater for this diversity. Questions can be aligned with different discipline areas that ask students to draw on those unique aspects of their experience. Students could also have choice around the type of artefact they may produce, allowing them an opportunity to express and communicate in different forms. Providing students the opportunity to produce assessment items which relate to their chosen field is motivational as well as practical. As described by Bosco and Ferns, such assessment practices nurture graduate employment capabilities (p. 289, 2014). Students come away from their studies with artefacts and experience relevant to the workplace.
+Giving students more control over the assessment process is a great way to personalise the learning experience for each student. Subject enrolments often include students from a wide range of disciplines, and differentiated assessment tasks can be developed to cater for this diversity. Questions can be aligned with different discipline areas that ask students to draw on those unique aspects of their experience. Students could also have choice around the type of artefact they may produce, allowing them an opportunity to express and communicate in different forms. Providing students the opportunity to produce assessment items which relate to their chosen field is motivational as well as practical. As described by Bosco and Ferns, such assessment practices nurture graduate employment capabilities (2014, p. 289). Students come away from their studies with artefacts and experience relevant to the workplace.
 
 ### Engagement
 
@@ -96,7 +96,7 @@ There are a number of assessment formats to provide greater choice to students i
 Some of the tools that enable choice within assessment tasks include:
 
 * MS Word, Powerpoint or online versions e.g., Google docs and presentations
-* Wikispaces
+* Wikispaces and other Web 2.0 tools such as Voicethread, PowToons
 * Smart Sparrow - Smart Sparrow is an adaptive learning technology that provides the tools to create, deploy, share and analyse lessons that are interactive and adaptive. Smart Sparrow can capture, measure and report nuanced details about student learning, providing individualised feedback to students that lets them know where their strengths and weaknesses lie. This means that teaching staff have the ability to give each student a more personalised learning experience by providing real-time feedback and adaptive pathways that, for example, may specifically target misconceptions. You can [sign up for a free Smart Sparrow account](https://aelp.smartsparrow.com/login/signup) and to commence the development process for a Smart Sparrow adaptive lesson,[use the DSL Service Request System (SRS)](https://online.csu.edu.au/de/dewsrsc.sqt?run=TopicRequest).
 * Realizeit - A cloud-based platform providing adaptive content authoring to create interactive online tutorials and lessons that are responsive to a student's achievement. Realizit uses real-time analytics to capture and report on analytics relating to accesses, attempts, activity, progress, duration and achievement. This enables you to see things like who has and hasn't commenced specific lessons/tutorials, how students are progressing through those lessons, if/where students are "getting stuck" and how they are performing on tests/quizzes. To commence the development process for a Realizeit adaptive lesson, [use the DSL Service Request System (SRS)](https://online.csu.edu.au/de/dewsrsc.sqt?run=TopicRequest).
 
@@ -104,9 +104,7 @@ Some of the tools that enable choice within assessment tasks include:
 
 <div class="apa-ref" markdown="1">
 
-Bosco, A., & Ferns, S. (2014). Embedding authentic assessment in work-integrated learning curriculum. *Asia-Pacific Journal of Cooperative Education 15*(4), 281-290. Retrieved from
-
-[http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live](http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live)
+Bosco, A., & Ferns, S. (2014). Embedding authentic assessment in work-integrated learning curriculum. *Asia-Pacific Journal of Cooperative Education 15*(4), 281-290. Retrieved from [http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live](http://ezproxy.csu.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1113553&site=ehost-live)
 
 Pacharn, P., Bay, D. & Felton, S. (2013). The impact of a flexible assessment system on students' motivation, performance and attitude, *Accounting Education, 22*(2), 147-167. doi:[http://dx.doi.org/10.1080/09639284.2013.765292](http://dx.doi.org/10.1080/09639284.2013.765292)
 
