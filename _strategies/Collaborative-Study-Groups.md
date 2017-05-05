@@ -85,7 +85,7 @@ It is important to have a clear understanding of why and how setting up a smalle
 * Within Interact 2 the ‘Groups’ feature allows cohorts to be divided into smaller groupings, and within these they can discuss, share etc.
 * The Interact2 Wiki can also provide an area for group work.
 * Google Forms is a useful way to collect information from students. It efficiently pours data into a spreadsheet that can then be shared with students to ‘view’
-* uImagine is currently developing a new tool **GrouperPlus** to provide a more powerful way to group students. If you would be interested in testing out the tool please [feel free to get in touch](mailto:tklapdor@csu.edu.au?subject=I'm interested in GrouperPlus).
+* uImagine is currently developing a new tool **GrouperPlus** to provide a more powerful way to group students. If you would be interested in testing out the tool please [feel free to get in touch](mailto:tklapdor@csu.edu.au?subject="I'm interested in GrouperPlus").
 
 ### Additional Resources
 
@@ -93,18 +93,16 @@ It is important to have a clear understanding of why and how setting up a smalle
 
 Bruner , J. (1985). Vygotsky: An historical and conceptual perspective. *Culture, communication, and cognition: Vygotskian perspectives*, 21-34. London: Cambridge University Press
 
-Dillenbourg, P. (1999). Collaborative Learning: Cognitive and Computational Approaches. Advances in Learning and Instruction Series. New York, NY: Elsevier Science, Inc
+Dillenbourg, P. (1999). Collaborative Learning: Cognitive and Computational Approaches. *Advances in Learning and Instruction Serie*. New York, NY: Elsevier Science, Inc
 
-Dillenbourgh, P., Baker, M., Blaye, A. & O’Malley, C. (1995). The evolution of research on Collaborative Learning. Retrieved February 19, 2008, from CSCL-A brief overview
+Dillenbourgh, P., Baker, M., Blaye, A. & O’Malley, C. (1995). *The evolution of research on Collaborative Learning*. Retrieved February 19, 2008, from CSCL-A brief overview
 
-Rogoff, B., Toma, C. (2009). "Shared thinking: Community and institutional variations. Discourse Processes". DOI: 10.1080/01638539209545000.
-
-Stacy, Elizabeth (1999). "Collaborative Learning in an Online Environment". *Journal of Distance Education doi:10.21061/jte.v7i1.a.2*
-
-Collaborative Learning Enhances Critical Thinking
-
-Anuradha A. *[Gokhale vol7 no1](https://scholar.lib.vt.edu/ejournals/JTE/v7n1/gokhale.jte-v7n1.html#about%20author)*
+Gokhale, A. (1995). Collaborative Learning Enhances Critical Thinking. Journal Of Technology Education, 7(1). [http://dx.doi.org/10.21061/jte.v7i1.a.2](http://dx.doi.org/10.21061/jte.v7i1.a.2)
 
 Rau , W. & Heyl, B. S. (1990). Humanizing the college classroom: Collaborative learning and social organization among students. *Teaching Sociology, 18*, 141-155.
+
+Rogoff, B., & Toma, C. (1997). Shared thinking: Community and institutional variations. *Discourse Processes, 23*(3), 471-497. [http://dx.doi.org/10.1080/01638539709545000](http://dx.doi.org/10.1080/01638539709545000)
+
+Stacey, E. (2007). Collaborative learning in an online environment. *International Journal of E-Learning & Distance Education, 14*(2), 14-33. Retrieved from [http://www.ijede.ca/index.php/jde/article/view/154](http://www.ijede.ca/index.php/jde/article/view/154)
 
 </div>
