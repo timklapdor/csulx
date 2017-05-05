@@ -38,11 +38,11 @@ Wendy Webber
 
 #### Implementation
 
-Students were grouped in ‘Study Buddy’ Groups which required them to engage with their fellow group members early in the session (prior to the first assessment) to increase their familiarity with the online learning environment and build some level of rapport with fellow students, as many students within MGT100 are entering higher education for the first time. As MGT100 has several hundred students each session, creating a sense of connectedness is an important consideration in the planning for this subject. Students were asked to complete the following tasks within their 15 person ‘Study Buddy’ small peer group, early in the session in order to successfully complete the first assessment task.
+Students were grouped in ‘Study Buddy’ Groups which required them to engage with their fellow group members early in the session (prior to the first assessment) to increase their familiarity with the online learning environment and build some level of rapport with fellow students, as many students within MGT100 are entering higher education for the first time. As MGT100 has several hundred students each session, creating a sense of connectedness is an important consideration in the planning for this subject. Students were asked to complete the tasks shown in the image below within their 15 person ‘Study Buddy’ small peer group, early in the session in order to successfully complete the first assessment task.
 
 Students were able to enrol in any one of the 20 Buddy Groups, each of which contained a group discussion board where the Student Mentor was also present in conversations and responses. By engaging students in interactions in groups of no more than 20 students in the critical early phase of session, it was aimed to lessen potential anxiety and maximise opportunity for interaction rather than feel swamped by being one of many hundreds of students.
 
-Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year. '
+Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year. 
 
 {% include swiper.html url1="Collaborative-Study-Groups-MGT100-1.png" url2="Collaborative-Study-Groups-MGT100-2.png" %}
 
@@ -62,11 +62,11 @@ Julie Lindsay
 
 #### Motivation
 
-INF532 Knowledge Networking for Educators is a subject in the postgraduate degree Master of Education in Knowledge Networks and Digital Innovation (School of Information Studies). In a class of about 20-30 students, the INF532 cohort is not large, however the use of blogging buddies in this subject grouped students for peer interaction and peer review of the ongoing blogging process. Rather than trying to interact and read across a large number of reflective blogs, students had 3 other ‘buddies’ - and this grouping changed mid-session to allow new buddy experiences
+INF532 Knowledge Networking for Educators is a subject in the postgraduate degree Master of Education in Knowledge Networks and Digital Innovation (School of Information Studies). In a class of about 20-30 students, the INF532 cohort is not large, however the use of blogging buddies in this subject grouped students for peer interaction and peer review as part of the ongoing blogging process. Rather than trying to interact and read across a large number of reflective blogs, students had 3 other ‘buddies’ - and this grouping changed mid-session to allow new buddy experiences
 
 #### Implementation
 
-At the start of the session students filled in an online Google form, sharing essential details including their ThinkSpace URL. They were then grouped into small groups of 4, and the resulting spreadsheet colour-coded for ease of reading. This was shared with students as a ‘view only’ doc.
+At the start of the session students filled in an online Google form, sharing essential details including their ThinkSpace URL. The resulting spreadsheet, colour-coded for ease of reading, helped to put students into groups of four. This was shared with students as a ‘view only’ doc.
 
 ![Screenshot of the Groups List](../images/practices/Collaborative-Study-Groups-INF532.png){: .u-full-width}
 
@@ -76,7 +76,7 @@ At the start of the session students filled in an online Google form, sharing es
 
 ### Guide
 
-This student to student organisation is a valuable management strategy for large cohorts across all student levels, and when set up and monitored effectively, can facilitate strong student to student support systems. Providing a clear structure for students to engage is key to ensuring that students have opportunities to collaborate and improve the overall chances of success.
+This student to student organisation is a valuable management strategy for large and small cohorts across all student levels, and when set up and monitored effectively, can facilitate strong student to student support systems. Providing a clear structure for students to engage is key to ensuring that students have opportunities to collaborate and improve the overall chances of success.
 
 It is important to have a clear understanding of why and how setting up a smaller group will improve the student experience. Certain subjects and topics lend themselves to working in groups, as do certain student cohorts. The specific structure of groups is determined by the approach to teaching and learning and, ideally, assessment practices in the subject. By creating a grouping experience and structure that incorporates assessment in some way it is more likely the attention and participation of students will be garnered.
 
