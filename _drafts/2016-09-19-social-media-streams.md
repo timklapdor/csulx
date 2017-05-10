@@ -34,7 +34,7 @@ Social media and networking tools are used to connect all cohorts within the cou
 
 #### Implementation
 
-The course- level site (Knowledge Networks and Digital Innovation) was served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
+The course- level site (Knowledge Networks and Digital Innovation) was served as a portal, housing links to individual subjects as well as a Twitter feed, ThinkSpace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
 
 <div class="container row">
 <div class="offset-by-two eight columns">
@@ -47,7 +47,7 @@ The course- level site (Knowledge Networks and Digital Innovation) was served as
 
 ### Guide
 
-Social media is an incredibly powerful tool that allows student work to be published to a global audience and enable dialogue between students, educators, university staff, professional and experts, in a less formal and more immediate form. Utilising hashtags and creating specialised accounts to harness social media streams means that the learning community as a whole can benefit from the wealth of information available. They provide a way to structure and share interactions, thoughts, ideas and relevant information. While each platform can be used on it’s own the streams created can often be embedded into course and organisational sites in Interact2, providing students with a simple way of interacting and engaging. See [How to Embed Facebook Feed](https://cms.drupal.ku.edu/how-embed-facebook-feed) or [How to Embed Twitter Feed](https://elearn.southampton.ac.uk/blackboard/addtwitter/)
+Social media is an incredibly powerful tool that allows student work to be published to a global audience and enable dialogue between students, educators, university staff, professional and experts, in a less formal and more immediate form. Utilising hashtags and creating specialised accounts to harness social media streams means that the learning community as a whole can benefit from the wealth of information available. They provide a way to structure and share interactions, thoughts, ideas and relevant information. While each platform can be used on its own the streams created can often be embedded into course and organisational sites in Interact2, providing students with a simple way of interacting and engaging. See [How to Embed Facebook Feed](https://cms.drupal.ku.edu/how-embed-facebook-feed) or [How to Embed Twitter Feed](https://elearn.southampton.ac.uk/blackboard/addtwitter/)
 
 As education aligns more closely with technological trends, lecturers need to carefully consider the use of social media for teaching and learning purposes. Students will often set up their own Facebook groups, but whether or not lecturers use social media in their teaching is another matter. It is recommended they consider the appropriateness and desired outcomes when using social media and [the affordances of the different platforms](https://www.youtube.com/watch?v=g_is3gT7X0Y). [CSU’s Social media use policy for staff](https://policy.csu.edu.au/view.current.php?id=00384) is also worth perusing.
 
@@ -55,7 +55,7 @@ Tomayess’ 2015 examination of social media use within Australian higher educat
 
 ### Tools
 
-There are several social media and networking tools to choose from and in this short video [Harold Jarche discusses some of the differences between the social media platforms](https://www.youtube.com/watch?v=g_is3gT7X0Y). Facebook, Twitter, Instagram and Pintrest are popular choices for sharing content and media. Diigo is a handy tool for sharing useful websites. PebblePad and Thinkspace are both blogging, ePortfolio tools supported by CSU which allow student to publish externally.
+There are several social media and networking tools to choose from and in this short video [Harold Jarche discusses some of the differences between the social media platforms](https://www.youtube.com/watch?v=g_is3gT7X0Y). Facebook, Twitter, Instagram and Pintrest are popular choices for sharing content and media. Diigo is a handy tool for sharing useful websites. PebblePad and ThinkSpace are both blogging, ePortfolio tools supported by CSU which allow student to publish externally.
 
 ### Further Reading
 

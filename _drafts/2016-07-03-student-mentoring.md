@@ -28,7 +28,7 @@ MGT100 inclusion of a ‘Student Mentor.’ This student mentor was a former stu
 This Student Mentor was a critical component in planning the staff team approach within MGT100. As a former student of the subject the mentor was able to:
 
 -  Provide regular updates to students in a ‘student friendly’ manner-informal tone.
-- Give snippets of the mentor’s life alongside her study routines  which demonstrated the need to plan for study amongst outside commitments, a skill not always prevalent in new students.
+- Give snippets of the mentor’s life alongside her study routines which demonstrated the need to plan for study amongst outside commitments, a skill not always prevalent in new students.
 - Provide timely reminders about accessing resources and planning ahead for assignment preparation and submission
 - Position themselves within the Interact2 site as a ‘safe’ person for students to ask questions of via the discussion forums within each study buddy group. 
 

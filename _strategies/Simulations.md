@@ -20,7 +20,7 @@ The degree of "fidelity", or how close the simulation comes to the real world ca
 
 ### Engagement
 
-Helping students to see the links between their studies and the real world can be highly engaging. This kind of student centred, active learning can challenge their knowledge, skills, and competencies and push them into situations that require critical thinking. The advantages of simulations is that the instructor can control the complexity so as not overwhelm the novice, but that at the same time can reinforce key concepts, and their application in practice.
+Helping students to see the links between their studies and the real world can be highly engaging. This kind of student centred, active learning can challenge their knowledge, skills, and competencies and push them into situations that require critical thinking. The advantage of simulations are that the instructor can control the complexity so as not overwhelm the novice, but that at the same time can reinforce key concepts, and their application in practice.
 
 Actually employing the simulation tools/software used in real-world practice is a good way to introduce students to the work environment. Students can also practice the skills of their profession including the so-called "soft" skills that are often difficult to teach in a traditional classroom.
 
@@ -85,21 +85,21 @@ While virtual spaces, such as OpenSim and Second Life exist, it is worthwhile co
 - **Careful planning** The simulation needs to be carefully designed to meet the intended learning outcomes. Instructors need to be trained and practiced in the use of the simulation before opening to students. Instructions can be useful in assisting students to get started, and covering common issues or mistakes can make the overall experience easier for learners and instructors. Monitoring of class participation by teacher is needed, as is finding ways for all students to participate.
 - **Integrate in the curriculum** Research has consistently shown that careful integration with the curriculum generates the best results (Weller et al., 2012). Students need to know why they are doing the simulation and where it fits in their learning. Ensuring students are well prepared beforehand and matching the level of difficulty with the skill level of the student will help bring about a positive outcome.
 - **Class discussions** - Reflection and debriefing are needed so that students gain maximum benefit from the simulation. Feedback from the instructor and peers is also important step (Merchant et al., 2014). Thus there needs to be enough time for reflection and discussions with peers to make sense of the experience, including how this fits with the rest of their classroom learning.
-- **Assessment:** - Simulations can be used to test specific competencies e.g. in counselling in[ psychology](https://www.youtube.com/watch?v=JhpvZvKK0P4).
+- **Assessment:** - Simulations can be used to test specific competencies e.g. in counselling in [psychology](https://www.youtube.com/watch?v=JhpvZvKK0P4).
 - **Emotions** - Depending on the subject matter and how realistic the scenario is, students may encounter situations that trigger emotional responses (Weller et al., 2012). Some planning about how to monitor and effectively deal manage these emotions may be necessary.
 - **Beware negative learning** Depending on how the simulation is set up, there is a possibility of students learning things you would rather they did not learn e.g. taking short cuts or ignoring real world signs and issues/situations not highlighted in the simulations (Weller, et al 2012). Careful design may help, but you need to be alert in student discussions and in observing students to point out where the simulation does not fit into real life.
 
 In her video Donna outlines some of the additional and practical steps required for a successful simulation:
 
 - Identify vignettes and backgrounds, varying in complexity that will allow greatest use of the technology across the four years of the course.
-- Develop scripts for various scenarios and plan out the roles that may be requried.
+- Develop scripts for various scenarios and plan out the roles that may be required.
 - Source audio-visual support to develop (film and record) the scenarios.
 - Provide a way to facilitate scaffolding and skills development prior to engagement with the scenario.
 - Train staff in the use of the technology.
 
 ### Tools
 
-Tools like Adobe Captivate and Smart Sparrow provide simple ways of creating branching scenarios and can utilise existing tools like Powerpoint to design and create the visual elements. Smart Sparrow also includes a rules engine that can create quite in depth interactions based on choices and interactions that the student performs. Various virtual worlds such as Second Life can be employed. Be aware that some students may not be able to enter SL because their computer systems cannot handle it.
+Tools like Adobe Captivate and Smart Sparrow provide simple ways of creating branching scenarios and can utilise existing tools like PowerPoint to design and create the visual elements. Smart Sparrow also includes a rules engine that can create quite in depth interactions based on choices and interactions that the student performs. Various virtual worlds such as Second Life can be employed. Be aware that some students may not be able to enter SL because their computer systems cannot handle it.
 
 ### Additional Resources
 

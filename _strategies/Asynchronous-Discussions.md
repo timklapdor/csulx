@@ -40,11 +40,11 @@ Throughout the Course, students indicated they had minimal social interaction wi
 
 #### Implementation
 
-The lecturer used FlipGrid to provide short video updates to students throughout the session that were then embedded in the Home Page. FlipGrid was also used for Assessment 1 for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology.
+The lecturer used Flipgrid to provide short video updates to students throughout the session that were then embedded in the Home Page. Flipgrid was also used for Assessment 1 for students to introduce themselves to the class and to engage students in a discussion about their own experiences with technology.
 
 ![Example of Flipgrid](../images/practices/Asynchronous-Discussions-EMT409.jpg){: .u-full-width}
 
-[We've set up a FlipGrid so you can try it yourself!](http://flipgrid.com/271f9f)
+[We've set up a Flipgrid so you can try it yourself!](http://flipgrid.com/271f9f)
 
 </div>
 </div>
@@ -81,7 +81,7 @@ In looking for opportunities to develop and facilitate online Asynchronous Discu
 
 * Purpose of discussion, currency and relevance to content.
 * Timing between Discussions, how frequently will staff and students be expected to "check in".
-* How to organise the Discussions - which tools, using headings, groups, allowing students to self select.
+* How to organise the Discussions - which tools, using headings, groups, allowing students to self-select.
 * The level of scaffolding required for early discussions.
 * Ease of access and use for students when selecting tools.
 * If assessable, ease of marking for staff.
@@ -90,7 +90,7 @@ Once these key issues have been identified and addressed, providing a sound just
 
 ### Tools
 
-There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [FlipGrid](http://www.flipgrid.com) and [Celly](https://cel.ly/).
+There are a wide variety of tools available to support the implementation of Asynchronous Discussions, many of them CSU supported technologies including Interact2 Discussion Forums, Blogs and Online Meetings. External technologies could include [Flipgrid](http://www.flipgrid.com) and [Celly](https://cel.ly/).
 
 Be clear about the use of the tool as well as the question or focus of the activity. Linking discussions to Assessment provides an extrinsic motivation and can be a key strategy to encourage student participation. Be sure to make the engagement opportunities simple for student to access by providing embedded links to reduce the navigation required to find the point of engagement.
 
@@ -99,7 +99,7 @@ Different tools have different affordances and can be used in quite different wa
 * **Interact2 Discussion Forums** - Set up Forums with specific and structured questions designed for open discussion amongst students. Highlight recent events / current issues as applicable to real world practice. Academic may need to lead/closely monitor for the first 2-3 but aim for student lead discussion.
 * **Blogs** - Ideally suited for summative assessments. If students are able to see and comment on each other's work, they are more likely to engage due to the inherent benefit that a CoP offers.
 * **Recordings of Online Meetings** - *always* record Online Meetings and always provide the link to students. Those who could not attend are then given the chance to benefit from the interaction and questions of their peers.
-* **FlipGrid** - Allows the academic to ask a question or present a discussion topic, and students create a 60-90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages. 
+* **Flipgrid** - Allows the academic to ask a question or present a discussion topic, and students create a 60-90 second video response using the URL provided. Easy and highly effective tool for developing a sense of community amongst learners by allowing them to see and hear each other. Videos embed easily into Interact2 pages.
 
 ### Additional Resources
 

@@ -4,7 +4,7 @@ title: "Welcome Videos"
 date: 2016-07-19 11:22:00 +1100
 category: strategy
 tags: [Learning Communities, Teacher Presence,]
-description: "Establishing the context for  teaching, learning and assessment in your subject "
+description: "Establishing the context for teaching, learning and assessment in your subject "
 subjects:
 ---
 
@@ -17,11 +17,11 @@ A welcome video of between 5-10 minutes can be used at the commencement of a new
 - Makes clear the primary methods of communication that will be utilised throughout the subject
 - provides students some introductory background regarding the academic’s experience and background in this field of study, giving students a sense of confidence
 - Highlight key aspects of the assessment for the subject and key teaching and learning information
-- Gives students some insight into interests or hobbies etc in order to position themselves as someone who is also managing the demands of work, study and life and which provides an opening for students to themselves provide some some information which can help form the basis of deeper engagement when studying online.
+- Gives students some insight into interests or hobbies etc. in order to position themselves as someone who is also managing the demands of work, study and life and which provides an opening for students to themselves provide some some information which can help form the basis of deeper engagement when studying online.
 
 ### Engagement
 
-The use of a welcome video, available before or at the start of session helps a student establish the context for the teaching, learning and assessment that will occur in the subject. Providing this information in a video, instead of solely relying on a text-based approach, helps students more readily identify with the academic. Providing a welcome video which clearly articulates expectations and highlights the important aspects of the subject can be a foundation to increasing learner-to-academic interaction, this being a key aspect in increasing learner engagement. Research such as that carried out as part of the [LSES report](http://www.lowses.edu.au/assets/ALTC%20LSES%20Final%20Report%202012.pdf) clearly highlights the need for students, particularly those from non traditional backgrounds, to be able to feel that their lecturers are approachable and support their learning journey. Providing a welcome video is an important part of the strategy mix in achieving these aims.
+The use of a welcome video, available before or at the start of session helps a student establish the context for the teaching, learning and assessment that will occur in the subject. Providing this information in a video, instead of solely relying on a text-based approach, helps students more readily identify with the academic. Providing a welcome video which clearly articulates expectations and highlights the important aspects of the subject can be a foundation to increasing learner-to-academic interaction, this being a key aspect in increasing learner engagement. Research such as that carried out as part of the [LSES report](http://www.lowses.edu.au/assets/ALTC%20LSES%20Final%20Report%202012.pdf) clearly highlights the need for students, particularly those from non-traditional backgrounds, to be able to feel that their lecturers are approachable and support their learning journey. Providing a welcome video is an important part of the strategy mix in achieving these aims.
 
 ### Guide
 
@@ -36,15 +36,15 @@ To create a successful Welcome Video there are some decisions to make:
 
 To create a welcome video there is a wide variety of tools available, many of them CSU supported technologies:
 
-- **CSU Replay/Personal Capture** (Echo360) - useful when you wish to capture both yourself as a ‘talking head’ in conjunction with what you are presenting. Of course this software provides options such as voice capture with screen only. A useful tool because the start to finish process can be handled from your desktop;it’s a CSU supported technology and provides ease of insertion into your subject space within interact2
+- **CSU Replay/Personal Capture** (Echo360) - useful when you wish to capture both yourself as a ‘talking head’ in conjunction with what you are presenting. Of course this software provides options such as voice capture with screen only. A useful tool because the start to finish process can be handled from your desktop and it’s a CSU supported technology and provides ease of insertion into your subject space within interact2
 - **Adobe Connect** - used primarily within CSU as a meeting tool, but does provide a screenshare and recording functionality-particularly useful if you intend on providing a recording of an online meeting you have run as a ‘Welcome’ type meeting at the start of your subject.
-- **Computer webcams** - you can create a direct to camera recording utilising the webcam and microphone on your desktop/laptop (PC or mac) and there a numerous options for making this available e.g. storing and streaming in youtube as a private channel and embedding in your interact2 homepage or uploading the file into Interact2 as well (not recommended as students will incur greater download charges). 
-- **Mobile technologies** - such as ipads and smartphones can provide you with a quick and easy way to capture footage ‘in the real world.’ Be aware that these files can quickly become large in size and emailing as a means of moving files can quickly degrade the quality, rendering them unusable. The best way to move these files is through a cloud storage solution such as google drive or dropbox.
+- **Computer webcams** - you can create a direct to camera recording utilising the webcam and microphone on your desktop/laptop (PC or mac) and there a numerous options for making this available e.g. storing and streaming in youtube as a private channel and embedding in your interact2 homepage or uploading the file into Interact2 as well (not recommended as students will incur greater download charges).
+- **Mobile technologies** - such as iPads and smartphones can provide you with a quick and easy way to capture footage ‘in the real world.’ Be aware that these files can quickly become large in size and emailing as a means of moving files can quickly degrade the quality, rendering them unusable. The best way to move these files is through a cloud storage solution such as google drive or dropbox.
 
 ### Further Reading
 
 <div class="apa-ref" markdown="1">
 
-Borup, J., West, R. E., & Graham, C. R. (2012). Improving online social presence through asynchronous video. *The Internet and Higher Education*,*15*(3), 195-203.
+Borup, J., West, R. E., & Graham, C. R. (2012). Improving online social presence through asynchronous video. *The Internet and Higher Education, 15*(3), 195-203.
 
 </div>

@@ -41,10 +41,10 @@ The creation of shared resources requires quite a bit of planning. Lecturers may
 
 Here are some key points to consider:
 
-- **Clearly Identify topics to be divided amongst the students**.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)
+- **Clearly Identify topics to be divided amongst the students**.  As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (i.e. resources folder)
 - **Allocate student groups to each topic**. At this point there are some options to consider: is it appropriate for students to self-select or will they be assigned to particular groups
 - **Monitor progress**. Simply keep students on track as you would normally with regular online meeting sessions and announcements.
-- **Share the final product**. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.
+- **Share the final product**. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of PowerPoint slides may be compiled into a slideshow or animation.
 - **Debrief**. After students have had time to consider the efforts of their peers discuss overall findings and what they have learned from their own work and that of others.
 
 

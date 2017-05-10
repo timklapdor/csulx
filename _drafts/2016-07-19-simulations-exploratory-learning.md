@@ -9,7 +9,7 @@ description: "Providing students with environments and situations that mimic the
 
 ### Overview
 
-Simulation and exploratory learning provide ways for students to interact with environments and situations that mimic the real world. Students can be immersed in both highly realistic environments and situations that mirror those they may encounter in their profession. Simulations also provide a unique ability to recreate dangerous environments, these give students an opportunity to make mistakes as part of the learning process without harmful personal or real-world consequences. The ability to explore these actions and their consequences provide rich individual learning experiences or if  working with others, have the opportunity to discuss the options and recalibrate your thinking.
+Simulation and exploratory learning provide ways for students to interact with environments and situations that mimic the real world. Students can be immersed in both highly realistic environments and situations that mirror those they may encounter in their profession. Simulations also provide a unique ability to recreate dangerous environments, these give students an opportunity to make mistakes as part of the learning process without harmful personal or real-world consequences. The ability to explore these actions and their consequences provide rich individual learning experiences or if working with others, have the opportunity to discuss the options and recalibrate your thinking.
 
 ### Engagement
 
@@ -21,7 +21,7 @@ Simulation and exploratory learning environments are often time consuming and di
 
 ### Tools
 
-Tools like Adobe Captivate and Smart Sparrow provide simple ways of creating branching scenarios and can utilise existing tools like Powerpoint to design and create the visual elements. Smart Sparrow also includes a rules engine that can create quite in depth interactions based on choices and interactions that the student performs. 
+Tools like Adobe Captivate and Smart Sparrow provide simple ways of creating branching scenarios and can utilise existing tools like PowerPoint to design and create the visual elements. Smart Sparrow also includes a rules engine that can create quite in depth interactions based on choices and interactions that the student performs. 
 
 ### Further Reading
 

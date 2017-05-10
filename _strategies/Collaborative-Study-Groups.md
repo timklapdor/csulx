@@ -42,7 +42,7 @@ Students were grouped in ‘Study Buddy’ Groups which required them to engage 
 
 Students were able to enrol in any one of the 20 Buddy Groups, each of which contained a group discussion board where the Student Mentor was also present in conversations and responses. By engaging students in interactions in groups of no more than 20 students in the critical early phase of session, it was aimed to lessen potential anxiety and maximise opportunity for interaction rather than feel swamped by being one of many hundreds of students.
 
-Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year. 
+Forum activity as a gross measurement increased from 13 threads to 114 year on year, with an increase from 116 threads to 1287 different threads. Significant rises in overall student activity (10%) increase in students who created a post along with a dramatic gross increase in students who posted (in similar size cohorts) year on year.
 
 {% include swiper.html url1="Collaborative-Study-Groups-MGT100-1.png" url2="Collaborative-Study-Groups-MGT100-2.png" %}
 
@@ -93,11 +93,11 @@ It is important to have a clear understanding of why and how setting up a smalle
 
 Bruner , J. (1985). Vygotsky: An historical and conceptual perspective. *Culture, communication, and cognition: Vygotskian perspectives*, 21-34. London: Cambridge University Press
 
-Dillenbourg, P. (1999). Collaborative Learning: Cognitive and Computational Approaches. *Advances in Learning and Instruction Serie*. New York, NY: Elsevier Science, Inc
+Dillenbourg, P. (1999). Collaborative Learning: Cognitive and Computational Approaches. *Advances in Learning and Instruction Series*. New York, NY: Elsevier Science, Inc
 
 Dillenbourgh, P., Baker, M., Blaye, A. & O’Malley, C. (1995). *The evolution of research on Collaborative Learning*. Retrieved February 19, 2008, from CSCL-A brief overview
 
-Gokhale, A. (1995). Collaborative Learning Enhances Critical Thinking. Journal Of Technology Education, 7(1). [http://dx.doi.org/10.21061/jte.v7i1.a.2](http://dx.doi.org/10.21061/jte.v7i1.a.2)
+Gokhale, A. (1995). Collaborative Learning Enhances Critical Thinking. Journal of Technology Education, 7(1). [http://dx.doi.org/10.21061/jte.v7i1.a.2](http://dx.doi.org/10.21061/jte.v7i1.a.2)
 
 Rau , W. & Heyl, B. S. (1990). Humanizing the college classroom: Collaborative learning and social organization among students. *Teaching Sociology, 18*, 141-155.
 

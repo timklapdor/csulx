@@ -33,7 +33,7 @@ NRS531 Critical Inquiry and Evidence Based Nursing Practice
 Denise Blanchard and Jessica Biles  
 
 #### Motivation
-The desire to implement a multimodal presence, and therefore a multimodal teaching and learning environment within NRS531 had its origins in a very real teaching and learning issue faced by the academic. NRS531 is a Master’s level nursing subject which consisted of approximately equal numbers of students from Australia and Canada. As a result of these students being in significantly different timezones, the academic was offering multiple times for live online meetings every week through adobe connect, which was becoming unsustainable for the academic. Denise also felt that because of the frequency of the meetings and their relatively relaxed structure, both attendance and engagement with these meetings had dropped off because students felt they could ‘always go to next week's’ meeting. A way to both maintain and enhance consistent teacher presence, increase engagement and provide stronger pathways for varied interaction was needed, but any planned approach needed to recognise the limits of both student and academic availability.  
+The desire to implement a multimodal presence, and therefore a multimodal teaching and learning environment within NRS531 had its origins in a very real teaching and learning issue faced by the academic. NRS531 is a Master’s level nursing subject which consisted of approximately equal numbers of students from Australia and Canada. As a result of these students being in significantly different time zones, the academic was offering multiple times for live online meetings every week through adobe connect, which was becoming unsustainable for the academic. Denise also felt that because of the frequency of the meetings and their relatively relaxed structure, both attendance and engagement with these meetings had dropped off because students felt they could ‘always go to next week's’ meeting. A way to both maintain and enhance consistent teacher presence, increase engagement and provide stronger pathways for varied interaction was needed, but any planned approach needed to recognise the limits of both student and academic availability.  
 
 
 #### Implementation
@@ -86,7 +86,7 @@ Supported tools include
 - Discussion forum
 - Announcements
 - Online meetings in Adobe Connect
-- Blogs and Journals - CSU Thinkspace
+- Blogs and Journals - CSU ThinkSpace
 - Recorded lectures
 
 External tools, including but not limited to:
@@ -101,5 +101,5 @@ External tools, including but not limited to:
 
 Bilgiç, H. G., Doğan, D., & Seferoğlu, S. S. (2016). Digital Natives in Online Learning Environments: New Bottle Old Wine – The Design of Online Learning Environments for Today's Generation. In M. Pinheiro, & D. Simões (Eds.), _Handbook of Research on Engaging Digital Natives in Higher Education Settings_ (pp. 192-221). Hershey, PA: IGI Global. doi:10.4018/978-1-5225-0039-1.ch009
 
-Sankey, M., Birch, D., & Gardner, M. (2010). _Engaging students through multimodal learning environments: The journey continues_. Paper submitted to the 2010 Ascilite Conference, Sydney,. Retrieved from [Ascilite Proceedings](http://www.ascilite.org/conferences/sydney10/procs/Sankey-full.pdf)
+Sankey, M., Birch, D., & Gardner, M. (2010). _Engaging students through multimodal learning environments: The journey continues_. Paper submitted to the 2010 Ascilite Conference, Sydney. Retrieved from [Ascilite Proceedings](http://www.ascilite.org/conferences/sydney10/procs/Sankey-full.pdf)
 </div>

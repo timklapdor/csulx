@@ -17,7 +17,7 @@ The **Online Learning Model** proposed by CSU highlights seven elements composin
 
 The sound mixer separates out elements of a piece, allowing particular features to be focused on individually. A visual display illustrates the relationships between these elements enabling choices to be made and levels adjusted. Similar decisions may be made when planning a learning cycle. It is not desirable (or possible) to focus on each element of the OLM at full volume, a balance must be achieved. Finding the right levels requires a sense of the audience, the purpose, the context and the nature of the instruments available (including the performer).
 
-The OLM  Mixer is a tool for illustrating the levels of potential engagement with a range of teaching strategies. It provides a range of descriptors to diagnose existing practice and a visual map of the relationships between the features in a learning cycle for future planning.
+The OLM Mixer is a tool for illustrating the levels of potential engagement with a range of teaching strategies. It provides a range of descriptors to diagnose existing practice and a visual map of the relationships between the features in a learning cycle for future planning.
 
 *Use the tool below and let us know what you think!*
 

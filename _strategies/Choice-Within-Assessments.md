@@ -40,7 +40,7 @@ This subject is in the postgraduate degree Master of Education in Knowledge Netw
 
 #### Implementation
 
-For Assignment 1, each diverse team (3-5 students) chose a suitable topic and subtopics and the learning module was collaboratively created using a wiki (Wikispaces). Each student then chose a multimedia tool or tools and created a personal digital artefact to complement the learning module material.
+For Assignment 1, each diverse team (3-5 students) choose a suitable topic and subtopics and the learning module was collaboratively created using a wiki (Wikispaces). Each student will then choose a multimedia tool or tools and created a personal digital artefact to complement the learning module material.
 
 The Assignment 2 report was typically distributed to leadership within the school/institution and once again propelled this task into a professional realm. In effect it often prevented students from being too critical of what they saw (and were experiencing), encouraging facts and then synthesised discussion and some solutions via a proposed plan of improvement.
 
@@ -95,9 +95,9 @@ There are a number of assessment formats to provide greater choice to students i
 
 Some of the tools that enable choice within assessment tasks include:
 
-* MS Word, Powerpoint or online versions e.g., Google docs and presentations
-* Wikispaces and other Web 2.0 tools such as Voicethread, PowToons
-* Smart Sparrow - Smart Sparrow is an adaptive learning technology that provides the tools to create, deploy, share and analyse lessons that are interactive and adaptive. Smart Sparrow can capture, measure and report nuanced details about student learning, providing individualised feedback to students that lets them know where their strengths and weaknesses lie. This means that teaching staff have the ability to give each student a more personalised learning experience by providing real-time feedback and adaptive pathways that, for example, may specifically target misconceptions. You can [sign up for a free Smart Sparrow account](https://aelp.smartsparrow.com/login/signup) and to commence the development process for a Smart Sparrow adaptive lesson,[use the DSL Service Request System (SRS)](https://online.csu.edu.au/de/dewsrsc.sqt?run=TopicRequest).
+* MS Word, PowerPoint or online versions e.g., Google docs and presentations
+* Wikispaces and other Web 2.0 tools such as VoiceThread, PowToons
+* Smart Sparrow - Smart Sparrow is an adaptive learning technology that provides the tools to create, deploy, share and analyse lessons that are interactive and adaptive. Smart Sparrow can capture, measure and report nuanced details about student learning, providing individualised feedback to students that lets them know where their strengths and weaknesses lie. This means that teaching staff have the ability to give each student a more personalised learning experience by providing real-time feedback and adaptive pathways that, for example, may specifically target misconceptions. You can [sign up for a free Smart Sparrow account](https://aelp.smartsparrow.com/login/signup) and to commence the development process for a Smart Sparrow adaptive lesson, [use the DSL Service Request System (SRS)](https://online.csu.edu.au/de/dewsrsc.sqt?run=TopicRequest).
 * Realizeit - A cloud-based platform providing adaptive content authoring to create interactive online tutorials and lessons that are responsive to a student's achievement. Realizit uses real-time analytics to capture and report on analytics relating to accesses, attempts, activity, progress, duration and achievement. This enables you to see things like who has and hasn't commenced specific lessons/tutorials, how students are progressing through those lessons, if/where students are "getting stuck" and how they are performing on tests/quizzes. To commence the development process for a Realizeit adaptive lesson, [use the DSL Service Request System (SRS)](https://online.csu.edu.au/de/dewsrsc.sqt?run=TopicRequest).
 
 ### Additional Resources

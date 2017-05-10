@@ -13,7 +13,7 @@ subjects: "ETL401, INF530, INF537, INF532, ETL523, INF506"
 
 A blog is essentially an online publication and consists of a series of posts and pages written by individuals or groups of people on the world wide web. Blogs can promote an open dialogue with a broad audience and encourage community building in which both the bloggers and those commenting exchange opinions, ideas and resources. Blogging can be a way for students to document their learning over time but also to share and submit their work in a subject for review by their teachers and peers. It can be an important critical reflection and responsive practice tool and provide unique opportunities for enriched collaborative and reflective assessment.
 
-A common educational use of blogs is for students to reflect on their experiences and learning similar to the process used in learning journals (Ladyshewsky & Gardner, 2008). Reflective practice is emerging as an important component of many professions with many professional associations, regulatory bodies, universities and workplaces noting it as an important skill of graduates (Farmer et al., 2008; Ladyshewsky & Gardner, 2008). There are particular benefits in using blogs with students who are working on placements away from the university, both for assessment purposes and for developing reflective skills. Sheridan et al (2014, p. 343) examined students perspectives in a Bachelor of Commerce degree and noted that "not only did the online environment accommodate the time and travel logistics associated with students undertaking an internship but, in some cases, its flexibility in time and place also meant the students engage with assessments in a more independent, thoughtful and, perhaps, more meaningful way as it directly related to their personal experience." The students in this study used blogs and online journals to capture their reflections whilst on placement (reflection in-action) and to draw the threads together for a final assessment task (reflection on-action).
+A common educational use of blogs is for students to reflect on their experiences and learning similar to the process used in learning journals (Ladyshewsky & Gardner, 2008). Reflective practice is emerging as an important component of many professions with many professional associations, regulatory bodies, universities and workplaces noting it as an important skill of graduates (Farmer et al., 2008; Ladyshewsky & Gardner, 2008). There are particular benefits in using blogs with students who are working on placements away from the university, both for assessment purposes and for developing reflective skills. Sheridan et al (2014, p. 343) examined student perspectives in a Bachelor of Commerce degree and noted that "not only did the online environment accommodate the time and travel logistics associated with students undertaking an internship but, in some cases, its flexibility in time and place also meant the students engage with assessments in a more independent, thoughtful and, perhaps, more meaningful way as it directly related to their personal experience." The students in this study used blogs and online journals to capture their reflections whilst on placement (reflection in-action) and to draw the threads together for a final assessment task (reflection on-action).
 
 ### Engagement
 
@@ -40,14 +40,14 @@ Julie Lindsay, Judy O’Connell, Carole Gerts
 
 #### Motivation
 
-The use of Thinkspace for blogging (Wordpress platform) is an essential objective within the [Master of Education (Knowledge Networks and Digital Innovation course](http://csu.edu.au/digital). Emphasis is on reflective practice, sharing new resources and ideas, synthesising subject content, and responding to others as part of the learning continuum. ‘Blogging’ as such provides for interaction between learners and with the wider community as well as group-based activities. It is also an integral part of assessment for each of these subjects and as such students are encouraged to blog regularly across the session.
+The use of ThinkSpace for blogging (WordPress platform) is an essential objective within the [Master of Education (Knowledge Networks and Digital Innovation course](http://csu.edu.au/digital). Emphasis is on reflective practice, sharing new resources and ideas, synthesising subject content, and responding to others as part of the learning continuum. ‘Blogging’ as such provides for interaction between learners and with the wider community as well as group-based activities. It is also an integral part of assessment for each of these subjects and as such students are encouraged to blog regularly across the session.
 
 #### Implementation
 
 INF537 - ‘Blogging buddies’ were set up where groups of 3 or 4 students (smaller community within the larger subject) connected, encouraged and shared. These groups were reorganised mid-session for the variety of having new buddies. INF537 and ETL523 - Assessment Item 3 for each of these subjects includes a Critical Reflection to be posted as a blog post, with URL included on the cover page as part of the final assessment submission. For INF537 the assignment stated:		
 
 >PART B: Critical Reflection					
-Thinkspace blog 600 words +/- 10%					
+ThinkSpace blog 600 words +/- 10%					
 Provide a critical synthesis of your reflection on how your views, knowledge and understanding of the work of an education professional in digital environments has changed and/or developed.
 >This should include examples captured from your personal reflections and research comments posted on your blog, and from participatory experiences within the subject.
 
@@ -57,7 +57,7 @@ INF532 - For this subject students are requested to maintain a blog to document 
 - Student applies and integrates critical analysis.
 - Student is able to form, present and support own opinions.
 
-More information on this practice can be obtained from this presentation delivered by Julie Lindsay - ‘Beyond blogging: [Reflective and responsive practice using Thinkspace’](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
+More information on this practice can be obtained from this presentation delivered by Julie Lindsay - ‘Beyond blogging: [Reflective and responsive practice using ThinkSpace’](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
 
 {% include swiper.html url1="Blogging-INF1.jpg" url2="Blogging-INF2.jpg" %}
 
@@ -87,11 +87,11 @@ When designing a learning task that assesses with blogs, your instructions need 
 ### Tools
 
 - Blackboard Blogs and Journals
-- [Thinkspace](http://thinkspace.csu.edu.au)
-- [Wordpress](http://wordpress.com)
+- [ThinkSpace](http://thinkspace.csu.edu.au)
+- [WordPress](http://wordpress.com)
 - [Blogger](https://www.blogger.com/)
 - [Known](http://withknown.com)
-- [Domain Of Ones Own](https://reclaimhosting.com)
+- [Domain Of One's Own](https://reclaimhosting.com)
 
 ### Further Reading
 
@@ -101,7 +101,7 @@ Farmer, B., Yue, A., & Brooks, C. (2008). Using blogging for higher order learni
 
 Ladyshewsky, R. K., & Gardner, P. (2008). Peer assisted learning and blogging: A strategy to promote reflective practice during clinical fieldwork. *Australasian Journal of Educational Technology*, *24*(3), 241-257.
 
-Lindsay, J. (2016). Beyond blogging: Reflective and responsive practice using Thinkspace [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
+Lindsay, J. (2016). Beyond blogging: Reflective and responsive practice using ThinkSpace [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
 
 Morison, D. (2003). E-learning strategies: how to get implementation and delivery right first time. Chichester: Wiley.
 

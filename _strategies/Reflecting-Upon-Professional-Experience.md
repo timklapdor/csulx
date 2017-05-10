@@ -29,7 +29,7 @@ By embedding reflective practice throughout a course, students are given many op
 
 ### Engagement
 
-Students engage with the professions by reflecting upon their own learning both in theory and application. Their reflections may be private, shared with their lecturer, or with classmates. Reflections may also be shared more widely as in the case of a CSU Thinkspace blog within a cohort or even publicly.
+Students engage with the professions by reflecting upon their own learning both in theory and application. Their reflections may be private, shared with their lecturer, or with classmates. Reflections may also be shared more widely as in the case of a CSU ThinkSpace blog within a cohort or even publicly.
 
 ### In Practice
 <div class="u-release practice" >
@@ -47,13 +47,13 @@ Marcelle Droulers
 
 #### Motivation
 
-This strategy was deployed to provide students the opportunity for reflective practice on a private as well as shared basis. Student use their [Thinkspace](http://thinkspace.csu.edu.au/) blog to reflect on weekly topics and readings as they apply to their own professional practice and beliefs.
+This strategy was deployed to provide students the opportunity for reflective practice on a private as well as shared basis. Student use their [ThinkSpace](http://thinkspace.csu.edu.au/) blog to reflect on weekly topics and readings as they apply to their own professional practice and beliefs.
 
 #### Implementation
 
-Each student creates their own CSU [Thinkspace](http://thinkspace.csu.edu.au/) blog. Some posts and pages within the blog are private (shared only with the lecturer) while others are shared with classmates. This is the first subject within the Graduate Certificate of University Leadership and Management, and as such students are given guidance in developing their blog as well as prompts for reflective writing.
+Each student creates their own CSU [ThinkSpace](http://thinkspace.csu.edu.au/) blog. Some posts and pages within the blog are private (shared only with the lecturer) while others are shared with classmates. This is the first subject within the Graduate Certificate of University Leadership and Management, and as such students are given guidance in developing their blog as well as prompts for reflective writing.
 
-![Thinkspace screenshot](../images/practices/Reflecting-upon-professional-experience-1.jpg){: .u-full-width}
+![ThinkSpace screenshot](../images/practices/Reflecting-upon-professional-experience-1.jpg){: .u-full-width}
 
 </div>
 </div>
@@ -85,11 +85,11 @@ Students were asked to write 6 short journal entries (one per week). Each entry 
 
 ### Guide
 
-In the case of a course-wide implementation a journaling tool such as the *Interact2 journal*, *PebblePad* or *CSU Thinkspace* may already have been selected. In any instance, it is important to decide with whom the journal entries are to be shared. Will they be private (shared with lecturer only)? Will they be shared within the cohort?  Or, perhaps the student reflections will be shared more widely. Once this is established, the rationale and task should be clearly explained, as with any assessment task.
+In the case of a course-wide implementation a journaling tool such as the *Interact2 journal*, *PebblePad* or *CSU ThinkSpace* may already have been selected. In any instance, it is important to decide with whom the journal entries are to be shared. Will they be private (shared with lecturer only)? Will they be shared within the cohort?  Or, perhaps the student reflections will be shared more widely. Once this is established, the rationale and task should be clearly explained, as with any assessment task.
 
-**CSU Thinkspace**
+**CSU ThinkSpace**
 
-If using CSU *Thinkspace* it is important to be aware of privacy settings. Journals/Blogs can be set to private or accessible via CSU login, or public. The lecturer may use ‘alternative submissions’ within the subject outline  assessment section or students may submit a URL to their lecturer using EASTS.
+If using CSU *ThinkSpace* it is important to be aware of privacy settings. Journals/Blogs can be set to private or accessible via CSU login, or public. The lecturer may use ‘alternative submissions’ within the subject outline assessment section or students may submit a URL to their lecturer using EASTS.
 
 **Interact2 Journal**
 
@@ -97,11 +97,11 @@ When used as an assessment activity, the Interact2 Journal appears within gradeb
 
 ### Tools
 
-Are a variety of technologies supporting blogging in a variety of ways and publishing to different audiences. From internal system available only to the class and teacher, to CSU integrated systems that enable blogging in public through to self hosted and managed platforms that allow students to develop their own digital presence. Tools worth exploring include:
+There are a variety of technologies supporting blogging in a variety of ways and for publishing to different audiences. From internal system available only to the class and teacher, to CSU integrated systems that enable blogging in public through to self-hosted and managed platforms that allow students to develop their own digital presence. Tools worth exploring include:
 
 * Interact2 Blogs and Journals
-* [Thinkspace](http://thinkspace.csu.edu.au)
-* [Wordpress](http://wordpress.com)
+* [ThinkSpace](http://thinkspace.csu.edu.au)
+* [WordPress](http://wordpress.com)
 * [Blogger](https://www.blogger.com/)
 * [Known](http://withknown.com)
 * [Domain Of One’s Own](https://reclaimhosting.com)

@@ -52,7 +52,7 @@ Students are assigned to virtual teams (4-5 students per team) they are each giv
 1. Each student completes the pre-test and pre-skill assessment task. This will identify for you where you are ‘starting from’ in this topic area. (Approx. 2 days)
 2. Designated leader, in the role allocated for the leader, introduces the Challenge to the team and organises the team. All students scan the readings to gain the theory background that can be applied to the practice of the Challenge. (Approx. 3 days)
 3. The Challenge. Adobe Connect meeting with leaders of each team challenge and the subject coordinator. (Approx. 6 days)
-4. Complete submission requirements for the Challenge. (Approx 2 days)
+4. Complete submission requirements for the Challenge. (Approx. 2 days)
 5. All students complete the Post Challenge individual task – Reflection. (Approx. 1 day)
 
 ![Diagram on subjects approach](../images/practices/distributed-leadership-1.jpg){: .u-full-width
@@ -87,7 +87,7 @@ Students self-select into a group to discuss a ‘Current Issues in Finance’. 
 
 ### Guide
 
-When using online meeting rooms ensure that you allocate one per team with accompanying discussion boards allow students to share leadership responsibilities. This allows groupd to engage in both asynchronous and synchronous communication.
+When using online meeting rooms ensure that you allocate one per team with accompanying discussion boards allow students to share leadership responsibilities. This allows groups to engage in both asynchronous and synchronous communication.
 
 When using Interat2 each small group can use the discussion board but may also extend their experience using external technologies like email and file exchange to co-author.
 

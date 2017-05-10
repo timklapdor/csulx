@@ -12,7 +12,7 @@ subjectnames: "Human Resource Management, Communicating Environmental Data, "
 
 ### Overview
 
-Studying online means that students can come from anywhere in Australia or around the world. The lack of a shared physical space is often seen as an issue for online learning, isolating students and reducing the likelihood of being able to ‘come together’ with their peers.  However, providing  students with the ability to define their physical location allows them to gain a better understanding of where their peers are located.
+Studying online means that students can come from anywhere in Australia or around the world. The lack of a shared physical space is often seen as an issue for online learning, isolating students and reducing the likelihood of being able to ‘come together’ with their peers.  However, providing students with the ability to define their physical location allows them to gain a better understanding of where their peers are located.
 
 The opportunity to visually identify student locations; such as with an online map, can reduce the sense of isolation, build community and provoke conversation.  In some instances students may discover they live in the same metropolitan area and an informal study group could be arranged at a centralised venue. In other instances, students from different countries may choose to schedule conversations based on time zones.
 
@@ -40,7 +40,7 @@ This strategy was deployed to build a sense of community among online students a
 
 #### Implementation
 
-This strategy was implemented  through an ‘icebreaker’ activity. A Google Map was shared with the cohort  using the Interact2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group.  (students are advised to not publicly post the home address or other personal info)
+This strategy was implemented through an ‘icebreaker’ activity. A Google Map was shared with the cohort using the Interact2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group.  (students are advised to not publicly post the home address or other personal info)
 
 ![Screenshot of subject's map](../images/practices/Mapping-Students-Locations-2.jpg){: .u-full-width}
 
@@ -80,11 +80,11 @@ Students use a blue pin to identify where they are located, a red pin to identif
 
 ### Guide
 
-There are a few issues to be aware of concerning privacy and  location data. To minimise the risks ensure that students keep identification of where they are down to local areas, not street locations, so use post codes or pins dropped in town centres.
+There are a few issues to be aware of concerning privacy and location data. To minimise the risks ensure that students keep identification of where they are down to local areas, not street locations, so use post codes or pins dropped in town centres.
 
 It is important to remind students not to include personal information, such as their home address, but rather identify a nearby public location such as their nearest public library.
 
-When setting up this activity, see the example from PHL101 below, and include information like a small explanatory video and ensure that the the map URL is linked from the navigation.
+When setting up this activity, see the example from PHL101 below, and include information like a small explanatory video and ensure that the map URL is linked from the navigation.
 
 ![Screenshot of PHL101's map](../images/practices/Mapping-Students-Locations-3.jpg){: .u-full-width}
 
@@ -92,7 +92,7 @@ When setting up this activity, see the example from PHL101 below, and include in
 ### Tools
 
 Google Maps can easily be included within the Interact2 subject site.
-A Google account is needed to create an indiviual map. Go to [Google Maps](https://maps.google.com) and from the menu choose **Your Places**. From the top tab choose **Maps** and select **Create new map** from the bottom of the list. Giving it a meaningful name with instructions for the students for example:
+A Google account is needed to create an individual map. Go to [Google Maps](https://maps.google.com) and from the menu choose **Your Places**. From the top tab choose **Maps** and select **Create new map** from the bottom of the list. Giving it a meaningful name with instructions for the students for example:
 
 >Students are asked to ‘Use this map to mark your location. Click on the 'add marker' symbol and then click on your location’.
 

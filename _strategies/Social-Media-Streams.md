@@ -40,7 +40,7 @@ Social media and networking tools are used to connect all cohorts within the cou
 
 #### Implementation
 
-The course-level site, [Knowledge Networks and Digital Innovation](http://csu.edu.au/digital) has served as a portal, housing links to individual subjects as well as a Twitter feed, Thinkspace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
+The course-level site, [Knowledge Networks and Digital Innovation](http://csu.edu.au/digital) has served as a portal, housing links to individual subjects as well as a Twitter feed, ThinkSpace login (ePortfolio, blogging tool) and Diigo (social bookmarking).
 
 {% include swiper.html url1="social-media-INF530-1.jpg" url2="social-media-INF530-2.jpg" url3="social-media-INF530-3.jpg" url4="social-media-INF530-4.jpg" %}
 
@@ -75,7 +75,7 @@ Social media streams were incorporated into the Interact2 learning environment, 
 
 ### Guide
 
-Utilising hashtags and creating specialised accounts to harness social media streams means that the learning community as a whole can benefit from the wealth of information available. They provide a way to structure and share interactions, thoughts, ideas and relevant information. While each platform can be used on it’s own the streams created can often be embedded into course and organisational sites in Interact2, providing students with a simple way of interacting and engaging.
+Utilising hashtags and creating specialised accounts to harness social media streams means that the learning community as a whole can benefit from the wealth of information available. They provide a way to structure and share interactions, thoughts, ideas and relevant information. While each platform can be used on its own the streams created can often be embedded into course and organisational sites in Interact2, providing students with a simple way of interacting and engaging.
 
 As education aligns more closely with technological trends, lecturers need to carefully consider the use of social media for teaching and learning purposes. Students will often set up their own Facebook groups, but whether or not lecturers use social media in their teaching is another matter. It is recommended they consider the appropriateness and desired outcomes when using social media and the affordances of the different platforms.
 
@@ -83,7 +83,7 @@ Tomayess’ 2015 examination of social media use within Australian higher educat
 
 ### Tools
 
-There are several social media and networking tools to choose from. Harold Jarche (2015) discusses some of the differences between the social media platforms in this short [video](https://www.youtube.com/watch?v=g_is3gT7X0Y). Facebook, Twitter, Instagram and Pintrest are popular choices for sharing content and media. Diigo is a handy tool for sharing useful websites. PebblePad and Thinkspace are both blogging, ePortfolio tools supported by CSU which allow student to publish externally.
+There are several social media and networking tools to choose from. Harold Jarche (2015) discusses some of the differences between the social media platforms in this short [video](https://www.youtube.com/watch?v=g_is3gT7X0Y). Facebook, Twitter, Instagram and Pintrest are popular choices for sharing content and media. Diigo is a handy tool for sharing useful websites. PebblePad and ThinkSpace are both blogging, ePortfolio tools supported by CSU which allow student to publish externally.
 
 ### Additional Resources
 

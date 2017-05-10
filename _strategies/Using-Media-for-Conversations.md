@@ -38,7 +38,7 @@ The students in this subject had a compulsory three day residential workshop at 
 
 #### Implementation
 
-Students were required to introduce themselves, by creating a 90 second video using the tool Flipgrid. This provided students the opportunity to see and hear each other prior to the workshop. Judging by the number of view rates, the students all watched each others videos at least once prior to the residential workshop. By creating their own video using FlipGrid and then watching other students videos, it made it easier for students to develop connections and put names to faces before the workshop started. Teaching staff have used this tool for two offerings now, and all agree it has helped the students "get to know each other" before they meet in person during the workshop. This was a requirement of Assessment Item 1 and was given a 10% weighting.
+Students were required to introduce themselves, by creating a 90 second video using the tool Flipgrid. This provided students the opportunity to see and hear each other prior to the workshop. Judging by the number of view rates, the students all watched each other's videos at least once prior to the residential workshop. By creating their own video using Flipgrid and then watching other students videos, it made it easier for students to develop connections and put names to faces before the workshop started. Teaching staff have used this tool for two offerings now, and all agree it has helped the students "get to know each other" before they meet in person during the workshop. This was a requirement of Assessment Item 1 and was given a 10% weighting.
 
 ![Screenshot of Flipgrid setup](../images/practices/Using-media-for-conversations-1.png){: .u-full-width}
 
@@ -84,7 +84,7 @@ When selecting social media tools for subject specific conversations, be mindful
 
 Typical tools used include:
 
-- [FlipGrid](http://www.flipgrid.com)
+- [Flipgrid](http://www.flipgrid.com)
 - [Facebook](http://www.facebook.com)
 - [VoiceThread](http://www.VoiceThread.com)
 - [Twitter](http://www.twitter.com)

@@ -77,7 +77,7 @@ Adding photos and relatable images to a subject site can be a relatively straigh
 * **Copyright** – Ensuring that you either own the image or have permission to use it is important, as it correctly attributing the image to the owner/copyright holder. There are many free ‘stock photo’ providers out there, but where possible, an authentic photo featuring either yourself or (e.g.) past students or real world settings have a better impact than stock images. Ideally, photos should be stored in DOMS, the official CSU digital records repository
 * **Context** – Photos will be more useful if they somehow build interest in the content matter. This might include you the academic demonstrating application of the content matter in the real world; it may be a photo of a future job site or simply be an interesting and related background image.
 * **Use throughout the site** – Photos do not need to only reside on the ‘front page’ of a interact2 site. There is opportunity to use photos in areas such as Adobe Connect meetings as an icebreaker.
-* **Multimedia** - There are a number of tools available which allow features such as carousels which can display photos in an attractive way. These need to be tested on a case by case basis. Another interesting alternative is the ability to use instagram as a source of photos which (depending on permission levels) can be embedded into a html editor, including the text editor in interact2.
+* **Multimedia** - There are a number of tools available which allow features such as carousels which can display photos in an attractive way. These need to be tested on a case by case basis. Another interesting alternative is the ability to use Instagramas a source of photos which (depending on permission levels) can be embedded into a html editor, including the text editor in interact2.
 
 ### Tools
 
@@ -93,8 +93,8 @@ Tools in this example generally consist in a couple of broad areas:
 
 **Publish:**
 
-* Social publishing options include instagram and facebook amongst many other options, and both these services and others generally provide an option to generate an embed code for photos.
-* Photos taken by the individual can also simply be stored on the local device such as phone, computer, ipad, for later usage.
+* Social publishing options include Instagram and Facebook amongst many other options, and both these services and others generally provide an option to generate an embed code for photos.
+* Photos taken by the individual can also simply be stored on the local device such as phone, computer, iPad, for later usage.
 
 **External Sourcing:**
 
@@ -104,7 +104,7 @@ There are two main ways to include a (properly attributed) image from an externa
 ![Find the photo](../images/practices/Photographs-and-Images-1.png){: .u-full-width .sml-padding}
 2. Selecting the ‘share tab’ in the bottom right hand corner and then clicking the ‘embed’ tab’, bearing in mind that in many instances, sharing platforms such as Flickr allow the use of direct link as well as an embed code.
 ![Use the share tab](../images/practices/Photographs-and-Images-2.png){: .u-full-width .sml-padding}
-3. Using the interact2 ‘insert image’ option on the editor will bring up the following screen which allows you to utilise either the embed code or the direct link url from Flickr.  
+3. Using the interact2 ‘insert image’ option on the editor will bring up the following screen which allows you to utilise either the embed code or the direct link URL from Flickr.  
 ![Insert image into interact](../images/practices/Photographs-and-Images-3.jpg){: .u-full-width .sml-padding}
 
 **From other sources:**

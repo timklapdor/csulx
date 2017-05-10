@@ -12,7 +12,7 @@ subjectnames: "Introduction to Learning Online, Biopsychology"
 
 ### Overview
 
-The online learning environment can be an unfamiliar place for new and continuing students. Differing from what many students have experienced in a traditional classroom, conventions of learning management systems may require explanation. Students need to be made aware of ‘how’ as well as ‘why’ online  tools will be utilised within their subjects.
+The online learning environment can be an unfamiliar place for new and continuing students. Differing from what many students have experienced in a traditional classroom, conventions of learning management systems may require explanation. Students need to be made aware of ‘how’ as well as ‘why’ online tools will be utilised within their subjects.
 
 Clearly defining places and spaces for students to have discussions, making them aware of where information is located, how it’s expected to be accessed and what channels of communication are available are important steps in this process. Ensuring students are comfortable with the environment and the expectations of how they will be learning are key for students navigating their way through their studies.
 
@@ -64,7 +64,7 @@ By explaining to students how to navigate their Interact2 site as well as direct
 
 #### Implementation
 
-Desktop video is created; in this case using CSUReplay, personal capture. The video is uploaded to the Faculty Youtube channel and embedded within an Interact2 page.  Nicole works her way down the Interact2 left-hand navigation, explaining each tool as well as how and when students are expected to use each.  Handy tips are also noted. For example, Nicole shows students how to use the Discussion board, explaining the individual threads and responses.
+Desktop video is created; in this case using CSUReplay, personal capture. The video is uploaded to the Faculty YouTube channel and embedded within an Interact2 page.  Nicole works her way down the Interact2 left-hand navigation, explaining each tool as well as how and when students are expected to use each.  Handy tips are also noted. For example, Nicole shows students how to use the Discussion board, explaining the individual threads and responses.
 
 {% include youtubePlayer.html id="1aKqFajRiF8" %}
 

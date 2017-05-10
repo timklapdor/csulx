@@ -58,7 +58,7 @@ Ruth Bailey
 
 #### Motivation
 
-These audio files were created to add a rich set of material to the module content. The lecturer is a workplace expert in mental health and shares experiences and practices which add an excellent dimension to the subject and provide discussion points around real-world scenarios.
+These audio files were created to add a rich set of materials to the module content. The lecturer is a workplace expert in mental health and shares experiences and practices which add an excellent dimension to the subject and provide discussion points around real-world scenarios.
 
 #### Implementation
 
@@ -88,5 +88,5 @@ Create audio files by recording using the following:
 Host or link to audio files in Interact 2:
 
 * Attach the audio file as demonstrated in the examples above
-* Embed cloud based audio using a URL (i.e. Soundcloud)
+* Embed cloud based audio using a URL (i.e. SoundCloud)
 * Create RSS feeds from professional networks and media such as ABC radio

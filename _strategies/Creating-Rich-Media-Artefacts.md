@@ -62,7 +62,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
 
 #### Implementation
 
-Students collaborate on the learning module content and chose a unique sub-topic to build their individual digital artefact. Once a topic is chosen students then explore a range of digital tools to find one they are comfortable using to create the digital artefact. The digital artefact could be created using any reliable Web 2.0 tool for audio, video or image/text production such as Voicethread, Smore, or Slideshare. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact. It was a requirement that the artefact be uploaded and in a state where it had a unique URL and could be embedded the wiki-based learning module. This is [a great example of student work produced](https://youtu.be/622OHuEMM38) in this assessment.
+Students collaborate on the learning module content and choose a unique sub-topic to build their individual digital artefact. Once a topic is chosen students then explore a range of digital tools to find one they are comfortable using to create the digital artefact. The digital artefact could be created using any reliable Web 2.0 tool for audio, video or image/text production such as VoiceThread, Smore, or Slideshare. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact. It was a requirement that the artefact be uploaded and in a state where it had a unique URL and could be embedded the wiki-based learning module. This is [a great example of student work produced](https://youtu.be/622OHuEMM38) in this assessment.
 
 {% include youtubePlayer.html id="NkXU81zceuY" %}
 
@@ -104,7 +104,7 @@ Some important considerations for structuring assessments that utilise rich medi
 * Build additional work around the task. Developing rich media can be time consuming so don’t use it as an add on, but look at opportunities to centre other assessments or activities the student’s work to make it worthwhile.
 * Use it for self-evaluation and diagnosis. Ask students to record themselves and let them review their performance and get them to link their work to theory and the profession.
 * Build relevant skills with a focus on the what they would benefit from in the profession. What would they do on the job? Tasks that are common and adaptable are presentations of information and literature, in depth discussion of a situation or topic, or taking a side and creating an argument for a debate.
-* Rich media lends itself particularly well to engaging in peer-to-peer evaluation and feedback on the work. Students could be asked not just to to identify issues but to make suggestion and provide constructive feedback which is often quite challenging, but engages a deeper level of knowledge.
+* Rich media lends itself particularly well to engaging in peer-to-peer evaluation and feedback on the work. Students could be asked not just to identify issues but to make suggestion and provide constructive feedback which is often quite challenging, but engages a deeper level of knowledge.
 
 To know if using rich media is the right choice in your subject then ask yourself some of the following questions
 
@@ -117,9 +117,9 @@ To know if using rich media is the right choice in your subject then ask yoursel
 There are many readily available tools that students can utilise to produce rich media artefacts:
 
 * Mobile devices can record audio and video as well as take photos.
-* Use Powerpoint and similar software to combine audio and visuals.
+* Use PowerPoint and similar software to combine audio and visuals.
 * [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), [SoundCloud](https://soundcloud.com/) and [Flickr](https://www.flickr.com/) provide free and easy ways for students to publish their artefacts
-* Other online tools such as [PowToons](https://www.powtoon.com/), [GoAnimate](https://goanimate.com/), [Voki](http://www.voki.com/), [Voicethread](http://voicethread.com/) and more can be used individually or in combinations
+* Other online tools such as [PowToons](https://www.powtoon.com/), [GoAnimate](https://goanimate.com/), [Voki](http://www.voki.com/), [VoiceThread](http://voicethread.com/) and more can be used individually or in combinations
 
 ### Additional Resources
 

@@ -40,7 +40,7 @@ Two subjects are featured for this ‘in-practice’ example. Each of the subjec
 
 A common strategy for all three subjects is to send out one or more announcements each week of the subject. At some pertinent stages of the subject, e.g. the first couple of weeks or when assessment is pending, multiple announcements are sent out. Announcements include a range of individual and template approaches and include substantial information to reinforce what students should/could be doing to gain success in the subject. Some features noted include:
 - ‘Rules of Engagement’ for discussion forums (sent out Week 1)
-- Where to find help - including guest contributions from Academic iteracy and Numeracy support and library personnel
+- Where to find help - including guest contributions from Academic literacy and Numeracy support and library personnel
 - Help with referencing and citations
 - Information about online meetings
 - Relaying important university information e.g. applying for Grade Pending (GP)

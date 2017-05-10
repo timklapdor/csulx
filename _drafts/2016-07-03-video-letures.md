@@ -33,7 +33,7 @@ The Video Lectures help the online students to feel that they are not missing ou
 
 #### Implementation
 
-The SCI103 video lectures include screen-captures as well as audio and video, and mostly range from 20-40 minutes. They were created to provide online  students with more coverage and explanation of the concepts presented in the online modules, textbook and recommended readings. Like lectures, there is one for each week. Through these video lectures the voice and personality of the lecturer comes through as a real human being, and so helps convey teacher presence. 
+The SCI103 video lectures include screen-captures as well as audio and video, and mostly range from 20-40 minutes. They were created to provide online students with more coverage and explanation of the concepts presented in the online modules, textbook and recommended readings. Like lectures, there is one for each week. Through these video lectures the voice and personality of the lecturer comes through as a real human being, and so helps convey teacher presence. 
 
 ### Guide
 

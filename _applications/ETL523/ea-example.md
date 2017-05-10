@@ -33,11 +33,11 @@ The final artefact was meant to align with the group learning module project and
 
 **Part 1: Team module building and artefact sub-topic selection**
 
-Students collaborated on the learning module content and chose a unique sub-topic to build their individual digital artefact.
+Students collaborate on the learning module content and choose a unique sub-topic to build their individual digital artefact.
 
 **Part 2: Development of the digital artefact**
 
-Once a topic was chosen students then explored a range of digital tools to find one they were comfortable using to create the digital artefact. The digital artefact could be any reliable Web 2.0 tool for audio, video or image/text production such as Voicethread, Smore, or Slideshare. This was a self-help process - with of course students connecting and collaborating and sharing ideas, resources, and support for tool choice and skill development. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact.
+Once a topic was chosen students then explored a range of digital tools to find one they were comfortable using to create the digital artefact. The digital artefact could be any reliable Web 2.0 tool for audio, video or image/text production such as VoiceThread, Smore, or Slideshare. This was a self-help process - with of course students connecting and collaborating and sharing ideas, resources, and support for tool choice and skill development. It was encouraged, but not mandatory, that students explore a combination of tools e.g. Powtoons and YouTube, to create and deliver the final artefact.
 
 {% include youtubePlayer.html id="pNlDk0HgwNc" %}
 

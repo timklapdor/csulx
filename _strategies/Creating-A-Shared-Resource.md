@@ -12,7 +12,7 @@ subjectnames: ["Management, People and Organisations", "Digital Citizenship in S
 
 ### Overview
 
-Creating a shared resource can assist in establishing a strong sense of community by helping students to focus on a shared learning goal and shared responsibilities. This speaks to the importance that each member has within the group. It also increases the likelihood that students' individual needs are satisfied through the collective efforts of the group (Yuan and Kim, 2014). Creating shared resources provides opportunities to enhance communication, teamwork and digital literacy skills. 
+Creating a shared resource can assist in establishing a strong sense of community by helping students to focus on a shared learning goal and shared responsibilities. This speaks to the importance that each member has within the group. It also increases the likelihood that students' individual needs are satisfied through the collective efforts of the group (Yuan and Kim, 2014). Creating shared resources provides opportunities to enhance communication, teamwork and digital literacy skills.
 
 Through the process of developing a shared resource, students are required to test and develop their working relationships with others, enhancing skills in negotiation, problem-solving and communication, which require a much deeper level of engagement. Learning is distributed throughout the cohort, reducing the risk of a single point of failure.
 
@@ -40,7 +40,7 @@ In a post-graduate subject with many students new to CSU, this learning design i
 
 #### Implementation
 
-Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts. Each small group of students presented their findings through online meeting sessions. The entire cohort was invited to vote for the ‘best’ presentations via Surveymonkey.
+Students were randomly placed into groups, communication tools for student-to-student interaction included the discussion board and folders for sharing artefacts. Each small group of students presented their findings through online meeting sessions. The entire cohort was invited to vote for the ‘best’ presentations via SurveyMonkey.
 
 **Assessment Items Used**
 
@@ -54,7 +54,7 @@ Evaluation of Own Team Processes
 : This individual task allows each student to reflect upon the process and to consider how this experience relates to their own management style/philosophy.
 
 Evaluation of other team projects
-: Using a survey tool (Surveymonkey) students are asked to nominate the most successful presentations given by others. Students are also asked to explain their choices. This allows students to consider many topics as well as different ways of presenting information and influencing the opinion of others.
+: Using a survey tool (SurveyMonkey) students are asked to nominate the most successful presentations given by others. Students are also asked to explain their choices. This allows students to consider many topics as well as different ways of presenting information and influencing the opinion of others.
 
 </div>
 </div>
@@ -76,7 +76,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
 
 #### Implementation
 
-The focus of the Group Wiki project was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. Teams were mostly self-selected and chose their own topic (pending approval) and methods of communication about the assignment needs. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills.
+The focus of the Group Wiki project was to work in a small team and create an authentic online learning module, demonstrating a range of digital and media affordances of the web environment. Teams were mostly self-selected and choose their own topic (pending approval) and methods of communication about the assignment needs. The chosen topic related to digital citizenship in an education context. This module was created using a wiki (Wikispaces) and required a high level of group communication, collaboration and co-creation skills as well as some technical skills.
 
 {% include youtubePlayer.html id="rxDvr61G0Lk" %}
 
@@ -94,10 +94,10 @@ Questions to ponder include: *What tools do students need to build resources? Ho
 
 Here are some key points to consider:
 
-* Clearly Identify topics to be divided amongst the students. As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (ie. resources folder)
+* Clearly Identify topics to be divided amongst the students. As with any learning activity, it is important to make expectations clear. Let students know what they will be focussing on and what the completed body of knowledge will represent - what will the completed ‘jigsaw’ provide? How much research or other work is expected from each student and how will it be shared? This could be done through discussion board forums, wikis and/or shared folders (i.e. resources folder)
 * Allocate student groups to each topic. At this point there are some options to consider: is it appropriate for students to self-select or will they be assigned to particular groups
 * Monitor progress. Simply keep students on track as you would normally with regular online meeting sessions and announcements.
-* Share the final product. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of Powerpoint slides may be compiled into a slideshow or animation.
+* Share the final product. Once all the students or groups have completed their research and prepared their findings, share the larger body of knowledge, which is the completed ‘jigsaw’. This could be done in a variety of ways depending on the initial briefing. For example: if each student wrote a short report they could be combined into a larger book, or a series of PowerPoint slides may be compiled into a slideshow or animation.
 * Debrief. After students have had time to consider the efforts of their peers discuss overall findings and what they have learned from their own work and that of others.
 
 ### Tools

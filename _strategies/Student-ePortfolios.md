@@ -14,7 +14,7 @@ subjectnames: "Introduction to Teacher Librarianship, Professional Experiences a
 
 An ePortfolio can be described as a selective and structured collection of information gathered for specific purposes and showing/evidencing one’s accomplishments, growth and professional reflections. Content is stored and managed digitally using appropriate multimedia and web environments (Challis, 2005). ePortfolios are planned and compiled by the owner (students) rather than by the educator. ePortfolios can provide ways for students to use feedback from assessment to support their learning. The ability to collect, reflect and connect aligns with assessment-as-learning principles. ePortfolios can encourage a self-directed, individualised approach to learning that students use throughout their lives. Throughout the ePortfolio process, students develop the appropriate skills to regulate their own learning and become responsibly engaged both individually and collaboratively in the ePortfolio process. This development of an ePortfolio, both creation and curation, can be sustained across subjects, within courses and beyond.
 
-When to use use ePortfolios (UNSW, 2016):
+When to use ePortfolios (UNSW, 2016):
 
 * to enable students to reflect on their learning, performance and /or achievement in both formative and summative assessment
 * to encourage independent learning
@@ -44,15 +44,15 @@ Lee Fitzgerald, Kasey Garrison, Ray Crotty
 
 #### Motivation
 
-ETL401 is the first subject of the Master of Education, Teacher Librarianship and sets up student eportfolios as an essential requirement for assessment and ‘to record your learning journey throughout the session’ (from the Subject Outline, SO). CSU Thinkspace is the preferred platform. ETL507 is the capstone for the same course and uses the student’s existing eportfolio to support final reflective practice and field work.
+ETL401 is the first subject of the Master of Education, Teacher Librarianship and sets up student eportfolios as an essential requirement for assessment and ‘to record your learning journey throughout the session’ (from the Subject Outline, SO). CSU ThinkSpace is the preferred platform. ETL507 is the capstone for the same course and uses the student’s existing eportfolio to support final reflective practice and field work.
 
 ETL507 is the capstone for the same course and uses the student’s existing eportfolio to support final reflective practice and field work.
 
 #### Implementation
 
-The use of a reflective journal in ETL401is seen an opportunity for students to demonstrate functioning knowledge in the context of the intended learning outcomes for the subject and/or course. The portfolio can be a tool for transformative reflection, allowing students to describe what they know, understand and can do with their knowledge, as well as what they feel and believe as a result of their learning experiences. Portfolios, often in the form of ongoing blogs, are used by professionals to articulate their opinions and promote intellectual discussion and commentary on topics of interest. Students then set up a professional blog on Thinkspace where they discuss relevant issues and what they are learning about teacher librarianship during this subject and the Masters course.
+The use of a reflective journal in ETL401is seen an opportunity for students to demonstrate functioning knowledge in the context of the intended learning outcomes for the subject and/or course. The portfolio can be a tool for transformative reflection, allowing students to describe what they know, understand and can do with their knowledge, as well as what they feel and believe as a result of their learning experiences. Portfolios, often in the form of ongoing blogs, are used by professionals to articulate their opinions and promote intellectual discussion and commentary on topics of interest. Students then set up a professional blog on ThinkSpace where they discuss relevant issues and what they are learning about teacher librarianship during this subject and the Masters course.
 
-Many resources are provided to students via Interact2 and share how to setup and use the Thinkspace blog and how to set out writing/blogging for their portfolio. These are then linked to assessment tasks, their first being a blog task where they reflect on their experiences as a teacher, and write a 500 word piece about their understandings of the role in schools. A later assessment is a reflective blog post on how the student views the role of the librarian and includes examples from the collection of blog posts throughout the session.
+Many resources are provided to students via Interact2 and share how to setup and use the ThinkSpace blog and how to set out writing/blogging for their portfolio. These are then linked to assessment tasks, their first being a blog task where they reflect on their experiences as a teacher, and write a 500 word piece about their understandings of the role in schools. A later assessment is a reflective blog post on how the student views the role of the librarian and includes examples from the collection of blog posts throughout the session.
 
 This portfolio is maintained through the students study and becomes the reference point in ETL507 for a key assessment task where students provide a critical synthesis and reflection on how their views, knowledge and understanding of the work of a teacher librarian has been formed and shaped to be a responsive and effective information services leader and teacher librarian.
 
@@ -126,11 +126,11 @@ When designing a learning task that assesses with blogs, your instructions need 
 Are a variety of technologies supporting the development of Student ePortfolios. Tools worth exploring include:
 
 - Blackboard Blogs and Journals
-- [Thinkspace](http://thinkspace.csu.edu.au)
-- [Wordpress](http://wordpress.com)
+- [ThinkSpace](http://thinkspace.csu.edu.au)
+- [WordPress](http://wordpress.com)
 - [Blogger](https://www.blogger.com/)
 - [Known](http://withknown.com)
-- [Domain Of Ones Own](https://reclaimhosting.com)
+- [Domain Of One's Own](https://reclaimhosting.com)
 
 ### Additional Resources
 
@@ -140,15 +140,15 @@ Are a variety of technologies supporting the development of Student ePortfolios.
 
 Pebble pad ([https://www.csu.edu.au/division/student-learning/home/technologies-for-learning-and-teaching/eportfolio](https://www.csu.edu.au/division/student-learning/home/technologies-for-learning-and-teaching/eportfolio))
 
-Lindsay, J. (2016). Beyond blogging: Reflective and responsive practice using Thinkspace [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
+Lindsay, J. (2016). Beyond blogging: Reflective and responsive practice using ThinkSpace [Slideshow]. Retrieved from [Google Docs](https://docs.google.com/presentation/d/1yE6pIZmtxCg2JB3HcbaeXG6loQp8DM8YpVFg10O5LNA/pub?start=false&loop=false&delayms=3000)
 
-Judy O’Connell. (2016, June 2). Thinkspace - ePortfolio and online enhancement [Video file].
+Judy O’Connell. (2016, June 2). ThinkSpace - ePortfolio and online enhancement [Video file].
 
 {% include youtubePlayer.html id="MiMxqc_7cB0" %}
 
 DSL website ‘Portfolio’ - Specific how to [information on ePortfolios can be found here](http://www.csu.edu.au/division/student-learning/home/csu-academics/learning-and-teaching-at-csu/portfolio)
 
-CSU Thinkspace - [http://thinkspace.csu.edu.au](http://thinkspace.csu.edu.au)
+CSU ThinkSpace - [http://thinkspace.csu.edu.au](http://thinkspace.csu.edu.au)
 
 Challis, D. (2005). Towards the mature ePortfolio: Some implications for higher education. *SANDBOX-Canadian Journal of Learning and Technology/La revue canadienne de l’apprentissage et de la technologie, 31*(3).
 

@@ -42,7 +42,7 @@ This keystone subject establishes the reflective journal process for use within 
 
 #### Implementation
 
-CSU Thinkspace provided the ideal vehicle for transforming learning experiences through the use of a reflective journal. Using a CSU username and password students are introduced to a platform that has full flexibility for customisation to reflect personal preferences and provide a touch of motivation. Importantly this is also linked to a range of formative steps supported by the academic in building knowledge and understanding: Key topics for reflection; Peer-to-peer responses; Teacher feedback; Literacy and communication; and Celebration of learning achievements.
+CSU ThinkSpace provided the ideal vehicle for transforming learning experiences through the use of a reflective journal. Using a CSU username and password students are introduced to a platform that has full flexibility for customisation to reflect personal preferences and provide a touch of motivation. Importantly this is also linked to a range of formative steps supported by the academic in building knowledge and understanding: Key topics for reflection; Peer-to-peer responses; Teacher feedback; Literacy and communication; and Celebration of learning achievements.
 
 Feedback from students provides an insight into how this strategy was received:
 
@@ -50,7 +50,7 @@ Feedback from students provides an insight into how this strategy was received:
 
 >“HAVING to create a professional blog - helpful for me to clarify and reflect on my learning throughout this subject; and great to be able to share my classmates learning via their blogs too.”
 
-A simple Google Doc embedded in the Interact2 site creates a space for students to provide their CSU Thinkspace link and Twitter details so students can interact with each other in an asynchronous manner.
+A simple Google Doc embedded in the Interact2 site creates a space for students to provide their CSU ThinkSpace link and Twitter details so students can interact with each other in an asynchronous manner.
 
 {% include swiper.html url1="Reflective-Journals-1.png" url2="Reflective-Journals-2.png" %}
 
@@ -77,7 +77,7 @@ This subject examines the educational practices of connected learning environmen
 
 #### Implementation
 
-Every student has a Thinkspace blog. Each subject they complete is added as a ‘category’ on the blog which then helps to filter posts. Therefore for INF532 it is expected students write a series of blog posts throughout the session. These are then used in the final assignment Network literacy evaluative report’, which is also posted as a blog post in two parts - 1) A 900 word evaluative statement using previous blog posts as evidence of meeting the learning objectives; 2) A 900 word reflective statement on development as a connected educator and implications as a connected leader.
+Every student has a ThinkSpace blog. Each subject they complete is added as a ‘category’ on the blog which then helps to filter posts. Therefore for INF532 it is expected students write a series of blog posts throughout the session. These are then used in the final assignment Network literacy evaluative report’, which is also posted as a blog post in two parts - 1) A 900 word evaluative statement using previous blog posts as evidence of meeting the learning objectives; 2) A 900 word reflective statement on development as a connected educator and implications as a connected leader.
 
 You can view some of the student's ‘Network literacy evaluative reports’ here (may need CSU login to access):
 
@@ -93,7 +93,7 @@ You can view some of the student's ‘Network literacy evaluative reports’ her
 
 ### Guide
 
-In looking for opportunities to develop and offer students an opportunity to engage in reflective journalling there are a range of considerations that need to be made:
+In looking for opportunities to develop and offer students an opportunity to engage in reflective journaling there are a range of considerations that need to be made:
 
 * Reflective journals provide an opportunity for students to explore, ask questions, respond to readings, summarize key ideas, recognise strengths and weaknesses in their emerging professional understanding and/or practice.
 * Understand why you are introducing this strategy. Reflective journals can be a powerful way to build understanding while also providing a responsive mechanism for personalisation of the learning process. However the process is unlikely to be nurtured by introducing too many compulsory posts, tight timelines, or other artificial constraints particularly where there is no teacher presence visible.
@@ -108,7 +108,7 @@ In looking for opportunities to develop and offer students an opportunity to eng
 
 Typical tools used for reflective journals within the Interact2 platform are [PebblePad](https://v3.pebblepad.com.au/login/csu/?redirect=%2falt%2fcsu) and the [Interact2 blog](https://www.csu.edu.au/division/student-learning/interact2_help/faculty-and-csu-staff/interact-with-students/blogs).
 
-The [CSU Thinkspace](http://thinkspace.csu.edu.au/) platform provides a real-world tool ([Wordpress](https://wordpress.org/)) where students can customise using themes and embed, hyperlink as well as comment and co-comment on other student's.
+The [CSU ThinkSpace](http://thinkspace.csu.edu.au/) platform provides a real-world tool ([WordPress](https://wordpress.org/)) where students can customise their site using themes and embed content, hyperlink as well as comment and co-comment on other student's work.
 
 ### Additional Resources
 
