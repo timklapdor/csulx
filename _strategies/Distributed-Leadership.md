@@ -55,7 +55,7 @@ Students are assigned to virtual teams (4-5 students per team) they are each giv
 4. Complete submission requirements for the Challenge. (Approx. 2 days)
 5. All students complete the Post Challenge individual task – Reflection. (Approx. 1 day)
 
-![Diagram on subjects approach](../images/practices/distributed-leadership-1.jpg){: .u-full-width
+![Diagram on subjects approach](../images/practices/Distributed-Leadership-1.jpg){: .u-full-width
 }
 </div>
 </div>
