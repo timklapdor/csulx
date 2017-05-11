@@ -1443,7 +1443,7 @@ nav li {
   background: linear-gradient(to bottom, #444 0%, #333333 39%, #333333 39%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444', endColorstr='#333333',GradientType=0 );
   background: #333333;
-  flex-grow: 1;
+  flex: 1 25%;
   min-width: 40vw;
   max-width: 100vw;
   margin: 0;
@@ -1841,7 +1841,7 @@ td:last-child {
   display: inline-block;
   height: 26px;
   line-height: 26px;
-  padding: 0 20px 0 23px;
+  padding: 0 25px 0 23px;
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
