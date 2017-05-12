@@ -6,7 +6,7 @@ title: Teacher Presence Example
 category: ETL532
 element: Teacher Presence
 weight: 2
-mixer: 2
+mixer: 5
 features: Announcements, Discussion Forums, Adobe Connect Meetings, Twitter
 description: In this subject teacher presence was fostered across the use of announcements, discussion forum design, the use of online meetings using Adobe Connect and additional online communication tools.  This multimodal approach provided a scaffold for establishing a strong teacher identity and effective, reliable and regular communication. It also amplified teacher to student interaction through the different choices and opportunities provided.
 strategies:
@@ -17,7 +17,7 @@ main-video: _S4PXO_H-wQ
 
 ### Strategies Used:
 
-- **[{{ page.strategies[0] }}]({{ site.baseurl}}/strategy/multimodal-presence.html)** - Establish effective communication utilising a range of media and tools. 
+- **[{{ page.strategies[0] }}]({{ site.baseurl}}/strategy/multimodal-presence.html)** - Establish effective communication utilising a range of media and tools.
 
 ### Description
 
