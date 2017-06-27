@@ -12,7 +12,7 @@ subjectnames: "Communication & Information Management"
 
 ### Overview
 
-An adaptive teaching approach enables more personalised learning experiences for your students. It ensures teachers are present and improves identified areas of engagement with students. Teaching approaches and learning activities are designed to be responsive to student behaviour and demonstrated knowledge. Instead of relying upon teacher intuition or surmises, learning analytics can provide you with insights into what is happening with the learner in close to real-time. Data-informed practices allow you to support student learning in targeted ways through evidence-based suggestions and feedback. Adaptive learning recognises students as individuals and ensures that problems encountered are addressed quickly to minimise disruption and build learning momentum (Dietz-Uhler & Hurn, 2013).
+An adaptive teaching approach enables more personalised learning experiences for your students. It ensures teachers are present and improves identified areas of engagement with students. Teaching approaches and learning activities are designed to be responsive to student behaviour and demonstrated knowledge. Instead of relying upon teacher intuition or surmises, learning analytics can provide you with insights into what is happening with the learner in close to real-time. Data-informed practices allow you to support student learning in targeted ways through evidence-based suggestions and feedback. Adaptive learning recognises students as individuals and ensures that problems encounts are addressed quickly to minimise disruption and build learning momentum (Dietz-Uhler & Hurn, 2013).
 
 ### Engagement
 
