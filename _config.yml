@@ -21,7 +21,7 @@ collections:
     permalink: /applications/:categories/:title.html
   strategies:
     output: true
-    permalink: /strategies/:title.html
+    permalink: /strategies/:slug.html
     layout: post
 
 #Timezone
