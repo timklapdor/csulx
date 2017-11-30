@@ -2,7 +2,25 @@
 
 This site was built to accommodate Version 2 of the CSU Online Learning Model and it's associated resources. These include the OLM Mixer and a growing collection of Strategies & Practice examples that illustrate how they can be utilised to increase student engagement.
 
+### Suggestions
 
+- Break out Practices into their own collection
+- Create Tools & Technologies as a collection - can link out to common information and links to help, support, training etc.
+- improve search tool to do Ajax style search and display
+
+### Current workflow
+``` html
+<div class="mermaid">
+graph TD
+	GD(GoogleDoc) --- EM(Export to Markdown)
+	EM --- CU(Clean Up & Save Markdown)
+	CU --- CO(Move to _strategies folder)
+	CO --- JB(Jekyll Build)
+	JB --- GH(Commit & Sync to GItHub)
+	GH --- TG(Test on GitHub)
+	TG --- FTP(FTP to uImagine Server)
+</div>
+```
 ### Updates
 
 **May 2017**
