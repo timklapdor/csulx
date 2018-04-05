@@ -23,6 +23,14 @@ graph TD
 ```
 ### Updates
 
+**April 2018**
+
+- Fixed broken links in model areas
+- Added style for ```<span class="label">``` which reads a new label item in a strategy
+- Added label to Model Strategy Archive page and Browse All page
+- To use add ```label: TOL``` to frontmatter
+
+
 **May 2017**
 
 - Updates to literature and referencing for Model pages

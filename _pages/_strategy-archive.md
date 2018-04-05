@@ -2,7 +2,8 @@
 
 layout: archive
 title: All Strategies
-permalink: /strategy/old-archive.html
+draft: true
+permalink: /strategies/old-archive.html
 tag:
 header: h-gradient-purple
 

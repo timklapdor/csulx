@@ -69,3 +69,50 @@
 .tag:hover::after {
    border-left-color: $lx-orange;
 }
+
+.label {
+  background: $lx-light-grey;
+  font-size: .5rem;
+  border-radius: 0 3px 3px 0;
+  color: lighten($lx-dark-grey, 25%);
+  display: inline-block;
+  height: 20px;
+  line-height: 20px;
+  padding: 0 10px 0 35px;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+// .label::before {
+//   background: #fff;
+//   border-radius: 10px;
+//   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+//   content: '';
+//   height: 6px;
+//   left: 10px;
+//   position: absolute;
+//   width: 6px;
+//   top: 10px;
+// }
+
+.label::before {
+  background: #fff;
+  border-bottom: 10px solid transparent;
+  border-right: 7px solid $lx-light-grey;
+  border-top: 10px solid transparent;
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.label:hover {
+  background-color: $lx-orange;
+  color: white;
+}
+
+.label:hover::before {
+   border-right-color: $lx-orange;
+}

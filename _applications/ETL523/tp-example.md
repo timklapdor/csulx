@@ -17,7 +17,7 @@ main-video: _S4PXO_H-wQ
 
 ### Strategies Used:
 
-- **[{{ page.strategies[0] }}]({{ site.baseurl}}/strategy/multimodal-presence.html)** - Establish effective communication utilising a range of media and tools.
+- **[{{ page.strategies[0] }}]({{ site.baseurl}}/strategies/multimodal-presence.html)** - Establish effective communication utilising a range of media and tools.
 
 ### Description
 

@@ -1875,6 +1875,37 @@ td:last-child {
 .tag:hover::after {
   border-left-color: #ff5800; }
 
+.label {
+  background: #f1f1f1;
+  font-size: .5rem;
+  border-radius: 0 3px 3px 0;
+  color: #737373;
+  display: inline-block;
+  height: 20px;
+  line-height: 20px;
+  padding: 0 10px 0 35px;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-transition: color 0.2s; }
+
+.label::before {
+  background: #fff;
+  border-bottom: 10px solid transparent;
+  border-right: 7px solid #f1f1f1;
+  border-top: 10px solid transparent;
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0; }
+
+.label:hover {
+  background-color: #ff5800;
+  color: white; }
+
+.label:hover::before {
+  border-right-color: #ff5800; }
+
 .tile-icons {
   display: flex;
   flex-flow: row wrap;

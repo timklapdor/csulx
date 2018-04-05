@@ -102,7 +102,7 @@ Carr, S. (2000). As distance education comes of age, the challenge is keeping th
   <div class="content-half">
     <h3>Browse All </h3>
     <p>Browse the complete set of strategies here.</p>
-    <p><a href="{{ site.baseurl }}/strategy/archive.html" class="button">View All Strategies</a></p>
+    <p><a href="{{ site.baseurl }}/strategies/archive.html" class="button">View All Strategies</a></p>
   </div>
   <div class="content-half">
     <h3>Search</h3>
