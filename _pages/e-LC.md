@@ -40,11 +40,11 @@ A number of authors have recommended both lower and upper limits on cohort sizes
 
 This section sets out a number of specific strategies that are known to be helpful in establishing a learning community. It is important to acknowledge that there is substantial synergy between the Teacher Presence, Interaction Between Students and Learning Communities elements of the model. Consequently many of the strategies listed Teacher Presence (e.g. welcome videos, communication tone, and responsiveness) and Interaction Between Students (e.g. asynchronous discussions, synchronous discussions, peer teaching and online reflective journals) will also have a positive impact on the establishment of an effective learning community.
 
-**Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts]({{ site.baseurl}}/strategy/dividing-large-cohorts.html), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
+**Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts]({{ site.baseurl }}/strategies/dividing-large-cohorts.html), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
 
-**Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment]({{ site.baseurl}}/strategy/orientation-to-the-environment.html), socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
+**Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment]({{ site.baseurl }}/strategies/orientation-to-the-environment.html), socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
 
-**Shared Activity** - Community building through [contribution to a shared resource]({{ site.baseurl}}/strategy/creating-shared-resource.html) such as a gallery of photos containing examples of a concept or experiences from professional placement;
+**Shared Activity** - Community building through [contribution to a shared resource]({{ site.baseurl }}/strategies/creating-a-shared-resource.html) such as a gallery of photos containing examples of a concept or experiences from professional placement;
 
 **Social Media** - Establishment of social media streams supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools.
 

@@ -30,7 +30,7 @@ Alongside this, flexibility in the timing and mode of engagement with teachers, 
 
 **Data informed course and subject design** - Subject and course learning designs informed by data drawn from student and peer feedback, research and learning analytics can ensure a strong fit with learner needs and learning preferences.
 
-**Adaptive teaching** - Data-informed during session adaptation of teaching strategies and [resources]({{ site.baseurl}}/strategy/adapting-learning-resources.html) can be undertaken based on evidence about students’ characteristics, knowledge and learning behaviours.
+**Adaptive teaching** - Data-informed during session adaptation of teaching strategies and [resources]({{ site.baseurl}}/strategies/adapting-learning-resources.html) can be undertaken based on evidence about students’ characteristics, knowledge and learning behaviours.
 
 **Data informed student support recommendations** - Personalised support can be provided through use of data to inform decisions to help connect students with university support services.
 
