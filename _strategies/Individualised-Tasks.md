@@ -3,7 +3,7 @@
 layout: strategy
 title: "Individualised Tasks"
 category: strategy
-tags: [Learning Communities, Interaction Between Students, Teacher Presence, Interaction with the Professions, Flexible & Adaptive Learning, Interactive Resources, E-Assessment,]
+tags: [Flexible & Adaptive Learning,]
 description: "Variables are used to modify assessment tasks to provide individual questions."
 subjects: "MTH135, FIN516, "
 subjectnames: "Mathematics And Statistics In Health Sciences, Corporate Finance"
