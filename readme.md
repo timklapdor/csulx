@@ -23,6 +23,9 @@ graph TD
 ```
 ### Updates
 
+**May 2018**
+- New TOL strategies added.
+
 **April 2018**
 
 - Fixed broken links in model areas
