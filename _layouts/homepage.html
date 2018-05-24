@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% for item in page.header %}
+<div class="hero u-release {{ page.header }}">
+        <h1>{{ page.title }}</h1>
+</div>
+{% endfor %}
+
+<article class="content-full" >
+
+{{ content }}
+
+<div class="practice u-release extra-padding">
+  <div class="practice-item-bg gradient-orange">
+    <h5 class="white underline">Explore the Online Learning Model</h5>
+    <p class="white">Take an indepth look at the Online Learning Model</p>
+    <div class="offset-by-two eight six columns linking" align="center">
+      <a href="{{ site.baseurl }}/model/"><img src="images/olm-circle-blk.png" class="u-full-width" alt="Online Learning Model Graphic"></a>
+    </div>
+  </div>
+
+  <div class="practice-item-bg gradient-orange">
+    <h5 class="white underline">Explore the OLM Mixer</h5>
+    <p class="white">Explore the different ways of improving engagement with the Online Learning Model.</p>
+    <div class="offset-by-two eight columns linking" align="center">
+      <a href="{{ site.baseurl }}/mixer/"><img src="images/mixer-blk.png" class="u-full-width" alt="Mixer Graphic"></a>
+    </div>
+  </div>
+</div>
+
+</article>
