@@ -14,8 +14,8 @@ Online strategies which connect students with professionals and sites of profess
 
 {% include youtubePlayer.html id="BANadsNZF3g" %}
 
-<div class="extra-top-padding row-flex">
-<a href="{{ site.baseurl }}/tags/IWP.html" class="button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IWP.html" class="button pink-bg">Browse Strategies</a>
 </div>
 
 ### Rationale
@@ -32,7 +32,25 @@ As well as supporting connections to professionals and professional contexts, st
 
 ### <a name="IWP-strategies"></a>Strategies
 
-**Case studies** - Professional contexts can be highlighted through rich media case studies connecting theory to practice.
+The Interaction with the Professions element is exemplified by:
+
+- Case studies that highlight professional contexts through rich media.
+- Guest online lectures by professional practitioners.
+- Authentic practice-focused assessment tasks.
+- Assessment tasks requiring students to draw on and reflect upon placements.
+- Online discussions with peers and teachers during work placements.
+- Online role plays and simulations.
+- Online mentoring and professional networking.
+- Video conference connections to sites of practice.
+
+<div class="extra-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IWP.html" class="button pink-bg">Strategies & Implementation Guides</a>
+</div>
+
+The TOL [Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf), while encouraging designers to draw upon the OLM in a way which best meets the learning needs of the particular cohort, also recommends that the Interaction with the Professions element is enacted so that relevant subjects will address professional practice through simulated workplace learning activities, resources and assessment as well as learning activities in actual workplaces, professionals and/or professional practices.
+
+
+<!-- **Case studies** - Professional contexts can be highlighted through rich media case studies connecting theory to practice.
 
 **Guest lectures** - Professional practitioners can be invited to join the learning community as [guest presentation]({{ site.baseurl }}/strategies/guest-presentations.html) or guest facilitators of online discussions.
 
@@ -46,13 +64,13 @@ As well as supporting connections to professionals and professional contexts, st
 
 **Online mentoring** - Online mentoring and professional networking can be important ways of engaging students with professions and professionals.
 
-**Connections to practice sites** - With the increasing availability of video conference technology the potential to establish video connections to sites of practice either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible.
+**Connections to practice sites** - With the increasing availability of video conference technology the potential to establish video connections to sites of practice either as part of synchronous teaching or as video recordings supporting asynchronous learning is becoming increasingly feasible. -->
 
 ### References
 
 <div class="apa-ref" markdown="1">
 
-Braunstein, L. A, Takei, H., Wang, F., &  Loken, M. K. (2011). Benefits of cooperative and work-integrated education for employers. In R. K. Coll & K. E. Zegwaard (Eds.),* International handbook for cooperative and work-integrated education: International perspectives of theory, research and practice* (pp. 277-286). Lowell, MA: World Association for Cooperative Education.
+Braunstein, L. A, Takei, H., Wang, F., &  Loken, M. K. (2011). Benefits of cooperative and work-integrated education for employers. In R. K. Coll & K. E. Zegwaard (Eds.), *International handbook for cooperative and work-integrated education: International perspectives of theory, research and practice* (pp. 277-286). Lowell, MA: World Association for Cooperative Education.
 
 Coates, H. (2005). The value of student engagement for higher education quality assurance. *Quality in Higher Education, 11*(1), 25-36. [doi:10.1080/13538320500074915](http://dx.doi.org/10.1080/13538320500074915)
 

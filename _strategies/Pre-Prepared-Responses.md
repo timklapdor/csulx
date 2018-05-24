@@ -7,7 +7,7 @@ tags: [Flexible & Adaptive Learning, ]
 description: "Use a bank of prepare response to provide feedback to students fast."
 subjects: "MGT220"
 subjectnames: "eCommerce"
-label: TOL
+label: LEF
 
 ---
 

@@ -12,9 +12,9 @@ subjectnames: "Human Resource Management, Communicating Environmental Data, "
 
 ### Overview
 
-Studying online means that students can come from anywhere in Australia or around the world. The lack of a shared physical space is often seen as an issue for online learning, isolating students and reducing the likelihood of being able to ‘come together’ with their peers.  However, providing students with the ability to define their physical location allows them to gain a better understanding of where their peers are located.
+Studying online means that students can come from anywhere in Australia or around the world. The lack of a shared physical space is often seen as an issue for online learning, isolating students and reducing the likelihood of being able to ‘come together’ with their peers. However, providing students with the ability to define their physical location allows them to gain a better understanding of where their peers are located.
 
-The opportunity to visually identify student locations; such as with an online map, can reduce the sense of isolation, build community and provoke conversation.  In some instances students may discover they live in the same metropolitan area and an informal study group could be arranged at a centralised venue. In other instances, students from different countries may choose to schedule conversations based on time zones.
+The opportunity to visually identify student locations; such as with an online map, can reduce the sense of isolation, build community and provoke conversation. In some instances students may discover they live in the same metropolitan area and an informal study group could be arranged at a centralised venue. In other instances, students from different countries may choose to schedule conversations based on time zones.
 
 ### Engagement
 
@@ -40,7 +40,7 @@ This strategy was deployed to build a sense of community among online students a
 
 #### Implementation
 
-This strategy was implemented through an ‘icebreaker’ activity. A Google Map was shared with the cohort using the Interact2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group.  (students are advised to not publicly post the home address or other personal info)
+This strategy was implemented through an ‘icebreaker’ activity. A Google Map was shared with the cohort using the Interact2 ‘blank page’ so they could easily access the map from the main screen. Students gave a general sense of their location which assists in setting up study groups. For instance; several Canadian students, from the same providence decided to form a study group. (students are advised to not publicly post the home address or other personal info)
 
 ![Screenshot of subject's map](../images/practices/Mapping-Students-Locations-2.jpg){: .u-full-width}
 
@@ -68,7 +68,7 @@ A content area within Interact2 is set up entitle ‘Who are We?’ Within the c
 
 > "Sharing spatial data about the place where we are, the place we call Country and the place where we would like to go."
 
-Students use a blue pin to identify where they are located, a red pin to identify their home country and a green pin to identify where they would like to visit.  Very clear instructions are given to step students through the process. Once completed students read
+Students use a blue pin to identify where they are located, a red pin to identify their home country and a green pin to identify where they would like to visit. Very clear instructions are given to step students through the process. Once completed students read
 
 >"Congratulations, you are now part of our Spatial SCI103 Community!"
 

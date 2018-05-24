@@ -3,11 +3,11 @@
 layout: strategy
 title: "Adaptive Release "
 category: strategy
-tags: [Flexible & Adaptive Learning, ] 
+tags: [Flexible & Adaptive Learning, ]
 description: "Using rules to release content to students based on activity."
 subjects: "FIN516"
 subjectnames: "Corporate Finance"
-label: TOL
+label: LEF
 
 ---
 
@@ -25,7 +25,7 @@ Various rules can be created to support students in the management of their lear
 <div class="practice-item">
 <div class="practice-content" markdown="1">
 
-#### Subject 
+#### Subject
 
 FIN516 Corporate Finance
 
@@ -35,7 +35,7 @@ Ruhina Karam
 
 #### Motivation
 
-Students in this subject were not completing the end of topic quizzes, formative, non graded tasks designed to provide practice and revision of skills. There is a strong correlation between those who do not complete the end of topic quizzes, and those who struggle with the assessable tests and exam. As each topic builds on previous knowledge, the non graded revision quizzes provide the opportunity for instant feedback to identify and correct misconceptions and improve future assessment performances. 
+Students in this subject were not completing the end of topic quizzes, formative, non graded tasks designed to provide practice and revision of skills. There is a strong correlation between those who do not complete the end of topic quizzes, and those who struggle with the assessable tests and exam. As each topic builds on previous knowledge, the non graded revision quizzes provide the opportunity for instant feedback to identify and correct misconceptions and improve future assessment performances.
 
 #### Implementation
 
@@ -88,4 +88,3 @@ Fisher, Gardner, Brinthaupts & Raffo, (2014).[ Conditional Release of Course Mat
 Irwin, B., Hepplestone, S., Holden, G., Parkin, H. J., & Thorpe, L. (2013). Engaging students with feedback through adaptive release. *Innovations in Education & Teaching International*., 50(1), 51-61.
 
 </div>
-

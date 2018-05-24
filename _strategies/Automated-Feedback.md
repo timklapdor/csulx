@@ -7,7 +7,7 @@ tags: [E-Assessment,]
 description: "Provide detailed feedback to the student through system-generated responses."
 subjects: "MTH135, GPM512"
 subjectnames: "Mathematics And Statistics In Health Sciences, Executive Leadership in Law Enforcement and Security"
-label: TOL
+label: LEF
 
 ---
 

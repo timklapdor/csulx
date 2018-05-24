@@ -14,8 +14,8 @@ Feeling part of and actively contributing to a learning community is directly li
 
 {% include youtubePlayer.html id="T1YJS6LCuT0" %}
 
-<div class="extra-top-padding row-flex">
-<a href="{{ site.baseurl }}/tags/LC.html" class="button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/LC.html" class="button pink-bg">Browse Strategies</a>
 </div>
 
 ### Rationale
@@ -38,15 +38,29 @@ A number of authors have recommended both lower and upper limits on cohort sizes
 
 ### <a name="LC-strategies"></a>Strategies
 
-This section sets out a number of specific strategies that are known to be helpful in establishing a learning community. It is important to acknowledge that there is substantial synergy between the Teacher Presence, Interaction Between Students and Learning Communities elements of the model. Consequently many of the strategies listed Teacher Presence (e.g. welcome videos, communication tone, and responsiveness) and Interaction Between Students (e.g. asynchronous discussions, synchronous discussions, peer teaching and online reflective journals) will also have a positive impact on the establishment of an effective learning community.
+The Learning Communities element is exemplified by:
 
-**Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts]({{ site.baseurl }}/strategies/dividing-large-cohorts.html), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
+- Smaller sub cohorts within large cohorts facilitated by a tutor who guides community building, provides formative feedback and marks summative assessment tasks.
+- Orientation, socialisation and personalisation of the online environment prior to curriculum focused learning activities.
+- Contribution to a shared resource such as a gallery of photos from professional placement. Social media streams using tools such as Twitter, Instagram or shared bookmarking.
+
+It is important to acknowledge that there is substantial synergy between the Teacher Presence, Interaction Between Students and Learning Communities elements of the model. Consequently many of the strategies listed within Teacher Presence (e.g. welcome videos, communication tone, and responsiveness) and Interaction Between Students (e.g. asynchronous discussions, synchronous discussions, peer teaching and online reflective journals) will also have a positive impact on the establishment of an effective learning community.
+
+<div class="extra-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/LC.html" class="button pink-bg">Strategies & Implementation Guides</a>
+</div>
+
+The TOL [Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf), while encouraging designers to draw upon the OLM in a way which best meets the learning needs of the particular cohort, also recommends that the Learning Communities element is enacted in a way in which students are supported through online communication tools, subject design, and teacher facilitation, but with individual students able to choose whether to participate in cohort community activities or to study independently during a subject.
+
+
+
+<!-- **Sub-cohorts** - The creation of[ smaller sub cohorts within large cohorts]({{ site.baseurl }}/strategies/dividing-large-cohorts.html), facilitated by a tutor who guides the community building, provides formative feedback through discussion forums and is responsible for the marking of summative assessment tasks;
 
 **Facilitated Socialisation** - Learning activities which support students through [orientation to the online environment]({{ site.baseurl }}/strategies/orientation-to-the-environment.html), socialisation and personalisation of the environment, prior to undertaking curriculum focused community learning activities;
 
 **Shared Activity** - Community building through [contribution to a shared resource]({{ site.baseurl }}/strategies/creating-a-shared-resource.html) such as a gallery of photos containing examples of a concept or experiences from professional placement;
 
-**Social Media** - Establishment of social media streams supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools.
+**Social Media** - Establishment of social media streams supporting the sharing of ideas and resources, using tools such as Twitter, Instagram or shared bookmarking tools. -->
 
 ### References
 

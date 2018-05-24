@@ -14,8 +14,8 @@ Student learning is enhanced through online peer learning activities aligned wit
 
 {% include youtubePlayer.html id="6o6iRkaeOzw" %}
 
-<div class="extra-top-padding row-flex">
-<a href="{{ site.baseurl }}/tags/IBS.html" class="button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IBS.html" class="button pink-bg">Browse Strategies</a>
 </div>
 
 ### <a name="IBS-strategies"></a>Rationale
@@ -37,7 +37,23 @@ Consistent with Biggs’ (1996) notion of constructive alignment it is well know
 
 The following paragraphs describe some more specific examples of interactive learning activities and strategies for supporting them.
 
-**Online discussions** - Synchronous Discussions &  [Asynchronous Discussions]({{ site.baseurl }}/strategies/asynchronous-discussions.html) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives.
+The Interaction Between Students element is exemplified by:
+
+- Synchronous and asynchronous discussions that allow students to share their experiences, knowledge and perspectives.
+- Peer-to-peer teaching activities.
+- Collaborative small group projects.
+- Online reflective journals including video or audio blogs, allowing peer comments and feedback.
+- Co-operative inquiry-based or problem-based learning activities.
+- Co-creation of authentic learning products.
+
+<div class="extra-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IBS.html" class="button pink-bg">Strategies & Implementation Guides</a>
+</div>
+
+The TOL [Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf), while encouraging designers to draw upon the OLM in a way which best meets the learning needs of the particular cohort, also recommends that the Interaction Between Students element is enacted in a way in which students are supported through online communication tools, subject design and teacher facilitation but with flexibility in frequency and modality of engagement.
+
+
+<!-- **Online discussions** - Synchronous Discussions &  [Asynchronous Discussions]({{ site.baseurl }}/strategies/asynchronous-discussions.html) building on focus questions within subject materials can support students to share their experiences, knowledge and perspectives.
 
 **Peer teaching** - Peer teaching activities where students support the learning of their fellow students can be valuable to both of the students involved.
 
@@ -63,7 +79,7 @@ Drawing together findings from a number of studies, the following are some key r
 
 **Cooperative learning** - Cooperative learning provides a structure through which students are required to undertake complementary learning activities which collectively lead to the achievement of shared learning goals. Students take responsibility for engaging with specific ideas and content and then share their developing understandings with the group. Cooperative learning activities can also be embedded within broader problem-based learning activities.
 
-**Co-creation** - Co-creation of authentic learning products can involve participatory learning activities requiring students to contribute together to produce a shared artefact or body of work through collaboration via synchronous or asynchronous communication tools and/or collaborative authoring tools.
+**Co-creation** - Co-creation of authentic learning products can involve participatory learning activities requiring students to contribute together to produce a shared artefact or body of work through collaboration via synchronous or asynchronous communication tools and/or collaborative authoring tools. -->
 
 <div class="apa-ref" markdown="1">
 

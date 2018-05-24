@@ -16,8 +16,8 @@ Watch the video for an overview of the element.
 
 {% include youtubePlayer.html id="YRARQprfO6c" %}
 
-<div class="extra-top-padding row-flex">
-<a href="{{ site.baseurl }}/tags/EA.html" class="button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/EA.html" class="button pink-bg">Browse Strategies</a>
 </div>
 
 ### Rationale
@@ -34,6 +34,26 @@ Some have questioned whether a computer-based exam is any more authentic than a 
 
 ### <a name="EA-strategies"></a>Strategies
 
+The e-Assessment element is exemplified by:
+
+- Construction of rich media artefacts modelled on the products of the profession.
+- ePortfolios to capture student reflections and record and demonstrate professional practice capabilities.
+- Blogs and online journals for formative and summative assessment.
+- Self-marking quizzes.
+- Automated plagiarism checking, online marking and online peer assessment.
+- Badges for micro-credentialing of competencies.
+- Contemporary computer-based exams with remote exam invigilation.
+
+<div class="extra-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/EA.html" class="button pink-bg">Strategies & Implementation Guides</a>
+</div>
+
+The TOL [Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf), while encouraging designers to draw upon the OLM in a way which best meets the learning needs of the particular cohort, also recommends specific strategies to enact the eAssessment element, as follows:
+
+- Utilization of automated feedback and forms of self assessment (eg. Online quizzes) provided throughout the subject to enable students to monitor their own learning.
+- Where appropriate online invigilated exams made available to students to maximise flexibility of timing and location.
+
+<!--
 **Construction of authentic rich media artefacts** - Construction of authentic [rich media artefacts]({{ site.baseurl }}/strategies/creating-rich-media-artefacts.html) modelled on the products of the profession Including collaborative tasks leading to the co-construction of authentic rich media artefacts;
 
 **ePortfolios** - [ePortfolios]({{ site.baseurl }}/strategies/student-eportfolios.html) to capture student reflection on learning and practice and to record and demonstrate professional capabilities achieved on workplace learning placement;
@@ -48,7 +68,7 @@ Some have questioned whether a computer-based exam is any more authentic than a 
 
 **Contemporary computer-based exams with remote exam invigilation** - Contemporary computer-based exam options with remote exam invigilation.
 
-**Assessment of simulated tasks** - Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment.
+**Assessment of simulated tasks** - Assessment of simulated tasks in immersive environments such as virtual laboratories or virtual sites of professional practice can be a valuable strategy for authentic assessment. -->
 
 ### References
 

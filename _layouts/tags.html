@@ -2,7 +2,9 @@
 layout: page
 ---
 
-<a onclick="window.history.back()"><button class="back-button">Back</button></a>
+<div class="row-flex row-end">
+  <a onclick="window.history.back()"><button class="back-button">Back</button></a>
+</div>
 
 <blockquote><p>{{ page.content }}</p></blockquote>
 
@@ -22,6 +24,6 @@ layout: page
   </ul>
 {% endfor %}
 
-<div class="row-flex extra-padding">
+<div class="extra-padding row-flex row-center">
 <p><a href="{{ site.baseurl }}/model/{{ page.link }}" class="button grey-bg ">Find out more about this element</a></p>
 </div>

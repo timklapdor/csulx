@@ -3,11 +3,11 @@
 layout: strategy
 title: "Auto Marked Quizzes"
 category: strategy
-tags: [E-Assessment,] 
+tags: [E-Assessment,]
 description: "Create automatically marked quizzes to provide students with instant feedback."
 subjects: "FIN516, PSY468, MTH135"
 subjectnames: "Corporate Finance, Psychology of Learning, Mathematics And Statistics In Health Sciences"
-label: TOL
+label: LEF
 
 ---
 
@@ -21,7 +21,7 @@ Using a scoring system many quiz based learning technologies can provide auto-ma
 <div class="practice-item">
 <div class="practice-content" markdown="1">
 
-#### Subject 
+#### Subject
 
 FIN516 Corporate Finance
 
@@ -54,7 +54,7 @@ A Smart sparrow lesson was created from static PDF documents.
 <div class="practice-item">
 <div class="practice-content" markdown="1">
 
-#### Subject 
+#### Subject
 
 PSY468 Psychology of Learning
 
@@ -78,7 +78,7 @@ There are a limited number of questions and students get the same questions but 
 <div class="practice-item">
 <div class="practice-content" markdown="1">
 
-#### Subject 
+#### Subject
 
 MTH135 Mathematics And Statistics In Health Sciences
 
@@ -107,6 +107,3 @@ Also think about appropriate use of images within these quizzes, which may help 
 ### Tools
 
 H5P, Kahoots, Blackboard, Smart Sparrow, Quizlet, SBLi
-
-
-

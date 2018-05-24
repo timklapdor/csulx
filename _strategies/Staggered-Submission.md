@@ -7,7 +7,7 @@ tags: [Flexible & Adaptive Learning]
 description: "Students are encouraged to submit their assignments over a defined period of time rather than on one specific day."
 subjects: "eCommerce,"
 subjectnames: "MGT220,"
-label: TOL
+label: LEF
 
 ---
 

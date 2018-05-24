@@ -166,4 +166,8 @@ input {
   color: $lx-dark-grey;
   float: right;
   margin: 1em 0 1em 2em;
+
+  &:before {
+  content: '\2190\00a0';
+}
 }

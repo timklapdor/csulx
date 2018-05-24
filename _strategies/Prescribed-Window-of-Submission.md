@@ -7,7 +7,7 @@ tags: [Flexible & Adaptive Learning,]
 description: "An assessment submission pattern over a prescribed periods of time rather than a single date."
 subjects: "PSY465, GPM512, MGT310,"
 subjectnames: "Psychology of Personality, Executive Leadership in Law Enforcement and Security, Operations Management,"
-label: TOL
+label: LEF
 
 ---
 

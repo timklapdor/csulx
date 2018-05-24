@@ -18,7 +18,7 @@ It is commonly argued that students learn more deeply from a combination of medi
 
 ### Engagement
 
-Students expect a variety of ways to interact with their peers and with their lecturer. As suggested by Bilgiç, Doğan and Seferoğlu (2016) both ‘digital natives’ and ‘digital immigrants’ assume online study will involve various methods of communication and in many instances, collaboration.  Developing multimodal learning materials and teaching strategies is one way of catering to the needs of our diverse cohorts which commonly include students with different needs and approaches to learning. Flexibility in learning is key to the use of this strategy.
+Students expect a variety of ways to interact with their peers and with their lecturer. As suggested by Bilgiç, Doğan and Seferoğlu (2016) both ‘digital natives’ and ‘digital immigrants’ assume online study will involve various methods of communication and in many instances, collaboration. Developing multimodal learning materials and teaching strategies is one way of catering to the needs of our diverse cohorts which commonly include students with different needs and approaches to learning. Flexibility in learning is key to the use of this strategy.
 
 ### In Practice
 <div class="u-release practice" >
@@ -30,10 +30,10 @@ Students expect a variety of ways to interact with their peers and with their le
 NRS531 Critical Inquiry and Evidence Based Nursing Practice
 
 #### Teaching Staff
-Denise Blanchard and Jessica Biles  
+Denise Blanchard and Jessica Biles
 
 #### Motivation
-The desire to implement a multimodal presence, and therefore a multimodal teaching and learning environment within NRS531 had its origins in a very real teaching and learning issue faced by the academic. NRS531 is a Master’s level nursing subject which consisted of approximately equal numbers of students from Australia and Canada. As a result of these students being in significantly different time zones, the academic was offering multiple times for live online meetings every week through adobe connect, which was becoming unsustainable for the academic. Denise also felt that because of the frequency of the meetings and their relatively relaxed structure, both attendance and engagement with these meetings had dropped off because students felt they could ‘always go to next week's’ meeting. A way to both maintain and enhance consistent teacher presence, increase engagement and provide stronger pathways for varied interaction was needed, but any planned approach needed to recognise the limits of both student and academic availability.  
+The desire to implement a multimodal presence, and therefore a multimodal teaching and learning environment within NRS531 had its origins in a very real teaching and learning issue faced by the academic. NRS531 is a Master’s level nursing subject which consisted of approximately equal numbers of students from Australia and Canada. As a result of these students being in significantly different time zones, the academic was offering multiple times for live online meetings every week through adobe connect, which was becoming unsustainable for the academic. Denise also felt that because of the frequency of the meetings and their relatively relaxed structure, both attendance and engagement with these meetings had dropped off because students felt they could ‘always go to next week's’ meeting. A way to both maintain and enhance consistent teacher presence, increase engagement and provide stronger pathways for varied interaction was needed, but any planned approach needed to recognise the limits of both student and academic availability. 
 
 
 #### Implementation
@@ -75,7 +75,7 @@ How will you and your students share knowledge and contribute to the learning co
 * What are the different/multi modes you will deploy to deliver content, and what are the difficulties for either you or your students in each mode i.e. is there a good mobile interface? Is the technique quick and easy for students and you to learn?
 * Is there a risk that in preferencing one option, you may inadvertently cause students to ‘miss out’ due to issues such as connectivity?
 * Although a multimodal teacher presence can be highly engaging and deliver many benefits, care must be taken to ensure that these modes are complementary and present a coherent view of the teaching and learning for students. Care should be taken to ensure students are clear on where different types of communication and engagement will occur, and that important information given out by the teacher in one mode is able to be accessed by all students fairly and equitably. For example, utilising social media as a teaching and communication tool has many benefits, but should students not wish to engage in a particular environment (e.g. Facebook), core information must be readily located and updated on (for example) the interact2 discussion forum or through the announcements tool.
-* Choosing a starting point to branch into a multimodal approach is pivotal. Discussion board forums are usually set up to correspond with weekly study topics and/or assessment tasks.  Consider what type of media would best complement the forum posts. For example, given the subject content and assessment tasks, would students benefit from the sharing of images, video or spoken words?
+* Choosing a starting point to branch into a multimodal approach is pivotal. Discussion board forums are usually set up to correspond with weekly study topics and/or assessment tasks. Consider what type of media would best complement the forum posts. For example, given the subject content and assessment tasks, would students benefit from the sharing of images, video or spoken words?
 
 ### Tools
 

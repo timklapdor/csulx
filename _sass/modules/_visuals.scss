@@ -16,6 +16,10 @@
   border-bottom: 1px solid;
 }
 
+.background-none {
+  background: none !important;
+}
+
 @media (#{$bp-larger-than-phablet}) {
   .outline-left {
     border-left: 1px solid darken($lx-light-grey, 15%);

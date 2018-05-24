@@ -7,7 +7,7 @@ tags: [Flexible & Adaptive Learning, ]
 description: "Students submit their assessments whenever the student feels they have developed sufficient knowledge and skill to successfully complete the task."
 subjects: "EEL516, GPM512"
 subjectnames: "Foundations of Learning and Teaching in Higher Education, Executive Leadership in Law Enforcement and Security, "
-label: TOL
+label: LEF
 
 ---
 

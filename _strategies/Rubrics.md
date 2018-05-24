@@ -7,7 +7,7 @@ tags: [Flexible & Adaptive Learning, ]
 description: "Use rubrics to provide more informative assessment tasks and faster feedback."
 subjects: "eCommerce, "
 subjectnames: "MGT220, "
-label: TOL
+label: LEF
 
 ---
 

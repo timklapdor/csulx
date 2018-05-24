@@ -14,8 +14,8 @@ High quality rich media learning resources can support understanding of conceptu
 
 {% include youtubePlayer.html id="hUcOyKOef5w" %}
 
-<div class="extra-top-padding row-flex">
-<a href="{{ site.baseurl }}/tags/IR.html" class="button pink-bg">Browse example strategies</a>
+<div class="extra-top-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IR.html" class="button pink-bg">Browse Strategies</a>
 </div>
 
 ### Rationale
@@ -34,7 +34,21 @@ One reason for the slow application of interactive resources is the fact that th
 
 ### <a name="IR-strategies"></a>Strategies
 
-**Resources to contextualise online discussions** - Use of video resources to contextualise an online discussion activity in a professional or community context;
+The Interactive Resources element is exemplified by:
+
+- Video resources to contextualise online discussions.
+- Rich media resources supporting problem based or cooperative learning activities.
+- Critical reflection upon cases illustrated through photos, audio or video.
+- Conceptual simulations supporting exploratory learning strategies.
+- Immersive environments where students undertake simulated professional practice.
+
+<div class="extra-padding row-flex row-center">
+<a href="{{ site.baseurl }}/tags/IR.html" class="button pink-bg">Strategies & Implementation Guides</a>
+</div>
+
+The TOL [Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf), while encouraging designers to draw upon the OLM in a way which best meets the learning needs of the particular cohort, also recommends that the Interactive Resources element is enacted through high quality subject content including static and interactive digital resources, and learning activities supporting individual and cohort-based learning experiences.
+
+<!-- **Resources to contextualise online discussions** - Use of video resources to contextualise an online discussion activity in a professional or community context;
 
 **Resources to support problem based learning** - Rich media resources supporting problem based or cooperative learning activities.
 
@@ -42,7 +56,7 @@ One reason for the slow application of interactive resources is the fact that th
 
 **Exploration through conceptual simulations** - Simulations and adaptive learning resources that use high fidelity media to illustrate key ideas and require students to interactively demonstrate their understanding of concepts, [Simulations & Exploratory Learning]({{ site.baseurl }}/strategies/simulations.html)
 
-**Immersive practice environments** - Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning,
+**Immersive practice environments** - Online simulations and immersive environments incorporating rich media resources where students respond to professional scenarios, explain their decisions, and are provided with adaptive support and resources to support ongoing learning, -->
 
 ### References
 

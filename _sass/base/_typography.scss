@@ -48,6 +48,12 @@ h4 {
   text-transform: uppercase;
 }
 
+blockquote {
+  color: $lx-dark-grey;
+  font-style: italic;
+  margin: .5rem 0 ;
+}
+
 .center {
   text-align: center;
 }
