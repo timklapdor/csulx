@@ -3,11 +3,11 @@
 layout: strategy
 title: " Progression Based Assessment"
 category: strategy
-tags: [E-Assessment,] 
+tags: [E-Assessment,]
 description: "A form of adaptive release where the assessment is only made available after the completion of preliminary tasks."
 subjects: "FIN516"
 subjectnames: "Corporate Finance"
-label: TOL
+label: LEF
 
 ---
 
@@ -21,7 +21,7 @@ This strategy is based on the premise that successful completion of specific ass
 <div class="practice-item">
 <div class="practice-content" markdown="1">
 
-#### Subject 
+#### Subject
 
 FIN516 Corporate Finance
 
@@ -31,7 +31,7 @@ Ruhina Karam
 
 #### Motivation
 
-In the past students have not completed the formative end of topic quizzes, so when they get into the exam they struggle. Each topic builds on the previous knowledge so they really need the revision quizzes at the end of topics to practice and become familiar with the concepts being taught. 
+In the past students have not completed the formative end of topic quizzes, so when they get into the exam they struggle. Each topic builds on the previous knowledge so they really need the revision quizzes at the end of topics to practice and become familiar with the concepts being taught.
 
 #### Implementation
 
@@ -52,7 +52,7 @@ Adaptive release may provide a strategy for scaffolding the acceleration of skil
 Within Blackboard you can access two types of adaptive release:
 
 * Basic adaptive release: allows the application of one rule to the content.
-* Advanced adaptive release: allows you to set more complex release criteria. For example students may have to meet more than one criteria or be able to access content by meeting different criteria. 
+* Advanced adaptive release: allows you to set more complex release criteria. For example students may have to meet more than one criteria or be able to access content by meeting different criteria.
 
 You can add four types of criteria when you create rules:
 
@@ -61,10 +61,9 @@ You can add four types of criteria when you create rules:
 * Grade
 * Review Status
 
-The  [Blackboard Help](https://help.blackboard.com/Learn/Administrator/Hosting/Tools_Management/Managing_Tools) is a useful source for more information. 
+The  [Blackboard Help](https://help.blackboard.com/Learn/Administrator/Hosting/Tools_Management/Managing_Tools) is a useful source for more information.
 
 ### Additional Resources
 
 <div class="apa-ref" markdown="1">
 </div>
-
