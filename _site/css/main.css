@@ -1977,7 +1977,7 @@ td:last-child {
   display: flex;
   height: 30vh;
   justify-content: center;
-  width: 30vw;
+  width: 25vw;
   z-index: 1;
   margin: .2em; }
 
