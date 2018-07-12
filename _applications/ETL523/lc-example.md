@@ -3,7 +3,7 @@
 layout: case-example
 header: lc-image
 title: Learning Communities Example
-category: ETL532
+category: ETL523
 element: Learning Communities
 weight: 1
 mixer: 5

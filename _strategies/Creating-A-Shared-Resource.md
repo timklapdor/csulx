@@ -80,7 +80,7 @@ The focus of the Group Wiki project was to work in a small team and create an au
 
 {% include youtubePlayer.html id="rxDvr61G0Lk" %}
 
-You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
+You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/ETL523/).
 
 </div>
 </div>

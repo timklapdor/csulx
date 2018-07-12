@@ -40,7 +40,7 @@ ETL523 Digital Citizenship in Schools is a subject in the postgraduate degree Ma
 
 Each diverse team (3-5 students) will choose a suitable topic and subtopics and the learning module was created using a wiki (Wikispaces). Each student then chose a multimedia tool or tools and created a personal digital artefact to complement the learning module material. The Assignment 2 report was typically distributed to leadership within the school/institution and once again propelled this task into a professional realm. In effect it often prevented students from being too critical of what they saw (and were experiencing) encouraging facts and then synthesised discussion and some solutions via a proposed plan of improvement.
 
-You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
+You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/ETL523/).
 
 {% include youtubePlayer.html id="DXCeCrTvux8" %}
 

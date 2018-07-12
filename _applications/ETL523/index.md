@@ -3,7 +3,7 @@
 layout: case-profile
 header: h-gradient-purple
 title: ETL523 - Case Study
-category: ETL532
+category: ETL523
 short: ea
 weight: 0
 subject-code: ETL523

@@ -3,7 +3,7 @@
 layout: case-example
 header: ea-image
 title: E-Assessment Example
-category: ETL532
+category: ETL523
 element: E-Assessment
 weight: 3
 mixer: 4

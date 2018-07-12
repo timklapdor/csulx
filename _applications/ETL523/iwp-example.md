@@ -3,7 +3,7 @@
 layout: case-example
 header: iwp-image
 title: Interaction with the Professions Example
-category: ETL532
+category: ETL523
 element: Interaction with the Professions Example
 weight: 2
 mixer: 4

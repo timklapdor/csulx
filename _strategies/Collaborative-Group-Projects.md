@@ -70,7 +70,7 @@ An external wiki using Wikispaces Classroom (a free tool) was used for the group
 
 {% include youtubePlayer.html id="rxDvr61G0Lk" %}
 
-You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/etl532/).
+You can find out more about this subject in [this Case Study]({{site.baseurl }}applications/ETL523/).
 
 </div>
 </div>

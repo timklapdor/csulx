@@ -3,7 +3,7 @@
 layout: case-example
 header: tp-image
 title: Teacher Presence Example
-category: ETL532
+category: ETL523
 element: Teacher Presence
 weight: 2
 mixer: 5
