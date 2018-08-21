@@ -49,7 +49,7 @@ MGT310 has an online and multiple on campus cohorts with large numbers. Three ca
 
 Setting up for success
 
-Share the information contained in the moderation portal on the [CSU Assessment ](https://www.csu.edu.au/division/learning-and-teaching/home/assessment-and-moderation)site
+Share the information contained in the moderation portal on the [CSU Assessment](https://www.csu.edu.au/division/learning-and-teaching/home/assessment-and-moderation)site
 
 * Hold a moderation meeting using Adobe Connect in the week prior to the start of session.
 * Conduct a follow up moderation meeting once assessments have been submitted to ensure consistency
@@ -58,7 +58,7 @@ Share the information contained in the moderation portal on the [CSU Assessment 
 ### Tools
 
 - EASTS
-- [CSU Assessment and Moderation site]((https://www.csu.edu.au/division/learning-and-teaching/home/assessment-and-moderation)
+- [CSU Assessment and Moderation site](https://www.csu.edu.au/division/learning-and-teaching/home/assessment-and-moderation)
 
 ### Additional Resources
 

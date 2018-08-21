@@ -31,7 +31,7 @@ graph TD
 - Fixed broken links in model areas
 - Added style for ```<span class="label">``` which reads a new label item in a strategy
 - Added label to Model Strategy Archive page and Browse All page
-- To use add ```label: TOL``` to frontmatter
+- To use add ```label: LEF``` to frontmatter
 
 
 **May 2017**

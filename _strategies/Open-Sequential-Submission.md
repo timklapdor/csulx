@@ -7,7 +7,7 @@ tags: [E-Assessment]
 description: "Allowing students to complete assessments at their own pace but in a sequential order."
 subjects: "MGT220"
 subjectnames: "eCommerce"
-label: TOL
+label: LEF
 
 ---
 
