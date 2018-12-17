@@ -1,0 +1,45 @@
+{
+  "title": "Self-Marking Quizzes",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "---\n\nlayout: post\ntitle: \"Self-Marking Quizzes\"\ndate: 2018-12-15 10:10:00 +1100\ncategory: strategy\ntags: [E-Assessment,] \ndescription: \"\" # TODO: Add description\nsubjects: \"BMS337, ASC413\"\nsubjectnames: \"Histopathology, Equine Health\"\n\n---"
+    },
+    {
+      "type": "markdown",
+      "data": "### Overview\n\nOnline self-marking quizzes have been used widely during the past decade for both summative and formative assessments. Their use is generally supported by a sound theoretical and pedagogical basis (Velan et al. 2008). In particular, with appropriate design, they are considered to provide an effective way for students to monitor their learning and comprehension and receive immediate feedback (Kearns 2012).  Online quizzes also give instructors a way informally to assess students' understanding as well as supply feedback to help them correct misconceptions and adapt their learning (Kearns, 2012).  Quizzes can also be used in adaptive release situations which compel students to show understanding of content before moving on to the next lesson (Kearns 2012). \n\nOnline quizzes are used extensively for early low stakes assessments and for formative assessments that aim to establish the students’ engagement and understanding of content (Angus & Watson 2009; Kearns 2012). A large scale study by Angus and Watson (2009), examining first-year business mathematics students at the University of New South Wales, suggested that regular well-structured online quizzes lead to better student learning outcomes. \n\n### Engagement\n\nThe nature of self-marking quizzes brings significant improvements to the efficiency of the feedback loop that supports a student’s self-directed learning. Self-marking quizzes can provide students with opportunities to operate with greater autonomy in regards to their learning (Angus & Watson 2009). They provide a way to directly link students with the relevant content, concepts and ideas relating to their study.\n"
+    },
+    {
+      "type": "markdown",
+      "data": "### In Practice\n\n<div class=\"u-release practice\" >"
+    },
+    {
+      "type": "markdown",
+      "data": "<div class=\"practice-item\">\n<div class=\"practice-content\" markdown=\"1\">\n\n#### Subject \nBMS337 Histopathology\n\n#### Teaching Staff\nKenneth Chinkwo\n\n#### Motivation\n\nThe residential school in this subject has been entirely replaced with a series of virtual slides and case studies that are reviewed during online tutorials and are followed by a series of online quizzes or short answer questions facilitated in Smart Sparrow. The use of microscope slides and the ability to change magnification creates an authentic learning experience for students. The wide variety of question types which can be associated with images also makes this an authentic and engaging option for assessment.\n\n#### Implementation\nThe learning materials and assessments are scaffolded into the subject modules, thus students are already familiar with the format and the manner of engaging with content. The seven case studies are spread over five weeks and include the content lesson, formative learning activities and the summative assessment. The case studies are compulsory, with the assessment component carrying 20 percent of the grade.\n\nSmart Sparrow was used to create the quizzes. The focus was on building a virtual lab experience, with students able to zoom in on slides in the same way that they would with a microscope in a lab. Students found the virtual lab activity engaging and gave positive feedback. There were challenges that included: \n\n- browser incompatibility,\n- problems running the slides with slow internet speeds,\n- Smart Sparrow updates which caused glitches with images, and \n- the high level of skill required to update the quizzes.\n\nHowever, the subject team found that these problems can be overcome, and the benefit of providing students with a satisfactory and authentic virtual residential school experience make it worthwhile.\n\n</div>\n</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "<div class=\"practice-item\">\n<div class=\"practice-content\" markdown=\"1\">\n\n#### Subject \nASC413 Equine Health\n\n#### Teaching Staff\nPetra Buckley\n\n#### Motivation\n\n#### Implementation\n\n</div>\n</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "### Guide"
+    },
+    {
+      "type": "markdown",
+      "data": "### Tools\n"
+    },
+    {
+      "type": "markdown",
+      "data": "### Further Reading\n\n<div class=\"apa-ref\" markdown=\"1\">\n</div>"
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}

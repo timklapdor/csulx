@@ -8,6 +8,16 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 - Create Tools & Technologies as a collection - can link out to common information and links to help, support, training etc.
 - improve search tool to do Ajax style search and display
 
+---
+
+Work to Be Done
+
+- ~~~TOL Link LEF~~~ Framework (no link found)
+- Check link to strategies vs Strategy
+- Green ones ready
+- Case Studies Link
+- ~~~Creating Rich Media - IR - should be EA~~~
+
 ### Current workflow
 ``` html
 <div class="mermaid">

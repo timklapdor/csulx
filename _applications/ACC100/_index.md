@@ -2,6 +2,7 @@
 
 layout: case-profile
 header: h-gradient-purple
+
 title: ACC100 - Case Study
 category: ACC100
 short: ea

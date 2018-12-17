@@ -3,7 +3,7 @@
 layout: strategy
 title: "Creating Rich Media Artefacts"
 category: strategy
-tags: [Interactive Resources, E-Assessment,]
+tags:  "E-Assessment"
 description: "Students produce and submit rich media for assessment tasks."
 subjects: "ETL523, EED408, INF533,"
 subjectnames: "Digital Citizenship in Schools, Successful Teaching, Literature in Digital Environments,"

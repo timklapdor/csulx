@@ -1,0 +1,45 @@
+{
+  "title": "_template",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "---\n\nlayout: post\ntitle: \"\"\ndate: 2018-12-15 10:10:00 +1100\ncategory: strategy\ntags: [Learning Communities, Interaction Between Students, Teacher Presence, Interaction with the Professions, Flexible & Adaptive Learning, Interactive Resources, E-Assessment,] \ndescription: \"\"\nsubjects: \"\"\nsubjectnames: \"\"\n\n---"
+    },
+    {
+      "type": "markdown",
+      "data": "### Overview\n\n### Engagement\n\n"
+    },
+    {
+      "type": "markdown",
+      "data": "### In Practice\n\n<div class=\"u-release practice\" >"
+    },
+    {
+      "type": "markdown",
+      "data": "<div class=\"practice-item\">\n<div class=\"practice-content\" markdown=\"1\">\n\n#### Subject \n\n#### Teaching Staff\n\n#### Motivation\n\n#### Implementation\n\n</div>\n</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "<div class=\"practice-item\">\n<div class=\"practice-content\" markdown=\"1\">\n\n#### Subject \n\n#### Teaching Staff\n\n#### Motivation\n\n#### Implementation\n\n</div>\n</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "</div>"
+    },
+    {
+      "type": "markdown",
+      "data": "### Guide"
+    },
+    {
+      "type": "markdown",
+      "data": "### Tools\n"
+    },
+    {
+      "type": "markdown",
+      "data": "### Further Reading\n\n<div class=\"apa-ref\" markdown=\"1\">\n</div>"
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}
