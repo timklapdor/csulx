@@ -18,8 +18,8 @@ main-video: Rp9RYejCjVw
 
 ### Strategies Used
 
-- **[{{ page.strategies[0] }}]({{ site.baseurl }}/strategies/{{ page.strategies[0] }})** - Allowing students to draw on their own discipline knowledge experiences in their assessments.
-- **[{{ page.strategies[0] }}]({{ site.baseurl }}/strategies/{{ page.strategies[1] }})** - Allowing students to develop skills and practices used in their professional practice.
+- **[{{ page.strategies[0] }}]({{ site.baseurl }}/strategies/{{ page.strategies[0] | slugify }}.html)** - Allowing students to draw on their own discipline knowledge experiences in their assessments.
+- **[{{ page.strategies[0] }}]({{ site.baseurl }}/strategies/{{ page.strategies[1] | slugify }}).html** - Allowing students to develop skills and practices used in their professional practice.
 
 ### Motivation
 

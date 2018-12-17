@@ -5,9 +5,10 @@ title: "Flexible Assessment Timeframes"
 date: 2018-12-17 12:20:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning]
-description: ""
+description: "Provide flexible dates for assessments to allow students more control over their time management."
 subjects: "EEB106"
 subjectnames: "Community Cultural Education Program"
+label: new
 
 ---
 

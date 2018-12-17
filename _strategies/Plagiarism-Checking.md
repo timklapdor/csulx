@@ -8,6 +8,7 @@ tags: [E-Assessment,]
 description: "Help to build students academic skills and rigour into their studies."
 subjects: "BMS346, "
 subjectnames: "Genomics, Proteomics & Bioinformatics"
+label: new
 
 ---
 

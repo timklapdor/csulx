@@ -19,8 +19,8 @@ main-video: 8CcG2cJXv6Q
 
 ### Strategies Used
 
-- **[{{ page.strategies[0] }}]({{ site.baseurl}}/strategies/collaborative-group-projects.html)** - Essential skills are developed for co-creating a final assessment piece leading to deeper engagement and ability to learn within an online environment
-- **[{{ page.strategies[1] }}]({{ site.baseurl}}/strategies/creating-a-shared-resource.html)** - Student teams form common goals and share responsibility for co-creation of the final learning module thereby learning together how to communicate and collaborate in a largely online environment
+- **[{{ page.strategies[0] }}]({{ site.baseurl }}/strategies/{{ page.strategies[0] | slugify }}.html)** - Essential skills are developed for co-creating a final assessment piece leading to deeper engagement and ability to learn within an online environment
+- **[{{ page.strategies[1] }}]({{ site.baseurl }}/strategies/{{ page.strategies[1] | slugify }}.html)** - Student teams form common goals and share responsibility for co-creation of the final learning module thereby learning together how to communicate and collaborate in a largely online environment
 
 ### Motivation
 

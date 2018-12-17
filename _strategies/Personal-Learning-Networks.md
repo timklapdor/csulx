@@ -8,6 +8,7 @@ tags: [Learning Communities]
 description: "Provide students an opportunity to connect with their profession."
 subjects: "MGT599, MGT569, MGT549, MGT579, & MGT552"
 subjectnames: ""
+label: new
 
 ---
 

@@ -8,6 +8,7 @@ tags: [Interactive Resources]
 description: "Utilse a variety of media to bring content to life and allow students to explore."
 subjects: "THL202, ACG506, BUS370, BMS171"
 subjectnames: "Old Testament History and Narrative, Financial Management of Small Business, Workplace Learning 3, Introduction to Functional Human Anatomy"
+label: new
 
 ---
 

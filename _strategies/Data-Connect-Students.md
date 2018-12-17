@@ -5,9 +5,10 @@ title: "Using Data to Connect Students with Services"
 date: 2018-12-17 10:10:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning]
-description: ""
+description: "Utilise learning analytics to connect students with institutional support systems."
 subjects: "ACC100, BMS105"
 subjectnames: "Accounting 1, Science Communication and Methodology"
+label: new
 
 ---
 

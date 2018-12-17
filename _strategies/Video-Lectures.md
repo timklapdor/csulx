@@ -8,6 +8,7 @@ tags: [Teacher Presence]
 description: "Recording video lectures specifically for online students"
 subjects: "SCI103, ACC322"
 subjectnames: "Communicating Environmental Data, Company Accounting"
+label: new
 
 ---
 

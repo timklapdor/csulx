@@ -8,6 +8,7 @@ tags: [Interaction Between Students]
 description: "Students working together to produce shared learning resources."
 subjects: "MGT210, INF541"
 subjectnames: "Organisational Behaviour, Game Based Learning"
+label: new
 
 ---
 

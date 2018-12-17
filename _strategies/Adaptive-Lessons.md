@@ -5,9 +5,10 @@ title: "Adaptive Lessons"
 date: 2018-12-17 12:00:00 +1100
 category: strategy
 tags: [Flexible & Adaptive Learning]
-description: "Alter tasks and information based on students demonstrated knowledge and skills"
+description: "Alter tasks and information based on students demonstrated knowledge and skills."
 subjects: "BMS171"
 subjectnames: "Introduction to Functional Human Anatomy"
+label: new
 
 ---
 
@@ -104,7 +105,7 @@ The suggestion is sometimes raised by teaching staff that content should be with
 
 Building a more personalised learning approach into a subject will mean working closely with the educational design team. It is not a simple effort to develop interactive and adaptive lessons that match students' knowledge levels. Content, design and production expertise are needed to build adaptive lessons that select the best content for each learner by automatically aligning content with lesson-level learning objectives, activities and assessments.
 
-Focussing adaptive technology deployment at the individual lesson level ensures that it is used in conjunction with a range of other strategies. While this kind of a approach can provide a more engaging experience for students in terms of how they interact with the content or learning outcome, learning design needs to be balanced to ensure students don’t become isolated from the social components of study. Furthermore, it can be quite time consuming to repeat this kind of approach across a whole subject. 
+Focussing adaptive technology deployment at the individual lesson level ensures that it is used in conjunction with a range of other strategies. While this kind of a approach can provide a more engaging experience for students in terms of how they interact with the content or learning outcome, learning design needs to be balanced to ensure students don’t become isolated from the social components of study. Furthermore, it can be quite time consuming to repeat this kind of approach across a whole subject.
 
 The creation of adaptive lessons is often but not exclusively achieved through the software capability offered by various online technologies. For CSU, these technologies include:
 

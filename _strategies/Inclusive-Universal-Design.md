@@ -1,13 +1,14 @@
 ---
 
 layout: strategy
-title: "Be Inclusive - Universal Design"
+title: "Inclusive Universal Design"
 date: 2018-12-17 10:40:00 +1100
 category: strategy
 tags: [Interactive Resources]
 description: "Provide better access to the learning experience by designing materials to be accessible by default."
 subjects: "PSY204, ETL523"
 subjectnames: "Psychological Testing, Digital Citizenship in Schools"
+label: new
 
 ---
 

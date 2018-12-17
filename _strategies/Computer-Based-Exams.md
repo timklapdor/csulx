@@ -8,6 +8,7 @@ tags: [E-Assessment,]
 description: "Utilising the affordances of digital technologies to enhance examinations and create rich authentic tasks."
 subjects: "HIP202, MRS544"
 subjectnames: "Research for Health Practice, Clinical Sectional Anatomy"
+label: new
 
 ---
 

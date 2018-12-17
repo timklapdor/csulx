@@ -56,7 +56,7 @@ The full list of strategies are included below:
   <ul>
   {% for strategies in site.strategies %}
     {% if strategies.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ strategies.url }}">{{ strategies.title }}</a> <span class="sml-text">- {{ strategies.description }} {% for item in strategies.label %} <span class="label">{{ item }}</span> {% endfor %}</span></li>
+    <li><a href="{{ site.baseurl }}{{ strategies.url }}">{{ strategies.title }}</a> <span class="sml-text">- {{ strategies.description }} {% for item in strategies.label %} <span class="label {{ item }}">{{ item }}</span> {% endfor %}</span></li>
     {% endif %}
   {% endfor %}
   </ul>

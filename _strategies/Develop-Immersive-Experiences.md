@@ -8,6 +8,7 @@ tags: [Interactive Resources]
 description: "An environment that mimics the real world but makes it safe to make mistakes."
 subjects: "ACC200, ITC372, ENM309, ENM509, NRS313"
 subjectnames: "Systems Accounting, Advanced Games Programming, Managing Projects & Resources, Professional Nursing Transition to Practice"
+label: new
 
 ---
 

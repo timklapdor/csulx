@@ -17,7 +17,7 @@ layout: page
   {% if tag contains page.tags %}
   {% for strategies in site.strategies %}
     {% if strategies.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ strategies.url }}">{{ strategies.title }}</a> {% for item in strategies.label %} <span class="label">{{ item }}</span> {% endfor %}</li>
+    <li><a href="{{ site.baseurl }}{{ strategies.url }}">{{ strategies.title }}</a> {% for item in strategies.label %} <span class="label {{ item }}">{{ item }}</span> {% endfor %}</li>
     {% endif %}
   {% endfor %}
   {% endif %}

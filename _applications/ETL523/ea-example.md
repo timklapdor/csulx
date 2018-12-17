@@ -17,7 +17,7 @@ main-video: HKeyxsaqdXA
 
 ### Strategies Used
 
-- **[Creating rich media artefacts]({{ site.baseurl }}/strategies/creating-rich-media-artefacts.html)** - Student development of technical and communication skills using multimedia and online tools.
+- **[Creating rich media artefacts]({{ site.baseurl }}/strategies/{{ page.strategies[0] | slugify }}.html)** - Student development of technical and communication skills using multimedia and online tools.
 
 ### Motivation
 

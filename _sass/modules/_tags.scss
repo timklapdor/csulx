@@ -116,3 +116,12 @@
 .label:hover::before {
    border-right-color: $lx-orange;
 }
+
+.label.new {
+  background: $lx-pink !important;
+  color: $lx-white;
+
+  &::before {
+    border-right: 7px solid $lx-pink;
+  }
+}

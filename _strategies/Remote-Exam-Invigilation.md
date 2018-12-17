@@ -8,6 +8,7 @@ tags: [E-Assessment,]
 description: "Provide students with a flexible way of completing their examinations."
 subjects: "EED308"
 subjectnames: "Adolescence and Learning, "
+label: new
 
 ---
 

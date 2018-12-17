@@ -1929,6 +1929,12 @@ td:last-child {
 .label:hover::before {
   border-right-color: #ff5800; }
 
+.label.new {
+  background: #d71f85 !important;
+  color: white; }
+  .label.new::before {
+    border-right: 7px solid #d71f85; }
+
 .tile-icons {
   display: flex;
   flex-flow: row wrap;
