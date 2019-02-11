@@ -16,7 +16,7 @@ short: overview
 
 ### Overview
 
-The *Online Learning Model* (OLM) consists of a set of elements designed to increase student engagement, retention and overall satisfaction. The Transforming Online Learning (TOL) *[Learning Experience Framework](https://www.csu.edu.au/unistats/university-strategy/documents/TOL-LEF_11April2018.pdf)* (LEF) incorporates the OLM with a particular priority on flexibility, responsiveness and student support.
+The *Online Learning Model* (OLM) consists of a set of elements designed to increase student engagement, retention and overall satisfaction. The Transforming Online Learning (TOL) *[Learning Experience Framework](https://www.csu.edu.au/division/strategic-planning/university-strategy/resources/TOL-LEF_11April2018.pdf)* (LEF) incorporates the OLM with a particular priority on flexibility, responsiveness and student support.
 
 The Online Learning Model consists of a set of elements designed to increase student engagement, retention and overall satisfaction. The model builds on Moore’s (1989) model which incorporates *learner-teacher*, *learner-learner* and *learner-content* interaction. The model broadens Moore’s notion of interactivity to one of engagement and adds *learner-community* engagement as a key component of professional courses, as well as *learner-institution* engagement to ensure a connected student experience.
 

@@ -13,9 +13,9 @@ This site was built to accommodate Version 2 of the CSU Online Learning Model an
 Work to Be Done
 
 - ~~~TOL Link LEF~~~ Framework (no link found)
-- Check link to strategies vs Strategy
-- Green ones ready
-- Case Studies Link
+- ~~~Check link to strategies vs Strategy~~~
+- ~~~Green ones ready~~~
+- ~~~Case Studies Link~~~
 - ~~~Creating Rich Media - IR - should be EA~~~
 
 ### Current workflow
