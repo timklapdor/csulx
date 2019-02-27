@@ -14,6 +14,8 @@ strategies:
   - "Practice Focused Tasks"
 taster-video: DXCeCrTvux8
 main-video: Rp9RYejCjVw
+more: true
+
 ---
 
 ### Strategies Used

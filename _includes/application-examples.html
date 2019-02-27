@@ -12,17 +12,32 @@
       <label>Features:</label>
       <p>{{ application.features }}</p>
       <label>Description:</label>
-      <p>{{ application.description }}</p>
+      <p>{{ application.description | markdownify }}</p>
       {% for item in application.taster-video %}
       <label>Taster Video:</label>
       {% capture taster-id %}{{ application.taster-video }}{% endcapture %}
       {% include youtubePlayer.html id=taster-id %}
       {% endfor %}
+
+      {% if application.taster-image != nil %}
+      <label>Example: </label><br/>
+      <img src="{{ site.baseurl}}/images/practices/{{ application.taster-image }}" alt="{{ application.element }} example image" class="u-full-width">
+      {% endif %}
+
+      {% if application.taster-gallery != nil %}
+      <label>Gallery: </label><br/>
+      {% include swiper-case.html %}
+      {% endif %}
+
       <label>Strategies:</label>
       <p>{% for item in application.strategies | split: ',' | sort  %}
         <a href="{{ site.baseurl }}/strategies/{{ item | slugify }}.html">{{ item }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}</p>
+
+      {% if application.more != false %}
       <a href="{{ site.baseurl }}{{ application.url }}" class="button u-full-width flex-bottom sml-margin-top">Read More...</a>
+      {% endif %}
+
     </div>
 
 

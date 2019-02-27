@@ -13,6 +13,8 @@ strategies:
   - "Creating Rich Media Artefacts"
 taster-video: NkXU81zceuY
 main-video: HKeyxsaqdXA
+more: true
+
 ---
 
 ### Strategies Used

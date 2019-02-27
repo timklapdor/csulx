@@ -14,6 +14,8 @@ strategies:
   - "Creating A Shared Resource"
 taster-video: rxDvr61G0Lk
 main-video: 8CcG2cJXv6Q
+more: true
+
 ---
 
 

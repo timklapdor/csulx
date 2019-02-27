@@ -1,0 +1,26 @@
+<!--  To use add url1-5 values to Liquid Include-->
+
+<div class="swiper-container u-full-width">
+  <div class="swiper-wrapper image-container">
+
+    {% for image in application.taster-gallery %}
+      <div class="swiper-slide"><img src="{{ site.baseurl}}/images/practices/{{ image }}"></div>
+    {% endfor %}
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        loop: true
+    });
+
+</script>

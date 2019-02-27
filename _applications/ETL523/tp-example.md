@@ -13,6 +13,8 @@ strategies:
  - "Multimodal Presence"
 taster-video: cGBWKpRqvKc
 main-video: _S4PXO_H-wQ
+more: true
+
 ---
 
 ### Strategies Used:
