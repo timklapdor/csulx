@@ -6,7 +6,7 @@ title: E-Assessment Example
 category: FIN516
 element: E-Assessment
 weight: 1
-mixer: 3
+mixer: 5
 features: Quizzes, Individualised Tasks
 description: |
   Using a scoring system many quiz based learning technologies can provide auto-marking and automated feedback. The use of scoring can help motivate students as it introduces an element of competition, whether it is with themselves or with others. The element of competition encourages multiple attempts to achieve mastery. There is also the reduction of anxiety as the students get to play with the tools, environment and practice the types of questions that they will have in their summative assessments.
