@@ -51,7 +51,7 @@ FIN516 Corporate Finance
 
 #### Teaching Staff
 
-Ruhina Karam
+Ruhina Karim
 
 #### Motivation
 
