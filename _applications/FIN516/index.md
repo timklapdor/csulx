@@ -8,7 +8,7 @@ short: ea
 weight: 0
 subject-code: FIN516
 subject-name: Corporate Finance
-teaching-staff: Ruhina Karam
+teaching-staff: Ruhina Karim
 LCmix: 2
 IBSmix: 1
 TPmix: 3
