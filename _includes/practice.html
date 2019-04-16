@@ -1,0 +1,30 @@
+<div class="practice-item">
+  <div class="practice-content" markdown="1">
+
+  <h4>Subject</h4>
+  <p>{{ item.subject_code }} {{ item.subject_name }}</p>
+
+  <h4>Teaching Staff</h4>
+  <p>{{ item.teaching_staff }}</p>
+
+  <h4>Motivation</h4>
+  {{ item.motivation | markdownify }}
+
+  <h4>Implementation</h4>
+  {{ item.implementation | markdownify }}
+
+  <!--  Media -->
+  {% for item in item.video %}
+  {% endfor %}
+
+  {% for item in item.image %}
+    <img title="image.title" src="/images/practices/{{ image.file }}" class="u-full-width">
+  {% endfor %}
+
+  {% for item in item.gallery %}
+    {% include swiper.html url1="Blogging-INF1.jpg" url2="Blogging-INF2.jpg" %}
+  {% endfor %}
+
+
+</div>
+</div>

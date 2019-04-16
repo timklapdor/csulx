@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="hero u-release h-gradient-orange">
+        <h1>{{ page.title }}</h1>
+</div>
+
+<div class="page-content">
+
+<article class="content-full" >
+  <a onclick="window.history.back()"><button class="back-button">Back</button></a>
+  <p class="post-meta blue"><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
+
+  <h3>Overview</h3>
+  {{ page.overview | markdownify }}
+
+  <h3>Engagement</h3>
+  {{ page.engagement | markdownify }}
+
+  <h3>Guide</h3>
+  {{ page.guide | markdownify }}
+
+  <div class="apa-ref">
+    {% for item in page.resources %}
+    <p>{{ item | markdownify }}</p>
+    {% endfor %}
+</article>
+
+</div>
