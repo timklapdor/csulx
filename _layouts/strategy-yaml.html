@@ -18,13 +18,51 @@ layout: default
   <h3>Engagement</h3>
   {{ page.engagement | markdownify }}
 
+  <h3> In Practice</h3>
+    <div class="u-release practice" >
+
+    {% for item in page.practice %}
+      <div class="practice-item">
+    <h4>Subject</h4>
+    <p>{{ item.subject_code }} {{ item.subject_name }}</p>
+
+    <h4>Teaching Staff</h4>
+    <p>{{ item.teaching_staff }}</p>
+
+    <h4>Motivation</h4>
+    {{ item.motivation | markdownify }}
+
+    <h4>Implementation</h4>
+    {{ item.implementation | markdownify }}
+
+    <!--  Media -->
+    {% for item in item.video %}
+    {% endfor %}
+
+    {% for image in item.image %}
+      <img title="{{ image.title }}" src="../images/practices/{{ image.file }}" class="u-full-width">
+    {% endfor %}
+
+    {% for item in item.gallery %}
+      {% include swiper.html url1="Blogging-INF1.jpg" url2="Blogging-INF2.jpg" %}
+    {% endfor %}
+
+  </div>
+    {% endfor %}
+  </div>
   <h3>Guide</h3>
   {{ page.guide | markdownify }}
 
+  <h3>Tools</h3>
+  {{ page.tools | markdownify }}
+
+  <h3>Additional Resources</h3>
   <div class="apa-ref">
     {% for item in page.resources %}
-    <p>{{ item | markdownify }}</p>
+    <p>{{item | markdownify }}</p>
     {% endfor %}
+  </div>
+
 </article>
 
 </div>
