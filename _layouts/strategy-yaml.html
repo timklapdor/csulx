@@ -27,7 +27,8 @@ layout: default
     <p>{{ item.subject_code }} {{ item.subject_name }}</p>
 
     <h4>Teaching Staff</h4>
-    <p>{{ item.teaching_staff }}</p>
+    <p>
+      {{ item.teaching_staff }}</p>
 
     <h4>Motivation</h4>
     {{ item.motivation | markdownify }}
@@ -37,10 +38,11 @@ layout: default
 
     <!--  Media -->
     {% for item in item.video %}
+      {% include youtubePlayer.html id="{{ item }}" %}
     {% endfor %}
 
     {% for image in item.image %}
-      <img title="{{ image.title }}" src="../images/practices/{{ image.file }}" class="u-full-width">
+      <img alt="{{ image.title }}" src="../images/practices/{{ image.file }}" class="u-full-width">
     {% endfor %}
 
     {% for item in item.gallery %}

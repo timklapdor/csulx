@@ -23,7 +23,7 @@ guide: |-
 
   * Augment existing resources with additional material by injecting additional sources of information.
   * Use existing rich media resources, like YouTube videos, to add explain topic areas. Video and visual resources can often help explain and illustrate difficult concept in different ways.
-  * Link to other sources that describe the topic in different ways to create[ Choral Explanations](https://hapgood.us/2016/05/13/choral-explanations/) so that students can find an explanation that relates to their way of thinking.
+  * Link to other sources that describe the topic in different ways to create [Choral Explanations](https://hapgood.us/2016/05/13/choral-explanations/) so that students can find an explanation that relates to their way of thinking.
   * Present students with options and different ways to access learning materials. Some students may prefer to read, some on screen and some on paper, others may prefer to listen or watch their resources. Data analysis can help identify student preferences.
   * Create supplementary resources yourself, like impromptu videos, to provide feedback or that react and respond to student queries, questions and misunderstandings.
 tools: |-
