@@ -45,9 +45,9 @@ layout: default
       <img alt="{{ image.title }}" src="../images/practices/{{ image.file }}" class="u-full-width">
     {% endfor %}
 
-    {% for item in item.gallery %}
+    {% if item.gallery != nil %}
       {% include swiper.html url1="Blogging-INF1.jpg" url2="Blogging-INF2.jpg" %}
-    {% endfor %}
+    {% endif %}
 
   </div>
     {% endfor %}
